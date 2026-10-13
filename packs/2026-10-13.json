@@ -1,0 +1,620 @@
+{
+ "bank": [
+  {
+   "id": "r20261013-001",
+   "topic": "Present simple",
+   "level": "Dasar",
+   "q": "My brother ___ football on Saturdays.",
+   "opts": [
+    "plays",
+    "play",
+    "playing"
+   ],
+   "a": 0,
+   "why": "He/she/it memakai verb + s di present simple: plays."
+  },
+  {
+   "id": "r20261013-002",
+   "topic": "Be: am/is/are",
+   "level": "Dasar",
+   "q": "We ___ students at the same school.",
+   "opts": [
+    "is",
+    "are",
+    "am"
+   ],
+   "a": 1,
+   "why": "We memakai are."
+  },
+  {
+   "id": "r20261013-003",
+   "topic": "Articles",
+   "level": "Dasar",
+   "q": "I need ___ umbrella because it is raining.",
+   "opts": [
+    "a",
+    "some",
+    "an"
+   ],
+   "a": 2,
+   "why": "Umbrella diawali bunyi vokal, jadi memakai an."
+  },
+  {
+   "id": "r20261013-004",
+   "topic": "Prepositions of place",
+   "level": "Dasar",
+   "q": "The keys are ___ my bag, not on the desk.",
+   "opts": [
+    "in",
+    "at",
+    "to"
+   ],
+   "a": 0,
+   "why": "In my bag = di dalam tas."
+  },
+  {
+   "id": "r20261013-005",
+   "topic": "Question words",
+   "level": "Dasar",
+   "q": "___ do you have lunch? At noon.",
+   "opts": [
+    "Where",
+    "What time",
+    "Who"
+   ],
+   "a": 1,
+   "why": "Jawaban berupa jam (at noon), jadi pertanyaannya What time."
+  },
+  {
+   "id": "r20261013-006",
+   "topic": "Vocabulary: jobs",
+   "level": "Dasar",
+   "q": "A person who teaches students is a ___.",
+   "opts": [
+    "driver",
+    "doctor",
+    "teacher"
+   ],
+   "a": 2,
+   "why": "Teacher = guru, orang yang mengajar murid."
+  },
+  {
+   "id": "r20261013-007",
+   "topic": "Past simple",
+   "level": "Dasar",
+   "q": "Yesterday I ___ to the market with my aunt.",
+   "opts": [
+    "went",
+    "go",
+    "going"
+   ],
+   "a": 0,
+   "why": "Yesterday menandakan masa lalu. Bentuk lampau go adalah went."
+  },
+  {
+   "id": "r20261013-008",
+   "topic": "Plurals",
+   "level": "Dasar",
+   "q": "There are three ___ in the garden.",
+   "opts": [
+    "childs",
+    "children",
+    "child"
+   ],
+   "a": 1,
+   "why": "Plural dari child tidak beraturan: children."
+  },
+  {
+   "id": "r20261013-009",
+   "topic": "Possessive",
+   "level": "Dasar",
+   "q": "This is Anna. ___ bag is blue.",
+   "opts": [
+    "She",
+    "Hers",
+    "Her"
+   ],
+   "a": 2,
+   "why": "Sebelum kata benda dipakai possessive adjective: her bag."
+  },
+  {
+   "id": "r20261013-010",
+   "topic": "Can",
+   "level": "Dasar",
+   "q": "___ you swim? Yes, I can.",
+   "opts": [
+    "Can",
+    "Do can",
+    "Are"
+   ],
+   "a": 0,
+   "why": "Pertanyaan dengan modal can: Can + subjek + verb."
+  },
+  {
+   "id": "r20261013-011",
+   "topic": "Conditionals",
+   "level": "Menengah",
+   "q": "If it rains tomorrow, we ___ at home.",
+   "opts": [
+    "would stay",
+    "will stay",
+    "stayed"
+   ],
+   "a": 1,
+   "why": "First conditional: If + present simple, will + verb."
+  },
+  {
+   "id": "r20261013-012",
+   "topic": "Present perfect: for/since",
+   "level": "Menengah",
+   "q": "She has worked here ___ three years.",
+   "opts": [
+    "since",
+    "ago",
+    "for"
+   ],
+   "a": 2,
+   "why": "For dipakai untuk durasi (three years). Since untuk titik waktu."
+  },
+  {
+   "id": "r20261013-013",
+   "topic": "Used to",
+   "level": "Menengah",
+   "q": "When I was a child, I ___ play outside every afternoon.",
+   "opts": [
+    "used to",
+    "am used to",
+    "was used to"
+   ],
+   "a": 0,
+   "why": "Used to + verb untuk kebiasaan di masa lalu."
+  },
+  {
+   "id": "r20261013-014",
+   "topic": "Too/enough",
+   "level": "Menengah",
+   "q": "The tea is ___ hot to drink.",
+   "opts": [
+    "very",
+    "too",
+    "enough"
+   ],
+   "a": 1,
+   "why": "Too + adjective + to + verb = terlalu ... untuk ..."
+  },
+  {
+   "id": "r20261013-015",
+   "topic": "Prepositions",
+   "level": "Menengah",
+   "q": "I am interested ___ learning Japanese.",
+   "opts": [
+    "on",
+    "at",
+    "in"
+   ],
+   "a": 2,
+   "why": "Kolokasi tetap: interested in."
+  },
+  {
+   "id": "r20261013-016",
+   "topic": "Gerund/infinitive",
+   "level": "Menengah",
+   "q": "She avoided ___ the question.",
+   "opts": [
+    "answering",
+    "to answer",
+    "answer"
+   ],
+   "a": 0,
+   "why": "Setelah avoid memakai gerund (verb-ing)."
+  },
+  {
+   "id": "r20261013-017",
+   "topic": "Comparatives",
+   "level": "Menengah",
+   "q": "Her new phone is ___ than her old one.",
+   "opts": [
+    "expensiver",
+    "more expensive",
+    "the most expensive"
+   ],
+   "a": 1,
+   "why": "Adjective panjang memakai more + adjective + than untuk perbandingan."
+  },
+  {
+   "id": "r20261013-018",
+   "topic": "Relative clauses",
+   "level": "Menengah",
+   "q": "The book ___ I bought yesterday is very interesting.",
+   "opts": [
+    "who",
+    "whose",
+    "which"
+   ],
+   "a": 2,
+   "why": "Which dipakai untuk benda. Who untuk orang, whose untuk kepemilikan."
+  },
+  {
+   "id": "r20261013-019",
+   "topic": "Passive voice",
+   "level": "Menengah",
+   "q": "The bridge ___ in 1998.",
+   "opts": [
+    "was built",
+    "built",
+    "is built"
+   ],
+   "a": 0,
+   "why": "Pasif lampau: was/were + past participle. In 1998 = masa lalu."
+  },
+  {
+   "id": "r20261013-020",
+   "topic": "Vocabulary: confusing words",
+   "level": "Menengah",
+   "q": "Please ___ me your pen. I forgot mine.",
+   "opts": [
+    "borrow",
+    "lend",
+    "rent"
+   ],
+   "a": 1,
+   "why": "Lend = meminjamkan. Borrow = meminjam."
+  },
+  {
+   "id": "r20261013-021",
+   "topic": "Third conditional",
+   "level": "Menengah atas",
+   "q": "If she had left earlier, she ___ the train.",
+   "opts": [
+    "would catch",
+    "had caught",
+    "would have caught"
+   ],
+   "a": 2,
+   "why": "Third conditional: If + past perfect, would have + past participle."
+  },
+  {
+   "id": "r20261013-022",
+   "topic": "Wish",
+   "level": "Menengah atas",
+   "q": "I wish I ___ how to play the piano.",
+   "opts": [
+    "knew",
+    "know",
+    "would know"
+   ],
+   "a": 0,
+   "why": "Wish untuk keadaan sekarang yang tidak nyata memakai past simple: knew."
+  },
+  {
+   "id": "r20261013-023",
+   "topic": "Inversion",
+   "level": "Menengah atas",
+   "q": "Never before ___ such a beautiful sunset.",
+   "opts": [
+    "I have seen",
+    "have I seen",
+    "I saw"
+   ],
+   "a": 1,
+   "why": "Setelah Never before di awal kalimat, auxiliary dibalik sebelum subjek: have I seen."
+  },
+  {
+   "id": "r20261013-024",
+   "topic": "Linking words",
+   "level": "Menengah atas",
+   "q": "___ being tired, she finished the report.",
+   "opts": [
+    "Although",
+    "But",
+    "Despite"
+   ],
+   "a": 2,
+   "why": "Despite + verb-ing/kata benda = meskipun. Although harus diikuti klausa lengkap."
+  },
+  {
+   "id": "r20261013-025",
+   "topic": "Collocations",
+   "level": "Menengah atas",
+   "q": "He decided to ___ a risk and invest all his savings.",
+   "opts": [
+    "take",
+    "make",
+    "do"
+   ],
+   "a": 0,
+   "why": "Kolokasi tetap: take a risk."
+  },
+  {
+   "id": "r20261013-026",
+   "topic": "Past perfect",
+   "level": "Menengah atas",
+   "q": "By the time we arrived, the film ___.",
+   "opts": [
+    "already started",
+    "had already started",
+    "has already started"
+   ],
+   "a": 1,
+   "why": "Past perfect untuk kejadian yang terjadi lebih dulu dari kejadian lampau lain."
+  },
+  {
+   "id": "r20261013-027",
+   "topic": "Modals of deduction",
+   "level": "Menengah atas",
+   "q": "He has lived in Paris for ten years, so he ___ speak French well.",
+   "opts": [
+    "might not",
+    "needn't",
+    "must"
+   ],
+   "a": 2,
+   "why": "Must menyatakan kesimpulan yang sangat kuat. Ia sudah 10 tahun di Paris."
+  },
+  {
+   "id": "r20261013-028",
+   "topic": "Reported speech",
+   "level": "Menengah atas",
+   "q": "He asked me, \"Where do you live?\" -> He asked me where ___.",
+   "opts": [
+    "I lived",
+    "did I live",
+    "I do live"
+   ],
+   "a": 0,
+   "why": "Dalam reported question urutan kata seperti kalimat biasa dan tense mundur: I lived."
+  },
+  {
+   "id": "r20261013-029",
+   "topic": "Relative clauses",
+   "level": "Menengah atas",
+   "q": "The report, ___ was published last week, caused a debate.",
+   "opts": [
+    "that",
+    "which",
+    "what"
+   ],
+   "a": 1,
+   "why": "Pada non-defining clause (diapit koma) dipakai which, bukan that."
+  },
+  {
+   "id": "r20261013-030",
+   "topic": "Vocabulary: formal",
+   "level": "Menengah atas",
+   "q": "The manager asked us to ___ the form by Friday.",
+   "opts": [
+    "admit",
+    "permit",
+    "submit"
+   ],
+   "a": 2,
+   "why": "Submit = menyerahkan. Admit = mengakui, permit = mengizinkan."
+  },
+  {
+   "id": "r20261013-031",
+   "topic": "Subjunctive",
+   "level": "Menuju lancar",
+   "q": "The doctor insisted that he ___ more rest.",
+   "opts": [
+    "get",
+    "gets",
+    "got"
+   ],
+   "a": 0,
+   "why": "Setelah insist that dipakai bentuk dasar verb (subjunctive): get."
+  },
+  {
+   "id": "r20261013-032",
+   "topic": "Cleft sentences",
+   "level": "Menuju lancar",
+   "q": "___ I need most is a long holiday.",
+   "opts": [
+    "That",
+    "What",
+    "Which"
+   ],
+   "a": 1,
+   "why": "Pseudo-cleft: What + klausa + is ... = Yang paling saya butuhkan adalah ..."
+  },
+  {
+   "id": "r20261013-033",
+   "topic": "Inversion",
+   "level": "Menuju lancar",
+   "q": "Hardly had we sat down ___ the lights went out.",
+   "opts": [
+    "than",
+    "then",
+    "when"
+   ],
+   "a": 2,
+   "why": "Pola tetap: Hardly had + subjek + past participle + when."
+  },
+  {
+   "id": "r20261013-034",
+   "topic": "Participles",
+   "level": "Menuju lancar",
+   "q": "___ the instructions, he assembled the shelf quickly.",
+   "opts": [
+    "Having read",
+    "Having been read",
+    "Reading having"
+   ],
+   "a": 0,
+   "why": "Having read = setelah membaca (aktif, selesai lebih dulu). Subjeknya he."
+  },
+  {
+   "id": "r20261013-035",
+   "topic": "Grammar: whereas",
+   "level": "Menuju lancar",
+   "q": "Tom is outgoing, ___ his sister is rather shy.",
+   "opts": [
+    "unless",
+    "whereas",
+    "because"
+   ],
+   "a": 1,
+   "why": "Whereas menyatakan kontras antara dua hal."
+  },
+  {
+   "id": "r20261013-036",
+   "topic": "Grammar: causative",
+   "level": "Menuju lancar",
+   "q": "I am going to ___ my car repaired tomorrow.",
+   "opts": [
+    "make",
+    "let",
+    "have"
+   ],
+   "a": 2,
+   "why": "Causative: have + objek + past participle = menyuruh/meminta seseorang memperbaiki."
+  },
+  {
+   "id": "r20261013-037",
+   "topic": "Idioms",
+   "level": "Menuju lancar",
+   "q": "Don't worry about the quiz. It is a piece of ___.",
+   "opts": [
+    "cake",
+    "bread",
+    "pie"
+   ],
+   "a": 0,
+   "why": "Idiom a piece of cake = sangat mudah."
+  },
+  {
+   "id": "r20261013-038",
+   "topic": "Advanced vocab",
+   "level": "Menuju lancar",
+   "q": "His argument was so ___ that nobody could refute it.",
+   "opts": [
+    "vague",
+    "cogent",
+    "trivial"
+   ],
+   "a": 1,
+   "why": "Cogent = meyakinkan dan kuat. Vague = tidak jelas, trivial = remeh."
+  },
+  {
+   "id": "r20261013-039",
+   "topic": "Grammar: provided",
+   "level": "Menuju lancar",
+   "q": "___ you drive carefully, you can borrow the car.",
+   "opts": [
+    "Unless",
+    "Despite",
+    "Provided"
+   ],
+   "a": 2,
+   "why": "Provided (that) = asalkan. Unless artinya kecuali, tidak cocok di sini."
+  },
+  {
+   "id": "r20261013-040",
+   "topic": "Grammar: neither/nor",
+   "level": "Menuju lancar",
+   "q": "I have ___ read the book nor seen the film.",
+   "opts": [
+    "neither",
+    "either",
+    "both"
+   ],
+   "a": 0,
+   "why": "Pasangan tetap: neither ... nor ..."
+  }
+ ],
+ "articles": [
+  {
+   "id": "r20261013-a01",
+   "title": "Dina's Birthday",
+   "level": "Dasar",
+   "min": 2,
+   "body": [
+    "Today is Dina's birthday. She is twelve years old. Her mother makes a big chocolate cake in the morning.",
+    "In the afternoon, five friends come to her house. They bring small gifts. Dina gets a book, a pencil case and a red scarf. Everybody sings a song and she blows out the candles.",
+    "After the cake, they play games in the garden. At six o'clock, the friends go home. Dina is tired, but she is very happy."
+   ],
+   "gloss": {
+    "birthday": "ulang tahun",
+    "gifts": "hadiah",
+    "candles": "lilin",
+    "garden": "kebun",
+    "tired": "lelah"
+   },
+   "qs": [
+    {
+     "q": "How old is Dina?",
+     "opts": [
+      "Twelve",
+      "Five",
+      "Six"
+     ],
+     "a": 0
+    },
+    {
+     "q": "What does her mother make?",
+     "opts": [
+      "A pencil case",
+      "A chocolate cake",
+      "A red scarf"
+     ],
+     "a": 1
+    },
+    {
+     "q": "What time do the friends go home?",
+     "opts": [
+      "At noon",
+      "At five",
+      "At six"
+     ],
+     "a": 2
+    }
+   ]
+  },
+  {
+   "id": "r20261013-a02",
+   "title": "Why We Procrastinate",
+   "level": "Menengah atas",
+   "min": 3,
+   "body": [
+    "Almost everyone puts off tasks from time to time. Researchers say that procrastination is not simply laziness. It is often a way of avoiding unpleasant feelings, such as fear of failure or boredom with a task.",
+    "When we delay, we feel better for a short time, but the stress usually returns, and it is often stronger. As the deadline gets closer, we may rush and produce work of lower quality.",
+    "Experts suggest breaking a large task into small steps and starting with just five minutes. Once we begin, the task usually feels less frightening, and we are more likely to continue."
+   ],
+   "gloss": {
+    "puts off": "menunda",
+    "laziness": "kemalasan",
+    "avoiding": "menghindari",
+    "deadline": "tenggat waktu",
+    "rush": "terburu-buru"
+   },
+   "qs": [
+    {
+     "q": "According to researchers, procrastination is often",
+     "opts": [
+      "a sign of laziness only",
+      "a way of avoiding unpleasant feelings",
+      "a result of working too fast"
+     ],
+     "a": 1
+    },
+    {
+     "q": "What usually happens after we delay a task?",
+     "opts": [
+      "The stress comes back, often stronger.",
+      "The task becomes easier.",
+      "The deadline moves later."
+     ],
+     "a": 0
+    },
+    {
+     "q": "What do experts suggest?",
+     "opts": [
+      "Wait until the deadline is close",
+      "Work on several tasks at once",
+      "Break the task into small steps and start briefly"
+     ],
+     "a": 2
+    }
+   ]
+  }
+ ]
+}
