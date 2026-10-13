@@ -1,0 +1,7 @@
+{
+  "bank": [
+    { "id": "r20261014-001", "topic": "Tenses: present perfect", "level": "Menengah", "q": "I ___ in this city since 2019.", "opts": ["live", "have lived", "am living"], "a": 1, "why": "Since + titik waktu di masa lalu, masih berlanjut: present perfect (have lived)." },
+    { "id": "r20261014-002", "topic": "Tenses: present perfect", "level": "Menengah", "q": "She ___ her keys, so she can't get in.", "opts": ["lost", "has lost", "was losing"], "a": 1, "why": "Kejadian lampau dengan akibat sekarang (tidak bisa masuk): present perfect." }
+  ],
+  "articles": []
+}
