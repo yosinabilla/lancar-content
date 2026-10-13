@@ -1,0 +1,945 @@
+{
+ "bank": [],
+ "articles": [
+  {
+   "id": "r20261013-b01",
+   "title": "My Morning Routine",
+   "level": "Dasar",
+   "min": 2,
+   "body": [
+    "I wake up at six o'clock every day. First, I wash my face and brush my teeth. Then I make a cup of tea.",
+    "I eat breakfast with my family. We usually have rice and eggs. My father reads the news and my mother checks her phone.",
+    "At seven, I take a shower and put on my uniform. I walk to school with my friend. It takes about fifteen minutes."
+   ],
+   "gloss": {
+    "shower": "mandi (pancuran)",
+    "brush": "menyikat",
+    "usually": "biasanya",
+    "uniform": "seragam",
+    "walk": "berjalan kaki"
+   },
+   "qs": [
+    {
+     "q": "What time does the writer wake up?",
+     "opts": [
+      "At six o'clock",
+      "At seven o'clock",
+      "At five o'clock"
+     ],
+     "a": 0
+    },
+    {
+     "q": "What does the family usually eat for breakfast?",
+     "opts": [
+      "Noodles and fruit",
+      "Rice and eggs",
+      "Bread and milk"
+     ],
+     "a": 2
+    },
+    {
+     "q": "How does the writer go to school?",
+     "opts": [
+      "On foot",
+      "By bus",
+      "By motorbike"
+     ],
+     "a": 1
+    }
+   ]
+  },
+  {
+   "id": "r20261013-b02",
+   "title": "A Visit to the Doctor",
+   "level": "Dasar",
+   "min": 2,
+   "body": [
+    "Rina has a headache and a sore throat. She feels hot and tired. Her mother takes her to the doctor.",
+    "The doctor looks at her throat and checks her temperature. He says, \"You have a cold. Drink a lot of water and rest at home.\"",
+    "He gives Rina some medicine. She must take it twice a day, after meals. Rina goes home and sleeps for two hours."
+   ],
+   "gloss": {
+    "headache": "sakit kepala",
+    "throat": "tenggorokan",
+    "temperature": "suhu badan",
+    "medicine": "obat",
+    "rest": "istirahat"
+   },
+   "qs": [
+    {
+     "q": "What problem does Rina have?",
+     "opts": [
+      "A headache and a sore throat",
+      "A broken arm",
+      "A stomach ache"
+     ],
+     "a": 1
+    },
+    {
+     "q": "What does the doctor say?",
+     "opts": [
+      "Eat more sugar",
+      "Drink water and rest",
+      "Go to school tomorrow"
+     ],
+     "a": 2
+    },
+    {
+     "q": "How often must Rina take the medicine?",
+     "opts": [
+      "Twice a day",
+      "Once a week",
+      "Every hour"
+     ],
+     "a": 0
+    }
+   ]
+  },
+  {
+   "id": "r20261013-b03",
+   "title": "Our Small Garden",
+   "level": "Dasar",
+   "min": 2,
+   "body": [
+    "We have a small garden behind our house. There are tomatoes, chilies and a mango tree. My grandmother planted the tree many years ago.",
+    "Every afternoon, I water the plants. On Sundays, my brother and I pull out the weeds. The work is hard, but it is fun.",
+    "Last week, we picked ten red tomatoes. My mother cooked them with eggs. It was the best dinner of the week."
+   ],
+   "gloss": {
+    "garden": "kebun",
+    "planted": "menanam",
+    "water": "menyiram",
+    "weeds": "gulma",
+    "picked": "memetik"
+   },
+   "qs": [
+    {
+     "q": "Who planted the mango tree?",
+     "opts": [
+      "The writer's grandmother",
+      "The writer's brother",
+      "The writer's mother"
+     ],
+     "a": 1
+    },
+    {
+     "q": "When does the writer water the plants?",
+     "opts": [
+      "Every afternoon",
+      "Every morning",
+      "Only on Sundays"
+     ],
+     "a": 0
+    },
+    {
+     "q": "What did the mother cook?",
+     "opts": [
+      "Mango juice",
+      "Tomatoes with eggs",
+      "Chilies with rice"
+     ],
+     "a": 2
+    }
+   ]
+  },
+  {
+   "id": "r20261013-b04",
+   "title": "Taking the Bus to Work",
+   "level": "Dasar",
+   "min": 2,
+   "body": [
+    "Budi works in the city center. He lives far from his office, so he takes the bus every day. The bus stop is near his house.",
+    "The bus comes at 7:15, but sometimes it is late. Budi listens to music or reads a book on the bus. The trip takes forty minutes.",
+    "He gets off at the big bank and walks five minutes to his office. In the evening, he takes the same bus home. A monthly ticket is cheaper than a taxi."
+   ],
+   "gloss": {
+    "office": "kantor",
+    "late": "terlambat",
+    "trip": "perjalanan",
+    "monthly": "bulanan",
+    "ticket": "tiket"
+   },
+   "qs": [
+    {
+     "q": "Why does Budi take the bus?",
+     "opts": [
+      "His office is far from his house",
+      "He likes taxis",
+      "His office is next to his house"
+     ],
+     "a": 0
+    },
+    {
+     "q": "What does Budi do on the bus?",
+     "opts": [
+      "He listens to music or reads",
+      "He sleeps all the time",
+      "He talks on the phone"
+     ],
+     "a": 1
+    },
+    {
+     "q": "How long is the bus trip?",
+     "opts": [
+      "Five minutes",
+      "Forty minutes",
+      "Fifteen minutes"
+     ],
+     "a": 2
+    }
+   ]
+  },
+  {
+   "id": "r20261013-b05",
+   "title": "The New Student",
+   "level": "Dasar",
+   "min": 2,
+   "body": [
+    "Today a new student comes to our class. His name is Arif. He is from Medan and he is thirteen years old.",
+    "The teacher asks him to say something about himself. Arif is shy, but he smiles. He says, \"I like football and I want to make new friends.\"",
+    "At lunch, we invite him to sit with us. We talk about games and music. By the end of the day, Arif is not shy anymore."
+   ],
+   "gloss": {
+    "student": "murid",
+    "shy": "pemalu",
+    "smiles": "tersenyum",
+    "invite": "mengajak",
+    "anymore": "lagi"
+   },
+   "qs": [
+    {
+     "q": "Where is Arif from?",
+     "opts": [
+      "Medan",
+      "Jakarta",
+      "Bandung"
+     ],
+     "a": 0
+    },
+    {
+     "q": "What does Arif like?",
+     "opts": [
+      "Football",
+      "Music",
+      "Cooking"
+     ],
+     "a": 1
+    },
+    {
+     "q": "How does Arif feel at the end of the day?",
+     "opts": [
+      "Angry",
+      "Not shy anymore",
+      "Still very shy"
+     ],
+     "a": 2
+    }
+   ]
+  },
+  {
+   "id": "r20261013-b06",
+   "title": "Shopping for Shoes",
+   "level": "Dasar",
+   "min": 2,
+   "body": [
+    "Sari needs new shoes for school. Her old shoes are too small. She goes to a shoe shop with her father.",
+    "She tries on a black pair and a white pair. The black pair is cheaper, but the white pair is more comfortable. The shop assistant says the white pair is on sale.",
+    "Sari chooses the white shoes. Her father pays at the cashier. They also buy two pairs of socks."
+   ],
+   "gloss": {
+    "needs": "membutuhkan",
+    "pair": "pasang",
+    "comfortable": "nyaman",
+    "sale": "diskon",
+    "cashier": "kasir"
+   },
+   "qs": [
+    {
+     "q": "Why does Sari need new shoes?",
+     "opts": [
+      "Her old shoes are too small",
+      "She lost her shoes",
+      "Her old shoes are dirty"
+     ],
+     "a": 0
+    },
+    {
+     "q": "Which pair is more comfortable?",
+     "opts": [
+      "The white pair",
+      "The black pair",
+      "Neither pair"
+     ],
+     "a": 1
+    },
+    {
+     "q": "What else do they buy?",
+     "opts": [
+      "A hat",
+      "Two pairs of socks",
+      "A bag"
+     ],
+     "a": 2
+    }
+   ]
+  },
+  {
+   "id": "r20261013-b07",
+   "title": "Working from a Coffee Shop",
+   "level": "Menengah",
+   "min": 3,
+   "body": [
+    "More and more freelancers work from coffee shops instead of staying at home. They say the noise helps them concentrate, which sounds strange but is quite common. Others simply want to get out of the house and see other people.",
+    "However, working in a cafe has some downsides. Wi-fi can be unreliable, and a good table is not always available. Some cafes also ask customers to leave if they stay too long without ordering anything.",
+    "If you want to work in a cafe, choose a quiet time of day and order something every hour or two. Bring headphones and a charger, and be polite to the staff. A little respect makes it easier to come back."
+   ],
+   "gloss": {
+    "freelancers": "pekerja lepas",
+    "concentrate": "berkonsentrasi",
+    "downsides": "sisi buruk",
+    "unreliable": "tidak bisa diandalkan",
+    "charger": "pengisi daya"
+   },
+   "qs": [
+    {
+     "q": "Why do some freelancers like cafes?",
+     "opts": [
+      "The noise helps them concentrate",
+      "The tables are free",
+      "The wi-fi is always perfect"
+     ],
+     "a": 1
+    },
+    {
+     "q": "What is one downside mentioned?",
+     "opts": [
+      "Cafes close early",
+      "Wi-fi can be unreliable",
+      "Coffee is too expensive"
+     ],
+     "a": 2
+    },
+    {
+     "q": "What does the writer advise?",
+     "opts": [
+      "Order something every hour or two",
+      "Stay all day without ordering",
+      "Never bring a charger"
+     ],
+     "a": 0
+    }
+   ]
+  },
+  {
+   "id": "r20261013-b08",
+   "title": "Why We Should Drink More Water",
+   "level": "Menengah",
+   "min": 3,
+   "body": [
+    "Our body is about sixty percent water, and we lose some of it every day when we sweat, breathe and go to the toilet. If we do not replace it, we may feel tired or get a headache. Many people confuse thirst with hunger and eat when they only need a glass of water.",
+    "Experts usually recommend around two liters a day, but the exact amount depends on your weight, the weather and how active you are. People who exercise or work outside need more than people who sit in an air-conditioned office.",
+    "A simple habit can help: keep a bottle on your desk and take a few sips every time you look at the clock. Adding a slice of lemon makes it more interesting if plain water tastes boring."
+   ],
+   "gloss": {
+    "sweat": "berkeringat",
+    "replace": "mengganti",
+    "thirst": "rasa haus",
+    "recommend": "menyarankan",
+    "sips": "seruputan kecil"
+   },
+   "qs": [
+    {
+     "q": "What do many people confuse with hunger?",
+     "opts": [
+      "Stress",
+      "Thirst",
+      "Tiredness"
+     ],
+     "a": 2
+    },
+    {
+     "q": "How much water do experts usually recommend?",
+     "opts": [
+      "Around two liters a day",
+      "Around half a liter",
+      "Around ten liters"
+     ],
+     "a": 0
+    },
+    {
+     "q": "What can make plain water more interesting?",
+     "opts": [
+      "A slice of lemon",
+      "A spoon of sugar",
+      "A cup of coffee"
+     ],
+     "a": 1
+    }
+   ]
+  },
+  {
+   "id": "r20261013-b09",
+   "title": "A Weekend in Bali",
+   "level": "Menengah",
+   "min": 3,
+   "body": [
+    "Last month, my friends and I spent a long weekend in Bali. We arrived on Friday evening and checked into a small guesthouse near the beach. The owner was very friendly and gave us a map with all his favorite places.",
+    "On Saturday we rented scooters and visited a famous temple. Although it was crowded, the view of the ocean was worth the wait. In the afternoon, we tried surfing for the first time. I fell off the board at least ten times, but I loved it.",
+    "On Sunday morning we had a quiet breakfast and packed our bags. If I had more time, I would have stayed another week. I have already started planning my next trip."
+   ],
+   "gloss": {
+    "guesthouse": "penginapan kecil",
+    "rented": "menyewa",
+    "crowded": "ramai",
+    "worth": "sepadan",
+    "packed": "mengemas"
+   },
+   "qs": [
+    {
+     "q": "Where did the friends stay?",
+     "opts": [
+      "In a small guesthouse",
+      "In a big hotel",
+      "In a tent"
+     ],
+     "a": 1
+    },
+    {
+     "q": "What did they do for the first time?",
+     "opts": [
+      "Surfing",
+      "Riding a scooter",
+      "Visiting a temple"
+     ],
+     "a": 0
+    },
+    {
+     "q": "How does the writer feel about the trip?",
+     "opts": [
+      "Bored",
+      "Happy and keen to travel again",
+      "Disappointed"
+     ],
+     "a": 2
+    }
+   ]
+  },
+  {
+   "id": "r20261013-b10",
+   "title": "Dealing with a Difficult Coworker",
+   "level": "Menengah",
+   "min": 3,
+   "body": [
+    "Almost everyone has worked with a difficult person at some point. Maybe they interrupt in meetings, miss deadlines or complain about everything. It is tempting to ignore the problem, but this usually makes things worse.",
+    "A better approach is to talk to the person privately and describe the situation calmly. Instead of saying \"You are lazy\", say \"When the report is late, our team cannot finish on time.\" This focuses on the behavior, not the person.",
+    "If the problem continues, speak to your manager and bring examples. Remember that sometimes people have problems you cannot see. A little patience can change the whole relationship."
+   ],
+   "gloss": {
+    "interrupt": "menyela",
+    "deadlines": "tenggat waktu",
+    "tempting": "menggoda",
+    "approach": "pendekatan",
+    "patience": "kesabaran"
+   },
+   "qs": [
+    {
+     "q": "What usually happens if you ignore the problem?",
+     "opts": [
+      "It becomes worse",
+      "It goes away quickly",
+      "The coworker apologizes"
+     ],
+     "a": 1
+    },
+    {
+     "q": "What does the writer suggest saying?",
+     "opts": [
+      "\"I do not like you.\"",
+      "\"When the report is late, our team cannot finish on time.\"",
+      "\"You are lazy.\""
+     ],
+     "a": 2
+    },
+    {
+     "q": "When should you speak to your manager?",
+     "opts": [
+      "If the problem continues",
+      "Before talking to the person",
+      "On the first day"
+     ],
+     "a": 0
+    }
+   ]
+  },
+  {
+   "id": "r20261013-b11",
+   "title": "The Joy of Learning an Instrument",
+   "level": "Menengah",
+   "min": 3,
+   "body": [
+    "Many adults believe they are too old to learn a musical instrument. In fact, research shows that the adult brain can still learn new skills, although progress may be slower than for a child. What matters most is regular practice.",
+    "Start with ten or fifteen minutes a day instead of one long session on the weekend. Choose simple songs you already love, because they keep you motivated. Recording yourself is also useful: you will hear mistakes you did not notice while playing.",
+    "Do not compare yourself with professionals. Every musician sounds terrible at the beginning. If you stay patient, you will be surprised how quickly small improvements add up."
+   ],
+   "gloss": {
+    "instrument": "alat musik",
+    "research": "penelitian",
+    "progress": "kemajuan",
+    "motivated": "termotivasi",
+    "improvements": "peningkatan"
+   },
+   "qs": [
+    {
+     "q": "What matters most when learning an instrument?",
+     "opts": [
+      "Regular practice",
+      "Expensive equipment",
+      "Having a teacher"
+     ],
+     "a": 1
+    },
+    {
+     "q": "How long should daily practice be at first?",
+     "opts": [
+      "Two hours",
+      "Ten or fifteen minutes",
+      "One hour"
+     ],
+     "a": 2
+    },
+    {
+     "q": "Why is recording yourself useful?",
+     "opts": [
+      "You hear mistakes you did not notice",
+      "It makes you famous",
+      "It replaces practice"
+     ],
+     "a": 0
+    }
+   ]
+  },
+  {
+   "id": "r20261013-b12",
+   "title": "Saving Money Without Stress",
+   "level": "Menengah",
+   "min": 3,
+   "body": [
+    "Saving money does not have to mean giving up everything you enjoy. The first step is to know where your money goes. Write down everything you spend for one month, even small things like snacks and online games.",
+    "Next, decide on a fixed amount to save as soon as you receive your salary. If you wait until the end of the month, there is usually nothing left. Moving the money to a separate account makes it harder to spend.",
+    "Finally, set a clear goal, such as an emergency fund or a trip. A goal turns saving from a duty into something you look forward to."
+   ],
+   "gloss": {
+    "enjoy": "menikmati",
+    "spend": "membelanjakan",
+    "salary": "gaji",
+    "separate": "terpisah",
+    "emergency": "darurat"
+   },
+   "qs": [
+    {
+     "q": "What is the first step to saving money?",
+     "opts": [
+      "Know where your money goes",
+      "Buy fewer clothes",
+      "Open ten accounts"
+     ],
+     "a": 1
+    },
+    {
+     "q": "When should you save a fixed amount?",
+     "opts": [
+      "Once a year",
+      "As soon as you receive your salary",
+      "At the end of the month"
+     ],
+     "a": 2
+    },
+    {
+     "q": "Why is a goal useful?",
+     "opts": [
+      "It makes saving feel less like a duty",
+      "It increases your salary",
+      "It removes all expenses"
+     ],
+     "a": 0
+    }
+   ]
+  },
+  {
+   "id": "r20261013-b13",
+   "title": "The Hidden Cost of Fast Fashion",
+   "level": "Menengah",
+   "min": 3,
+   "body": [
+    "Fast fashion brands release new designs almost every week, and the prices are so low that many people buy clothes they hardly wear. Studies suggest the average person now keeps a piece of clothing for only half as long as fifteen years ago.",
+    "The low price hides other costs. Making cheap clothes uses huge amounts of water and creates a lot of waste. Workers in some factories earn very little and work long hours in poor conditions.",
+    "You can make a difference with small choices. Buy fewer items of better quality, repair what you already own, or swap clothes with friends. Remember that the cheapest option is not always the best one."
+   ],
+   "gloss": {
+    "designs": "desain",
+    "hardly": "hampir tidak",
+    "waste": "limbah",
+    "conditions": "kondisi",
+    "swap": "bertukar"
+   },
+   "qs": [
+    {
+     "q": "Why do people buy so many clothes?",
+     "opts": [
+      "Prices are very low",
+      "Clothes are free",
+      "Shops are always close"
+     ],
+     "a": 0
+    },
+    {
+     "q": "What do cheap clothes use a lot of?",
+     "opts": [
+      "Water",
+      "Silver",
+      "Gold"
+     ],
+     "a": 1
+    },
+    {
+     "q": "What is one suggested choice?",
+     "opts": [
+      "Throw clothes away quickly",
+      "Repair what you already own",
+      "Buy more every week"
+     ],
+     "a": 2
+    }
+   ]
+  },
+  {
+   "id": "r20261013-b14",
+   "title": "Why Teenagers Need More Sleep",
+   "level": "Menengah Atas",
+   "min": 4,
+   "body": [
+    "Parents often complain that teenagers stay up late and struggle to get out of bed in the morning. It is easy to call this laziness, but scientists point to biology. During adolescence, the body clock shifts, so teens naturally feel sleepy later at night and wake up later in the morning.",
+    "Unfortunately, most schools begin early, which forces many students to function on far less sleep than the eight to ten hours they need. Ongoing, chronic sleep loss is linked to poor concentration, mood swings and even a higher risk of accidents.",
+    "Some districts that moved the start of the school day later reported better attendance and higher grades. Critics argue that this creates problems for working parents, yet the evidence suggests the benefits may outweigh the inconvenience."
+   ],
+   "gloss": {
+    "adolescence": "masa remaja",
+    "chronic": "menahun",
+    "attendance": "kehadiran",
+    "outweigh": "lebih besar daripada",
+    "inconvenience": "ketidaknyamanan"
+   },
+   "qs": [
+    {
+     "q": "According to scientists, why do teens sleep later?",
+     "opts": [
+      "Their body clock shifts",
+      "They are lazy",
+      "They have more homework"
+     ],
+     "a": 0
+    },
+    {
+     "q": "What happened in districts that started school later?",
+     "opts": [
+      "Better attendance and higher grades",
+      "Grades fell",
+      "Nothing changed at all"
+     ],
+     "a": 1
+    },
+    {
+     "q": "What do critics say about later school hours?",
+     "opts": [
+      "Teens will sleep less",
+      "They create problems for working parents",
+      "They are too cheap"
+     ],
+     "a": 2
+    }
+   ]
+  },
+  {
+   "id": "r20261013-b15",
+   "title": "The Psychology of Queues",
+   "level": "Menengah Atas",
+   "min": 4,
+   "body": [
+    "Few people enjoy waiting in line, yet our frustration depends less on the actual time than on how the wait feels. Psychologists have found that occupied time feels shorter than empty time, which is why airports place mirrors and screens near baggage claim.",
+    "Fairness matters just as much. A single line that feeds several counters is usually perceived as fairer than separate lines, even though the average wait is identical. Uncertainty also makes waiting worse: a sign that says \"ten minutes\" calms people more than silence.",
+    "Businesses that understand these principles can reduce complaints without hiring more staff. As customers, we can use the same knowledge to stay patient by recognizing that our irritation is often more about perception than reality."
+   ],
+   "gloss": {
+    "frustration": "kekesalan",
+    "occupied": "terisi/sibuk",
+    "perceived": "dianggap",
+    "uncertainty": "ketidakpastian",
+    "perception": "persepsi"
+   },
+   "qs": [
+    {
+     "q": "Why do airports place screens near baggage claim?",
+     "opts": [
+      "Occupied time feels shorter",
+      "To sell more tickets",
+      "To reduce noise"
+     ],
+     "a": 0
+    },
+    {
+     "q": "Which queue system feels fairer?",
+     "opts": [
+      "One line that feeds several counters",
+      "Several separate lines",
+      "No line at all"
+     ],
+     "a": 1
+    },
+    {
+     "q": "What makes waiting worse?",
+     "opts": [
+      "Music",
+      "Uncertainty about how long it will take",
+      "Clear information"
+     ],
+     "a": 2
+    }
+   ]
+  },
+  {
+   "id": "r20261013-b16",
+   "title": "Can Robots Take Our Jobs?",
+   "level": "Menengah Atas",
+   "min": 4,
+   "body": [
+    "Every time a new technology appears, people worry that it will destroy jobs. History shows a more complicated picture. The industrial revolution eliminated many manual roles, but it also created entirely new professions that nobody had imagined.",
+    "Today's concern is that artificial intelligence can perform tasks once considered uniquely human, such as writing and diagnosing illnesses. Economists disagree on the outcome. Some predict widespread unemployment, while others believe that workers will shift towards tasks that need creativity and empathy.",
+    "What seems certain is that adaptability will become more valuable than any single skill. Those who keep learning are likely to be in a stronger position than those who assume their current role will stay the same forever."
+   ],
+   "gloss": {
+    "eliminated": "menghapus",
+    "professions": "profesi",
+    "diagnosing": "mendiagnosis",
+    "unemployment": "pengangguran",
+    "adaptability": "kemampuan beradaptasi"
+   },
+   "qs": [
+    {
+     "q": "What did the industrial revolution do?",
+     "opts": [
+      "Removed all technology",
+      "Eliminated old roles and created new professions",
+      "Only destroyed jobs"
+     ],
+     "a": 2
+    },
+    {
+     "q": "What do economists think about AI?",
+     "opts": [
+      "They disagree on the outcome",
+      "They all agree it is harmless",
+      "They have no opinion"
+     ],
+     "a": 0
+    },
+    {
+     "q": "What will become more valuable?",
+     "opts": [
+      "Adaptability",
+      "A single skill",
+      "Physical strength"
+     ],
+     "a": 0
+    }
+   ]
+  },
+  {
+   "id": "r20261013-b17",
+   "title": "Minimalism: Less Really Is More?",
+   "level": "Menengah Atas",
+   "min": 4,
+   "body": [
+    "Minimalism has become a popular lifestyle, promising calm through owning less. Proponents argue that clutter creates mental noise and that every possession demands time to clean, repair or store. By removing what we do not need, they claim, we make space for what matters.",
+    "Skeptics respond that minimalism can turn into another form of consumerism. Some followers spend heavily on stylish, expensive items so that their homes look suitably empty. Moreover, the lifestyle is easier for those who already have financial security, since a person on a low income cannot simply discard things they may need to replace later.",
+    "The most sensible position may lie between the extremes. Rather than following a strict rule, ask whether each item adds value to your life. If it does not, letting go of it costs you nothing."
+   ],
+   "gloss": {
+    "clutter": "barang berantakan",
+    "possession": "barang milik",
+    "skeptics": "orang yang skeptis",
+    "consumerism": "konsumerisme",
+    "discard": "membuang"
+   },
+   "qs": [
+    {
+     "q": "What do supporters say about clutter?",
+     "opts": [
+      "It creates mental noise",
+      "It makes the house warmer",
+      "It saves time"
+     ],
+     "a": 1
+    },
+    {
+     "q": "What is a criticism of minimalism?",
+     "opts": [
+      "It can become another form of consumerism",
+      "It is always cheap",
+      "It is illegal"
+     ],
+     "a": 0
+    },
+    {
+     "q": "What does the writer suggest at the end?",
+     "opts": [
+      "Own nothing",
+      "Ask whether each item adds value",
+      "Follow a strict rule"
+     ],
+     "a": 2
+    }
+   ]
+  },
+  {
+   "id": "r20261013-b18",
+   "title": "Why Do We Dream?",
+   "level": "Menengah Atas",
+   "min": 4,
+   "body": [
+    "Despite decades of research, scientists still cannot agree on why we dream. One theory suggests that dreams help the brain consolidate memories, sorting important information from the trivial. Another proposes that dreaming works as a kind of emotional therapy, allowing us to process difficult experiences in a safe setting.",
+    "A third view is less romantic: dreams may simply be a by-product of random brain activity during sleep, and the stories we tell about them are created afterwards. Evidence for this idea is limited, but it reminds us how little we know.",
+    "What is clear is that people deprived of dream-rich sleep tend to struggle with mood and learning. Whatever their purpose, dreams appear to matter far more than we once believed."
+   ],
+   "gloss": {
+    "consolidate": "memperkuat",
+    "trivial": "sepele",
+    "therapy": "terapi",
+    "random": "acak",
+    "deprived": "kekurangan"
+   },
+   "qs": [
+    {
+     "q": "What does the first theory say dreams do?",
+     "opts": [
+      "Help the brain consolidate memories",
+      "Predict the future",
+      "Cause bad moods"
+     ],
+     "a": 1
+    },
+    {
+     "q": "What is the third view?",
+     "opts": [
+      "Dreams are real",
+      "Dreams may be a by-product of random brain activity",
+      "Dreams are always emotional"
+     ],
+     "a": 2
+    },
+    {
+     "q": "What happens to people deprived of dream-rich sleep?",
+     "opts": [
+      "They often struggle with mood and learning",
+      "They become stronger",
+      "They never wake up"
+     ],
+     "a": 0
+    }
+   ]
+  },
+  {
+   "id": "r20261013-b19",
+   "title": "The Trouble with Multitasking",
+   "level": "Menengah Atas",
+   "min": 4,
+   "body": [
+    "Many people proudly describe themselves as good at multitasking, but research suggests that the brain does not truly perform two demanding tasks at once. Instead, it switches rapidly between them, and each switch carries a small cost in time and accuracy.",
+    "Over a working day, these costs accumulate. People who answer messages while writing a report take longer to finish and make more errors than those who handle each task in turn. Interruptions are particularly damaging, since it can take over twenty minutes to regain full concentration.",
+    "A more effective strategy is to group similar tasks and set aside blocks of focused time. Turning off notifications for an hour may feel uncomfortable at first, yet most people find that they accomplish more with less effort."
+   ],
+   "gloss": {
+    "demanding": "menuntut/berat",
+    "accuracy": "ketelitian",
+    "accumulate": "menumpuk",
+    "interruptions": "gangguan",
+    "notifications": "notifikasi"
+   },
+   "qs": [
+    {
+     "q": "What does the brain actually do when multitasking?",
+     "opts": [
+      "Switches rapidly between tasks",
+      "Works on two tasks at once perfectly",
+      "Stops working"
+     ],
+     "a": 1
+    },
+    {
+     "q": "What do people who handle tasks in turn do?",
+     "opts": [
+      "Take longer",
+      "Finish faster with fewer errors",
+      "Make more errors"
+     ],
+     "a": 2
+    },
+    {
+     "q": "What is suggested for better focus?",
+     "opts": [
+      "Set aside blocks of focused time",
+      "Answer every message at once",
+      "Work longer hours"
+     ],
+     "a": 0
+    }
+   ]
+  },
+  {
+   "id": "r20261013-b20",
+   "title": "Tourism: Blessing or Burden?",
+   "level": "Menengah Atas",
+   "min": 4,
+   "body": [
+    "For many regions, tourism is a vital source of income, supporting hotels, restaurants and thousands of small businesses. Yet when too many visitors arrive at once, the same places that benefit can begin to suffer. Residents of popular cities complain about rising rents, crowded streets and the loss of local character.",
+    "Some destinations have responded with limits, charging entry fees or capping daily visitors. Supporters say such measures protect fragile sites, while opponents fear they will make travel a privilege of the wealthy.",
+    "Travelers can help by visiting in the off-season, staying in locally owned accommodation and spending money in neighborhood shops. Responsible tourism does not require giving up travel, merely thinking a little harder about its consequences."
+   ],
+   "gloss": {
+    "vital": "sangat penting",
+    "residents": "penduduk",
+    "capping": "membatasi",
+    "fragile": "rapuh",
+    "consequences": "akibat"
+   },
+   "qs": [
+    {
+     "q": "Why is tourism important to many regions?",
+     "opts": [
+      "It is a vital source of income",
+      "It lowers rents",
+      "It removes crowds"
+     ],
+     "a": 0
+    },
+    {
+     "q": "What do some destinations do to limit visitors?",
+     "opts": [
+      "Charge entry fees or cap daily visitors",
+      "Close forever",
+      "Give free tickets"
+     ],
+     "a": 1
+    },
+    {
+     "q": "What is one way travelers can help?",
+     "opts": [
+      "Avoid local shops",
+      "Stay in locally owned accommodation",
+      "Visit only at the busiest time"
+     ],
+     "a": 2
+    }
+   ]
+  }
+ ]
+}
