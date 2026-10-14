@@ -1,0 +1,620 @@
+{
+ "bank": [
+  {
+   "id": "r20261014c-001",
+   "topic": "Present continuous",
+   "level": "Dasar",
+   "q": "Look! The children ___ in the park.",
+   "opts": [
+    "play",
+    "are playing",
+    "is playing"
+   ],
+   "a": 1,
+   "why": "Look! menandakan kejadian sekarang: are/is + verb-ing. Children jamak, jadi are playing."
+  },
+  {
+   "id": "r20261014c-002",
+   "topic": "There is/are",
+   "level": "Dasar",
+   "q": "There ___ two books on the table.",
+   "opts": [
+    "is",
+    "be",
+    "are"
+   ],
+   "a": 2,
+   "why": "Two books jamak, jadi There are."
+  },
+  {
+   "id": "r20261014c-003",
+   "topic": "Prepositions of time",
+   "level": "Dasar",
+   "q": "My class starts ___ 8 o'clock.",
+   "opts": [
+    "at",
+    "in",
+    "on"
+   ],
+   "a": 0,
+   "why": "Untuk jam tepat dipakai at."
+  },
+  {
+   "id": "r20261014c-004",
+   "topic": "Vocabulary: opposites",
+   "level": "Dasar",
+   "q": "The opposite of \"early\" is ___.",
+   "opts": [
+    "soon",
+    "late",
+    "fast"
+   ],
+   "a": 1,
+   "why": "Lawan kata early (awal/pagi) adalah late (terlambat)."
+  },
+  {
+   "id": "r20261014c-005",
+   "topic": "Pronouns",
+   "level": "Dasar",
+   "q": "Where are Tom and Lisa? I cannot see ___.",
+   "opts": [
+    "they",
+    "their",
+    "them"
+   ],
+   "a": 2,
+   "why": "Sebagai objek verb see dipakai them."
+  },
+  {
+   "id": "r20261014c-006",
+   "topic": "Adverbs of frequency",
+   "level": "Dasar",
+   "q": "I ___ drink coffee at night, because I cannot sleep after that.",
+   "opts": [
+    "never",
+    "always",
+    "usually"
+   ],
+   "a": 0,
+   "why": "Karena tidak bisa tidur setelahnya, masuk akal kalau never (tidak pernah)."
+  },
+  {
+   "id": "r20261014c-007",
+   "topic": "Question words",
+   "level": "Dasar",
+   "q": "___ do you go to school? By bus.",
+   "opts": [
+    "Where",
+    "How",
+    "Who"
+   ],
+   "a": 1,
+   "why": "Jawaban menyebut cara (by bus), jadi pertanyaannya How."
+  },
+  {
+   "id": "r20261014c-008",
+   "topic": "Vocabulary: places",
+   "level": "Dasar",
+   "q": "A ___ is a place where we buy medicine.",
+   "opts": [
+    "library",
+    "bakery",
+    "pharmacy"
+   ],
+   "a": 2,
+   "why": "Pharmacy = apotek. Library = perpustakaan, bakery = toko roti."
+  },
+  {
+   "id": "r20261014c-009",
+   "topic": "Countable",
+   "level": "Dasar",
+   "q": "I do not have ___ money.",
+   "opts": [
+    "much",
+    "many",
+    "a few"
+   ],
+   "a": 0,
+   "why": "Money tidak bisa dihitung, jadi much. Many dan a few untuk benda yang bisa dihitung."
+  },
+  {
+   "id": "r20261014c-010",
+   "topic": "Vocabulary: food",
+   "level": "Dasar",
+   "q": "We use a ___ to eat soup.",
+   "opts": [
+    "knife",
+    "spoon",
+    "glass"
+   ],
+   "a": 1,
+   "why": "Spoon = sendok, dipakai untuk makan sup."
+  },
+  {
+   "id": "r20261014c-011",
+   "topic": "Question tags",
+   "level": "Menengah",
+   "q": "You are coming to the party, ___?",
+   "opts": [
+    "don't you",
+    "isn't you",
+    "aren't you"
+   ],
+   "a": 2,
+   "why": "Kalimat positif dengan are diikuti tag negatif: aren't you?"
+  },
+  {
+   "id": "r20261014c-012",
+   "topic": "Past simple",
+   "level": "Menengah",
+   "q": "I ___ my keys while I was running for the bus.",
+   "opts": [
+    "lost",
+    "was losing",
+    "have lost"
+   ],
+   "a": 0,
+   "why": "Kejadian singkat di masa lalu yang terjadi saat kegiatan lain berlangsung: past simple (lost)."
+  },
+  {
+   "id": "r20261014c-013",
+   "topic": "Modals",
+   "level": "Menengah",
+   "q": "You ___ park here. It is forbidden.",
+   "opts": [
+    "don't have to",
+    "mustn't",
+    "needn't"
+   ],
+   "a": 1,
+   "why": "Mustn't = dilarang. Don't have to dan needn't = tidak perlu."
+  },
+  {
+   "id": "r20261014c-014",
+   "topic": "Quantifiers",
+   "level": "Menengah",
+   "q": "Is there ___ sugar in the tea?",
+   "opts": [
+    "many",
+    "a few",
+    "any"
+   ],
+   "a": 2,
+   "why": "Pertanyaan dengan benda tak terhitung (sugar) memakai any."
+  },
+  {
+   "id": "r20261014c-015",
+   "topic": "Phrasal verbs",
+   "level": "Menengah",
+   "q": "Please turn ___ the music. It is too loud.",
+   "opts": [
+    "down",
+    "up",
+    "on"
+   ],
+   "a": 0,
+   "why": "Turn down = mengecilkan volume."
+  },
+  {
+   "id": "r20261014c-016",
+   "topic": "Second conditional",
+   "level": "Menengah",
+   "q": "If I ___ a car, I would drive to work.",
+   "opts": [
+    "have",
+    "had",
+    "will have"
+   ],
+   "a": 1,
+   "why": "Second conditional: If + past simple, would + verb."
+  },
+  {
+   "id": "r20261014c-017",
+   "topic": "Superlatives",
+   "level": "Menengah",
+   "q": "Mount Everest is ___ mountain in the world.",
+   "opts": [
+    "higher",
+    "highest",
+    "the highest"
+   ],
+   "a": 2,
+   "why": "Superlative memakai the + adjective-est: the highest."
+  },
+  {
+   "id": "r20261014c-018",
+   "topic": "Prepositions",
+   "level": "Menengah",
+   "q": "She is afraid ___ spiders.",
+   "opts": [
+    "of",
+    "from",
+    "at"
+   ],
+   "a": 0,
+   "why": "Kolokasi tetap: afraid of."
+  },
+  {
+   "id": "r20261014c-019",
+   "topic": "Word forms",
+   "level": "Menengah",
+   "q": "He is a very ___ driver. He never has accidents.",
+   "opts": [
+    "care",
+    "careful",
+    "carefully"
+   ],
+   "a": 1,
+   "why": "Sebelum kata benda (driver) dipakai adjective: careful."
+  },
+  {
+   "id": "r20261014c-020",
+   "topic": "Articles",
+   "level": "Menengah",
+   "q": "She plays ___ guitar very well.",
+   "opts": [
+    "a",
+    "an",
+    "the"
+   ],
+   "a": 2,
+   "why": "Untuk alat musik yang dimainkan dipakai the."
+  },
+  {
+   "id": "r20261014c-021",
+   "topic": "Idioms",
+   "level": "Menengah atas",
+   "q": "After the long meeting, we decided to call it a ___.",
+   "opts": [
+    "day",
+    "time",
+    "end"
+   ],
+   "a": 0,
+   "why": "Idiom call it a day = berhenti bekerja untuk hari ini."
+  },
+  {
+   "id": "r20261014c-022",
+   "topic": "Passive advanced",
+   "level": "Menengah atas",
+   "q": "He is believed ___ the country last night.",
+   "opts": [
+    "to leave",
+    "to have left",
+    "leaving"
+   ],
+   "a": 1,
+   "why": "Last night menunjukkan masa lalu, jadi perfect infinitive: to have left."
+  },
+  {
+   "id": "r20261014c-023",
+   "topic": "Perfect continuous",
+   "level": "Menengah atas",
+   "q": "I am exhausted. I ___ since six this morning.",
+   "opts": [
+    "am working",
+    "worked",
+    "have been working"
+   ],
+   "a": 2,
+   "why": "Since + titik waktu dan masih berlanjut: present perfect continuous."
+  },
+  {
+   "id": "r20261014c-024",
+   "topic": "Mixed conditionals",
+   "level": "Menengah atas",
+   "q": "If I had studied medicine, I ___ a doctor now.",
+   "opts": [
+    "would be",
+    "would have been",
+    "will be"
+   ],
+   "a": 0,
+   "why": "Syarat di masa lalu, akibat sekarang (now): would + verb."
+  },
+  {
+   "id": "r20261014c-025",
+   "topic": "Articles advanced",
+   "level": "Menengah atas",
+   "q": "___ unemployed need more support during a recession.",
+   "opts": [
+    "An",
+    "The",
+    "A"
+   ],
+   "a": 1,
+   "why": "The + adjective dipakai untuk kelompok orang: the unemployed."
+  },
+  {
+   "id": "r20261014c-026",
+   "topic": "Collocations",
+   "level": "Menengah atas",
+   "q": "The company decided to ___ a new strategy.",
+   "opts": [
+    "adapt",
+    "adept",
+    "adopt"
+   ],
+   "a": 2,
+   "why": "Adopt = menerapkan. Adapt = menyesuaikan, adept = mahir."
+  },
+  {
+   "id": "r20261014c-027",
+   "topic": "Linking words",
+   "level": "Menengah atas",
+   "q": "He is very talented. ___, he is extremely humble.",
+   "opts": [
+    "Moreover",
+    "Despite",
+    "Unless"
+   ],
+   "a": 0,
+   "why": "Moreover = lagipula, menambah informasi positif."
+  },
+  {
+   "id": "r20261014c-028",
+   "topic": "Prepositions",
+   "level": "Menengah atas",
+   "q": "The company is responsible ___ the delay.",
+   "opts": [
+    "of",
+    "for",
+    "with"
+   ],
+   "a": 1,
+   "why": "Kolokasi tetap: responsible for."
+  },
+  {
+   "id": "r20261014c-029",
+   "topic": "Relative clauses",
+   "level": "Menengah atas",
+   "q": "The man ___ car was stolen called the police.",
+   "opts": [
+    "who",
+    "which",
+    "whose"
+   ],
+   "a": 2,
+   "why": "Whose menyatakan kepemilikan: mobil milik pria itu."
+  },
+  {
+   "id": "r20261014c-030",
+   "topic": "Vocabulary: confusing words",
+   "level": "Menengah atas",
+   "q": "The heavy rain had a bad ___ on the crops.",
+   "opts": [
+    "effect",
+    "affect",
+    "affection"
+   ],
+   "a": 0,
+   "why": "Effect = dampak (kata benda). Affect adalah kata kerja."
+  },
+  {
+   "id": "r20261014c-031",
+   "topic": "Used to / be used to",
+   "level": "Menuju lancar",
+   "q": "After years in Jakarta, I am used to ___ in traffic.",
+   "opts": [
+    "sit",
+    "sitting",
+    "be sitting"
+   ],
+   "a": 1,
+   "why": "Be used to + verb-ing = sudah terbiasa."
+  },
+  {
+   "id": "r20261014c-032",
+   "topic": "Grammar: so/such",
+   "level": "Menuju lancar",
+   "q": "He worked ___ hard that he became ill.",
+   "opts": [
+    "such",
+    "very",
+    "so"
+   ],
+   "a": 2,
+   "why": "So + adjective/adverb + that = begitu ... sehingga ..."
+  },
+  {
+   "id": "r20261014c-033",
+   "topic": "Subjunctive",
+   "level": "Menuju lancar",
+   "q": "I suggest that he ___ a doctor about his cough.",
+   "opts": [
+    "see",
+    "sees",
+    "saw"
+   ],
+   "a": 0,
+   "why": "Setelah suggest that dipakai bentuk dasar verb (subjunctive): see."
+  },
+  {
+   "id": "r20261014c-034",
+   "topic": "Nuance: modals",
+   "level": "Menuju lancar",
+   "q": "You ___ have told me earlier! Now it is too late.",
+   "opts": [
+    "can",
+    "should",
+    "need"
+   ],
+   "a": 1,
+   "why": "Should have + past participle = seharusnya (menyesalkan hal yang tidak dilakukan)."
+  },
+  {
+   "id": "r20261014c-035",
+   "topic": "Inversion",
+   "level": "Menuju lancar",
+   "q": "Rarely ___ such a talented performer.",
+   "opts": [
+    "we see",
+    "we do see",
+    "do we see"
+   ],
+   "a": 2,
+   "why": "Adverbia negatif di awal kalimat membuat inversi: Rarely do we see."
+  },
+  {
+   "id": "r20261014c-036",
+   "topic": "Register",
+   "level": "Menuju lancar",
+   "q": "We would be grateful if you could ___ us with the details.",
+   "opts": [
+    "provide",
+    "give",
+    "show"
+   ],
+   "a": 0,
+   "why": "Provide someone with something = memberikan (formal)."
+  },
+  {
+   "id": "r20261014c-037",
+   "topic": "Participles",
+   "level": "Menuju lancar",
+   "q": "___ the exam, she felt relieved and went out with friends.",
+   "opts": [
+    "Having been passed",
+    "Having passed",
+    "To having passed"
+   ],
+   "a": 1,
+   "why": "Having passed = setelah lulus (aktif, selesai lebih dulu). Subjeknya she."
+  },
+  {
+   "id": "r20261014c-038",
+   "topic": "Idioms",
+   "level": "Menuju lancar",
+   "q": "I cannot stand him. He gets on my ___.",
+   "opts": [
+    "head",
+    "mind",
+    "nerves"
+   ],
+   "a": 2,
+   "why": "Idiom get on someone's nerves = membuat kesal."
+  },
+  {
+   "id": "r20261014c-039",
+   "topic": "Advanced vocab",
+   "level": "Menuju lancar",
+   "q": "The politician gave an ___ answer, avoiding the question.",
+   "opts": [
+    "evasive",
+    "explicit",
+    "honest"
+   ],
+   "a": 0,
+   "why": "Evasive = mengelak. Explicit = tegas, honest = jujur."
+  },
+  {
+   "id": "r20261014c-040",
+   "topic": "Grammar: too/enough",
+   "level": "Menuju lancar",
+   "q": "He is not experienced ___ to lead the team.",
+   "opts": [
+    "too",
+    "enough",
+    "so"
+   ],
+   "a": 1,
+   "why": "Adjective + enough + to + verb = cukup ... untuk ..."
+  }
+ ],
+ "articles": [
+  {
+   "id": "r20261014c-a01",
+   "title": "At the Bus Stop",
+   "level": "Dasar",
+   "min": 2,
+   "body": [
+    "Every morning, Ali waits at the bus stop near his house. The bus usually comes at seven fifteen. Today it is late.",
+    "An old man sits next to Ali. He has a small bag and a newspaper. They talk about the weather. The old man says it will rain in the afternoon.",
+    "At last the bus arrives. Ali helps the old man get on the bus. Then he takes a seat by the window and opens his book."
+   ],
+   "gloss": {
+    "waits": "menunggu",
+    "late": "terlambat",
+    "newspaper": "koran",
+    "weather": "cuaca",
+    "window": "jendela"
+   },
+   "qs": [
+    {
+     "q": "What time does the bus usually come?",
+     "opts": [
+      "At six thirty",
+      "At seven fifteen",
+      "At eight"
+     ],
+     "a": 1
+    },
+    {
+     "q": "Who sits next to Ali?",
+     "opts": [
+      "An old man",
+      "His teacher",
+      "His sister"
+     ],
+     "a": 0
+    },
+    {
+     "q": "What does Ali do when the bus arrives?",
+     "opts": [
+      "He buys a newspaper",
+      "He goes home",
+      "He helps the old man get on"
+     ],
+     "a": 2
+    }
+   ]
+  },
+  {
+   "id": "r20261014c-a02",
+   "title": "The Case for Walking",
+   "level": "Menengah atas",
+   "min": 3,
+   "body": [
+    "Walking is the simplest form of exercise, yet many people ignore it. It costs nothing, needs no equipment and can be done almost anywhere.",
+    "Studies suggest that a brisk thirty-minute walk each day lowers the risk of heart disease and improves mood. Walking outdoors also seems to help people think more creatively, perhaps because the mind is free to wander.",
+    "Of course, walking will not solve every health problem. However, for those who spend most of the day sitting, it is an easy first step towards a more active life."
+   ],
+   "gloss": {
+    "equipment": "peralatan",
+    "brisk": "cepat dan bersemangat",
+    "risk": "risiko",
+    "mood": "suasana hati",
+    "wander": "melayang"
+   },
+   "qs": [
+    {
+     "q": "What is one advantage of walking?",
+     "opts": [
+      "It needs special equipment",
+      "It costs nothing",
+      "It must be done in a gym"
+     ],
+     "a": 1
+    },
+    {
+     "q": "According to the studies, what does a daily brisk walk do?",
+     "opts": [
+      "It lowers the risk of heart disease and improves mood",
+      "It replaces all other exercise",
+      "It makes people sleep less"
+     ],
+     "a": 0
+    },
+    {
+     "q": "Who is walking an easy first step for?",
+     "opts": [
+      "Professional athletes",
+      "People with no health problems",
+      "People who sit most of the day"
+     ],
+     "a": 2
+    }
+   ]
+  }
+ ]
+}
