@@ -1,0 +1,620 @@
+{
+ "bank": [
+  {
+   "id": "r20261015-001",
+   "topic": "Be: am/is/are",
+   "level": "Dasar",
+   "q": "My parents ___ at home now.",
+   "opts": [
+    "is",
+    "are",
+    "am"
+   ],
+   "a": 1,
+   "why": "Parents jamak, jadi are."
+  },
+  {
+   "id": "r20261015-002",
+   "topic": "Present simple",
+   "level": "Dasar",
+   "q": "The shop ___ at nine every morning.",
+   "opts": [
+    "opens",
+    "open",
+    "opening"
+   ],
+   "a": 0,
+   "why": "Subjek tunggal (the shop) di present simple: verb + s, jadi opens."
+  },
+  {
+   "id": "r20261015-003",
+   "topic": "Past simple",
+   "level": "Dasar",
+   "q": "We ___ a movie last night.",
+   "opts": [
+    "watch",
+    "watching",
+    "watched"
+   ],
+   "a": 2,
+   "why": "Last night menandakan masa lalu: watched."
+  },
+  {
+   "id": "r20261015-004",
+   "topic": "Prepositions of place",
+   "level": "Dasar",
+   "q": "The cat is sleeping ___ the sofa.",
+   "opts": [
+    "at",
+    "on",
+    "to"
+   ],
+   "a": 1,
+   "why": "On the sofa = di atas sofa."
+  },
+  {
+   "id": "r20261015-005",
+   "topic": "Vocabulary: weather",
+   "level": "Dasar",
+   "q": "It is very ___ today. Take your umbrella.",
+   "opts": [
+    "rainy",
+    "sunny",
+    "dry"
+   ],
+   "a": 0,
+   "why": "Karena disuruh membawa payung, cuacanya rainy (hujan)."
+  },
+  {
+   "id": "r20261015-006",
+   "topic": "Vocabulary: body",
+   "level": "Dasar",
+   "q": "We see with our ___.",
+   "opts": [
+    "ears",
+    "hands",
+    "eyes"
+   ],
+   "a": 2,
+   "why": "Eyes = mata, alat untuk melihat."
+  },
+  {
+   "id": "r20261015-007",
+   "topic": "Possessive",
+   "level": "Dasar",
+   "q": "This is my sister's room. It is ___ room.",
+   "opts": [
+    "his",
+    "her",
+    "their"
+   ],
+   "a": 1,
+   "why": "Sister perempuan tunggal, jadi her."
+  },
+  {
+   "id": "r20261015-008",
+   "topic": "Questions",
+   "level": "Dasar",
+   "q": "___ you like tea? No, I prefer coffee.",
+   "opts": [
+    "Do",
+    "Are",
+    "Does"
+   ],
+   "a": 0,
+   "why": "Pertanyaan present simple dengan I/you/we/they memakai Do."
+  },
+  {
+   "id": "r20261015-009",
+   "topic": "Imperative",
+   "level": "Dasar",
+   "q": "___ late for school, please.",
+   "opts": [
+    "Not be",
+    "Aren't",
+    "Don't be"
+   ],
+   "a": 2,
+   "why": "Larangan: Don't + verb dasar. Don't be late = jangan terlambat."
+  },
+  {
+   "id": "r20261015-010",
+   "topic": "Vocabulary: time",
+   "level": "Dasar",
+   "q": "There are sixty minutes in one ___.",
+   "opts": [
+    "day",
+    "hour",
+    "week"
+   ],
+   "a": 1,
+   "why": "Satu hour (jam) = 60 menit."
+  },
+  {
+   "id": "r20261015-011",
+   "topic": "Past simple vs perfect",
+   "level": "Menengah",
+   "q": "I ___ him yesterday at the station.",
+   "opts": [
+    "saw",
+    "have seen",
+    "had seen"
+   ],
+   "a": 0,
+   "why": "Yesterday menandakan waktu lampau yang jelas: past simple (saw)."
+  },
+  {
+   "id": "r20261015-012",
+   "topic": "Present perfect",
+   "level": "Menengah",
+   "q": "She has never ___ sushi before.",
+   "opts": [
+    "ate",
+    "eat",
+    "eaten"
+   ],
+   "a": 2,
+   "why": "Has/have + past participle: has never eaten."
+  },
+  {
+   "id": "r20261015-013",
+   "topic": "Future forms",
+   "level": "Menengah",
+   "q": "I have no plans for tonight. Maybe I ___ my friend.",
+   "opts": [
+    "am going to call",
+    "will call",
+    "am calling"
+   ],
+   "a": 1,
+   "why": "Keputusan spontan/kemungkinan saat berbicara memakai will + verb (maybe)."
+  },
+  {
+   "id": "r20261015-014",
+   "topic": "Conditionals",
+   "level": "Menengah",
+   "q": "If you mix red and yellow, you ___ orange.",
+   "opts": [
+    "get",
+    "will getting",
+    "got"
+   ],
+   "a": 0,
+   "why": "Fakta umum: If + present simple, present simple (get)."
+  },
+  {
+   "id": "r20261015-015",
+   "topic": "Reported speech",
+   "level": "Menengah",
+   "q": "She said, \"I am tired.\" -> She said that she ___ tired.",
+   "opts": [
+    "is",
+    "be",
+    "was"
+   ],
+   "a": 2,
+   "why": "Dalam reported speech tense mundur: am menjadi was."
+  },
+  {
+   "id": "r20261015-016",
+   "topic": "Comparatives",
+   "level": "Menengah",
+   "q": "My new job is ___ than my old one.",
+   "opts": [
+    "interestinger",
+    "more interesting",
+    "most interesting"
+   ],
+   "a": 1,
+   "why": "Adjective panjang: more + adjective + than."
+  },
+  {
+   "id": "r20261015-017",
+   "topic": "Gerund/infinitive",
+   "level": "Menengah",
+   "q": "I decided ___ a new phone.",
+   "opts": [
+    "to buy",
+    "buying",
+    "buy"
+   ],
+   "a": 0,
+   "why": "Setelah decide dipakai to + verb."
+  },
+  {
+   "id": "r20261015-018",
+   "topic": "Phrasal verbs",
+   "level": "Menengah",
+   "q": "Can you ___ after my cat while I am away?",
+   "opts": [
+    "take",
+    "turn",
+    "look"
+   ],
+   "a": 2,
+   "why": "Look after = merawat/menjaga."
+  },
+  {
+   "id": "r20261015-019",
+   "topic": "Vocabulary: travel",
+   "level": "Menengah",
+   "q": "We need to ___ in at the airport two hours before the flight.",
+   "opts": [
+    "look",
+    "check",
+    "pick"
+   ],
+   "a": 1,
+   "why": "Check in = lapor/daftar masuk di bandara."
+  },
+  {
+   "id": "r20261015-020",
+   "topic": "Relative clauses",
+   "level": "Menengah",
+   "q": "This is the restaurant ___ we had dinner last week.",
+   "opts": [
+    "where",
+    "who",
+    "which"
+   ],
+   "a": 0,
+   "why": "Where dipakai untuk tempat."
+  },
+  {
+   "id": "r20261015-021",
+   "topic": "Third conditional",
+   "level": "Menengah atas",
+   "q": "If he ___ harder, he would have passed the exam.",
+   "opts": [
+    "studied",
+    "would study",
+    "had studied"
+   ],
+   "a": 2,
+   "why": "Third conditional: If + past perfect, would have + past participle."
+  },
+  {
+   "id": "r20261015-022",
+   "topic": "Idioms",
+   "level": "Menengah atas",
+   "q": "It is raining cats and dogs, so we cannot go out. This idiom means it is raining ___.",
+   "opts": [
+    "lightly",
+    "heavily",
+    "rarely"
+   ],
+   "a": 1,
+   "why": "Raining cats and dogs = hujan sangat deras."
+  },
+  {
+   "id": "r20261015-023",
+   "topic": "Past perfect",
+   "level": "Menengah atas",
+   "q": "She told me she ___ the report before the meeting.",
+   "opts": [
+    "had finished",
+    "has finished",
+    "finishes"
+   ],
+   "a": 0,
+   "why": "Kejadian yang selesai lebih dulu dari kejadian lampau lain: past perfect."
+  },
+  {
+   "id": "r20261015-024",
+   "topic": "Reported speech",
+   "level": "Menengah atas",
+   "q": "He asked me ___ I could help him.",
+   "opts": [
+    "that",
+    "what",
+    "if"
+   ],
+   "a": 2,
+   "why": "Pertanyaan ya/tidak dalam reported speech memakai if atau whether."
+  },
+  {
+   "id": "r20261015-025",
+   "topic": "Linking words",
+   "level": "Menengah atas",
+   "q": "We stayed at home ___ the weather was terrible.",
+   "opts": [
+    "although",
+    "because",
+    "however"
+   ],
+   "a": 1,
+   "why": "Because = karena, menyatakan sebab."
+  },
+  {
+   "id": "r20261015-026",
+   "topic": "Conditionals",
+   "level": "Menengah atas",
+   "q": "You will not pass ___ you study harder.",
+   "opts": [
+    "unless",
+    "if",
+    "when"
+   ],
+   "a": 0,
+   "why": "Unless = kecuali jika. Maksudnya: tidak akan lulus kecuali belajar lebih giat."
+  },
+  {
+   "id": "r20261015-027",
+   "topic": "Modals of deduction",
+   "level": "Menengah atas",
+   "q": "The lights are off. They ___ be at home.",
+   "opts": [
+    "must",
+    "should",
+    "can't"
+   ],
+   "a": 2,
+   "why": "Can't be = pasti tidak. Lampu mati, jadi mereka pasti tidak di rumah."
+  },
+  {
+   "id": "r20261015-028",
+   "topic": "Wish",
+   "level": "Menengah atas",
+   "q": "I wish I ___ taller. Then I could play basketball.",
+   "opts": [
+    "am",
+    "were",
+    "will be"
+   ],
+   "a": 1,
+   "why": "Wish untuk keadaan tidak nyata sekarang: past simple (were)."
+  },
+  {
+   "id": "r20261015-029",
+   "topic": "Vocabulary: collocations",
+   "level": "Menengah atas",
+   "q": "She always ___ attention to small details.",
+   "opts": [
+    "pays",
+    "makes",
+    "takes"
+   ],
+   "a": 0,
+   "why": "Kolokasi tetap: pay attention."
+  },
+  {
+   "id": "r20261015-030",
+   "topic": "Prepositions",
+   "level": "Menengah atas",
+   "q": "He is very good ___ solving problems.",
+   "opts": [
+    "in",
+    "for",
+    "at"
+   ],
+   "a": 2,
+   "why": "Kolokasi tetap: good at."
+  },
+  {
+   "id": "r20261015-031",
+   "topic": "Grammar: unless",
+   "level": "Menuju lancar",
+   "q": "I will not go to the party ___ I am invited.",
+   "opts": [
+    "if",
+    "unless",
+    "until"
+   ],
+   "a": 1,
+   "why": "Unless = kecuali, sama dengan if ... not."
+  },
+  {
+   "id": "r20261015-032",
+   "topic": "Grammar: whereas/while",
+   "level": "Menuju lancar",
+   "q": "Anna loves running, ___ her brother hates any kind of exercise.",
+   "opts": [
+    "whereas",
+    "because",
+    "unless"
+   ],
+   "a": 0,
+   "why": "Whereas menyatakan kontras antara dua orang."
+  },
+  {
+   "id": "r20261015-033",
+   "topic": "Subjunctive",
+   "level": "Menuju lancar",
+   "q": "If I ___ you, I would accept the offer.",
+   "opts": [
+    "am",
+    "was being",
+    "were"
+   ],
+   "a": 2,
+   "why": "Dalam kondisi tidak nyata, were dipakai untuk semua subjek: If I were you."
+  },
+  {
+   "id": "r20261015-034",
+   "topic": "Inversion",
+   "level": "Menuju lancar",
+   "q": "Under no circumstances ___ the door be left open.",
+   "opts": [
+    "will be",
+    "should",
+    "is"
+   ],
+   "a": 1,
+   "why": "Negatif di awal kalimat: should + subjek dibalik. Under no circumstances should the door ..."
+  },
+  {
+   "id": "r20261015-035",
+   "topic": "Grammar: participle",
+   "level": "Menuju lancar",
+   "q": "___ from the top of the hill, the village looks tiny.",
+   "opts": [
+    "Seen",
+    "Seeing",
+    "Having see"
+   ],
+   "a": 0,
+   "why": "Desa dilihat (pasif), jadi past participle: Seen from the top ..."
+  },
+  {
+   "id": "r20261015-036",
+   "topic": "Advanced vocab",
+   "level": "Menuju lancar",
+   "q": "The new law will ___ the economy, so prices are expected to rise.",
+   "opts": [
+    "effect",
+    "afflict",
+    "affect"
+   ],
+   "a": 2,
+   "why": "Affect = memengaruhi (kata kerja). Effect biasanya kata benda."
+  },
+  {
+   "id": "r20261015-037",
+   "topic": "Collocations",
+   "level": "Menuju lancar",
+   "q": "The two companies decided to ___ forces to launch the product.",
+   "opts": [
+    "make",
+    "join",
+    "add"
+   ],
+   "a": 1,
+   "why": "Kolokasi tetap: join forces = bergabung/bekerja sama."
+  },
+  {
+   "id": "r20261015-038",
+   "topic": "Cleft sentences",
+   "level": "Menuju lancar",
+   "q": "It was in 1998 ___ the company was founded.",
+   "opts": [
+    "that",
+    "what",
+    "when it"
+   ],
+   "a": 0,
+   "why": "Cleft sentence: It was + keterangan + that + klausa."
+  },
+  {
+   "id": "r20261015-039",
+   "topic": "Grammar: used to",
+   "level": "Menuju lancar",
+   "q": "There ___ be a cinema here, but now it is a supermarket.",
+   "opts": [
+    "is used to",
+    "was use to",
+    "used to"
+   ],
+   "a": 2,
+   "why": "Used to + verb dasar = dulu pernah (sekarang tidak lagi)."
+  },
+  {
+   "id": "r20261015-040",
+   "topic": "Idioms",
+   "level": "Menuju lancar",
+   "q": "He spilled the beans about the surprise party. He ___ the secret.",
+   "opts": [
+    "hid",
+    "revealed",
+    "forgot"
+   ],
+   "a": 1,
+   "why": "Spill the beans = membocorkan rahasia."
+  }
+ ],
+ "articles": [
+  {
+   "id": "r20261015-a01",
+   "title": "The Night Market",
+   "level": "Dasar",
+   "min": 2,
+   "body": [
+    "Every Friday evening, there is a night market near our town. It opens at six and closes at eleven. Many families go there after work.",
+    "There are small stalls with food, clothes and toys. My favorite is the fried noodle stall. The cook is very fast, and the noodles are always hot and delicious.",
+    "Last Friday, I went with my cousin. We ate noodles, drank iced tea and bought a small bag. We got home at ten, tired but happy."
+   ],
+   "gloss": {
+    "evening": "malam (sore)",
+    "stalls": "lapak",
+    "favorite": "favorit",
+    "cook": "juru masak",
+    "cousin": "sepupu"
+   },
+   "qs": [
+    {
+     "q": "When does the night market open?",
+     "opts": [
+      "At six",
+      "At nine",
+      "At eleven"
+     ],
+     "a": 0
+    },
+    {
+     "q": "What is the writer's favorite stall?",
+     "opts": [
+      "The toy stall",
+      "The fried noodle stall",
+      "The clothes stall"
+     ],
+     "a": 1
+    },
+    {
+     "q": "Who went to the market with the writer last Friday?",
+     "opts": [
+      "A neighbor",
+      "A teacher",
+      "A cousin"
+     ],
+     "a": 2
+    }
+   ]
+  },
+  {
+   "id": "r20261015-a02",
+   "title": "The Value of a Second Language",
+   "level": "Menengah atas",
+   "min": 3,
+   "body": [
+    "Learning a second language is often seen as a useful skill for travel or work, but its benefits go further. Research suggests that bilingual people are better at switching between tasks and ignoring distractions.",
+    "Language learning may also protect the brain as we age. Some studies have found that bilingual people develop signs of memory loss several years later than those who speak only one language.",
+    "Of course, becoming fluent takes time and regular practice. Experts recommend studying a little every day instead of cramming once a week, because frequent short sessions help the brain remember new words."
+   ],
+   "gloss": {
+    "bilingual": "dwibahasa",
+    "distractions": "gangguan",
+    "protect": "melindungi",
+    "fluent": "fasih",
+    "cramming": "belajar mendadak"
+   },
+   "qs": [
+    {
+     "q": "According to research, bilingual people are better at",
+     "opts": [
+      "switching between tasks and ignoring distractions",
+      "travelling long distances",
+      "learning music quickly"
+     ],
+     "a": 0
+    },
+    {
+     "q": "What have some studies found about bilingual people?",
+     "opts": [
+      "They never forget words",
+      "They sleep longer",
+      "Signs of memory loss appear later in life"
+     ],
+     "a": 2
+    },
+    {
+     "q": "What do experts recommend?",
+     "opts": [
+      "Studying a little every day",
+      "Studying only once a week",
+      "Avoiding practice until fluent"
+     ],
+     "a": 0
+    }
+   ]
+  }
+ ]
+}
