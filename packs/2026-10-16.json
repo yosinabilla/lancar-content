@@ -1,0 +1,646 @@
+{
+ "bank": [
+  {
+   "id": "r20261016-001",
+   "topic": "Present simple",
+   "level": "Dasar",
+   "q": "Water ___ at 100 degrees Celsius.",
+   "opts": [
+    "boils",
+    "boil",
+    "boiling"
+   ],
+   "a": 0,
+   "why": "Fakta umum memakai present simple; subjek tunggal: boils."
+  },
+  {
+   "id": "r20261016-002",
+   "topic": "Be: am/is/are",
+   "level": "Dasar",
+   "q": "I ___ a student, and my friends are students too.",
+   "opts": [
+    "is",
+    "am",
+    "are"
+   ],
+   "a": 1,
+   "why": "Subjek I memakai am."
+  },
+  {
+   "id": "r20261016-003",
+   "topic": "Articles",
+   "level": "Dasar",
+   "q": "My father is ___ engineer.",
+   "opts": [
+    "a",
+    "the",
+    "an"
+   ],
+   "a": 2,
+   "why": "Engineer diawali bunyi vokal, jadi an."
+  },
+  {
+   "id": "r20261016-004",
+   "topic": "Plurals",
+   "level": "Dasar",
+   "q": "I have two ___ in my bag.",
+   "opts": [
+    "boxes",
+    "boxs",
+    "boxies"
+   ],
+   "a": 0,
+   "why": "Kata berakhiran -x ditambah -es: boxes."
+  },
+  {
+   "id": "r20261016-005",
+   "topic": "Prepositions of time",
+   "level": "Dasar",
+   "q": "We have a math test ___ Monday.",
+   "opts": [
+    "in",
+    "at",
+    "on"
+   ],
+   "a": 2,
+   "why": "Untuk hari dipakai on."
+  },
+  {
+   "id": "r20261016-006",
+   "topic": "Vocabulary: family",
+   "level": "Dasar",
+   "q": "My mother's sister is my ___.",
+   "opts": [
+    "aunt",
+    "uncle",
+    "cousin"
+   ],
+   "a": 0,
+   "why": "Saudara perempuan ibu adalah aunt (bibi)."
+  },
+  {
+   "id": "r20261016-007",
+   "topic": "Can",
+   "level": "Dasar",
+   "q": "A fish ___ swim, but it cannot walk.",
+   "opts": [
+    "cans",
+    "can",
+    "is"
+   ],
+   "a": 1,
+   "why": "Setelah can dipakai verb dasar, tanpa s."
+  },
+  {
+   "id": "r20261016-008",
+   "topic": "Past simple",
+   "level": "Dasar",
+   "q": "She ___ her homework before dinner yesterday.",
+   "opts": [
+    "does",
+    "doing",
+    "did"
+   ],
+   "a": 2,
+   "why": "Yesterday menandakan masa lalu; lampau dari do adalah did."
+  },
+  {
+   "id": "r20261016-009",
+   "topic": "Vocabulary: colors",
+   "level": "Dasar",
+   "q": "Mix blue and yellow, and you get ___.",
+   "opts": [
+    "red",
+    "green",
+    "black"
+   ],
+   "a": 1,
+   "why": "Biru dicampur kuning menjadi hijau (green)."
+  },
+  {
+   "id": "r20261016-010",
+   "topic": "Short answers",
+   "level": "Dasar",
+   "q": "\"Is he your brother?\" \"Yes, he ___.\"",
+   "opts": [
+    "does",
+    "has",
+    "is"
+   ],
+   "a": 2,
+   "why": "Jawaban singkat mengulang verb be: Yes, he is."
+  },
+  {
+   "id": "r20261016-011",
+   "topic": "Past simple vs perfect",
+   "level": "Menengah",
+   "q": "We ___ in Bandung for five years, and we still live there.",
+   "opts": [
+    "have lived",
+    "lived",
+    "were living"
+   ],
+   "a": 0,
+   "why": "Masih berlanjut sampai sekarang: present perfect (have lived)."
+  },
+  {
+   "id": "r20261016-012",
+   "topic": "Modals",
+   "level": "Menengah",
+   "q": "___ I borrow your pen, please?",
+   "opts": [
+    "Must",
+    "May",
+    "Would to"
+   ],
+   "a": 1,
+   "why": "May I ...? dipakai untuk meminta izin dengan sopan."
+  },
+  {
+   "id": "r20261016-013",
+   "topic": "Passive",
+   "level": "Menengah",
+   "q": "English ___ in many countries.",
+   "opts": [
+    "is spoken",
+    "speaks",
+    "is speaking"
+   ],
+   "a": 0,
+   "why": "Bahasa itu dituturkan (pasif): is + past participle."
+  },
+  {
+   "id": "r20261016-014",
+   "topic": "Time clauses",
+   "level": "Menengah",
+   "q": "Wait here until the teacher ___ you.",
+   "opts": [
+    "will call",
+    "calls",
+    "is calling"
+   ],
+   "a": 1,
+   "why": "Setelah until untuk masa depan dipakai present simple: calls."
+  },
+  {
+   "id": "r20261016-015",
+   "topic": "Gerund/infinitive",
+   "level": "Menengah",
+   "q": "She enjoys ___ novels in her free time.",
+   "opts": [
+    "to read",
+    "read",
+    "reading"
+   ],
+   "a": 2,
+   "why": "Setelah enjoy memakai gerund: reading."
+  },
+  {
+   "id": "r20261016-016",
+   "topic": "Conditionals",
+   "level": "Menengah",
+   "q": "If I ___ rich, I would buy a big house.",
+   "opts": [
+    "were",
+    "am",
+    "will be"
+   ],
+   "a": 0,
+   "why": "Second conditional: If + past simple (were), would + verb."
+  },
+  {
+   "id": "r20261016-017",
+   "topic": "Prepositions",
+   "level": "Menengah",
+   "q": "He is married ___ a teacher.",
+   "opts": [
+    "with",
+    "by",
+    "to"
+   ],
+   "a": 2,
+   "why": "Kolokasi tetap: married to."
+  },
+  {
+   "id": "r20261016-018",
+   "topic": "Comparison",
+   "level": "Menengah",
+   "q": "This exercise is not as difficult ___ the last one.",
+   "opts": [
+    "as",
+    "than",
+    "like"
+   ],
+   "a": 0,
+   "why": "Pola tetap: not as + adjective + as."
+  },
+  {
+   "id": "r20261016-019",
+   "topic": "Vocabulary: work",
+   "level": "Menengah",
+   "q": "My boss gave me a ___ on my performance. It was very helpful.",
+   "opts": [
+    "news",
+    "feedback",
+    "furniture"
+   ],
+   "a": 1,
+   "why": "Feedback = masukan, dipakai sebagai kata tak terhitung."
+  },
+  {
+   "id": "r20261016-020",
+   "topic": "Phrasal verbs",
+   "level": "Menengah",
+   "q": "The meeting was ___ off because the manager was sick.",
+   "opts": [
+    "put",
+    "taken",
+    "called"
+   ],
+   "a": 2,
+   "why": "Call off = membatalkan."
+  },
+  {
+   "id": "r20261016-021",
+   "topic": "Third conditional",
+   "level": "Menengah atas",
+   "q": "If we had left earlier, we ___ the flight.",
+   "opts": [
+    "wouldn't miss",
+    "wouldn't have missed",
+    "didn't miss"
+   ],
+   "a": 1,
+   "why": "Third conditional: would have + past participle untuk penyesalan masa lalu."
+  },
+  {
+   "id": "r20261016-022",
+   "topic": "Passive advanced",
+   "level": "Menengah atas",
+   "q": "The documents ___ by the time the manager arrived.",
+   "opts": [
+    "were signing",
+    "have signed",
+    "had been signed"
+   ],
+   "a": 2,
+   "why": "Pasif past perfect: had been + past participle."
+  },
+  {
+   "id": "r20261016-023",
+   "topic": "Inversion",
+   "level": "Menengah atas",
+   "q": "Only after the test ___ about the mistake.",
+   "opts": [
+    "did she realize",
+    "she realized",
+    "realized she"
+   ],
+   "a": 0,
+   "why": "Only after di awal kalimat memicu inversi: did she realize."
+  },
+  {
+   "id": "r20261016-024",
+   "topic": "Linking words",
+   "level": "Menengah atas",
+   "q": "She stayed calm ___ the pressure.",
+   "opts": [
+    "although",
+    "despite",
+    "even"
+   ],
+   "a": 1,
+   "why": "Despite + kata benda (the pressure) = meskipun."
+  },
+  {
+   "id": "r20261016-025",
+   "topic": "Wish",
+   "level": "Menengah atas",
+   "q": "I wish I ___ the answer yesterday.",
+   "opts": [
+    "had known",
+    "knew",
+    "would know"
+   ],
+   "a": 0,
+   "why": "Penyesalan tentang masa lalu: wish + past perfect."
+  },
+  {
+   "id": "r20261016-026",
+   "topic": "Collocations",
+   "level": "Menengah atas",
+   "q": "The government plans to ___ new taxes next year.",
+   "opts": [
+    "make",
+    "introduce",
+    "do"
+   ],
+   "a": 1,
+   "why": "Kolokasi umum: introduce new taxes."
+  },
+  {
+   "id": "r20261016-027",
+   "topic": "Perfect continuous",
+   "level": "Menengah atas",
+   "q": "How long ___ for the bus?",
+   "opts": [
+    "are you waiting",
+    "did you wait",
+    "have you been waiting"
+   ],
+   "a": 2,
+   "why": "Durasi yang masih berlanjut: present perfect continuous."
+  },
+  {
+   "id": "r20261016-028",
+   "topic": "Vocabulary: formal",
+   "level": "Menengah atas",
+   "q": "Please ___ the attached document and reply by Monday.",
+   "opts": [
+    "review",
+    "revue",
+    "revive"
+   ],
+   "a": 0,
+   "why": "Review = memeriksa. Revive = menghidupkan kembali."
+  },
+  {
+   "id": "r20261016-029",
+   "topic": "Reported speech",
+   "level": "Menengah atas",
+   "q": "\"I will call you tomorrow,\" he said. -> He said he ___ me the next day.",
+   "opts": [
+    "will call",
+    "called",
+    "would call"
+   ],
+   "a": 2,
+   "why": "Dalam reported speech will menjadi would dan tomorrow menjadi the next day."
+  },
+  {
+   "id": "r20261016-030",
+   "topic": "Idioms",
+   "level": "Menengah atas",
+   "q": "When the team won, the manager was over the ___.",
+   "opts": [
+    "moon",
+    "sky",
+    "roof"
+   ],
+   "a": 0,
+   "why": "Idiom over the moon = sangat senang."
+  },
+  {
+   "id": "r20261016-031",
+   "topic": "Subjunctive",
+   "level": "Menuju lancar",
+   "q": "The committee demands that every member ___ the rules.",
+   "opts": [
+    "follows",
+    "follow",
+    "followed"
+   ],
+   "a": 1,
+   "why": "Setelah demand that dipakai verb dasar (subjunctive)."
+  },
+  {
+   "id": "r20261016-032",
+   "topic": "Grammar: causative",
+   "level": "Menuju lancar",
+   "q": "She had her hair ___ yesterday.",
+   "opts": [
+    "cutting",
+    "to cut",
+    "cut"
+   ],
+   "a": 2,
+   "why": "Causative: have + objek + past participle (had her hair cut)."
+  },
+  {
+   "id": "r20261016-033",
+   "topic": "Cleft sentences",
+   "level": "Menuju lancar",
+   "q": "What surprised me ___ his calm reaction.",
+   "opts": [
+    "were",
+    "was",
+    "is being"
+   ],
+   "a": 1,
+   "why": "Pseudo-cleft: What + klausa + was + ... (tunggal, masa lalu)."
+  },
+  {
+   "id": "r20261016-034",
+   "topic": "Grammar: as/like",
+   "level": "Menuju lancar",
+   "q": "He works ___ a translator at a large firm.",
+   "opts": [
+    "like",
+    "such",
+    "as"
+   ],
+   "a": 2,
+   "why": "As menyatakan peran/pekerjaan. Like berarti seperti."
+  },
+  {
+   "id": "r20261016-035",
+   "topic": "Advanced vocab",
+   "level": "Menuju lancar",
+   "q": "Her explanation was ___; everyone understood it at once.",
+   "opts": [
+    "lucid",
+    "obscure",
+    "vague"
+   ],
+   "a": 0,
+   "why": "Lucid = jelas. Obscure dan vague = tidak jelas."
+  },
+  {
+   "id": "r20261016-036",
+   "topic": "Nuance: modals",
+   "level": "Menuju lancar",
+   "q": "He ___ be at work now. I saw his car outside the house.",
+   "opts": [
+    "mustn't",
+    "can't",
+    "needn't"
+   ],
+   "a": 1,
+   "why": "Karena mobilnya terlihat di rumah, dugaan kuat bahwa ia tidak di kantor: can't."
+  },
+  {
+   "id": "r20261016-037",
+   "topic": "Grammar: neither/either",
+   "level": "Menuju lancar",
+   "q": "___ of the two answers is correct. Both are wrong.",
+   "opts": [
+    "Neither",
+    "Either",
+    "Both"
+   ],
+   "a": 0,
+   "why": "Neither = tidak satu pun dari dua. Cocok dengan kalimat kedua."
+  },
+  {
+   "id": "r20261016-038",
+   "topic": "Inversion",
+   "level": "Menuju lancar",
+   "q": "No sooner had she arrived ___ it started to rain.",
+   "opts": [
+    "when",
+    "than",
+    "that"
+   ],
+   "a": 1,
+   "why": "Pola tetap: No sooner had ... than ..."
+  },
+  {
+   "id": "r20261016-039",
+   "topic": "Collocations",
+   "level": "Menuju lancar",
+   "q": "The scandal ___ serious doubts about the company's honesty.",
+   "opts": [
+    "lifted",
+    "grew",
+    "raised"
+   ],
+   "a": 2,
+   "why": "Kolokasi: raise doubts = menimbulkan keraguan."
+  },
+  {
+   "id": "r20261016-040",
+   "topic": "Register",
+   "level": "Menuju lancar",
+   "q": "We regret to ___ you that your application was unsuccessful.",
+   "opts": [
+    "inform",
+    "tell",
+    "say"
+   ],
+   "a": 0,
+   "why": "Regret to inform = formal. Tell dan say kurang cocok untuk surat resmi."
+  },
+  {
+   "id": "r20261016-041",
+   "topic": "Grammar: provided",
+   "level": "Menuju lancar",
+   "q": "You may use my laptop ___ you save your files elsewhere.",
+   "opts": [
+    "despite",
+    "instead",
+    "as long as"
+   ],
+   "a": 2,
+   "why": "As long as = asalkan, sama dengan provided."
+  },
+  {
+   "id": "r20261016-042",
+   "topic": "Grammar: too/enough",
+   "level": "Menuju lancar",
+   "q": "The room was ___ small for all of us.",
+   "opts": [
+    "too",
+    "enough",
+    "so"
+   ],
+   "a": 0,
+   "why": "Too + adjective + for = terlalu ... untuk ..."
+  }
+ ],
+ "articles": [
+  {
+   "id": "r20261016-a01",
+   "title": "A Phone Call to Grandma",
+   "level": "Dasar",
+   "min": 2,
+   "body": [
+    "Every Sunday, Sari calls her grandmother. Grandma lives in a small village, far from the city. She does not have a smartphone, so they talk on the old house phone.",
+    "Last Sunday, Grandma said that she had a new hobby. She now grows flowers in front of her house. She has red, white and yellow roses.",
+    "Sari was very happy to hear that. She promised to visit her in the school holiday and help her in the garden."
+   ],
+   "gloss": {
+    "village": "desa",
+    "hobby": "hobi",
+    "grows": "menanam",
+    "roses": "mawar",
+    "promised": "berjanji"
+   },
+   "qs": [
+    {
+     "q": "When does Sari call her grandmother?",
+     "opts": [
+      "Every Sunday",
+      "Every morning",
+      "Once a year"
+     ],
+     "a": 0
+    },
+    {
+     "q": "What is Grandma's new hobby?",
+     "opts": [
+      "Cooking",
+      "Growing flowers",
+      "Painting"
+     ],
+     "a": 1
+    },
+    {
+     "q": "When will Sari visit her?",
+     "opts": [
+      "Next week",
+      "At night",
+      "In the school holiday"
+     ],
+     "a": 2
+    }
+   ]
+  },
+  {
+   "id": "r20261016-a02",
+   "title": "The Rise of Online Shopping",
+   "level": "Menengah atas",
+   "min": 3,
+   "body": [
+    "Over the past decade, online shopping has changed the way people buy almost everything. With a few taps on a phone, customers can compare prices, read reviews and have goods delivered to their door.",
+    "For small businesses, this has opened new opportunities. A seller in a small town can now reach customers all over the country without renting an expensive shop.",
+    "However, there are drawbacks. Some buyers receive items that look different from the photos, and returning them can be difficult. Experts advise reading reviews carefully and choosing sellers with a clear refund policy."
+   ],
+   "gloss": {
+    "decade": "dekade",
+    "reviews": "ulasan",
+    "drawbacks": "kekurangan",
+    "refund": "pengembalian dana",
+    "opportunities": "peluang"
+   },
+   "qs": [
+    {
+     "q": "How has online shopping helped small businesses?",
+     "opts": [
+      "It makes rent cheaper",
+      "It lets them reach customers across the country",
+      "It removes the need for products"
+     ],
+     "a": 1
+    },
+    {
+     "q": "What is one drawback mentioned?",
+     "opts": [
+      "Items may look different from the photos",
+      "Prices are always higher",
+      "Delivery is always free"
+     ],
+     "a": 0
+    },
+    {
+     "q": "What do experts advise?",
+     "opts": [
+      "Avoid all reviews",
+      "Buy only from big cities",
+      "Choose sellers with a clear refund policy"
+     ],
+     "a": 2
+    }
+   ]
+  }
+ ]
+}
