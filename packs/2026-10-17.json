@@ -1,0 +1,620 @@
+{
+ "bank": [
+  {
+   "id": "r20261017-001",
+   "topic": "Days of the week",
+   "level": "Dasar",
+   "q": "The day before Friday is ___.",
+   "opts": [
+    "Thursday",
+    "Saturday",
+    "Wednesday"
+   ],
+   "a": 0,
+   "why": "Sebelum Jumat adalah Kamis (Thursday)."
+  },
+  {
+   "id": "r20261017-002",
+   "topic": "Body",
+   "level": "Dasar",
+   "q": "We hear with our ___.",
+   "opts": [
+    "eyes",
+    "ears",
+    "hands"
+   ],
+   "a": 1,
+   "why": "Mendengar memakai telinga (ears)."
+  },
+  {
+   "id": "r20261017-003",
+   "topic": "Opposites",
+   "level": "Dasar",
+   "q": "The opposite of \"big\" is ___.",
+   "opts": [
+    "tall",
+    "long",
+    "small"
+   ],
+   "a": 2,
+   "why": "Lawan kata big (besar) adalah small (kecil)."
+  },
+  {
+   "id": "r20261017-004",
+   "topic": "Months",
+   "level": "Dasar",
+   "q": "There are twelve ___ in a year.",
+   "opts": [
+    "months",
+    "weeks",
+    "days"
+   ],
+   "a": 0,
+   "why": "Satu tahun ada dua belas bulan (months)."
+  },
+  {
+   "id": "r20261017-005",
+   "topic": "Articles",
+   "level": "Dasar",
+   "q": "She is ___ university student.",
+   "opts": [
+    "an",
+    "the",
+    "a"
+   ],
+   "a": 2,
+   "why": "University dimulai bunyi konsonan /juː/, jadi memakai a."
+  },
+  {
+   "id": "r20261017-006",
+   "topic": "Present simple",
+   "level": "Dasar",
+   "q": "My father ___ the newspaper every morning.",
+   "opts": [
+    "reads",
+    "read",
+    "reading"
+   ],
+   "a": 0,
+   "why": "Rutinitas dengan subjek orang ketiga tunggal: reads."
+  },
+  {
+   "id": "r20261017-007",
+   "topic": "How much/many",
+   "level": "Dasar",
+   "q": "How ___ water do you drink every day?",
+   "opts": [
+    "many",
+    "much",
+    "few"
+   ],
+   "a": 1,
+   "why": "Water tak terhitung, jadi how much."
+  },
+  {
+   "id": "r20261017-008",
+   "topic": "Prepositions of place",
+   "level": "Dasar",
+   "q": "The bank is ___ the post office and the supermarket.",
+   "opts": [
+    "during",
+    "until",
+    "between"
+   ],
+   "a": 2,
+   "why": "Pola between ... and ... untuk di antara dua tempat."
+  },
+  {
+   "id": "r20261017-009",
+   "topic": "Past simple",
+   "level": "Dasar",
+   "q": "He ___ his bike to school yesterday.",
+   "opts": [
+    "rides",
+    "rode",
+    "riding"
+   ],
+   "a": 1,
+   "why": "Yesterday menandakan masa lalu; ride menjadi rode."
+  },
+  {
+   "id": "r20261017-010",
+   "topic": "Present continuous",
+   "level": "Dasar",
+   "q": "Listen! The baby ___.",
+   "opts": [
+    "cries",
+    "cry",
+    "is crying"
+   ],
+   "a": 2,
+   "why": "Listen! menandakan kejadian sedang berlangsung: is crying."
+  },
+  {
+   "id": "r20261017-011",
+   "topic": "Present perfect",
+   "level": "Menengah",
+   "q": "The train ___ just left. We have to wait for the next one.",
+   "opts": [
+    "has",
+    "have",
+    "is"
+   ],
+   "a": 0,
+   "why": "Just + present perfect; subjek tunggal: has."
+  },
+  {
+   "id": "r20261017-012",
+   "topic": "Phrasal verbs",
+   "level": "Menengah",
+   "q": "The plane ___ at six this morning.",
+   "opts": [
+    "took up",
+    "took off",
+    "took after"
+   ],
+   "a": 1,
+   "why": "Take off = lepas landas. Take up = mulai hobi; take after = mirip orang tua."
+  },
+  {
+   "id": "r20261017-013",
+   "topic": "Gerund/infinitive",
+   "level": "Menengah",
+   "q": "He suggested ___ a taxi to the airport.",
+   "opts": [
+    "taking",
+    "to take",
+    "take"
+   ],
+   "a": 0,
+   "why": "Setelah suggest memakai gerund: taking."
+  },
+  {
+   "id": "r20261017-014",
+   "topic": "Prepositions",
+   "level": "Menengah",
+   "q": "Success depends ___ hard work.",
+   "opts": [
+    "of",
+    "on",
+    "with"
+   ],
+   "a": 1,
+   "why": "Kolokasi tetap: depend on = bergantung pada."
+  },
+  {
+   "id": "r20261017-015",
+   "topic": "Vocabulary: confusing words",
+   "level": "Menengah",
+   "q": "The library is very ___; please do not make noise.",
+   "opts": [
+    "quite",
+    "quit",
+    "quiet"
+   ],
+   "a": 2,
+   "why": "Quiet = tenang. Quite = agak; quit = berhenti."
+  },
+  {
+   "id": "r20261017-016",
+   "topic": "Modals",
+   "level": "Menengah",
+   "q": "You ___ pay for the museum. It is free on Sundays.",
+   "opts": [
+    "don't have to",
+    "mustn't",
+    "won't"
+   ],
+   "a": 0,
+   "why": "Tidak wajib: don't have to. Mustn't = dilarang."
+  },
+  {
+   "id": "r20261017-017",
+   "topic": "Zero conditional",
+   "level": "Menengah",
+   "q": "If you ___ the red button, the machine stops.",
+   "opts": [
+    "will press",
+    "pressed",
+    "press"
+   ],
+   "a": 2,
+   "why": "Zero conditional (fakta): if + present simple, present simple."
+  },
+  {
+   "id": "r20261017-018",
+   "topic": "Relative clauses",
+   "level": "Menengah",
+   "q": "My brother, ___ lives in Sydney, is visiting us next week.",
+   "opts": [
+    "who",
+    "which",
+    "that"
+   ],
+   "a": 0,
+   "why": "Klausa non-restrictive (setelah koma) untuk orang memakai who; that tidak bisa dipakai."
+  },
+  {
+   "id": "r20261017-019",
+   "topic": "Comparison",
+   "level": "Menengah",
+   "q": "The more you practice, the ___ you become.",
+   "opts": [
+    "gooder",
+    "better",
+    "best"
+   ],
+   "a": 1,
+   "why": "Pola the + comparative ... the + comparative: better."
+  },
+  {
+   "id": "r20261017-020",
+   "topic": "Passive",
+   "level": "Menengah",
+   "q": "These cars ___ in Japan.",
+   "opts": [
+    "make",
+    "made",
+    "are made"
+   ],
+   "a": 2,
+   "why": "Pasif present simple: are + past participle (are made)."
+  },
+  {
+   "id": "r20261017-021",
+   "topic": "Third conditional",
+   "level": "Menengah atas",
+   "q": "If they had booked earlier, they ___ less for the tickets.",
+   "opts": [
+    "would pay",
+    "would have paid",
+    "had paid"
+   ],
+   "a": 1,
+   "why": "Third conditional: would have + past participle."
+  },
+  {
+   "id": "r20261017-022",
+   "topic": "Preference",
+   "level": "Menengah atas",
+   "q": "I would rather ___ at home tonight.",
+   "opts": [
+    "to stay",
+    "staying",
+    "stay"
+   ],
+   "a": 2,
+   "why": "Would rather + verb dasar (untuk diri sendiri)."
+  },
+  {
+   "id": "r20261017-023",
+   "topic": "Linking words",
+   "level": "Menengah atas",
+   "q": "___ he was tired, he kept working.",
+   "opts": [
+    "Although",
+    "Despite",
+    "However"
+   ],
+   "a": 0,
+   "why": "Although + klausa (subjek + verb). Despite harus diikuti kata benda."
+  },
+  {
+   "id": "r20261017-024",
+   "topic": "Idioms",
+   "level": "Menengah atas",
+   "q": "After failing the test, Rudi felt ___ all day.",
+   "opts": [
+    "red",
+    "blue",
+    "green"
+   ],
+   "a": 1,
+   "why": "Idiom feel blue = merasa sedih."
+  },
+  {
+   "id": "r20261017-025",
+   "topic": "Passive: future",
+   "level": "Menengah atas",
+   "q": "The results ___ tomorrow morning at nine.",
+   "opts": [
+    "will be announced",
+    "will announce",
+    "are announcing"
+   ],
+   "a": 0,
+   "why": "Pasif future: will be + past participle; announce butuh objek, jadi harus pasif."
+  },
+  {
+   "id": "r20261017-026",
+   "topic": "Collocations",
+   "level": "Menengah atas",
+   "q": "The company will ___ a meeting next week to discuss the merger.",
+   "opts": [
+    "do",
+    "hold",
+    "make"
+   ],
+   "a": 1,
+   "why": "Kolokasi: hold a meeting = mengadakan rapat."
+  },
+  {
+   "id": "r20261017-027",
+   "topic": "Vocabulary: formal",
+   "level": "Menengah atas",
+   "q": "Please find the invoice ___ to this email.",
+   "opts": [
+    "joined",
+    "hanged",
+    "attached"
+   ],
+   "a": 2,
+   "why": "Attached to this email = terlampir pada email ini."
+  },
+  {
+   "id": "r20261017-028",
+   "topic": "Would rather",
+   "level": "Menengah atas",
+   "q": "I would rather you ___ the truth.",
+   "opts": [
+    "told",
+    "tell",
+    "to tell"
+   ],
+   "a": 0,
+   "why": "Would rather + orang lain + past simple: told."
+  },
+  {
+   "id": "r20261017-029",
+   "topic": "Modals of deduction",
+   "level": "Menengah atas",
+   "q": "She ___ have seen us; she wasn't at the party.",
+   "opts": [
+    "mustn't",
+    "needn't",
+    "can't"
+   ],
+   "a": 2,
+   "why": "Deduction negatif tentang masa lalu: can't have + past participle."
+  },
+  {
+   "id": "r20261017-030",
+   "topic": "Vocabulary: confusing words",
+   "level": "Menengah atas",
+   "q": "The country faces serious ___ problems.",
+   "opts": [
+    "economic",
+    "economical",
+    "economics"
+   ],
+   "a": 0,
+   "why": "Economic = berkaitan dengan ekonomi. Economical = hemat; economics = ilmu ekonomi."
+  },
+  {
+   "id": "r20261017-031",
+   "topic": "Advanced vocab",
+   "level": "Menuju lancar",
+   "q": "The two reports gave ___ accounts of the accident, so the police were confused.",
+   "opts": [
+    "identical",
+    "contradictory",
+    "consistent"
+   ],
+   "a": 1,
+   "why": "Contradictory = saling bertentangan. Cocok dengan polisi yang bingung."
+  },
+  {
+   "id": "r20261017-032",
+   "topic": "Register",
+   "level": "Menuju lancar",
+   "q": "In a formal report, instead of \"got worse\", write ___.",
+   "opts": [
+    "got worser",
+    "more bad",
+    "deteriorated"
+   ],
+   "a": 2,
+   "why": "Register formal: deteriorated = memburuk. Got worser dan more bad salah tata bahasa."
+  },
+  {
+   "id": "r20261017-033",
+   "topic": "Inversion",
+   "level": "Menuju lancar",
+   "q": "Only when the rain stopped ___ the stadium.",
+   "opts": [
+    "the fans left",
+    "did the fans leave",
+    "the fans did leave"
+   ],
+   "a": 1,
+   "why": "Only when di awal kalimat memicu inversi: did + subjek + verb."
+  },
+  {
+   "id": "r20261017-034",
+   "topic": "Grammar: high time",
+   "level": "Menuju lancar",
+   "q": "It is high time we ___ action on climate change.",
+   "opts": [
+    "take",
+    "will take",
+    "took"
+   ],
+   "a": 2,
+   "why": "It is high time + past simple: took."
+  },
+  {
+   "id": "r20261017-035",
+   "topic": "Linking words",
+   "level": "Menuju lancar",
+   "q": "___ it rains, the match will go ahead as planned.",
+   "opts": [
+    "Even if",
+    "Unless",
+    "Until"
+   ],
+   "a": 0,
+   "why": "Even if = bahkan jika. Unless berarti kecuali jika (makna berlawanan)."
+  },
+  {
+   "id": "r20261017-036",
+   "topic": "Collocations",
+   "level": "Menuju lancar",
+   "q": "The new evidence ___ light on the mystery.",
+   "opts": [
+    "shone",
+    "shed",
+    "lightened"
+   ],
+   "a": 1,
+   "why": "Kolokasi: shed light on = menjelaskan/menerangi."
+  },
+  {
+   "id": "r20261017-037",
+   "topic": "Advanced vocab",
+   "level": "Menuju lancar",
+   "q": "She kept ___ records of every expense.",
+   "opts": [
+    "meticulous",
+    "careless",
+    "sloppy"
+   ],
+   "a": 0,
+   "why": "Meticulous = sangat teliti. Careless dan sloppy = ceroboh."
+  },
+  {
+   "id": "r20261017-038",
+   "topic": "Agreement",
+   "level": "Menuju lancar",
+   "q": "Sari doesn't like coffee, and ___ does her husband.",
+   "opts": [
+    "either",
+    "neither",
+    "so"
+   ],
+   "a": 1,
+   "why": "Persetujuan negatif: neither + inversi (neither does ...)."
+  },
+  {
+   "id": "r20261017-039",
+   "topic": "Inversion",
+   "level": "Menuju lancar",
+   "q": "Such ___ his anger that he slammed the door.",
+   "opts": [
+    "were",
+    "is being",
+    "was"
+   ],
+   "a": 2,
+   "why": "Inversi dengan such di awal: Such was + kata benda tunggal."
+  },
+  {
+   "id": "r20261017-040",
+   "topic": "Determiners",
+   "level": "Menuju lancar",
+   "q": "___ information you gave me was very useful.",
+   "opts": [
+    "The",
+    "An",
+    "Many"
+   ],
+   "a": 0,
+   "why": "Information tak terhitung dan spesifik (yang kamu berikan): The."
+  }
+ ],
+ "articles": [
+  {
+   "id": "r20261017-a01",
+   "title": "A Trip to the Zoo",
+   "level": "Dasar",
+   "min": 2,
+   "body": [
+    "Last Saturday, Andi and his family went to the zoo. They left home at eight in the morning and arrived an hour later. The weather was sunny and warm.",
+    "At the zoo, they saw many animals. Andi liked the elephants best because they were big and friendly. His little sister, Rani, was afraid of the snakes, but she loved the colorful birds.",
+    "Before they went home, the family ate lunch near the lake. Andi said it was his best weekend ever, and he wants to visit the zoo again next year."
+   ],
+   "gloss": {
+    "zoo": "kebun binatang",
+    "arrived": "tiba",
+    "afraid": "takut",
+    "colorful": "berwarna-warni",
+    "lake": "danau"
+   },
+   "qs": [
+    {
+     "q": "When did the family go to the zoo?",
+     "opts": [
+      "Last Saturday",
+      "Last Sunday",
+      "On Monday"
+     ],
+     "a": 0
+    },
+    {
+     "q": "Which animals did Andi like best?",
+     "opts": [
+      "The snakes",
+      "The elephants",
+      "The birds"
+     ],
+     "a": 1
+    },
+    {
+     "q": "Where did they eat lunch?",
+     "opts": [
+      "At home",
+      "In a restaurant",
+      "Near the lake"
+     ],
+     "a": 2
+    }
+   ]
+  },
+  {
+   "id": "r20261017-a02",
+   "title": "The Problem of Food Waste",
+   "level": "Menengah atas",
+   "min": 3,
+   "body": [
+    "Every year, the world throws away about a third of all the food it produces. While millions of people go hungry, supermarkets, restaurants and households waste enormous amounts of food every day.",
+    "There are many reasons for this. Shops often reject fruit and vegetables that look unusual, even though they are perfectly good to eat. At home, people frequently buy more than they need, and much of it ends up in the bin.",
+    "Fortunately, solutions exist. Some apps connect shops with customers who can buy surplus food at a discount. Experts also suggest planning meals and checking the fridge before shopping. Small changes, they argue, could make a big difference."
+   ],
+   "gloss": {
+    "waste": "membuang",
+    "enormous": "sangat besar",
+    "reject": "menolak",
+    "surplus": "kelebihan",
+    "discount": "diskon"
+   },
+   "qs": [
+    {
+     "q": "How much of the world's food is thrown away?",
+     "opts": [
+      "About half",
+      "About a third",
+      "About ten percent"
+     ],
+     "a": 1
+    },
+    {
+     "q": "Why do shops reject some fruit and vegetables?",
+     "opts": [
+      "Because they taste bad",
+      "Because they are too expensive",
+      "Because they look unusual"
+     ],
+     "a": 2
+    },
+    {
+     "q": "What do experts suggest doing before shopping?",
+     "opts": [
+      "Planning meals and checking the fridge",
+      "Buying more than you need",
+      "Throwing away old food"
+     ],
+     "a": 0
+    }
+   ]
+  }
+ ]
+}
