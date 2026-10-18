@@ -1,0 +1,620 @@
+{
+ "bank": [
+  {
+   "id": "r20261018-001",
+   "topic": "Vocabulary: weather",
+   "level": "Dasar",
+   "q": "The sun is shining. It is a ___ day.",
+   "opts": [
+    "sunny",
+    "rainy",
+    "cloudy"
+   ],
+   "a": 0,
+   "why": "Matahari bersinar berarti cuaca cerah: sunny."
+  },
+  {
+   "id": "r20261018-002",
+   "topic": "Vocabulary: family",
+   "level": "Dasar",
+   "q": "My father's brother is my ___.",
+   "opts": [
+    "aunt",
+    "uncle",
+    "cousin"
+   ],
+   "a": 1,
+   "why": "Saudara laki-laki ayah adalah paman (uncle)."
+  },
+  {
+   "id": "r20261018-003",
+   "topic": "Be: past",
+   "level": "Dasar",
+   "q": "They ___ at the beach last Sunday.",
+   "opts": [
+    "are",
+    "is",
+    "were"
+   ],
+   "a": 2,
+   "why": "Last Sunday menandakan lampau; subjek jamak: were."
+  },
+  {
+   "id": "r20261018-004",
+   "topic": "Numbers",
+   "level": "Dasar",
+   "q": "Seven minus four is ___.",
+   "opts": [
+    "three",
+    "two",
+    "eleven"
+   ],
+   "a": 0,
+   "why": "7 dikurangi 4 sama dengan 3 (three)."
+  },
+  {
+   "id": "r20261018-005",
+   "topic": "Vocabulary: animals",
+   "level": "Dasar",
+   "q": "A ___ has eight legs.",
+   "opts": [
+    "bird",
+    "fish",
+    "spider"
+   ],
+   "a": 2,
+   "why": "Laba-laba (spider) punya delapan kaki."
+  },
+  {
+   "id": "r20261018-006",
+   "topic": "Present simple negative",
+   "level": "Dasar",
+   "q": "I ___ not understand this question.",
+   "opts": [
+    "do",
+    "does",
+    "am"
+   ],
+   "a": 0,
+   "why": "Negatif present simple untuk I: do not."
+  },
+  {
+   "id": "r20261018-007",
+   "topic": "Question words",
+   "level": "Dasar",
+   "q": "___ is your bag? It is on the chair.",
+   "opts": [
+    "What",
+    "Where",
+    "Who"
+   ],
+   "a": 1,
+   "why": "Jawabannya berupa tempat, jadi tanyanya Where."
+  },
+  {
+   "id": "r20261018-008",
+   "topic": "Vocabulary: kitchen",
+   "level": "Dasar",
+   "q": "We use a ___ to cut food.",
+   "opts": [
+    "fork",
+    "glass",
+    "knife"
+   ],
+   "a": 2,
+   "why": "Memotong makanan memakai pisau (knife)."
+  },
+  {
+   "id": "r20261018-009",
+   "topic": "This/that",
+   "level": "Dasar",
+   "q": "Look at ___ bird in the tree over there.",
+   "opts": [
+    "this",
+    "that",
+    "these"
+   ],
+   "a": 1,
+   "why": "Benda tunggal yang jauh: that."
+  },
+  {
+   "id": "r20261018-010",
+   "topic": "Opposites",
+   "level": "Dasar",
+   "q": "The opposite of \"fast\" is ___.",
+   "opts": [
+    "quick",
+    "rapid",
+    "slow"
+   ],
+   "a": 2,
+   "why": "Lawan kata fast (cepat) adalah slow (lambat). Quick dan rapid berarti cepat."
+  },
+  {
+   "id": "r20261018-011",
+   "topic": "Past continuous",
+   "level": "Menengah",
+   "q": "What ___ you doing at nine last night?",
+   "opts": [
+    "were",
+    "was",
+    "are"
+   ],
+   "a": 0,
+   "why": "Past continuous untuk you: were + verb-ing."
+  },
+  {
+   "id": "r20261018-012",
+   "topic": "Present perfect",
+   "level": "Menengah",
+   "q": "We ___ this movie three times.",
+   "opts": [
+    "saw",
+    "have seen",
+    "see"
+   ],
+   "a": 1,
+   "why": "Pengalaman berulang sampai sekarang: present perfect (have seen)."
+  },
+  {
+   "id": "r20261018-013",
+   "topic": "Modals",
+   "level": "Menengah",
+   "q": "Take a jacket. It ___ be cold later.",
+   "opts": [
+    "might",
+    "must",
+    "can't"
+   ],
+   "a": 0,
+   "why": "Kemungkinan kecil di masa depan: might."
+  },
+  {
+   "id": "r20261018-014",
+   "topic": "Gerund/infinitive",
+   "level": "Menengah",
+   "q": "Don't give up. Keep ___!",
+   "opts": [
+    "to try",
+    "trying",
+    "try"
+   ],
+   "a": 1,
+   "why": "Setelah keep memakai gerund: trying."
+  },
+  {
+   "id": "r20261018-015",
+   "topic": "Prepositions",
+   "level": "Menengah",
+   "q": "He is famous ___ his paintings.",
+   "opts": [
+    "of",
+    "with",
+    "for"
+   ],
+   "a": 2,
+   "why": "Kolokasi tetap: famous for = terkenal karena."
+  },
+  {
+   "id": "r20261018-016",
+   "topic": "Comparison",
+   "level": "Menengah",
+   "q": "The cheetah is the ___ land animal in the world.",
+   "opts": [
+    "fastest",
+    "faster",
+    "fast"
+   ],
+   "a": 0,
+   "why": "Superlatif memakai the + -est: the fastest."
+  },
+  {
+   "id": "r20261018-017",
+   "topic": "Passive",
+   "level": "Menengah",
+   "q": "Many houses ___ by the flood last week.",
+   "opts": [
+    "destroyed",
+    "are destroyed",
+    "were destroyed"
+   ],
+   "a": 2,
+   "why": "Pasif lampau, subjek jamak: were + past participle."
+  },
+  {
+   "id": "r20261018-018",
+   "topic": "Vocabulary: confusing words",
+   "level": "Menengah",
+   "q": "I need to ___ money for a new laptop.",
+   "opts": [
+    "save",
+    "safe",
+    "keep"
+   ],
+   "a": 0,
+   "why": "Save money = menabung/menghemat. Safe adalah kata sifat (aman)."
+  },
+  {
+   "id": "r20261018-019",
+   "topic": "Future forms",
+   "level": "Menengah",
+   "q": "___ we go to the beach this Sunday?",
+   "opts": [
+    "Will",
+    "Shall",
+    "Do"
+   ],
+   "a": 1,
+   "why": "Shall we ...? dipakai untuk mengajak."
+  },
+  {
+   "id": "r20261018-020",
+   "topic": "Quantifiers",
+   "level": "Menengah",
+   "q": "Only ___ people came to the meeting, so it was cancelled.",
+   "opts": [
+    "a few",
+    "many",
+    "few"
+   ],
+   "a": 2,
+   "why": "Few = hampir tidak ada (negatif), cocok dengan rapat yang dibatalkan."
+  },
+  {
+   "id": "r20261018-021",
+   "topic": "Conditionals",
+   "level": "Menengah atas",
+   "q": "If she worked closer to home, she ___ so much time commuting.",
+   "opts": [
+    "won't spend",
+    "wouldn't spend",
+    "doesn't spend"
+   ],
+   "a": 1,
+   "why": "Second conditional: would + verb dasar."
+  },
+  {
+   "id": "r20261018-022",
+   "topic": "Reported speech",
+   "level": "Menengah atas",
+   "q": "The doctor advised me ___ more water.",
+   "opts": [
+    "drink",
+    "drinking",
+    "to drink"
+   ],
+   "a": 2,
+   "why": "Advise + objek + to-infinitive: advised me to drink."
+  },
+  {
+   "id": "r20261018-023",
+   "topic": "Linking words",
+   "level": "Menengah atas",
+   "q": "She studied hard; ___, she passed with top marks.",
+   "opts": [
+    "therefore",
+    "however",
+    "although"
+   ],
+   "a": 0,
+   "why": "Therefore = oleh karena itu, menunjukkan hasil."
+  },
+  {
+   "id": "r20261018-024",
+   "topic": "Had better",
+   "level": "Menengah atas",
+   "q": "You look sick. You had better ___ a doctor.",
+   "opts": [
+    "to see",
+    "see",
+    "seeing"
+   ],
+   "a": 1,
+   "why": "Had better + verb dasar (nasihat kuat)."
+  },
+  {
+   "id": "r20261018-025",
+   "topic": "Idioms",
+   "level": "Menengah atas",
+   "q": "My grandfather is 90, but he is still as fit as a ___.",
+   "opts": [
+    "fiddle",
+    "fish",
+    "horse"
+   ],
+   "a": 0,
+   "why": "Idiom as fit as a fiddle = sangat sehat dan bugar."
+  },
+  {
+   "id": "r20261018-026",
+   "topic": "Collocations",
+   "level": "Menengah atas",
+   "q": "The storm ___ a lot of damage to the village.",
+   "opts": [
+    "made",
+    "caused",
+    "gave"
+   ],
+   "a": 1,
+   "why": "Kolokasi: cause damage = menyebabkan kerusakan."
+  },
+  {
+   "id": "r20261018-027",
+   "topic": "Vocabulary: formal",
+   "level": "Menengah atas",
+   "q": "We would like to ___ for the delayed reply.",
+   "opts": [
+    "sorry",
+    "regret",
+    "apologize"
+   ],
+   "a": 2,
+   "why": "Butuh kata kerja: apologize = meminta maaf. Sorry adalah kata sifat."
+  },
+  {
+   "id": "r20261018-028",
+   "topic": "Present perfect",
+   "level": "Menengah atas",
+   "q": "He has sent five applications ___ this month.",
+   "opts": [
+    "so far",
+    "yesterday",
+    "last week"
+   ],
+   "a": 0,
+   "why": "So far = sejauh ini, dipakai dengan present perfect. Yesterday/last week memakai past simple."
+  },
+  {
+   "id": "r20261018-029",
+   "topic": "Relative clauses",
+   "level": "Menengah atas",
+   "q": "Jakarta, ___ is the capital of Indonesia, is very crowded.",
+   "opts": [
+    "who",
+    "that",
+    "which"
+   ],
+   "a": 2,
+   "why": "Klausa non-restrictive (setelah koma) untuk tempat memakai which; that tidak bisa."
+  },
+  {
+   "id": "r20261018-030",
+   "topic": "Passive: modal",
+   "level": "Menengah atas",
+   "q": "The rules must ___ by everyone.",
+   "opts": [
+    "be followed",
+    "follow",
+    "be following"
+   ],
+   "a": 0,
+   "why": "Pasif modal: must be + past participle."
+  },
+  {
+   "id": "r20261018-031",
+   "topic": "Advanced vocab",
+   "level": "Menuju lancar",
+   "q": "The manager's ___ speech put everyone to sleep.",
+   "opts": [
+    "lively",
+    "monotonous",
+    "engaging"
+   ],
+   "a": 1,
+   "why": "Monotonous = monoton dan membosankan, cocok dengan membuat orang tertidur."
+  },
+  {
+   "id": "r20261018-032",
+   "topic": "Subjunctive",
+   "level": "Menuju lancar",
+   "q": "It is vital that every passenger ___ a seat belt.",
+   "opts": [
+    "wears",
+    "wore",
+    "wear"
+   ],
+   "a": 2,
+   "why": "Subjunctive setelah it is vital that: verb dasar (wear)."
+  },
+  {
+   "id": "r20261018-033",
+   "topic": "Inversion",
+   "level": "Menuju lancar",
+   "q": "Little ___ about the danger ahead.",
+   "opts": [
+    "they knew",
+    "did they know",
+    "knew they"
+   ],
+   "a": 1,
+   "why": "Little di awal kalimat memicu inversi: did + subjek + verb."
+  },
+  {
+   "id": "r20261018-034",
+   "topic": "Register",
+   "level": "Menuju lancar",
+   "q": "A formal complaint letter begins: \"I am writing to ___ my dissatisfaction with your service.\"",
+   "opts": [
+    "tell",
+    "say",
+    "express"
+   ],
+   "a": 2,
+   "why": "Register formal: express dissatisfaction = menyampaikan ketidakpuasan."
+  },
+  {
+   "id": "r20261018-035",
+   "topic": "Nuance: modals",
+   "level": "Menuju lancar",
+   "q": "With this traffic, we ___ well miss the flight.",
+   "opts": [
+    "may",
+    "must",
+    "can't"
+   ],
+   "a": 0,
+   "why": "May well = sangat mungkin. Cocok dengan macet sebagai sebab."
+  },
+  {
+   "id": "r20261018-036",
+   "topic": "Cleft sentences",
+   "level": "Menuju lancar",
+   "q": "It was not until midnight ___ the guests left.",
+   "opts": [
+    "when",
+    "that",
+    "then"
+   ],
+   "a": 1,
+   "why": "Pola cleft: It was not until ... that ...."
+  },
+  {
+   "id": "r20261018-037",
+   "topic": "Collocations",
+   "level": "Menuju lancar",
+   "q": "The president's speech ___ widespread criticism.",
+   "opts": [
+    "provoked",
+    "made",
+    "did"
+   ],
+   "a": 0,
+   "why": "Kolokasi: provoke criticism = memicu kritik."
+  },
+  {
+   "id": "r20261018-038",
+   "topic": "Participles",
+   "level": "Menuju lancar",
+   "q": "___ all his money, he had to walk home.",
+   "opts": [
+    "Spent",
+    "Having spent",
+    "Spending"
+   ],
+   "a": 1,
+   "why": "Kejadian sebelum aksi utama: Having + past participle."
+  },
+  {
+   "id": "r20261018-039",
+   "topic": "Advanced vocab",
+   "level": "Menuju lancar",
+   "q": "His ___ knowledge of the subject impressed the examiners.",
+   "opts": [
+    "shallow",
+    "superficial",
+    "profound"
+   ],
+   "a": 2,
+   "why": "Profound = sangat mendalam. Shallow dan superficial = dangkal."
+  },
+  {
+   "id": "r20261018-040",
+   "topic": "Articles advanced",
+   "level": "Menuju lancar",
+   "q": "___ Mount Everest is the highest mountain in the world.",
+   "opts": [
+    "-",
+    "The",
+    "A"
+   ],
+   "a": 0,
+   "why": "Nama gunung tunggal tidak memakai artikel."
+  }
+ ],
+ "articles": [
+  {
+   "id": "r20261018-a01",
+   "title": "My Favorite Season",
+   "level": "Dasar",
+   "min": 2,
+   "body": [
+    "Indonesia has two seasons: the rainy season and the dry season. Rani likes the dry season best. It usually starts in April and ends in September.",
+    "In the dry season, the sun shines almost every day. Rani can ride her bicycle to the beach with her friends. They swim, play volleyball and eat grilled corn near the sea.",
+    "The rainy season is nice too, because everything turns green. But for Rani, sunny days at the beach are the best days of the year."
+   ],
+   "gloss": {
+    "season": "musim",
+    "dry": "kering",
+    "shines": "bersinar",
+    "grilled": "bakar",
+    "turns": "menjadi"
+   },
+   "qs": [
+    {
+     "q": "How many seasons does Indonesia have?",
+     "opts": [
+      "Two",
+      "Three",
+      "Four"
+     ],
+     "a": 0
+    },
+    {
+     "q": "What does Rani eat near the sea?",
+     "opts": [
+      "Fried rice",
+      "Grilled corn",
+      "Ice cream"
+     ],
+     "a": 1
+    },
+    {
+     "q": "When does the dry season usually start?",
+     "opts": [
+      "In January",
+      "In September",
+      "In April"
+     ],
+     "a": 2
+    }
+   ]
+  },
+  {
+   "id": "r20261018-a02",
+   "title": "The Rise of Digital Payments",
+   "level": "Menengah atas",
+   "min": 3,
+   "body": [
+    "Not long ago, most people in Indonesia paid for almost everything in cash. Today, a growing number simply scan a code with their phones. Digital wallets and QR payments have spread from big-city malls to small street stalls.",
+    "Convenience is the main reason for this change. Payments take seconds, there is no need to carry exact change, and every transaction is automatically recorded. For small business owners, going cashless also reduces the risk of receiving counterfeit money.",
+    "However, the shift has challenges. A weak internet connection can stop a payment, and some elderly people find the apps confusing. Experts suggest keeping some cash for emergencies while the country moves towards a more digital economy."
+   ],
+   "gloss": {
+    "cash": "uang tunai",
+    "scan": "memindai",
+    "convenience": "kemudahan",
+    "counterfeit": "palsu",
+    "shift": "pergeseran"
+   },
+   "qs": [
+    {
+     "q": "What is the main reason people switch to digital payments?",
+     "opts": [
+      "Lower prices",
+      "Faster internet",
+      "Convenience"
+     ],
+     "a": 2
+    },
+    {
+     "q": "Why does going cashless help small business owners?",
+     "opts": [
+      "It reduces the risk of receiving counterfeit money",
+      "It removes the need for customers",
+      "It increases their taxes"
+     ],
+     "a": 0
+    },
+    {
+     "q": "What do experts suggest people do?",
+     "opts": [
+      "Stopping all cash use immediately",
+      "Keeping some cash for emergencies",
+      "Avoiding all payment apps"
+     ],
+     "a": 1
+    }
+   ]
+  }
+ ]
+}
