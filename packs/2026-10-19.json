@@ -1,0 +1,620 @@
+{
+ "bank": [
+  {
+   "id": "r20261019-001",
+   "topic": "Vocabulary: school",
+   "level": "Dasar",
+   "q": "Students study in a ___.",
+   "opts": [
+    "classroom",
+    "kitchen",
+    "garage"
+   ],
+   "a": 0,
+   "why": "Murid belajar di kelas (classroom)."
+  },
+  {
+   "id": "r20261019-002",
+   "topic": "Greetings",
+   "level": "Dasar",
+   "q": "We say ___ when we meet someone in the morning.",
+   "opts": [
+    "Good night",
+    "Good morning",
+    "Goodbye"
+   ],
+   "a": 1,
+   "why": "Salam saat bertemu di pagi hari: Good morning."
+  },
+  {
+   "id": "r20261019-003",
+   "topic": "Plurals",
+   "level": "Dasar",
+   "q": "The ___ are playing outside.",
+   "opts": [
+    "childs",
+    "child",
+    "children"
+   ],
+   "a": 2,
+   "why": "Bentuk jamak dari child adalah children."
+  },
+  {
+   "id": "r20261019-004",
+   "topic": "Pronouns",
+   "level": "Dasar",
+   "q": "These are my books. ___ are on the desk.",
+   "opts": [
+    "They",
+    "Them",
+    "Their"
+   ],
+   "a": 0,
+   "why": "Butuh kata ganti subjek: they."
+  },
+  {
+   "id": "r20261019-005",
+   "topic": "Prepositions of place",
+   "level": "Dasar",
+   "q": "The cat is hiding ___ the bed.",
+   "opts": [
+    "at",
+    "since",
+    "under"
+   ],
+   "a": 2,
+   "why": "Di bawah tempat tidur: under."
+  },
+  {
+   "id": "r20261019-006",
+   "topic": "Can",
+   "level": "Dasar",
+   "q": "Birds ___ fly, but penguins cannot.",
+   "opts": [
+    "can",
+    "cans",
+    "are"
+   ],
+   "a": 0,
+   "why": "Kemampuan umum: can + verb dasar (tanpa s)."
+  },
+  {
+   "id": "r20261019-007",
+   "topic": "Vocabulary: clothes",
+   "level": "Dasar",
+   "q": "When it is cold, I wear a ___.",
+   "opts": [
+    "T-shirt",
+    "jacket",
+    "shorts"
+   ],
+   "a": 1,
+   "why": "Saat dingin dipakai jaket (jacket)."
+  },
+  {
+   "id": "r20261019-008",
+   "topic": "Present simple",
+   "level": "Dasar",
+   "q": "My mother ___ delicious food every day.",
+   "opts": [
+    "cook",
+    "cooking",
+    "cooks"
+   ],
+   "a": 2,
+   "why": "Subjek orang ketiga tunggal: cooks."
+  },
+  {
+   "id": "r20261019-009",
+   "topic": "Past simple",
+   "level": "Dasar",
+   "q": "They ___ football in the yard yesterday.",
+   "opts": [
+    "play",
+    "played",
+    "playing"
+   ],
+   "a": 1,
+   "why": "Yesterday menandakan lampau: played."
+  },
+  {
+   "id": "r20261019-010",
+   "topic": "How much/many",
+   "level": "Dasar",
+   "q": "How ___ students are there in your class?",
+   "opts": [
+    "much",
+    "any",
+    "many"
+   ],
+   "a": 2,
+   "why": "Students bisa dihitung: how many."
+  },
+  {
+   "id": "r20261019-011",
+   "topic": "Past simple vs perfect",
+   "level": "Menengah",
+   "q": "I ___ him three times this week.",
+   "opts": [
+    "have met",
+    "met",
+    "meet"
+   ],
+   "a": 0,
+   "why": "This week belum selesai: present perfect (have met)."
+  },
+  {
+   "id": "r20261019-012",
+   "topic": "Phrasal verbs",
+   "level": "Menengah",
+   "q": "Can you ___ the word in the dictionary?",
+   "opts": [
+    "look after",
+    "look up",
+    "look for"
+   ],
+   "a": 1,
+   "why": "Look up = mencari kata di kamus."
+  },
+  {
+   "id": "r20261019-013",
+   "topic": "Comparison",
+   "level": "Menengah",
+   "q": "My exam result is ___ than I expected.",
+   "opts": [
+    "worse",
+    "worst",
+    "bad"
+   ],
+   "a": 0,
+   "why": "Bentuk comparative dari bad adalah worse."
+  },
+  {
+   "id": "r20261019-014",
+   "topic": "Prepositions",
+   "level": "Menengah",
+   "q": "She is worried ___ her exam results.",
+   "opts": [
+    "of",
+    "about",
+    "for"
+   ],
+   "a": 1,
+   "why": "Kolokasi tetap: worried about = khawatir tentang."
+  },
+  {
+   "id": "r20261019-015",
+   "topic": "Modals",
+   "level": "Menengah",
+   "q": "She isn't answering. She ___ be in a meeting.",
+   "opts": [
+    "won't",
+    "mustn't",
+    "may"
+   ],
+   "a": 2,
+   "why": "Kemungkinan: may be = mungkin sedang."
+  },
+  {
+   "id": "r20261019-016",
+   "topic": "Passive",
+   "level": "Menengah",
+   "q": "A new hospital ___ near my house right now.",
+   "opts": [
+    "is being built",
+    "is building",
+    "builds"
+   ],
+   "a": 0,
+   "why": "Pasif present continuous: is being + V3."
+  },
+  {
+   "id": "r20261019-017",
+   "topic": "Word forms",
+   "level": "Menengah",
+   "q": "The ___ of the new bridge took five years.",
+   "opts": [
+    "construct",
+    "constructive",
+    "construction"
+   ],
+   "a": 2,
+   "why": "Butuh kata benda: construction (konstruksi/pembangunan)."
+  },
+  {
+   "id": "r20261019-018",
+   "topic": "Time clauses",
+   "level": "Menengah",
+   "q": "She was cooking when I ___ home.",
+   "opts": [
+    "got",
+    "was getting",
+    "get"
+   ],
+   "a": 0,
+   "why": "Kejadian singkat di tengah kejadian yang berlangsung: past simple (got home = tiba di rumah)."
+  },
+  {
+   "id": "r20261019-019",
+   "topic": "Vocabulary: confusing words",
+   "level": "Menengah",
+   "q": "She ___ me a funny story about her cat.",
+   "opts": [
+    "said",
+    "told",
+    "spoke"
+   ],
+   "a": 1,
+   "why": "Tell + objek orang: told me a story. Say tidak diikuti objek orang langsung."
+  },
+  {
+   "id": "r20261019-020",
+   "topic": "Modals",
+   "level": "Menengah",
+   "q": "Can I ___ early today? I have a doctor's appointment.",
+   "opts": [
+    "to leave",
+    "leaving",
+    "leave"
+   ],
+   "a": 2,
+   "why": "Setelah can dipakai verb dasar: leave (pulang lebih awal)."
+  },
+  {
+   "id": "r20261019-021",
+   "topic": "Third conditional",
+   "level": "Menengah atas",
+   "q": "If the weather had been nice, we ___ to the beach.",
+   "opts": [
+    "would go",
+    "would have gone",
+    "had gone"
+   ],
+   "a": 1,
+   "why": "Third conditional: would have + V3."
+  },
+  {
+   "id": "r20261019-022",
+   "topic": "Reported speech",
+   "level": "Menengah atas",
+   "q": "My mother reminded me ___ the door.",
+   "opts": [
+    "lock",
+    "locking",
+    "to lock"
+   ],
+   "a": 2,
+   "why": "Remind + objek + to-infinitive: reminded me to lock."
+  },
+  {
+   "id": "r20261019-023",
+   "topic": "Linking words",
+   "level": "Menengah atas",
+   "q": "___ his injury, he finished the marathon.",
+   "opts": [
+    "In spite of",
+    "Although",
+    "Even though"
+   ],
+   "a": 0,
+   "why": "In spite of + kata benda. Although/even though harus diikuti klausa."
+  },
+  {
+   "id": "r20261019-024",
+   "topic": "Unreal past",
+   "level": "Menengah atas",
+   "q": "He talks ___ he knew everything, but he doesn't.",
+   "opts": [
+    "like",
+    "as if",
+    "that"
+   ],
+   "a": 1,
+   "why": "As if + past simple untuk situasi tidak nyata sekarang."
+  },
+  {
+   "id": "r20261019-025",
+   "topic": "Idioms",
+   "level": "Menengah atas",
+   "q": "When I moved to Jakarta, I felt like a fish out of ___.",
+   "opts": [
+    "water",
+    "sea",
+    "river"
+   ],
+   "a": 0,
+   "why": "Idiom a fish out of water = merasa asing/tidak pada tempatnya."
+  },
+  {
+   "id": "r20261019-026",
+   "topic": "Collocations",
+   "level": "Menengah atas",
+   "q": "She ___ great progress in English this year.",
+   "opts": [
+    "did",
+    "made",
+    "got"
+   ],
+   "a": 1,
+   "why": "Kolokasi: make progress = membuat kemajuan."
+  },
+  {
+   "id": "r20261019-027",
+   "topic": "Vocabulary: formal",
+   "level": "Menengah atas",
+   "q": "Please do not hesitate to ___ us if you have questions.",
+   "opts": [
+    "contacting",
+    "contacted",
+    "contact"
+   ],
+   "a": 2,
+   "why": "Pola formal: do not hesitate to + verb dasar."
+  },
+  {
+   "id": "r20261019-028",
+   "topic": "Nuance: modals",
+   "level": "Menengah atas",
+   "q": "With so much practice, you are ___ to improve.",
+   "opts": [
+    "bound",
+    "tied",
+    "glued"
+   ],
+   "a": 0,
+   "why": "Be bound to = pasti akan."
+  },
+  {
+   "id": "r20261019-029",
+   "topic": "Passive: perfect",
+   "level": "Menengah atas",
+   "q": "The song ___ by millions of people since its release.",
+   "opts": [
+    "streamed",
+    "has streamed",
+    "has been streamed"
+   ],
+   "a": 2,
+   "why": "Pasif present perfect: has been + V3."
+  },
+  {
+   "id": "r20261019-030",
+   "topic": "Gerund/infinitive",
+   "level": "Menengah atas",
+   "q": "We are considering ___ to a bigger office.",
+   "opts": [
+    "moving",
+    "to move",
+    "move"
+   ],
+   "a": 0,
+   "why": "Setelah consider memakai gerund: moving."
+  },
+  {
+   "id": "r20261019-031",
+   "topic": "Advanced vocab",
+   "level": "Menuju lancar",
+   "q": "The CEO's ___ lifestyle surprised everyone; he flies economy and wears old shoes.",
+   "opts": [
+    "lavish",
+    "frugal",
+    "extravagant"
+   ],
+   "a": 1,
+   "why": "Frugal = hemat/sederhana. Lavish dan extravagant = mewah."
+  },
+  {
+   "id": "r20261019-032",
+   "topic": "Subjunctive",
+   "level": "Menuju lancar",
+   "q": "I insist that the bill ___ paid in full today.",
+   "opts": [
+    "is",
+    "was",
+    "be"
+   ],
+   "a": 2,
+   "why": "Subjunctive pasif setelah insist that: be + V3."
+  },
+  {
+   "id": "r20261019-033",
+   "topic": "Inversion",
+   "level": "Menuju lancar",
+   "q": "Only by working together ___ succeed.",
+   "opts": [
+    "we can",
+    "can we",
+    "we could"
+   ],
+   "a": 1,
+   "why": "Only by di awal kalimat memicu inversi: can + subjek."
+  },
+  {
+   "id": "r20261019-034",
+   "topic": "Register",
+   "level": "Menuju lancar",
+   "q": "In formal letters, \"ask for\" becomes ___.",
+   "opts": [
+    "demand",
+    "beg",
+    "request"
+   ],
+   "a": 2,
+   "why": "Request adalah bentuk formal dari ask for. Demand = menuntut, beg = memohon."
+  },
+  {
+   "id": "r20261019-035",
+   "topic": "Nuance: modals",
+   "level": "Menuju lancar",
+   "q": "You ___ as well take the bus; the train is on strike.",
+   "opts": [
+    "might",
+    "must",
+    "would"
+   ],
+   "a": 0,
+   "why": "Might as well = sebaiknya saja (tidak ada pilihan lebih baik)."
+  },
+  {
+   "id": "r20261019-036",
+   "topic": "Inversion",
+   "level": "Menuju lancar",
+   "q": "Not until the rain stopped ___ the match.",
+   "opts": [
+    "they could resume",
+    "could they resume",
+    "they resume"
+   ],
+   "a": 1,
+   "why": "Not until di awal kalimat memicu inversi: could + subjek."
+  },
+  {
+   "id": "r20261019-037",
+   "topic": "Collocations",
+   "level": "Menuju lancar",
+   "q": "The report ___ attention to the lack of clean water.",
+   "opts": [
+    "draws",
+    "makes",
+    "takes"
+   ],
+   "a": 0,
+   "why": "Kolokasi: draw attention to = mengarahkan perhatian pada."
+  },
+  {
+   "id": "r20261019-038",
+   "topic": "Agreement",
+   "level": "Menuju lancar",
+   "q": "Rina loves spicy food, and ___ does her brother.",
+   "opts": [
+    "neither",
+    "so",
+    "nor"
+   ],
+   "a": 1,
+   "why": "Persetujuan positif: so + inversi (so does ...)."
+  },
+  {
+   "id": "r20261019-039",
+   "topic": "Advanced vocab",
+   "level": "Menuju lancar",
+   "q": "The manager gave a ___ reply: just \"no\".",
+   "opts": [
+    "lengthy",
+    "wordy",
+    "terse"
+   ],
+   "a": 2,
+   "why": "Terse = singkat dan tegas. Lengthy dan wordy = panjang."
+  },
+  {
+   "id": "r20261019-040",
+   "topic": "Articles advanced",
+   "level": "Menuju lancar",
+   "q": "He goes to ___ school by bus every day.",
+   "opts": [
+    "-",
+    "the",
+    "a"
+   ],
+   "a": 0,
+   "why": "Pergi ke sekolah sebagai murid (tujuan utama): tanpa artikel."
+  }
+ ],
+ "articles": [
+  {
+   "id": "r20261019-a01",
+   "title": "Helping Mom in the Kitchen",
+   "level": "Dasar",
+   "min": 2,
+   "body": [
+    "Every afternoon, Dito helps his mother in the kitchen. He washes the vegetables and she cuts them. They work together and talk about Dito's day at school.",
+    "Today, they are making chicken soup. Mom puts in carrots, potatoes and beans. The soup smells very good.",
+    "At six, the family eats dinner together. Dito is proud because he helped. His father says the soup is the best in the world."
+   ],
+   "gloss": {
+    "washes": "mencuci",
+    "cuts": "memotong",
+    "smells": "berbau",
+    "proud": "bangga",
+    "together": "bersama"
+   },
+   "qs": [
+    {
+     "q": "When does Dito help his mother?",
+     "opts": [
+      "Every morning",
+      "Every afternoon",
+      "Every night"
+     ],
+     "a": 1
+    },
+    {
+     "q": "What are they making today?",
+     "opts": [
+      "Fried chicken",
+      "A cake",
+      "Chicken soup"
+     ],
+     "a": 2
+    },
+    {
+     "q": "Who says the soup is the best in the world?",
+     "opts": [
+      "His father",
+      "His mother",
+      "Dito"
+     ],
+     "a": 0
+    }
+   ]
+  },
+  {
+   "id": "r20261019-a02",
+   "title": "The Quiet Power of Reading",
+   "level": "Menengah atas",
+   "min": 3,
+   "body": [
+    "In an age of endless videos and short messages, reading a book can feel old-fashioned. Yet research keeps showing that people who read regularly gain real advantages.",
+    "First, reading trains the brain to focus for long periods, a skill that constant scrolling weakens. Second, it builds vocabulary far more effectively than watching videos, because readers meet words in context and must actively imagine the scenes.",
+    "Perhaps most importantly, fiction teaches empathy. When we follow a character's thoughts and struggles, we practice seeing the world through another person's eyes. That is why many teachers argue that reading stories is not just entertainment - it is training for real life."
+   ],
+   "gloss": {
+    "endless": "tak berujung",
+    "gain": "memperoleh",
+    "focus": "fokus",
+    "struggles": "perjuangan",
+    "empathy": "empati"
+   },
+   "qs": [
+    {
+     "q": "What does reading train the brain to do?",
+     "opts": [
+      "Focus for long periods",
+      "Type faster",
+      "Memorize numbers"
+     ],
+     "a": 0
+    },
+    {
+     "q": "According to the text, what does fiction teach?",
+     "opts": [
+      "Grammar rules",
+      "Empathy",
+      "History"
+     ],
+     "a": 1
+    },
+    {
+     "q": "Why does reading build vocabulary better than watching videos?",
+     "opts": [
+      "Books are always shorter",
+      "Videos have no words",
+      "Readers meet words in context"
+     ],
+     "a": 2
+    }
+   ]
+  }
+ ]
+}
