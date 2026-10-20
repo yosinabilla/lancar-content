@@ -1,0 +1,620 @@
+{
+ "bank": [
+  {
+   "id": "r20261020-001",
+   "topic": "Vocabulary: rooms",
+   "level": "Dasar",
+   "q": "We sleep in the ___.",
+   "opts": [
+    "bedroom",
+    "bathroom",
+    "kitchen"
+   ],
+   "a": 0,
+   "why": "Tidur di kamar tidur (bedroom)."
+  },
+  {
+   "id": "r20261020-002",
+   "topic": "Be: am/is/are",
+   "level": "Dasar",
+   "q": "The books ___ on the shelf.",
+   "opts": [
+    "is",
+    "are",
+    "am"
+   ],
+   "a": 1,
+   "why": "Subjek jamak: are."
+  },
+  {
+   "id": "r20261020-003",
+   "topic": "Age",
+   "level": "Dasar",
+   "q": "She is ten years ___.",
+   "opts": [
+    "age",
+    "years",
+    "old"
+   ],
+   "a": 2,
+   "why": "Pola umur: ten years old."
+  },
+  {
+   "id": "r20261020-004",
+   "topic": "Vocabulary: transport",
+   "level": "Dasar",
+   "q": "You can fly to another island in a ___.",
+   "opts": [
+    "plane",
+    "train",
+    "bus"
+   ],
+   "a": 0,
+   "why": "Terbang ke pulau lain memakai pesawat (plane)."
+  },
+  {
+   "id": "r20261020-005",
+   "topic": "Imperatives",
+   "level": "Dasar",
+   "q": "Please ___ your books to page ten.",
+   "opts": [
+    "opens",
+    "opening",
+    "open"
+   ],
+   "a": 2,
+   "why": "Kalimat perintah memakai verb dasar: open."
+  },
+  {
+   "id": "r20261020-006",
+   "topic": "There is/are",
+   "level": "Dasar",
+   "q": "___ a park near my house.",
+   "opts": [
+    "There is",
+    "There are",
+    "It is"
+   ],
+   "a": 0,
+   "why": "Tunggal: there is (ada sebuah)."
+  },
+  {
+   "id": "r20261020-007",
+   "topic": "Vocabulary: jobs",
+   "level": "Dasar",
+   "q": "A ___ helps sick people in a hospital.",
+   "opts": [
+    "singer",
+    "nurse",
+    "farmer"
+   ],
+   "a": 1,
+   "why": "Yang membantu orang sakit di rumah sakit adalah perawat (nurse)."
+  },
+  {
+   "id": "r20261020-008",
+   "topic": "Present continuous",
+   "level": "Dasar",
+   "q": "Look! The dog ___ after the ball.",
+   "opts": [
+    "runs",
+    "run",
+    "is running"
+   ],
+   "a": 2,
+   "why": "Look! menandakan sedang berlangsung: is running."
+  },
+  {
+   "id": "r20261020-009",
+   "topic": "Pronouns",
+   "level": "Dasar",
+   "q": "I like your new shoes. Can I try ___ on?",
+   "opts": [
+    "it",
+    "them",
+    "they"
+   ],
+   "a": 1,
+   "why": "Shoes jamak, posisi objek: them."
+  },
+  {
+   "id": "r20261020-010",
+   "topic": "Vocabulary: drinks",
+   "level": "Dasar",
+   "q": "Babies drink ___ from a bottle.",
+   "opts": [
+    "coffee",
+    "tea",
+    "milk"
+   ],
+   "a": 2,
+   "why": "Bayi minum susu (milk) dari botol."
+  },
+  {
+   "id": "r20261020-011",
+   "topic": "Present perfect",
+   "level": "Menengah",
+   "q": "We ___ each other since elementary school.",
+   "opts": [
+    "have known",
+    "know",
+    "knew"
+   ],
+   "a": 0,
+   "why": "Sejak SD sampai sekarang: present perfect (have known)."
+  },
+  {
+   "id": "r20261020-012",
+   "topic": "Phrasal verbs",
+   "level": "Menengah",
+   "q": "He failed five times, but he did not ___.",
+   "opts": [
+    "take off",
+    "give up",
+    "look up"
+   ],
+   "a": 1,
+   "why": "Give up = menyerah."
+  },
+  {
+   "id": "r20261020-013",
+   "topic": "Modals",
+   "level": "Menengah",
+   "q": "___ you like some tea?",
+   "opts": [
+    "Would",
+    "Do",
+    "Are"
+   ],
+   "a": 0,
+   "why": "Would you like ...? dipakai untuk menawarkan dengan sopan."
+  },
+  {
+   "id": "r20261020-014",
+   "topic": "Relative clauses",
+   "level": "Menengah",
+   "q": "The movie ___ we watched last night was boring.",
+   "opts": [
+    "who",
+    "that",
+    "where"
+   ],
+   "a": 1,
+   "why": "Klausa relatif untuk benda memakai that."
+  },
+  {
+   "id": "r20261020-015",
+   "topic": "Prepositions",
+   "level": "Menengah",
+   "q": "She is proud ___ her son's success.",
+   "opts": [
+    "about",
+    "with",
+    "of"
+   ],
+   "a": 2,
+   "why": "Kolokasi tetap: proud of = bangga akan."
+  },
+  {
+   "id": "r20261020-016",
+   "topic": "Gerund/infinitive",
+   "level": "Menengah",
+   "q": "He refused ___ my invitation.",
+   "opts": [
+    "to accept",
+    "accepting",
+    "accept"
+   ],
+   "a": 0,
+   "why": "Setelah refuse memakai to-infinitive: to accept."
+  },
+  {
+   "id": "r20261020-017",
+   "topic": "Comparison",
+   "level": "Menengah",
+   "q": "This phone is much ___ than my old one.",
+   "opts": [
+    "good",
+    "best",
+    "better"
+   ],
+   "a": 2,
+   "why": "Much + comparative: much better (jauh lebih baik)."
+  },
+  {
+   "id": "r20261020-018",
+   "topic": "Passive",
+   "level": "Menengah",
+   "q": "This letter ___ in English, not Indonesian.",
+   "opts": [
+    "is written",
+    "writes",
+    "wrote"
+   ],
+   "a": 0,
+   "why": "Pasif present: is + V3 (is written)."
+  },
+  {
+   "id": "r20261020-019",
+   "topic": "Vocabulary: confusing words",
+   "level": "Menengah",
+   "q": "___ house is bigger than ours.",
+   "opts": [
+    "There",
+    "Their",
+    "They're"
+   ],
+   "a": 1,
+   "why": "Their = milik mereka. There = di sana; they're = they are."
+  },
+  {
+   "id": "r20261020-020",
+   "topic": "Future forms",
+   "level": "Menengah",
+   "q": "I think Indonesia ___ the match tonight.",
+   "opts": [
+    "win",
+    "winning",
+    "will win"
+   ],
+   "a": 2,
+   "why": "Prediksi tentang masa depan: will + verb dasar."
+  },
+  {
+   "id": "r20261020-021",
+   "topic": "Conditionals",
+   "level": "Menengah atas",
+   "q": "If he ___ more carefully, he wouldn't have so many accidents.",
+   "opts": [
+    "drives",
+    "drove",
+    "will drive"
+   ],
+   "a": 1,
+   "why": "Second conditional: if + past simple (drove)."
+  },
+  {
+   "id": "r20261020-022",
+   "topic": "Reported speech",
+   "level": "Menengah atas",
+   "q": "He offered ___ me to the station.",
+   "opts": [
+    "drive",
+    "driving",
+    "to drive"
+   ],
+   "a": 2,
+   "why": "Offer + to-infinitive: offered to drive."
+  },
+  {
+   "id": "r20261020-023",
+   "topic": "Linking words",
+   "level": "Menengah atas",
+   "q": "The flight was delayed ___ the bad weather.",
+   "opts": [
+    "because of",
+    "because",
+    "although"
+   ],
+   "a": 0,
+   "why": "Because of + kata benda. Because harus diikuti klausa."
+  },
+  {
+   "id": "r20261020-024",
+   "topic": "Preference",
+   "level": "Menengah atas",
+   "q": "I would rather walk ___ take a crowded bus.",
+   "opts": [
+    "then",
+    "than",
+    "to"
+   ],
+   "a": 1,
+   "why": "Pola would rather X than Y: daripada."
+  },
+  {
+   "id": "r20261020-025",
+   "topic": "Idioms",
+   "level": "Menengah atas",
+   "q": "I was nervous before the speech, but I decided to take the bull by the ___.",
+   "opts": [
+    "horns",
+    "tail",
+    "ears"
+   ],
+   "a": 0,
+   "why": "Idiom take the bull by the horns = menghadapi masalah dengan berani."
+  },
+  {
+   "id": "r20261020-026",
+   "topic": "Collocations",
+   "level": "Menengah atas",
+   "q": "We must ___ an effort to finish on time.",
+   "opts": [
+    "do",
+    "make",
+    "take"
+   ],
+   "a": 1,
+   "why": "Kolokasi: make an effort = berusaha."
+  },
+  {
+   "id": "r20261020-027",
+   "topic": "Vocabulary: formal",
+   "level": "Menengah atas",
+   "q": "We ___ receipt of your application and will reply soon.",
+   "opts": [
+    "know",
+    "receive",
+    "acknowledge"
+   ],
+   "a": 2,
+   "why": "Formal: acknowledge receipt = mengonfirmasi penerimaan."
+  },
+  {
+   "id": "r20261020-028",
+   "topic": "Modals of deduction",
+   "level": "Menengah atas",
+   "q": "Don't eat those mushrooms - they ___ be poisonous.",
+   "opts": [
+    "could",
+    "must",
+    "would"
+   ],
+   "a": 0,
+   "why": "Kemungkinan bahaya: could be = bisa saja."
+  },
+  {
+   "id": "r20261020-029",
+   "topic": "Passive advanced",
+   "level": "Menengah atas",
+   "q": "The bridge is expected ___ next year.",
+   "opts": [
+    "to complete",
+    "completing",
+    "to be completed"
+   ],
+   "a": 2,
+   "why": "Be expected to + pasif infinitive: to be completed."
+  },
+  {
+   "id": "r20261020-030",
+   "topic": "Future perfect",
+   "level": "Menengah atas",
+   "q": "By the end of this year, she ___ English for ten years.",
+   "opts": [
+    "will have been learning",
+    "will learn",
+    "learns"
+   ],
+   "a": 0,
+   "why": "Durasi sampai titik masa depan: will have been + verb-ing."
+  },
+  {
+   "id": "r20261020-031",
+   "topic": "Advanced vocab",
+   "level": "Menuju lancar",
+   "q": "Her apology sounded ___; nobody believed she meant it.",
+   "opts": [
+    "sincere",
+    "insincere",
+    "genuine"
+   ],
+   "a": 1,
+   "why": "Insincere = tidak tulus, cocok dengan tidak dipercaya."
+  },
+  {
+   "id": "r20261020-032",
+   "topic": "Subjunctive",
+   "level": "Menuju lancar",
+   "q": "We recommend that he ___ late again.",
+   "opts": [
+    "isn't",
+    "doesn't be",
+    "not be"
+   ],
+   "a": 2,
+   "why": "Subjunctive negatif: not + verb dasar (not be late)."
+  },
+  {
+   "id": "r20261020-033",
+   "topic": "Inversion",
+   "level": "Menuju lancar",
+   "q": "So loudly ___ that the neighbors complained.",
+   "opts": [
+    "he spoke",
+    "did he speak",
+    "spoke he"
+   ],
+   "a": 1,
+   "why": "So + adverb di awal memicu inversi: did + subjek + verb."
+  },
+  {
+   "id": "r20261020-034",
+   "topic": "Register",
+   "level": "Menuju lancar",
+   "q": "In formal English, \"buy\" becomes ___.",
+   "opts": [
+    "shop",
+    "grab",
+    "purchase"
+   ],
+   "a": 2,
+   "why": "Purchase adalah bentuk formal dari buy."
+  },
+  {
+   "id": "r20261020-035",
+   "topic": "Nuance: modals",
+   "level": "Menuju lancar",
+   "q": "I ___ sooner quit than apologize to him.",
+   "opts": [
+    "would",
+    "will",
+    "should"
+   ],
+   "a": 0,
+   "why": "Would sooner ... than = lebih memilih ... daripada (formal)."
+  },
+  {
+   "id": "r20261020-036",
+   "topic": "Supposed to",
+   "level": "Menuju lancar",
+   "q": "You were ___ to submit the report yesterday. Where is it?",
+   "opts": [
+    "suppose",
+    "supposed",
+    "supposing"
+   ],
+   "a": 1,
+   "why": "Be supposed to = seharusnya (kewajiban yang belum terpenuhi)."
+  },
+  {
+   "id": "r20261020-037",
+   "topic": "Collocations",
+   "level": "Menuju lancar",
+   "q": "We must take your age ___ account when we design the program.",
+   "opts": [
+    "into",
+    "in",
+    "to"
+   ],
+   "a": 0,
+   "why": "Frasa tetap: take into account = mempertimbangkan."
+  },
+  {
+   "id": "r20261020-038",
+   "topic": "Participles",
+   "level": "Menuju lancar",
+   "q": "___ from his expression, the news was bad.",
+   "opts": [
+    "Judged",
+    "Judging",
+    "To judge"
+   ],
+   "a": 1,
+   "why": "Frasa tetap: judging from = dilihat dari."
+  },
+  {
+   "id": "r20261020-039",
+   "topic": "Advanced vocab",
+   "level": "Menuju lancar",
+   "q": "The plan is ___; it will work even if one part fails.",
+   "opts": [
+    "faulty",
+    "fragile",
+    "foolproof"
+   ],
+   "a": 2,
+   "why": "Foolproof = pasti berhasil/tidak bisa gagal."
+  },
+  {
+   "id": "r20261020-040",
+   "topic": "Articles advanced",
+   "level": "Menuju lancar",
+   "q": "___ knowledge of English opens many doors.",
+   "opts": [
+    "A",
+    "The",
+    "-"
+   ],
+   "a": 0,
+   "why": "Frasa a knowledge of = penguasaan akan, memakai a."
+  }
+ ],
+ "articles": [
+  {
+   "id": "r20261020-a01",
+   "title": "The School Library",
+   "level": "Dasar",
+   "min": 2,
+   "body": [
+    "Sita loves her school library. It is a big, quiet room with many books. Every Tuesday, her class visits the library after lunch.",
+    "Yesterday, Sita borrowed a book about dinosaurs. The librarian, Mrs. Rina, helped her find it. Sita must return the book in one week.",
+    "At home, Sita reads the book before bed. She draws her favorite dinosaur in her notebook. Next week, she wants to borrow a book about the ocean."
+   ],
+   "gloss": {
+    "library": "perpustakaan",
+    "quiet": "tenang",
+    "borrowed": "meminjam",
+    "return": "mengembalikan",
+    "ocean": "lautan"
+   },
+   "qs": [
+    {
+     "q": "What book did Sita borrow yesterday?",
+     "opts": [
+      "A book about dinosaurs",
+      "A book about the ocean",
+      "A book about space"
+     ],
+     "a": 0
+    },
+    {
+     "q": "Who helped Sita find the book?",
+     "opts": [
+      "Her teacher",
+      "The librarian",
+      "Her mother"
+     ],
+     "a": 1
+    },
+    {
+     "q": "When does Sita's class visit the library?",
+     "opts": [
+      "Every Monday",
+      "Every Friday",
+      "Every Tuesday"
+     ],
+     "a": 2
+    }
+   ]
+  },
+  {
+   "id": "r20261020-a02",
+   "title": "The Rise of Electric Vehicles",
+   "level": "Menengah atas",
+   "min": 3,
+   "body": [
+    "A decade ago, electric cars were rare and expensive. Today, they are becoming a common sight on city roads, and many countries plan to stop selling petrol cars within the next twenty years.",
+    "Supporters point to clear benefits: electric vehicles produce no exhaust fumes, so city air becomes cleaner, and they are cheaper to run because electricity costs less than petrol. Governments in several countries also give tax discounts to buyers.",
+    "Critics, however, mention real problems. Charging stations are still hard to find outside big cities, batteries are expensive to replace, and producing them requires mining rare minerals. Most experts agree the transition will continue, but the infrastructure must grow with it."
+   ],
+   "gloss": {
+    "decade": "dekade",
+    "fumes": "gas buang",
+    "charging": "pengisian daya",
+    "replace": "mengganti",
+    "infrastructure": "infrastruktur"
+   },
+   "qs": [
+    {
+     "q": "What do most experts agree on?",
+     "opts": [
+      "The transition will continue",
+      "Petrol cars will last forever",
+      "Mining should stop completely"
+     ],
+     "a": 0
+    },
+    {
+     "q": "Why do supporters say electric cars make city air cleaner?",
+     "opts": [
+      "They use less water",
+      "They produce no exhaust fumes",
+      "They are faster"
+     ],
+     "a": 1
+    },
+    {
+     "q": "What problem do critics mention?",
+     "opts": [
+      "Electric cars are too slow",
+      "Batteries are free to replace",
+      "Charging stations are hard to find outside big cities"
+     ],
+     "a": 2
+    }
+   ]
+  }
+ ]
+}
