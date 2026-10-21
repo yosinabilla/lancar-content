@@ -1,0 +1,621 @@
+{
+  "bank": [
+    {
+      "id": "r20261021-001",
+      "topic": "Vocabulary: weather",
+      "level": "Dasar",
+      "q": "It is ___ today. Take an umbrella.",
+      "opts": [
+        "sunny",
+        "rainy",
+        "windy"
+      ],
+      "a": 1,
+      "why": "Hujan (rainy) cocok dengan payung."
+    },
+    {
+      "id": "r20261021-002",
+      "topic": "This/That",
+      "level": "Dasar",
+      "q": "___ is my pen. (holding it in your hand)",
+      "opts": [
+        "That",
+        "Those",
+        "This"
+      ],
+      "a": 2,
+      "why": "Benda dekat dan tunggal: this."
+    },
+    {
+      "id": "r20261021-003",
+      "topic": "Plural nouns",
+      "level": "Dasar",
+      "q": "Two ___ are on the table.",
+      "opts": [
+        "boxes",
+        "box",
+        "boxs"
+      ],
+      "a": 0,
+      "why": "Jamak dari box: boxes."
+    },
+    {
+      "id": "r20261021-004",
+      "topic": "Prepositions of place",
+      "level": "Dasar",
+      "q": "I live ___ Jakarta.",
+      "opts": [
+        "at",
+        "on",
+        "in"
+      ],
+      "a": 2,
+      "why": "Kota memakai in: live in Jakarta."
+    },
+    {
+      "id": "r20261021-005",
+      "topic": "Simple present",
+      "level": "Dasar",
+      "q": "He ___ TV every night.",
+      "opts": [
+        "watches",
+        "watch",
+        "watching"
+      ],
+      "a": 0,
+      "why": "Orang ketiga tunggal: watches."
+    },
+    {
+      "id": "r20261021-006",
+      "topic": "Ability",
+      "level": "Dasar",
+      "q": "The baby is one month old. It ___ talk yet.",
+      "opts": [
+        "can",
+        "cannot",
+        "must"
+      ],
+      "a": 1,
+      "why": "Bayi satu bulan belum bisa bicara: cannot ... yet."
+    },
+    {
+      "id": "r20261021-007",
+      "topic": "Prepositions of time",
+      "level": "Dasar",
+      "q": "School starts ___ seven o'clock.",
+      "opts": [
+        "in",
+        "on",
+        "at"
+      ],
+      "a": 2,
+      "why": "Jam memakai at."
+    },
+    {
+      "id": "r20261021-008",
+      "topic": "Vocabulary: animals",
+      "level": "Dasar",
+      "q": "A mouse is very ___.",
+      "opts": [
+        "big",
+        "small",
+        "tall"
+      ],
+      "a": 1,
+      "why": "Tikus (mouse) itu kecil (small)."
+    },
+    {
+      "id": "r20261021-009",
+      "topic": "Past simple",
+      "level": "Menengah",
+      "q": "We ___ to Bali last year.",
+      "opts": [
+        "go",
+        "gone",
+        "went"
+      ],
+      "a": 2,
+      "why": "Lampau (last year): went."
+    },
+    {
+      "id": "r20261021-010",
+      "topic": "Present continuous",
+      "level": "Menengah",
+      "q": "Look! The children ___ in the yard.",
+      "opts": [
+        "are playing",
+        "play",
+        "played"
+      ],
+      "a": 0,
+      "why": "Sedang berlangsung: are playing."
+    },
+    {
+      "id": "r20261021-011",
+      "topic": "Comparatives",
+      "level": "Menengah",
+      "q": "Jakarta is ___ than my town.",
+      "opts": [
+        "crowded",
+        "more crowded",
+        "most crowded"
+      ],
+      "a": 1,
+      "why": "Perbandingan: more crowded than."
+    },
+    {
+      "id": "r20261021-012",
+      "topic": "Countable/uncountable",
+      "level": "Menengah",
+      "q": "There isn't ___ milk in the fridge.",
+      "opts": [
+        "much",
+        "many",
+        "some"
+      ],
+      "a": 0,
+      "why": "Milk tak terhitung dan kalimat negatif: much."
+    },
+    {
+      "id": "r20261021-013",
+      "topic": "Prepositions of time",
+      "level": "Menengah",
+      "q": "The meeting is ___ Monday.",
+      "opts": [
+        "in",
+        "on",
+        "at"
+      ],
+      "a": 1,
+      "why": "Hari memakai on."
+    },
+    {
+      "id": "r20261021-014",
+      "topic": "Future",
+      "level": "Menengah",
+      "q": "I think it ___ rain tomorrow.",
+      "opts": [
+        "is",
+        "does",
+        "will"
+      ],
+      "a": 2,
+      "why": "Prediksi masa depan: will."
+    },
+    {
+      "id": "r20261021-015",
+      "topic": "Adverbs",
+      "level": "Menengah",
+      "q": "She sings ___.",
+      "opts": [
+        "beautifully",
+        "beautiful",
+        "more beautiful"
+      ],
+      "a": 0,
+      "why": "Kata keterangan: beautifully."
+    },
+    {
+      "id": "r20261021-016",
+      "topic": "Some/any",
+      "level": "Menengah",
+      "q": "I don't have ___ money.",
+      "opts": [
+        "some",
+        "no",
+        "any"
+      ],
+      "a": 2,
+      "why": "Negatif memakai any."
+    },
+    {
+      "id": "r20261021-017",
+      "topic": "Object pronouns",
+      "level": "Menengah",
+      "q": "I know Rina. ___ is my friend.",
+      "opts": [
+        "She",
+        "Her",
+        "Him"
+      ],
+      "a": 0,
+      "why": "Subjek perempuan: she."
+    },
+    {
+      "id": "r20261021-018",
+      "topic": "Have to",
+      "level": "Menengah",
+      "q": "You ___ wear a helmet on a motorcycle. It's the law.",
+      "opts": [
+        "can",
+        "have to",
+        "might"
+      ],
+      "a": 1,
+      "why": "Kewajiban karena aturan: have to."
+    },
+    {
+      "id": "r20261021-019",
+      "topic": "Present perfect",
+      "level": "Menengah atas",
+      "q": "She has lived here ___ 2015.",
+      "opts": [
+        "for",
+        "from",
+        "since"
+      ],
+      "a": 2,
+      "why": "Titik waktu (2015) memakai since."
+    },
+    {
+      "id": "r20261021-020",
+      "topic": "Passive voice",
+      "level": "Menengah atas",
+      "q": "This house ___ in 1990.",
+      "opts": [
+        "built",
+        "was built",
+        "is built"
+      ],
+      "a": 1,
+      "why": "Pasif lampau: was built."
+    },
+    {
+      "id": "r20261021-021",
+      "topic": "Relative pronouns",
+      "level": "Menengah atas",
+      "q": "The man ___ lives next door is a doctor.",
+      "opts": [
+        "which",
+        "whose",
+        "who"
+      ],
+      "a": 2,
+      "why": "Orang sebagai subjek: who."
+    },
+    {
+      "id": "r20261021-022",
+      "topic": "Reported speech",
+      "level": "Menengah atas",
+      "q": "He said that he ___ tired.",
+      "opts": [
+        "was",
+        "is",
+        "were"
+      ],
+      "a": 0,
+      "why": "Kata kerja mundur satu bentuk: was."
+    },
+    {
+      "id": "r20261021-023",
+      "topic": "Past continuous",
+      "level": "Menengah atas",
+      "q": "I was cooking when the phone ___.",
+      "opts": [
+        "was ringing",
+        "rang",
+        "rings"
+      ],
+      "a": 1,
+      "why": "Peristiwa singkat pemutus: rang."
+    },
+    {
+      "id": "r20261021-024",
+      "topic": "Question tags",
+      "level": "Menengah atas",
+      "q": "You like coffee, ___?",
+      "opts": [
+        "don't you",
+        "do you",
+        "aren't you"
+      ],
+      "a": 0,
+      "why": "Tag negatif dari kalimat positif: don't you."
+    },
+    {
+      "id": "r20261021-025",
+      "topic": "Giving advice",
+      "level": "Menengah atas",
+      "q": "If you want to lose weight, you ___ eat more vegetables.",
+      "opts": [
+        "would",
+        "should",
+        "might"
+      ],
+      "a": 1,
+      "why": "Saran: should."
+    },
+    {
+      "id": "r20261021-026",
+      "topic": "Too/enough",
+      "level": "Menengah atas",
+      "q": "This bag is ___ heavy to carry.",
+      "opts": [
+        "enough",
+        "very",
+        "too"
+      ],
+      "a": 2,
+      "why": "Terlalu berat untuk dibawa: too ... to."
+    },
+    {
+      "id": "r20261021-027",
+      "topic": "Present perfect continuous",
+      "level": "Menuju lancar",
+      "q": "They ___ for the bus for an hour.",
+      "opts": [
+        "have been waiting",
+        "wait",
+        "are waiting"
+      ],
+      "a": 0,
+      "why": "Durasi sampai sekarang: have been waiting."
+    },
+    {
+      "id": "r20261021-028",
+      "topic": "Phrasal verbs",
+      "level": "Menuju lancar",
+      "q": "The plane will ___ at nine.",
+      "opts": [
+        "take up",
+        "take on",
+        "take off"
+      ],
+      "a": 2,
+      "why": "Take off = berangkat/lepas landas."
+    },
+    {
+      "id": "r20261021-029",
+      "topic": "Used to",
+      "level": "Menuju lancar",
+      "q": "When I was young, I ___ play outside every day.",
+      "opts": [
+        "used to",
+        "use to",
+        "am used to"
+      ],
+      "a": 0,
+      "why": "Kebiasaan lampau: used to + verb."
+    },
+    {
+      "id": "r20261021-030",
+      "topic": "Wishes",
+      "level": "Menuju lancar",
+      "q": "I wish I ___ speak Japanese.",
+      "opts": [
+        "can",
+        "could",
+        "will"
+      ],
+      "a": 1,
+      "why": "Harapan tak nyata: could."
+    },
+    {
+      "id": "r20261021-031",
+      "topic": "Connectors",
+      "level": "Menuju lancar",
+      "q": "___ the rain, the match continued.",
+      "opts": [
+        "Although",
+        "Because",
+        "Despite"
+      ],
+      "a": 2,
+      "why": "Despite + noun; although butuh klausa."
+    },
+    {
+      "id": "r20261021-032",
+      "topic": "Idioms",
+      "level": "Menuju lancar",
+      "q": "The test was a piece of ___. It was so easy.",
+      "opts": [
+        "pie",
+        "cake",
+        "bread"
+      ],
+      "a": 1,
+      "why": "Idiom a piece of cake = sangat mudah."
+    },
+    {
+      "id": "r20261021-033",
+      "topic": "Past perfect",
+      "level": "Menuju lancar",
+      "q": "The train had left ___ I arrived.",
+      "opts": [
+        "after",
+        "when",
+        "before"
+      ],
+      "a": 2,
+      "why": "Kereta pergi dulu, saya tiba kemudian: before."
+    },
+    {
+      "id": "r20261021-034",
+      "topic": "Correlative conjunctions",
+      "level": "Menuju lancar",
+      "q": "Neither the teacher ___ the students knew the answer.",
+      "opts": [
+        "nor",
+        "or",
+        "and"
+      ],
+      "a": 0,
+      "why": "Pasangan neither ... nor."
+    },
+    {
+      "id": "r20261021-035",
+      "topic": "Vocabulary: daily routine",
+      "level": "Dasar",
+      "q": "We eat breakfast in the ___.",
+      "opts": [
+        "night",
+        "morning",
+        "midnight"
+      ],
+      "a": 1,
+      "why": "Sarapan (breakfast) dimakan pagi hari (morning)."
+    },
+    {
+      "id": "r20261021-036",
+      "topic": "Vocabulary: family",
+      "level": "Dasar",
+      "q": "My uncle's son is my ___.",
+      "opts": [
+        "cousin",
+        "nephew",
+        "brother"
+      ],
+      "a": 0,
+      "why": "Anak laki-laki paman adalah sepupu (cousin)."
+    },
+    {
+      "id": "r20261021-037",
+      "topic": "First conditional",
+      "level": "Menengah atas",
+      "q": "If I have time, I ___ you tonight.",
+      "opts": [
+        "call",
+        "will call",
+        "would call"
+      ],
+      "a": 1,
+      "why": "Kondisi nyata: if + present, will + verb."
+    },
+    {
+      "id": "r20261021-038",
+      "topic": "Infinitives",
+      "level": "Menengah atas",
+      "q": "He promised ___ me after work.",
+      "opts": [
+        "calling",
+        "call",
+        "to call"
+      ],
+      "a": 2,
+      "why": "Promise diikuti to + verb."
+    },
+    {
+      "id": "r20261021-039",
+      "topic": "Second conditional",
+      "level": "Menuju lancar",
+      "q": "If I had more money, I ___ a new laptop.",
+      "opts": [
+        "would buy",
+        "will buy",
+        "buy"
+      ],
+      "a": 0,
+      "why": "Kondisi tidak nyata: if + past, would + verb."
+    },
+    {
+      "id": "r20261021-040",
+      "topic": "Causatives",
+      "level": "Menuju lancar",
+      "q": "I had my hair ___ yesterday.",
+      "opts": [
+        "cutting",
+        "to cut",
+        "cut"
+      ],
+      "a": 2,
+      "why": "Have something done: had my hair cut."
+    }
+  ],
+  "articles": [
+    {
+      "id": "r20261021-a01",
+      "title": "A Visit to the Museum",
+      "level": "Dasar",
+      "min": 2,
+      "body": [
+        "Last Saturday, Rani and her family visited the national museum. They left home early because the museum is far from their house. They went there by bus.",
+        "At the museum, Rani saw old statues, traditional clothes, and beautiful paintings. Her favorite room had dinosaur bones. She took many photos with her phone.",
+        "Before they went home, Rani bought a small book about the museum. She wants to read it tonight. She hopes to visit the museum again next year."
+      ],
+      "gloss": {
+        "museum": "museum",
+        "statues": "patung",
+        "traditional": "tradisional",
+        "bones": "tulang",
+        "hopes": "berharap"
+      },
+      "qs": [
+        {
+          "q": "How did Rani's family go to the museum?",
+          "opts": [
+            "By bus",
+            "By car",
+            "By train"
+          ],
+          "a": 0
+        },
+        {
+          "q": "What was in Rani's favorite room?",
+          "opts": [
+            "Dinosaur bones",
+            "Old coins",
+            "Traditional clothes"
+          ],
+          "a": 0
+        },
+        {
+          "q": "When does Rani want to visit the museum again?",
+          "opts": [
+            "Next week",
+            "Next month",
+            "Next year"
+          ],
+          "a": 2
+        }
+      ]
+    },
+    {
+      "id": "r20261021-a02",
+      "title": "Why Cities Need More Trees",
+      "level": "Menengah atas",
+      "min": 4,
+      "body": [
+        "Many big cities are planting more trees, and there are good reasons for this. Trees do much more than make streets look beautiful. They actually improve life for everyone who lives nearby.",
+        "First, trees clean the air. Their leaves take in harmful gases and produce oxygen. Second, trees keep cities cooler. On hot days, the temperature under a big tree can be several degrees lower than in the sun. Finally, trees give people a place to relax. Studies show that spending time near trees can reduce stress.",
+        "However, planting trees is only the beginning. Young trees need water and care for many years. Without this care, they will die before they can help anyone. Cities that invest in looking after their trees will see the greatest benefits."
+      ],
+      "gloss": {
+        "harmful": "berbahaya",
+        "oxygen": "oksigen",
+        "several": "beberapa",
+        "reduce": "mengurangi",
+        "invest": "berinvestasi",
+        "benefits": "manfaat"
+      },
+      "qs": [
+        {
+          "q": "According to the text, what do trees take in?",
+          "opts": [
+            "Harmful gases",
+            "Oxygen",
+            "Rainwater"
+          ],
+          "a": 0
+        },
+        {
+          "q": "What does spending time near trees do?",
+          "opts": [
+            "It reduces stress",
+            "It costs money",
+            "It raises the temperature"
+          ],
+          "a": 0
+        },
+        {
+          "q": "What do young trees need to survive?",
+          "opts": [
+            "Water and care",
+            "New soil every year",
+            "Less sunlight"
+          ],
+          "a": 2
+        }
+      ]
+    }
+  ]
+}
