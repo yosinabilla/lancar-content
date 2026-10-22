@@ -1,0 +1,621 @@
+{
+  "bank": [
+    {
+      "id": "r20261022-001",
+      "topic": "Passive voice",
+      "level": "Menengah atas",
+      "q": "The letter ___ yesterday.",
+      "opts": [
+        "sent",
+        "was sent",
+        "is sent"
+      ],
+      "a": 1,
+      "why": "Pasif lampau: was sent."
+    },
+    {
+      "id": "r20261022-002",
+      "topic": "Phrasal verbs",
+      "level": "Menuju lancar",
+      "q": "Could you ___ the music? It's too loud.",
+      "opts": [
+        "turn up",
+        "turn on",
+        "turn down"
+      ],
+      "a": 2,
+      "why": "Turn down = mengecilkan suara."
+    },
+    {
+      "id": "r20261022-003",
+      "topic": "Directions",
+      "level": "Dasar",
+      "q": "The sun rises in the ___.",
+      "opts": [
+        "east",
+        "west",
+        "north"
+      ],
+      "a": 0,
+      "why": "Matahari terbit di timur (east)."
+    },
+    {
+      "id": "r20261022-004",
+      "topic": "A/An",
+      "level": "Dasar",
+      "q": "I ate ___ apple this morning.",
+      "opts": [
+        "a",
+        "the",
+        "an"
+      ],
+      "a": 2,
+      "why": "Apple diawali bunyi vokal: an."
+    },
+    {
+      "id": "r20261022-005",
+      "topic": "Simple present negative",
+      "level": "Dasar",
+      "q": "She ___ like spicy food.",
+      "opts": [
+        "doesn't",
+        "don't",
+        "isn't"
+      ],
+      "a": 0,
+      "why": "Orang ketiga tunggal: doesn't + verb."
+    },
+    {
+      "id": "r20261022-006",
+      "topic": "Vocabulary: clothes",
+      "level": "Dasar",
+      "q": "You wear ___ on your feet.",
+      "opts": [
+        "shirts",
+        "shoes",
+        "hats"
+      ],
+      "a": 1,
+      "why": "Di kaki memakai sepatu (shoes)."
+    },
+    {
+      "id": "r20261022-007",
+      "topic": "Numbers",
+      "level": "Dasar",
+      "q": "Ten plus five is ___.",
+      "opts": [
+        "fifty",
+        "five",
+        "fifteen"
+      ],
+      "a": 2,
+      "why": "10 + 5 = 15 (fifteen)."
+    },
+    {
+      "id": "r20261022-008",
+      "topic": "Be: am/is/are",
+      "level": "Dasar",
+      "q": "I ___ from Indonesia.",
+      "opts": [
+        "is",
+        "am",
+        "are"
+      ],
+      "a": 1,
+      "why": "I selalu dengan am."
+    },
+    {
+      "id": "r20261022-009",
+      "topic": "Possessives",
+      "level": "Dasar",
+      "q": "The girl is brushing ___ teeth.",
+      "opts": [
+        "his",
+        "their",
+        "her"
+      ],
+      "a": 2,
+      "why": "Perempuan tunggal: her."
+    },
+    {
+      "id": "r20261022-010",
+      "topic": "Wh- questions",
+      "level": "Dasar",
+      "q": "___ do you live? In Jakarta.",
+      "opts": [
+        "Where",
+        "When",
+        "What"
+      ],
+      "a": 0,
+      "why": "Menanyakan tempat: where."
+    },
+    {
+      "id": "r20261022-011",
+      "topic": "Vocabulary: food",
+      "level": "Dasar",
+      "q": "We eat ___ for dessert. It is sweet.",
+      "opts": [
+        "rice",
+        "ice cream",
+        "soup"
+      ],
+      "a": 1,
+      "why": "Makanan penutup yang manis: ice cream."
+    },
+    {
+      "id": "r20261022-012",
+      "topic": "Days of the week",
+      "level": "Dasar",
+      "q": "The day after Friday is ___.",
+      "opts": [
+        "Saturday",
+        "Monday",
+        "Thursday"
+      ],
+      "a": 0,
+      "why": "Setelah Jumat: Sabtu (Saturday)."
+    },
+    {
+      "id": "r20261022-013",
+      "topic": "Past simple",
+      "level": "Menengah",
+      "q": "I ___ my keys yesterday. I can't find them.",
+      "opts": [
+        "lose",
+        "lost",
+        "loosed"
+      ],
+      "a": 1,
+      "why": "Bentuk lampau lose: lost."
+    },
+    {
+      "id": "r20261022-014",
+      "topic": "Frequency adverbs",
+      "level": "Menengah",
+      "q": "She ___ arrives late. She is always on time.",
+      "opts": [
+        "always",
+        "usually",
+        "never"
+      ],
+      "a": 2,
+      "why": "Selalu tepat waktu berarti tidak pernah (never) telat."
+    },
+    {
+      "id": "r20261022-015",
+      "topic": "Superlatives",
+      "level": "Menengah",
+      "q": "Mount Everest is the ___ mountain in the world.",
+      "opts": [
+        "highest",
+        "higher",
+        "high"
+      ],
+      "a": 0,
+      "why": "Superlatif: the highest."
+    },
+    {
+      "id": "r20261022-016",
+      "topic": "Prepositions of movement",
+      "level": "Menengah",
+      "q": "The train goes ___ the tunnel.",
+      "opts": [
+        "across",
+        "over",
+        "through"
+      ],
+      "a": 2,
+      "why": "Melalui terowongan: through."
+    },
+    {
+      "id": "r20261022-017",
+      "topic": "Future plans",
+      "level": "Menengah",
+      "q": "Look at the clouds! It ___ rain.",
+      "opts": [
+        "is going to",
+        "will",
+        "is"
+      ],
+      "a": 0,
+      "why": "Bukti terlihat sekarang: is going to."
+    },
+    {
+      "id": "r20261022-018",
+      "topic": "Too many/much",
+      "level": "Menengah",
+      "q": "There are ___ people on the bus. I can't sit.",
+      "opts": [
+        "too much",
+        "too many",
+        "enough"
+      ],
+      "a": 1,
+      "why": "People terhitung: too many."
+    },
+    {
+      "id": "r20261022-019",
+      "topic": "Object pronouns",
+      "level": "Menengah",
+      "q": "These bags are heavy. Can you help ___?",
+      "opts": [
+        "I",
+        "myself",
+        "me"
+      ],
+      "a": 2,
+      "why": "Setelah kata kerja: me."
+    },
+    {
+      "id": "r20261022-020",
+      "topic": "Past continuous",
+      "level": "Menengah",
+      "q": "While I ___ home, I met an old friend.",
+      "opts": [
+        "walk",
+        "was walking",
+        "walked"
+      ],
+      "a": 1,
+      "why": "Aksi sedang berlangsung: was walking."
+    },
+    {
+      "id": "r20261022-021",
+      "topic": "Prepositions of time",
+      "level": "Menengah",
+      "q": "My birthday is ___ July.",
+      "opts": [
+        "on",
+        "at",
+        "in"
+      ],
+      "a": 2,
+      "why": "Bulan memakai in."
+    },
+    {
+      "id": "r20261022-022",
+      "topic": "Comparatives",
+      "level": "Menengah",
+      "q": "This restaurant is ___ than that one. The food is great.",
+      "opts": [
+        "better",
+        "best",
+        "good"
+      ],
+      "a": 0,
+      "why": "Perbandingan dari good: better."
+    },
+    {
+      "id": "r20261022-023",
+      "topic": "Present perfect",
+      "level": "Menengah atas",
+      "q": "Have you ever ___ to Japan?",
+      "opts": [
+        "be",
+        "been",
+        "gone"
+      ],
+      "a": 1,
+      "why": "Have you ever been to ... = pernah ke."
+    },
+    {
+      "id": "r20261022-024",
+      "topic": "Deduction",
+      "level": "Menengah atas",
+      "q": "That ___ be Rina. She is in Bali now.",
+      "opts": [
+        "can't",
+        "must",
+        "should"
+      ],
+      "a": 0,
+      "why": "Mustahil itu Rina: can't be."
+    },
+    {
+      "id": "r20261022-025",
+      "topic": "Contrast",
+      "level": "Menengah atas",
+      "q": "___ it was raining, they played football.",
+      "opts": [
+        "Despite",
+        "Although",
+        "Because"
+      ],
+      "a": 1,
+      "why": "Although + klausa; despite + noun."
+    },
+    {
+      "id": "r20261022-026",
+      "topic": "Make/let",
+      "level": "Menengah atas",
+      "q": "My parents don't ___ me stay out late.",
+      "opts": [
+        "allow",
+        "make",
+        "let"
+      ],
+      "a": 2,
+      "why": "Let + object + verb dasar."
+    },
+    {
+      "id": "r20261022-027",
+      "topic": "Infinitive of purpose",
+      "level": "Menengah atas",
+      "q": "I went to the store ___ some milk.",
+      "opts": [
+        "to buy",
+        "for buying",
+        "buy"
+      ],
+      "a": 0,
+      "why": "Tujuan: to + verb."
+    },
+    {
+      "id": "r20261022-028",
+      "topic": "Reflexive pronouns",
+      "level": "Menengah atas",
+      "q": "He cut ___ while cooking.",
+      "opts": [
+        "his",
+        "him",
+        "himself"
+      ],
+      "a": 2,
+      "why": "Subjek dan objek sama: himself."
+    },
+    {
+      "id": "r20261022-029",
+      "topic": "Present perfect",
+      "level": "Menengah atas",
+      "q": "I have ___ finished my homework.",
+      "opts": [
+        "already",
+        "yet",
+        "since"
+      ],
+      "a": 0,
+      "why": "Kalimat positif: already."
+    },
+    {
+      "id": "r20261022-030",
+      "topic": "Suggest",
+      "level": "Menengah atas",
+      "q": "The doctor suggested ___ more water.",
+      "opts": [
+        "to drink",
+        "drinking",
+        "drink"
+      ],
+      "a": 1,
+      "why": "Suggest diikuti verb-ing."
+    },
+    {
+      "id": "r20261022-031",
+      "topic": "Unless",
+      "level": "Menengah atas",
+      "q": "You won't pass the test ___ you study.",
+      "opts": [
+        "if",
+        "because",
+        "unless"
+      ],
+      "a": 2,
+      "why": "Kecuali jika: unless."
+    },
+    {
+      "id": "r20261022-032",
+      "topic": "Third conditional",
+      "level": "Menuju lancar",
+      "q": "If you had studied, you ___ the exam.",
+      "opts": [
+        "would pass",
+        "would have passed",
+        "will pass"
+      ],
+      "a": 1,
+      "why": "Kondisi lampau tak nyata: would have + V3."
+    },
+    {
+      "id": "r20261022-033",
+      "topic": "Reported questions",
+      "level": "Menuju lancar",
+      "q": "She asked me where I ___.",
+      "opts": [
+        "live",
+        "lives",
+        "lived"
+      ],
+      "a": 2,
+      "why": "Pertanyaan tak langsung mundur satu bentuk: lived."
+    },
+    {
+      "id": "r20261022-034",
+      "topic": "Past perfect passive",
+      "level": "Menuju lancar",
+      "q": "The bridge ___ by 2020.",
+      "opts": [
+        "had been completed",
+        "has completed",
+        "was completing"
+      ],
+      "a": 0,
+      "why": "Selesai sebelum titik lampau: had been completed."
+    },
+    {
+      "id": "r20261022-035",
+      "topic": "Connectors",
+      "level": "Menuju lancar",
+      "q": "He passed the exam ___ his lack of preparation.",
+      "opts": [
+        "despite of",
+        "in spite of",
+        "although"
+      ],
+      "a": 1,
+      "why": "In spite of + noun; despite tanpa of."
+    },
+    {
+      "id": "r20261022-036",
+      "topic": "Be used to",
+      "level": "Menuju lancar",
+      "q": "I am ___ to waking up early now.",
+      "opts": [
+        "used",
+        "use",
+        "get"
+      ],
+      "a": 0,
+      "why": "Be used to + verb-ing = terbiasa."
+    },
+    {
+      "id": "r20261022-037",
+      "topic": "Past perfect",
+      "level": "Menuju lancar",
+      "q": "By the time we arrived, the movie ___.",
+      "opts": [
+        "has started",
+        "had started",
+        "starts"
+      ],
+      "a": 1,
+      "why": "Kejadian lebih dulu: had started."
+    },
+    {
+      "id": "r20261022-038",
+      "topic": "Preferences",
+      "level": "Menuju lancar",
+      "q": "I would ___ stay home tonight. I'm tired.",
+      "opts": [
+        "prefer",
+        "had",
+        "rather"
+      ],
+      "a": 2,
+      "why": "Would rather + verb dasar."
+    },
+    {
+      "id": "r20261022-039",
+      "topic": "Inversions",
+      "level": "Menuju lancar",
+      "q": "No sooner had she left ___ the phone rang.",
+      "opts": [
+        "than",
+        "when",
+        "that"
+      ],
+      "a": 0,
+      "why": "Pola: no sooner ... than."
+    },
+    {
+      "id": "r20261022-040",
+      "topic": "Idioms",
+      "level": "Menuju lancar",
+      "q": "It's raining cats and ___.",
+      "opts": [
+        "pets",
+        "frogs",
+        "dogs"
+      ],
+      "a": 2,
+      "why": "Idiom hujan deras: cats and dogs."
+    }
+  ],
+  "articles": [
+    {
+      "id": "r20261022-a01",
+      "title": "Miko's First Day at Work",
+      "level": "Dasar",
+      "min": 2,
+      "body": [
+        "Miko is twenty-two years old. Yesterday was his first day at a small coffee shop in Bandung. He woke up at five in the morning because he did not want to be late.",
+        "At the shop, his boss, Mrs. Ani, showed him how to make coffee and use the cash register. Miko was nervous at first, but the other workers were friendly and helped him a lot.",
+        "At the end of the day, Mrs. Ani said, \"Good job, Miko!\" He felt very happy. Tomorrow he will learn how to make latte art."
+      ],
+      "gloss": {
+        "nervous": "gugup",
+        "cash register": "mesin kasir",
+        "friendly": "ramah",
+        "end": "akhir",
+        "tomorrow": "besok"
+      },
+      "qs": [
+        {
+          "q": "Why did Miko wake up at five?",
+          "opts": [
+            "He did not want to be late",
+            "He wanted to exercise",
+            "He could not sleep"
+          ],
+          "a": 0
+        },
+        {
+          "q": "Who showed Miko how to make coffee?",
+          "opts": [
+            "His boss",
+            "His mother",
+            "A customer"
+          ],
+          "a": 0
+        },
+        {
+          "q": "What will Miko learn tomorrow?",
+          "opts": [
+            "Latte art",
+            "Baking bread",
+            "Cleaning machines"
+          ],
+          "a": 0
+        }
+      ]
+    },
+    {
+      "id": "r20261022-a02",
+      "title": "Why We Forget Things",
+      "level": "Menengah atas",
+      "min": 4,
+      "body": [
+        "Everyone forgets things. You walk into a room and cannot remember why. You meet someone new and forget their name a minute later. Scientists say this is completely normal, and in some ways it is actually useful.",
+        "Our brains receive huge amounts of information every day. If we remembered everything, our minds would be full of useless details. Forgetting is how the brain cleans itself. It removes information that we do not need, so important memories can stay clear.",
+        "However, we can remember important things better with a few simple habits. Sleep well, because the brain organizes memories during sleep. Repeat new information several times. And connect new facts to things you already know. Forgetting will always be part of life, but you can choose what stays."
+      ],
+      "gloss": {
+        "huge": "sangat besar",
+        "useless": "tidak berguna",
+        "removes": "menghapus",
+        "clear": "jelas",
+        "habits": "kebiasaan",
+        "organizes": "mengatur"
+      },
+      "qs": [
+        {
+          "q": "According to the text, forgetting is ...",
+          "opts": [
+            "normal and useful",
+            "a serious illness",
+            "very rare"
+          ],
+          "a": 0
+        },
+        {
+          "q": "Why does the brain remove information?",
+          "opts": [
+            "So important memories stay clear",
+            "To make us sleep",
+            "Because we are lazy"
+          ],
+          "a": 0
+        },
+        {
+          "q": "When does the brain organize memories?",
+          "opts": [
+            "During sleep",
+            "While eating",
+            "In the morning"
+          ],
+          "a": 0
+        }
+      ]
+    }
+  ]
+}
