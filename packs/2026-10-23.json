@@ -1,0 +1,623 @@
+{
+  "bank": [
+    {
+      "id": "r20261023-001",
+      "topic": "Vocabulary: colors",
+      "level": "Dasar",
+      "q": "Grass is ___.",
+      "opts": [
+        "blue",
+        "green",
+        "red"
+      ],
+      "a": 1,
+      "why": "Rumput berwarna hijau (green)."
+    },
+    {
+      "id": "r20261023-002",
+      "topic": "Simple present",
+      "level": "Dasar",
+      "q": "They ___ football on Sundays.",
+      "opts": [
+        "plays",
+        "playing",
+        "play"
+      ],
+      "a": 2,
+      "why": "Subjek jamak: play."
+    },
+    {
+      "id": "r20261023-003",
+      "topic": "Vocabulary: school",
+      "level": "Dasar",
+      "q": "You write on the ___ with chalk.",
+      "opts": [
+        "blackboard",
+        "window",
+        "floor"
+      ],
+      "a": 0,
+      "why": "Menulis dengan kapur di papan tulis (blackboard)."
+    },
+    {
+      "id": "r20261023-004",
+      "topic": "How much/many",
+      "level": "Dasar",
+      "q": "___ brothers do you have?",
+      "opts": [
+        "How much",
+        "How old",
+        "How many"
+      ],
+      "a": 2,
+      "why": "Brothers terhitung: how many."
+    },
+    {
+      "id": "r20261023-005",
+      "topic": "Be: past",
+      "level": "Dasar",
+      "q": "I ___ at home last night.",
+      "opts": [
+        "was",
+        "am",
+        "were"
+      ],
+      "a": 0,
+      "why": "I lampau: was."
+    },
+    {
+      "id": "r20261023-006",
+      "topic": "Vocabulary: house",
+      "level": "Dasar",
+      "q": "We cook food in the ___.",
+      "opts": [
+        "bedroom",
+        "kitchen",
+        "garage"
+      ],
+      "a": 1,
+      "why": "Memasak di dapur (kitchen)."
+    },
+    {
+      "id": "r20261023-007",
+      "topic": "Imperatives",
+      "level": "Dasar",
+      "q": "___ down, please. The movie is starting.",
+      "opts": [
+        "Sits",
+        "Sitting",
+        "Sit"
+      ],
+      "a": 2,
+      "why": "Kalimat perintah: sit."
+    },
+    {
+      "id": "r20261023-008",
+      "topic": "Possessive adjectives",
+      "level": "Dasar",
+      "q": "We love ___ cat. It is cute.",
+      "opts": [
+        "us",
+        "our",
+        "we"
+      ],
+      "a": 1,
+      "why": "Milik kami: our."
+    },
+    {
+      "id": "r20261023-009",
+      "topic": "Vocabulary: time",
+      "level": "Dasar",
+      "q": "There are seven days in one ___.",
+      "opts": [
+        "month",
+        "year",
+        "week"
+      ],
+      "a": 2,
+      "why": "Tujuh hari = satu minggu (week)."
+    },
+    {
+      "id": "r20261023-010",
+      "topic": "Like + verb-ing",
+      "level": "Dasar",
+      "q": "She likes ___ books.",
+      "opts": [
+        "reading",
+        "reads",
+        "read"
+      ],
+      "a": 0,
+      "why": "Like diikuti verb-ing: reading."
+    },
+    {
+      "id": "r20261023-011",
+      "topic": "Past simple",
+      "level": "Menengah",
+      "q": "He ___ breakfast at seven this morning.",
+      "opts": [
+        "has",
+        "had",
+        "have"
+      ],
+      "a": 1,
+      "why": "Lampau: had."
+    },
+    {
+      "id": "r20261023-012",
+      "topic": "Comparatives",
+      "level": "Menengah",
+      "q": "A car is ___ than a bicycle.",
+      "opts": [
+        "faster",
+        "fastest",
+        "fast"
+      ],
+      "a": 0,
+      "why": "Perbandingan: faster than."
+    },
+    {
+      "id": "r20261023-013",
+      "topic": "Must/mustn't",
+      "level": "Menengah",
+      "q": "You ___ smoke here. It is a hospital.",
+      "opts": [
+        "must",
+        "mustn't",
+        "don't"
+      ],
+      "a": 1,
+      "why": "Dilarang: mustn't."
+    },
+    {
+      "id": "r20261023-014",
+      "topic": "Present continuous",
+      "level": "Menengah",
+      "q": "Please be quiet. The baby ___.",
+      "opts": [
+        "sleeps",
+        "slept",
+        "is sleeping"
+      ],
+      "a": 2,
+      "why": "Sedang tidur sekarang: is sleeping."
+    },
+    {
+      "id": "r20261023-015",
+      "topic": "Prepositions of place",
+      "level": "Menengah",
+      "q": "The bank is ___ the post office and the pharmacy.",
+      "opts": [
+        "between",
+        "among",
+        "behind"
+      ],
+      "a": 0,
+      "why": "Di antara dua tempat: between."
+    },
+    {
+      "id": "r20261023-016",
+      "topic": "Some/any",
+      "level": "Menengah",
+      "q": "Would you like ___ tea?",
+      "opts": [
+        "any",
+        "much",
+        "some"
+      ],
+      "a": 2,
+      "why": "Tawaran memakai some."
+    },
+    {
+      "id": "r20261023-017",
+      "topic": "Whose",
+      "level": "Menengah",
+      "q": "___ bag is this? It's mine.",
+      "opts": [
+        "Whose",
+        "Who's",
+        "Who"
+      ],
+      "a": 0,
+      "why": "Menanyakan kepemilikan: whose."
+    },
+    {
+      "id": "r20261023-018",
+      "topic": "Adverbs of frequency",
+      "level": "Menengah",
+      "q": "I ___ eat out, maybe twice a year.",
+      "opts": [
+        "always",
+        "rarely",
+        "often"
+      ],
+      "a": 1,
+      "why": "Dua kali setahun: rarely (jarang)."
+    },
+    {
+      "id": "r20261023-019",
+      "topic": "Past simple questions",
+      "level": "Menengah",
+      "q": "___ you enjoy the party last night?",
+      "opts": [
+        "Do",
+        "Were",
+        "Did"
+      ],
+      "a": 2,
+      "why": "Pertanyaan lampau: did + verb dasar."
+    },
+    {
+      "id": "r20261023-020",
+      "topic": "Going to",
+      "level": "Menengah",
+      "q": "We ___ visit Grandma this weekend. We already bought tickets.",
+      "opts": [
+        "will",
+        "are going to",
+        "would"
+      ],
+      "a": 1,
+      "why": "Rencana pasti: be going to."
+    },
+    {
+      "id": "r20261023-021",
+      "topic": "Present perfect",
+      "level": "Menengah atas",
+      "q": "I have known her ___ ten years.",
+      "opts": [
+        "since",
+        "during",
+        "for"
+      ],
+      "a": 2,
+      "why": "Durasi: for + jangka waktu."
+    },
+    {
+      "id": "r20261023-022",
+      "topic": "Passive voice",
+      "level": "Menengah atas",
+      "q": "The thief ___ by the police last night.",
+      "opts": [
+        "was arrested",
+        "arrested",
+        "is arrested"
+      ],
+      "a": 0,
+      "why": "Pasif lampau: was arrested."
+    },
+    {
+      "id": "r20261023-023",
+      "topic": "Question tags",
+      "level": "Menengah atas",
+      "q": "She can't swim, ___?",
+      "opts": [
+        "can't she",
+        "can she",
+        "does she"
+      ],
+      "a": 1,
+      "why": "Tag positif dari kalimat negatif: can she."
+    },
+    {
+      "id": "r20261023-024",
+      "topic": "Relative pronouns",
+      "level": "Menengah atas",
+      "q": "The book ___ I bought yesterday is great.",
+      "opts": [
+        "that",
+        "who",
+        "whose"
+      ],
+      "a": 0,
+      "why": "Benda: that/which."
+    },
+    {
+      "id": "r20261023-025",
+      "topic": "Advice",
+      "level": "Menengah atas",
+      "q": "You look tired. You ___ go to bed early.",
+      "opts": [
+        "would",
+        "should",
+        "must"
+      ],
+      "a": 1,
+      "why": "Saran: should."
+    },
+    {
+      "id": "r20261023-026",
+      "topic": "Verb patterns",
+      "level": "Menengah atas",
+      "q": "They decided ___ a new car.",
+      "opts": [
+        "buying",
+        "buy",
+        "to buy"
+      ],
+      "a": 2,
+      "why": "Decide diikuti to + verb."
+    },
+    {
+      "id": "r20261023-027",
+      "topic": "Zero conditional",
+      "level": "Menengah atas",
+      "q": "If you mix red and white, you ___ pink.",
+      "opts": [
+        "get",
+        "will get",
+        "got"
+      ],
+      "a": 0,
+      "why": "Fakta umum: present + present."
+    },
+    {
+      "id": "r20261023-028",
+      "topic": "Past simple vs present perfect",
+      "level": "Menengah atas",
+      "q": "I ___ my wallet. I can't find it anywhere.",
+      "opts": [
+        "lost",
+        "lose",
+        "have lost"
+      ],
+      "a": 2,
+      "why": "Hasil terasa sekarang: have lost."
+    },
+    {
+      "id": "r20261023-029",
+      "topic": "Reported speech",
+      "level": "Menengah atas",
+      "q": "She told me she ___ busy that day.",
+      "opts": [
+        "was",
+        "is",
+        "were"
+      ],
+      "a": 0,
+      "why": "Mundur satu bentuk: was."
+    },
+    {
+      "id": "r20261023-030",
+      "topic": "Both/neither",
+      "level": "Menengah atas",
+      "q": "___ of my parents are teachers. My dad is a doctor and my mom is a nurse.",
+      "opts": [
+        "Both",
+        "Neither",
+        "Either"
+      ],
+      "a": 1,
+      "why": "Keduanya bukan guru: neither."
+    },
+    {
+      "id": "r20261023-031",
+      "topic": "Second conditional",
+      "level": "Menuju lancar",
+      "q": "If she ___ harder, she would pass.",
+      "opts": [
+        "studies",
+        "will study",
+        "studied"
+      ],
+      "a": 2,
+      "why": "Kondisi tak nyata: past simple."
+    },
+    {
+      "id": "r20261023-032",
+      "topic": "Phrasal verbs",
+      "level": "Menuju lancar",
+      "q": "The meeting was ___ until next week.",
+      "opts": [
+        "put on",
+        "put off",
+        "put up"
+      ],
+      "a": 1,
+      "why": "Put off = menunda."
+    },
+    {
+      "id": "r20261023-033",
+      "topic": "Wish + past",
+      "level": "Menuju lancar",
+      "q": "I wish I ___ taller. Basketball would be easier.",
+      "opts": [
+        "am",
+        "would be",
+        "were"
+      ],
+      "a": 2,
+      "why": "Harapan tak nyata: were."
+    },
+    {
+      "id": "r20261023-034",
+      "topic": "Mixed connectors",
+      "level": "Menuju lancar",
+      "q": "___ studying all night, he failed the exam.",
+      "opts": [
+        "Despite",
+        "In spite",
+        "Although"
+      ],
+      "a": 0,
+      "why": "Despite + verb-ing; although butuh subjek+kata kerja."
+    },
+    {
+      "id": "r20261023-035",
+      "topic": "Past perfect",
+      "level": "Menuju lancar",
+      "q": "She didn't go to the movies because she ___ it already.",
+      "opts": [
+        "has seen",
+        "had seen",
+        "saw"
+      ],
+      "a": 1,
+      "why": "Sudah menonton sebelumnya: had seen."
+    },
+    {
+      "id": "r20261023-036",
+      "topic": "Reported commands",
+      "level": "Menuju lancar",
+      "q": "The teacher told us ___ quiet.",
+      "opts": [
+        "to be",
+        "be",
+        "being"
+      ],
+      "a": 0,
+      "why": "Tell + object + to-infinitive."
+    },
+    {
+      "id": "r20261023-037",
+      "topic": "Idioms",
+      "level": "Menuju lancar",
+      "q": "He let the cat out of the ___ and told everyone the secret.",
+      "opts": [
+        "box",
+        "bag",
+        "house"
+      ],
+      "a": 1,
+      "why": "Idiom membocorkan rahasia: let the cat out of the bag."
+    },
+    {
+      "id": "r20261023-038",
+      "topic": "Future perfect",
+      "level": "Menuju lancar",
+      "q": "By 2030, they ___ the new airport.",
+      "opts": [
+        "will finish",
+        "finish",
+        "will have finished"
+      ],
+      "a": 2,
+      "why": "Selesai sebelum titik masa depan: will have finished."
+    },
+    {
+      "id": "r20261023-039",
+      "topic": "Causatives",
+      "level": "Menuju lancar",
+      "q": "We are having the house ___ next month.",
+      "opts": [
+        "painted",
+        "paint",
+        "to paint"
+      ],
+      "a": 0,
+      "why": "Have something done."
+    },
+    {
+      "id": "r20261023-040",
+      "topic": "So/such",
+      "level": "Menuju lancar",
+      "q": "It was ___ a boring movie that I fell asleep.",
+      "opts": [
+        "so",
+        "very",
+        "such"
+      ],
+      "a": 2,
+      "why": "Such + a + adjective + noun."
+    }
+  ],
+  "articles": [
+    {
+      "id": "r20261023-a01",
+      "title": "Grandpa's Rice Field",
+      "level": "Dasar",
+      "min": 2,
+      "body": [
+        "Every school holiday, Andi visits his grandpa in the village. Grandpa has a small rice field near a river. Andi loves the fresh air and the green view there.",
+        "This morning, Andi woke up at five and went to the field with Grandpa. They checked the water and pulled out some weeds. Grandpa said the rice will be ready to harvest next month.",
+        "After lunch, they sat under a big tree and drank sweet tea. Grandpa told stories about the village long ago. Andi was tired but very happy. He wants to come back for the harvest."
+      ],
+      "gloss": {
+        "village": "desa",
+        "rice field": "sawah",
+        "river": "sungai",
+        "weeds": "rumput liar",
+        "harvest": "panen",
+        "stories": "cerita"
+      },
+      "qs": [
+        {
+          "q": "Where is Grandpa's rice field?",
+          "opts": [
+            "Near a river",
+            "Behind a school",
+            "In the city"
+          ],
+          "a": 0
+        },
+        {
+          "q": "What did Andi and Grandpa pull out?",
+          "opts": [
+            "Weeds",
+            "Fish",
+            "Rice"
+          ],
+          "a": 0
+        },
+        {
+          "q": "When will the rice be ready to harvest?",
+          "opts": [
+            "Next month",
+            "Tomorrow",
+            "Next year"
+          ],
+          "a": 0
+        }
+      ]
+    },
+    {
+      "id": "r20261023-a02",
+      "title": "The Rise of Urban Farming",
+      "level": "Menengah atas",
+      "min": 4,
+      "body": [
+        "In many large cities, people are starting to grow food in surprising places: on rooftops, on balconies, and even inside empty buildings. This trend is called urban farming, and it is growing quickly around the world.",
+        "Urban farming offers several benefits. It gives city families access to fresh vegetables that have not traveled thousands of kilometers. It also reduces the need for packaging and transport, which means less pollution. For many people, gardening is also a relaxing hobby that improves their mental health.",
+        "Of course, there are challenges. City soil can be polluted, so farmers often use clean soil in containers or grow plants in water. Space is limited, and sunlight can be blocked by tall buildings. Still, as technology improves and more people join in, urban farming is likely to become a normal part of city life."
+      ],
+      "gloss": {
+        "rooftops": "atap",
+        "balconies": "balkon",
+        "trend": "tren",
+        "packaging": "kemasan",
+        "pollution": "polusi",
+        "containers": "wadah",
+        "likely": "kemungkinan"
+      },
+      "qs": [
+        {
+          "q": "What is urban farming?",
+          "opts": [
+            "Growing food in city spaces",
+            "Selling food at night markets",
+            "Farming animals in villages"
+          ],
+          "a": 0
+        },
+        {
+          "q": "Why does urban farming reduce pollution?",
+          "opts": [
+            "Less packaging and transport",
+            "Fewer people eat vegetables",
+            "Plants clean the rain"
+          ],
+          "a": 0
+        },
+        {
+          "q": "Why do some urban farmers use containers?",
+          "opts": [
+            "City soil can be polluted",
+            "Containers are cheaper than soil",
+            "Plants grow faster indoors"
+          ],
+          "a": 0
+        }
+      ]
+    }
+  ]
+}
