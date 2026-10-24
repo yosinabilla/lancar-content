@@ -1,0 +1,624 @@
+{
+  "bank": [
+    {
+      "id": "r20261024-001",
+      "topic": "Vocabulary: months",
+      "level": "Dasar",
+      "q": "The month after June is ___.",
+      "opts": [
+        "May",
+        "July",
+        "August"
+      ],
+      "a": 1,
+      "why": "Setelah Juni: Juli (July)."
+    },
+    {
+      "id": "r20261024-002",
+      "topic": "Simple present",
+      "level": "Dasar",
+      "q": "My father ___ in an office.",
+      "opts": [
+        "work",
+        "working",
+        "works"
+      ],
+      "a": 2,
+      "why": "Orang ketiga tunggal: works."
+    },
+    {
+      "id": "r20261024-003",
+      "topic": "Vocabulary: school",
+      "level": "Dasar",
+      "q": "You sit on a ___ in class.",
+      "opts": [
+        "chair",
+        "table",
+        "board"
+      ],
+      "a": 0,
+      "why": "Duduk di kursi (chair)."
+    },
+    {
+      "id": "r20261024-004",
+      "topic": "Be: negative",
+      "level": "Dasar",
+      "q": "They ___ at school today. It is a holiday.",
+      "opts": [
+        "isn't",
+        "am not",
+        "aren't"
+      ],
+      "a": 2,
+      "why": "Jamak: aren't."
+    },
+    {
+      "id": "r20261024-005",
+      "topic": "There is/are",
+      "level": "Dasar",
+      "q": "___ three cats in the garden.",
+      "opts": [
+        "There are",
+        "There is",
+        "It is"
+      ],
+      "a": 0,
+      "why": "Jamak: there are."
+    },
+    {
+      "id": "r20261024-006",
+      "topic": "Vocabulary: kitchen",
+      "level": "Dasar",
+      "q": "You keep food cold in the ___.",
+      "opts": [
+        "oven",
+        "fridge",
+        "sink"
+      ],
+      "a": 1,
+      "why": "Makanan dingin di kulkas (fridge)."
+    },
+    {
+      "id": "r20261024-007",
+      "topic": "Imperatives",
+      "level": "Dasar",
+      "q": "___ the door, please. It is cold outside.",
+      "opts": [
+        "Closes",
+        "Closing",
+        "Close"
+      ],
+      "a": 2,
+      "why": "Kalimat perintah: close."
+    },
+    {
+      "id": "r20261024-008",
+      "topic": "Question words",
+      "level": "Dasar",
+      "q": "___ is your favorite color?",
+      "opts": [
+        "Where",
+        "What",
+        "When"
+      ],
+      "a": 1,
+      "why": "Menanyakan benda/hal: what."
+    },
+    {
+      "id": "r20261024-009",
+      "topic": "Vocabulary: weather",
+      "level": "Dasar",
+      "q": "In winter, the weather is ___.",
+      "opts": [
+        "hot",
+        "warm",
+        "cold"
+      ],
+      "a": 2,
+      "why": "Musim dingin: cold."
+    },
+    {
+      "id": "r20261024-010",
+      "topic": "Plural nouns",
+      "level": "Dasar",
+      "q": "I have two ___. They are cute.",
+      "opts": [
+        "babies",
+        "babys",
+        "baby"
+      ],
+      "a": 0,
+      "why": "Jamak dari baby: babies."
+    },
+    {
+      "id": "r20261024-011",
+      "topic": "Past simple",
+      "level": "Menengah",
+      "q": "She ___ a letter to her friend yesterday.",
+      "opts": [
+        "written",
+        "wrote",
+        "writes"
+      ],
+      "a": 1,
+      "why": "Bentuk lampau write: wrote."
+    },
+    {
+      "id": "r20261024-012",
+      "topic": "Comparatives",
+      "level": "Menengah",
+      "q": "My bag is ___ than yours.",
+      "opts": [
+        "heavier",
+        "heavy",
+        "heaviest"
+      ],
+      "a": 0,
+      "why": "Perbandingan: heavier than."
+    },
+    {
+      "id": "r20261024-013",
+      "topic": "Must/mustn't",
+      "level": "Menengah",
+      "q": "You ___ wear a uniform at this school. It's a rule.",
+      "opts": [
+        "mustn't",
+        "must",
+        "can"
+      ],
+      "a": 1,
+      "why": "Wajib: must."
+    },
+    {
+      "id": "r20261024-014",
+      "topic": "Present continuous",
+      "level": "Menengah",
+      "q": "Listen! Someone ___ at the door.",
+      "opts": [
+        "knocks",
+        "knocked",
+        "is knocking"
+      ],
+      "a": 2,
+      "why": "Sedang terjadi: is knocking."
+    },
+    {
+      "id": "r20261024-015",
+      "topic": "Prepositions of place",
+      "level": "Menengah",
+      "q": "The supermarket is ___ to the bank. You can walk there in one minute.",
+      "opts": [
+        "next",
+        "between",
+        "behind"
+      ],
+      "a": 0,
+      "why": "Bersebelahan dengan: next to."
+    },
+    {
+      "id": "r20261024-016",
+      "topic": "Future",
+      "level": "Menengah",
+      "q": "Don't worry, I ___ help you with your homework.",
+      "opts": [
+        "am",
+        "do",
+        "will"
+      ],
+      "a": 2,
+      "why": "Janji spontan: will."
+    },
+    {
+      "id": "r20261024-017",
+      "topic": "Adjectives/adverbs",
+      "level": "Menengah",
+      "q": "He is a ___ driver. He never makes mistakes.",
+      "opts": [
+        "careful",
+        "carefully",
+        "careless"
+      ],
+      "a": 0,
+      "why": "Kata sifat sebelum noun: careful."
+    },
+    {
+      "id": "r20261024-018",
+      "topic": "How long",
+      "level": "Menengah",
+      "q": "___ does it take to get to school? Twenty minutes.",
+      "opts": [
+        "How far",
+        "How long",
+        "How many"
+      ],
+      "a": 1,
+      "why": "Menanyakan durasi: how long."
+    },
+    {
+      "id": "r20261024-019",
+      "topic": "Past simple negative",
+      "level": "Menengah",
+      "q": "We ___ watch the movie last night. We were too tired.",
+      "opts": [
+        "don't",
+        "weren't",
+        "didn't"
+      ],
+      "a": 2,
+      "why": "Negatif lampau: didn't + verb dasar."
+    },
+    {
+      "id": "r20261024-020",
+      "topic": "Prepositions of time",
+      "level": "Menengah",
+      "q": "I always relax ___ the weekend.",
+      "opts": [
+        "in",
+        "at",
+        "on"
+      ],
+      "a": 1,
+      "why": "Akhir pekan: at the weekend."
+    },
+    {
+      "id": "r20261024-021",
+      "topic": "Present perfect",
+      "level": "Menengah atas",
+      "q": "She has ___ finished her homework, so she can play now.",
+      "opts": [
+        "yet",
+        "since",
+        "just"
+      ],
+      "a": 2,
+      "why": "Baru saja: just."
+    },
+    {
+      "id": "r20261024-022",
+      "topic": "Passive voice",
+      "level": "Menengah atas",
+      "q": "The results ___ tomorrow morning.",
+      "opts": [
+        "will be announced",
+        "will announce",
+        "are announcing"
+      ],
+      "a": 0,
+      "why": "Pasif masa depan: will be announced."
+    },
+    {
+      "id": "r20261024-023",
+      "topic": "First conditional",
+      "level": "Menengah atas",
+      "q": "If you eat too much candy, you ___ sick.",
+      "opts": [
+        "feel",
+        "will feel",
+        "would feel"
+      ],
+      "a": 1,
+      "why": "Kondisi nyata: will + verb."
+    },
+    {
+      "id": "r20261024-024",
+      "topic": "Relative clauses",
+      "level": "Menengah atas",
+      "q": "That's the house ___ I grew up.",
+      "opts": [
+        "where",
+        "which",
+        "who"
+      ],
+      "a": 0,
+      "why": "Tempat: where/in which."
+    },
+    {
+      "id": "r20261024-025",
+      "topic": "Ability past",
+      "level": "Menengah atas",
+      "q": "When I was five, I ___ swim, but now I can.",
+      "opts": [
+        "can't",
+        "couldn't",
+        "don't"
+      ],
+      "a": 1,
+      "why": "Kemampuan lampau: couldn't."
+    },
+    {
+      "id": "r20261024-026",
+      "topic": "Verb patterns",
+      "level": "Menengah atas",
+      "q": "Would you mind ___ the window?",
+      "opts": [
+        "to open",
+        "open",
+        "opening"
+      ],
+      "a": 2,
+      "why": "Would you mind + verb-ing."
+    },
+    {
+      "id": "r20261024-027",
+      "topic": "Past continuous",
+      "level": "Menengah atas",
+      "q": "What ___ at nine last night?",
+      "opts": [
+        "were you doing",
+        "did you do",
+        "you were doing"
+      ],
+      "a": 0,
+      "why": "Sedang berlangsung di masa lampau: were you doing."
+    },
+    {
+      "id": "r20261024-028",
+      "topic": "Permission",
+      "level": "Menengah atas",
+      "q": "You ___ use your phone during the exam. It's forbidden.",
+      "opts": [
+        "don't have to",
+        "needn't",
+        "mustn't"
+      ],
+      "a": 2,
+      "why": "Dilarang: mustn't."
+    },
+    {
+      "id": "r20261024-029",
+      "topic": "Present perfect",
+      "level": "Menengah atas",
+      "q": "I ___ that movie three times. I love it.",
+      "opts": [
+        "have seen",
+        "saw",
+        "see"
+      ],
+      "a": 0,
+      "why": "Pengalaman sampai sekarang: have seen."
+    },
+    {
+      "id": "r20261024-030",
+      "topic": "Too/enough",
+      "level": "Menengah atas",
+      "q": "She is old ___ to drive a car.",
+      "opts": [
+        "too",
+        "enough",
+        "very"
+      ],
+      "a": 1,
+      "why": "Cukup tua: old enough."
+    },
+    {
+      "id": "r20261024-031",
+      "topic": "Third conditional",
+      "level": "Menuju lancar",
+      "q": "If we had left earlier, we ___ the train.",
+      "opts": [
+        "would catch",
+        "will catch",
+        "would have caught"
+      ],
+      "a": 2,
+      "why": "Kondisi lampau tak nyata: would have + V3."
+    },
+    {
+      "id": "r20261024-032",
+      "topic": "Phrasal verbs",
+      "level": "Menuju lancar",
+      "q": "The fire fighters managed to ___ the fire.",
+      "opts": [
+        "put off",
+        "put out",
+        "put down"
+      ],
+      "a": 1,
+      "why": "Put out = memadamkan."
+    },
+    {
+      "id": "r20261024-033",
+      "topic": "Past perfect",
+      "level": "Menuju lancar",
+      "q": "I couldn't enter the cinema because I ___ my ticket at home.",
+      "opts": [
+        "have left",
+        "left",
+        "had left"
+      ],
+      "a": 2,
+      "why": "Kejadian lebih dulu: had left."
+    },
+    {
+      "id": "r20261024-034",
+      "topic": "Linkers",
+      "level": "Menuju lancar",
+      "q": "He is very rich; ___, he lives a simple life.",
+      "opts": [
+        "nevertheless",
+        "because",
+        "so"
+      ],
+      "a": 0,
+      "why": "Kontras: nevertheless (namun demikian)."
+    },
+    {
+      "id": "r20261024-035",
+      "topic": "Passive past perfect",
+      "level": "Menuju lancar",
+      "q": "When we arrived, the food ___ by the guests.",
+      "opts": [
+        "was eating",
+        "had been eaten",
+        "has been eaten"
+      ],
+      "a": 1,
+      "why": "Pasif lampau sebelum lampau: had been eaten."
+    },
+    {
+      "id": "r20261024-036",
+      "topic": "Wishes",
+      "level": "Menuju lancar",
+      "q": "I wish it ___ raining. I want to go out.",
+      "opts": [
+        "would stop",
+        "will stop",
+        "stops"
+      ],
+      "a": 0,
+      "why": "Wish + would untuk keinginan perubahan."
+    },
+    {
+      "id": "r20261024-037",
+      "topic": "Reported speech",
+      "level": "Menuju lancar",
+      "q": "He asked me ___ I liked the gift.",
+      "opts": [
+        "that",
+        "if",
+        "what"
+      ],
+      "a": 1,
+      "why": "Pertanyaan ya/tidak tak langsung: if."
+    },
+    {
+      "id": "r20261024-038",
+      "topic": "So/neither",
+      "level": "Menuju lancar",
+      "q": "'I don't eat meat.' '___ do I.'",
+      "opts": [
+        "So",
+        "Either",
+        "Neither"
+      ],
+      "a": 2,
+      "why": "Setuju dengan negatif: neither do I."
+    },
+    {
+      "id": "r20261024-039",
+      "topic": "Vocabulary: formal",
+      "level": "Menuju lancar",
+      "q": "The company decided to ___ 50 workers because of the crisis.",
+      "opts": [
+        "lay off",
+        "take on",
+        "give in"
+      ],
+      "a": 0,
+      "why": "Lay off = memberhentikan karyawan."
+    },
+    {
+      "id": "r20261024-040",
+      "topic": "Quantifiers",
+      "level": "Menuju lancar",
+      "q": "___ the students passed the exam, only two failed.",
+      "opts": [
+        "Almost",
+        "Most of",
+        "Almost all"
+      ],
+      "a": 2,
+      "why": "Hampir semua: almost all."
+    }
+  ],
+  "articles": [
+    {
+      "id": "r20261024-a01",
+      "title": "Sari's Online Shop",
+      "level": "Dasar",
+      "min": 2,
+      "body": [
+        "Sari is a high school student in Surabaya. Three months ago, she opened a small online shop. She sells handmade bracelets and keychains.",
+        "Every afternoon, after school, Sari makes new products. Her little brother helps her pack the orders. On Saturdays, she sends all the packages by post.",
+        "Last week, Sari got fifty orders in one day! She was very busy but also very proud. She is saving the money to buy a new laptop for school."
+      ],
+      "gloss": {
+        "opened": "membuka",
+        "handmade": "buatan tangan",
+        "bracelets": "gelang",
+        "keychains": "gantungan kunci",
+        "pack": "mengemas",
+        "orders": "pesanan",
+        "saving": "menabung"
+      },
+      "qs": [
+        {
+          "q": "What does Sari sell?",
+          "opts": [
+            "Handmade bracelets and keychains",
+            "School books",
+            "Homemade cakes"
+          ],
+          "a": 0
+        },
+        {
+          "q": "Who helps Sari pack the orders?",
+          "opts": [
+            "Her mother",
+            "Her little brother",
+            "Her classmate"
+          ],
+          "a": 1
+        },
+        {
+          "q": "What is Sari saving money for?",
+          "opts": [
+            "A new phone",
+            "A holiday",
+            "A new laptop"
+          ],
+          "a": 2
+        }
+      ]
+    },
+    {
+      "id": "r20261024-a02",
+      "title": "The Hidden Cost of Free Apps",
+      "level": "Menengah atas",
+      "min": 4,
+      "body": [
+        "Millions of people use free apps every day. They cost nothing to download, so why do companies spend millions making them? The answer is simple: if you are not paying for the product, you are the product.",
+        "Most free apps make money in two ways. First, they show advertisements. Second, and more importantly, they collect data about you: what you like, where you go, and who your friends are. Companies then sell this information to advertisers who want to show you products you are likely to buy.",
+        "This does not mean you should delete every free app. But it is wise to be careful. Check what permissions an app asks for before installing it. A flashlight app should not need your contact list. The less data you share, the safer your privacy will be."
+      ],
+      "gloss": {
+        "download": "mengunduh",
+        "advertisements": "iklan",
+        "collect": "mengumpulkan",
+        "likely": "kemungkinan",
+        "wise": "bijaksana",
+        "permissions": "izin",
+        "privacy": "privasi"
+      },
+      "qs": [
+        {
+          "q": "According to the text, how do most free apps make money?",
+          "opts": [
+            "Advertisements and selling user data",
+            "Selling phones",
+            "Monthly payments from users"
+          ],
+          "a": 0
+        },
+        {
+          "q": "What example shows a suspicious app permission?",
+          "opts": [
+            "A camera app asking to use the camera",
+            "A flashlight app wanting your contact list",
+            "A map app asking for your location"
+          ],
+          "a": 1
+        },
+        {
+          "q": "What does the writer suggest?",
+          "opts": [
+            "Delete all free apps",
+            "Pay for every app you use",
+            "Share less data to protect your privacy"
+          ],
+          "a": 2
+        }
+      ]
+    }
+  ]
+}
