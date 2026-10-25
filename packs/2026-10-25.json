@@ -1,0 +1,624 @@
+{
+  "bank": [
+    {
+      "id": "r20261025-001",
+      "topic": "Vocabulary: seasons",
+      "level": "Dasar",
+      "q": "Leaves fall from the trees in ___.",
+      "opts": [
+        "spring",
+        "autumn",
+        "summer"
+      ],
+      "a": 1,
+      "why": "Daun berguguran di musim gugur (autumn)."
+    },
+    {
+      "id": "r20261025-002",
+      "topic": "Simple present",
+      "level": "Dasar",
+      "q": "The sun ___ in the west every evening.",
+      "opts": [
+        "set",
+        "setting",
+        "sets"
+      ],
+      "a": 2,
+      "why": "Fakta umum, subjek tunggal: sets."
+    },
+    {
+      "id": "r20261025-003",
+      "topic": "Vocabulary: jobs",
+      "level": "Dasar",
+      "q": "A ___ works in a hospital and helps sick people.",
+      "opts": [
+        "nurse",
+        "farmer",
+        "pilot"
+      ],
+      "a": 0,
+      "why": "Merawat orang sakit di rumah sakit: perawat (nurse)."
+    },
+    {
+      "id": "r20261025-004",
+      "topic": "Be: questions",
+      "level": "Dasar",
+      "q": "___ you a student?",
+      "opts": [
+        "Is",
+        "Am",
+        "Are"
+      ],
+      "a": 2,
+      "why": "You dengan are."
+    },
+    {
+      "id": "r20261025-005",
+      "topic": "There is/are",
+      "level": "Dasar",
+      "q": "___ any milk in the bottle? No, it's empty.",
+      "opts": [
+        "Is there",
+        "Are there",
+        "There is"
+      ],
+      "a": 0,
+      "why": "Milk tak terhitung, pertanyaan: is there."
+    },
+    {
+      "id": "r20261025-006",
+      "topic": "Vocabulary: hobbies",
+      "level": "Dasar",
+      "q": "I like ___ photos with my camera.",
+      "opts": [
+        "takes",
+        "taking",
+        "take"
+      ],
+      "a": 1,
+      "why": "Like + verb-ing: taking."
+    },
+    {
+      "id": "r20261025-007",
+      "topic": "Demonstratives",
+      "level": "Dasar",
+      "q": "___ is my teacher, Mrs. Rina. (pointing at someone far away)",
+      "opts": [
+        "These",
+        "This",
+        "That"
+      ],
+      "a": 2,
+      "why": "Orang tunggal jauh: that."
+    },
+    {
+      "id": "r20261025-008",
+      "topic": "Vocabulary: days",
+      "level": "Dasar",
+      "q": "Today is Wednesday. Tomorrow is ___.",
+      "opts": [
+        "Tuesday",
+        "Thursday",
+        "Friday"
+      ],
+      "a": 1,
+      "why": "Setelah Rabu: Kamis (Thursday)."
+    },
+    {
+      "id": "r20261025-009",
+      "topic": "Prepositions of place",
+      "level": "Dasar",
+      "q": "The clock is ___ the wall.",
+      "opts": [
+        "in",
+        "at",
+        "on"
+      ],
+      "a": 2,
+      "why": "Menempel di dinding: on the wall."
+    },
+    {
+      "id": "r20261025-010",
+      "topic": "Vocabulary: transport",
+      "level": "Dasar",
+      "q": "A ___ carries many people around the city.",
+      "opts": [
+        "bus",
+        "motorbike",
+        "bicycle"
+      ],
+      "a": 0,
+      "why": "Kendaraan umum banyak orang: bus."
+    },
+    {
+      "id": "r20261025-011",
+      "topic": "Past simple",
+      "level": "Menengah",
+      "q": "They ___ married in 2019.",
+      "opts": [
+        "get",
+        "got",
+        "getting"
+      ],
+      "a": 1,
+      "why": "Lampau: got married."
+    },
+    {
+      "id": "r20261025-012",
+      "topic": "Comparatives",
+      "level": "Menengah",
+      "q": "This exercise is ___ than the last one.",
+      "opts": [
+        "more difficult",
+        "difficulter",
+        "most difficult"
+      ],
+      "a": 0,
+      "why": "Perbandingan: more difficult."
+    },
+    {
+      "id": "r20261025-013",
+      "topic": "Present continuous future",
+      "level": "Menengah",
+      "q": "We ___ to the beach this weekend. The tickets are booked.",
+      "opts": [
+        "go",
+        "are going",
+        "went"
+      ],
+      "a": 1,
+      "why": "Rencana pasti: present continuous."
+    },
+    {
+      "id": "r20261025-014",
+      "topic": "Prepositions of movement",
+      "level": "Menengah",
+      "q": "The cat jumped ___ the wall and ran away.",
+      "opts": [
+        "through",
+        "under",
+        "over"
+      ],
+      "a": 2,
+      "why": "Melewati atas: over."
+    },
+    {
+      "id": "r20261025-015",
+      "topic": "Some/any",
+      "level": "Menengah",
+      "q": "Are there ___ questions before we finish?",
+      "opts": [
+        "any",
+        "some",
+        "much"
+      ],
+      "a": 0,
+      "why": "Pertanyaan biasanya: any."
+    },
+    {
+      "id": "r20261025-016",
+      "topic": "Frequency",
+      "level": "Menengah",
+      "q": "How ___ do you exercise? Three times a week.",
+      "opts": [
+        "long",
+        "much",
+        "often"
+      ],
+      "a": 2,
+      "why": "Menanyakan frekuensi: how often."
+    },
+    {
+      "id": "r20261025-017",
+      "topic": "Past continuous",
+      "level": "Menengah",
+      "q": "The sun ___ when we left the house.",
+      "opts": [
+        "was shining",
+        "shines",
+        "shone"
+      ],
+      "a": 0,
+      "why": "Latar yang sedang berlangsung: was shining."
+    },
+    {
+      "id": "r20261025-018",
+      "topic": "Adverbs",
+      "level": "Menengah",
+      "q": "Please drive ___. The roads are wet.",
+      "opts": [
+        "careful",
+        "carefully",
+        "careless"
+      ],
+      "a": 1,
+      "why": "Kata keterangan: carefully."
+    },
+    {
+      "id": "r20261025-019",
+      "topic": "Prepositions of time",
+      "level": "Menengah",
+      "q": "The shop closes ___ 9 p.m.",
+      "opts": [
+        "in",
+        "on",
+        "at"
+      ],
+      "a": 2,
+      "why": "Jam: at."
+    },
+    {
+      "id": "r20261025-020",
+      "topic": "Object pronouns",
+      "level": "Menengah",
+      "q": "My parents live far away. I call ___ every Sunday.",
+      "opts": [
+        "they",
+        "them",
+        "their"
+      ],
+      "a": 1,
+      "why": "Objek jamak: them."
+    },
+    {
+      "id": "r20261025-021",
+      "topic": "Present perfect",
+      "level": "Menengah atas",
+      "q": "We ___ here for three years, and we love it.",
+      "opts": [
+        "lived",
+        "live",
+        "have lived"
+      ],
+      "a": 2,
+      "why": "Dari dulu sampai sekarang: have lived."
+    },
+    {
+      "id": "r20261025-022",
+      "topic": "Passive voice",
+      "level": "Menengah atas",
+      "q": "The window ___ by the strong wind last night.",
+      "opts": [
+        "was broken",
+        "broke",
+        "is broken"
+      ],
+      "a": 0,
+      "why": "Pasif lampau: was broken."
+    },
+    {
+      "id": "r20261025-023",
+      "topic": "First conditional",
+      "level": "Menengah atas",
+      "q": "If she ___ hard, she will pass the exam.",
+      "opts": [
+        "will study",
+        "studies",
+        "study"
+      ],
+      "a": 1,
+      "why": "Klausa if memakai present."
+    },
+    {
+      "id": "r20261025-024",
+      "topic": "Relative clauses",
+      "level": "Menengah atas",
+      "q": "The woman ___ car was stolen called the police.",
+      "opts": [
+        "whose",
+        "who",
+        "which"
+      ],
+      "a": 0,
+      "why": "Kepemilikan: whose."
+    },
+    {
+      "id": "r20261025-025",
+      "topic": "Used to",
+      "level": "Menengah atas",
+      "q": "There ___ be a cinema here, but it closed down.",
+      "opts": [
+        "was used to",
+        "used to",
+        "is used to"
+      ],
+      "a": 1,
+      "why": "Keadaan lampau yang sudah berubah: used to."
+    },
+    {
+      "id": "r20261025-026",
+      "topic": "Question tags",
+      "level": "Menengah atas",
+      "q": "They haven't arrived yet, ___?",
+      "opts": [
+        "haven't they",
+        "did they",
+        "have they"
+      ],
+      "a": 2,
+      "why": "Tag positif dari negatif: have they."
+    },
+    {
+      "id": "r20261025-027",
+      "topic": "Gerund/infinitive",
+      "level": "Menengah atas",
+      "q": "I stopped ___ coffee because I couldn't sleep.",
+      "opts": [
+        "drinking",
+        "to drink",
+        "drink"
+      ],
+      "a": 0,
+      "why": "Berhenti melakukan: stop + verb-ing."
+    },
+    {
+      "id": "r20261025-028",
+      "topic": "Present perfect vs past",
+      "level": "Menengah atas",
+      "q": "I ___ my best friend ten years ago.",
+      "opts": [
+        "have met",
+        "meet",
+        "met"
+      ],
+      "a": 2,
+      "why": "Waktu pasti lampau: met."
+    },
+    {
+      "id": "r20261025-029",
+      "topic": "Modals of deduction",
+      "level": "Menengah atas",
+      "q": "He ___ be very tired. He worked for twelve hours.",
+      "opts": [
+        "must",
+        "can't",
+        "might not"
+      ],
+      "a": 0,
+      "why": "Kesimpulan logis: must be."
+    },
+    {
+      "id": "r20261025-030",
+      "topic": "Both/either",
+      "level": "Menengah atas",
+      "q": "You can take ___ bus; they both go to the station.",
+      "opts": [
+        "neither",
+        "either",
+        "every"
+      ],
+      "a": 1,
+      "why": "Salah satu dari dua: either."
+    },
+    {
+      "id": "r20261025-031",
+      "topic": "Third conditional",
+      "level": "Menuju lancar",
+      "q": "If you had asked me, I ___ you.",
+      "opts": [
+        "would help",
+        "will help",
+        "would have helped"
+      ],
+      "a": 2,
+      "why": "Kondisi lampau tak nyata: would have + V3."
+    },
+    {
+      "id": "r20261025-032",
+      "topic": "Phrasal verbs",
+      "level": "Menuju lancar",
+      "q": "I can't ___ with all this noise. I need silence.",
+      "opts": [
+        "put on",
+        "put up",
+        "put off"
+      ],
+      "a": 1,
+      "why": "Put up with = mentoleransi."
+    },
+    {
+      "id": "r20261025-033",
+      "topic": "Past perfect continuous",
+      "level": "Menuju lancar",
+      "q": "She was exhausted because she ___ all day.",
+      "opts": [
+        "has worked",
+        "works",
+        "had been working"
+      ],
+      "a": 2,
+      "why": "Durasi sebelum lampau: had been working."
+    },
+    {
+      "id": "r20261025-034",
+      "topic": "Connectors",
+      "level": "Menuju lancar",
+      "q": "Take a jacket ___ it gets cold later.",
+      "opts": [
+        "in case",
+        "unless",
+        "until"
+      ],
+      "a": 0,
+      "why": "Berjaga-jaga: in case."
+    },
+    {
+      "id": "r20261025-035",
+      "topic": "Passive with modals",
+      "level": "Menuju lancar",
+      "q": "This problem ___ seriously.",
+      "opts": [
+        "must take",
+        "must be taken",
+        "must be take"
+      ],
+      "a": 1,
+      "why": "Pasif dengan modal: must be + V3."
+    },
+    {
+      "id": "r20261025-036",
+      "topic": "Wish",
+      "level": "Menuju lancar",
+      "q": "I wish I ___ more time to finish this project.",
+      "opts": [
+        "had",
+        "have",
+        "will have"
+      ],
+      "a": 0,
+      "why": "Harapan tak nyata sekarang: past simple."
+    },
+    {
+      "id": "r20261025-037",
+      "topic": "Reported speech",
+      "level": "Menuju lancar",
+      "q": "The officer asked ___ my passport.",
+      "opts": [
+        "see",
+        "to see",
+        "seeing"
+      ],
+      "a": 1,
+      "why": "Ask + to-infinitive."
+    },
+    {
+      "id": "r20261025-038",
+      "topic": "Inversions",
+      "level": "Menuju lancar",
+      "q": "Rarely ___ such a beautiful sunset.",
+      "opts": [
+        "I have seen",
+        "I saw",
+        "have I seen"
+      ],
+      "a": 2,
+      "why": "Inversi setelah rarely: have I seen."
+    },
+    {
+      "id": "r20261025-039",
+      "topic": "Idioms",
+      "level": "Menuju lancar",
+      "q": "Don't worry about the exam. It's not rocket ___.",
+      "opts": [
+        "science",
+        "math",
+        "art"
+      ],
+      "a": 0,
+      "why": "Idiom mudah: not rocket science."
+    },
+    {
+      "id": "r20261025-040",
+      "topic": "Subjunctive",
+      "level": "Menuju lancar",
+      "q": "The teacher suggests that every student ___ a dictionary.",
+      "opts": [
+        "has",
+        "having",
+        "have"
+      ],
+      "a": 2,
+      "why": "Subjunctive setelah suggest that: verb dasar."
+    }
+  ],
+  "articles": [
+    {
+      "id": "r20261025-a01",
+      "title": "A Trip to the Night Zoo",
+      "level": "Dasar",
+      "min": 2,
+      "body": [
+        "Last Friday, Budi's class went on a trip to the night zoo. They left school at four o'clock in the afternoon and arrived just before dark.",
+        "At the zoo, the students saw owls, bats, and slow lorises. Their guide, Mr. Dani, used a small red flashlight because bright light can hurt the animals' eyes. Budi's favorite animal was the firefly tree, full of tiny lights.",
+        "The students came home at ten o'clock. Budi was sleepy, but before bed he drew a picture of the owls. He wants to be a zoo guide one day."
+      ],
+      "gloss": {
+        "trip": "perjalanan",
+        "owls": "burung hantu",
+        "bats": "kelelawar",
+        "flashlight": "senter",
+        "bright": "terang",
+        "tiny": "kecil",
+        "guide": "pemandu"
+      },
+      "qs": [
+        {
+          "q": "When did Budi's class leave school?",
+          "opts": [
+            "At four in the afternoon",
+            "At ten at night",
+            "In the morning"
+          ],
+          "a": 0
+        },
+        {
+          "q": "Why did Mr. Dani use a red flashlight?",
+          "opts": [
+            "Red light is cheaper",
+            "Bright light can hurt the animals' eyes",
+            "The zoo has no electricity"
+          ],
+          "a": 1
+        },
+        {
+          "q": "What does Budi want to be one day?",
+          "opts": [
+            "A teacher",
+            "An artist",
+            "A zoo guide"
+          ],
+          "a": 2
+        }
+      ]
+    },
+    {
+      "id": "r20261025-a02",
+      "title": "Why Boredom Can Be Good for You",
+      "level": "Menengah atas",
+      "min": 4,
+      "body": [
+        "These days, it is almost impossible to feel bored. The moment we wait in a line or sit on a bus, we reach for our phones. But psychologists say that a little boredom is actually good for us.",
+        "When the brain has nothing to do, it starts to wander. During this wandering, people often have their most creative ideas. Many writers and inventors say their best ideas came when they were doing something boring, like walking or washing dishes.",
+        "Boredom also teaches children an important skill: how to entertain themselves. A child who is never bored may struggle when there is no screen or toy available. So next time you feel bored, do not reach for your phone immediately. Give your mind a few quiet minutes, and see where it takes you."
+      ],
+      "gloss": {
+        "almost": "hampir",
+        "reach": "meraih",
+        "wander": "mengembara",
+        "inventors": "penemu",
+        "skill": "keterampilan",
+        "available": "tersedia",
+        "immediately": "segera"
+      },
+      "qs": [
+        {
+          "q": "What happens when the brain has nothing to do?",
+          "opts": [
+            "It starts to wander",
+            "It falls asleep",
+            "It forgets everything"
+          ],
+          "a": 0
+        },
+        {
+          "q": "When did many writers get their best ideas?",
+          "opts": [
+            "While using their phones",
+            "While doing boring activities",
+            "While watching movies"
+          ],
+          "a": 1
+        },
+        {
+          "q": "What does boredom teach children?",
+          "opts": [
+            "How to use phones wisely",
+            "How to follow rules",
+            "How to entertain themselves"
+          ],
+          "a": 2
+        }
+      ]
+    }
+  ]
+}
