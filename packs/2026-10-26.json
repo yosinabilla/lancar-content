@@ -1,0 +1,625 @@
+{
+  "bank": [
+    {
+      "id": "r20261026-001",
+      "topic": "Vocabulary: weather",
+      "level": "Dasar",
+      "q": "When it snows, the weather is very ___.",
+      "opts": [
+        "hot",
+        "cold",
+        "dry"
+      ],
+      "a": 1,
+      "why": "Turun salju berarti dingin (cold)."
+    },
+    {
+      "id": "r20261026-002",
+      "topic": "Simple present",
+      "level": "Dasar",
+      "q": "Birds ___ in the morning.",
+      "opts": [
+        "sings",
+        "singing",
+        "sing"
+      ],
+      "a": 2,
+      "why": "Subjek jamak: sing."
+    },
+    {
+      "id": "r20261026-003",
+      "topic": "Vocabulary: furniture",
+      "level": "Dasar",
+      "q": "You put your clothes in a ___.",
+      "opts": [
+        "wardrobe",
+        "fridge",
+        "stove"
+      ],
+      "a": 0,
+      "why": "Baju di lemari pakaian (wardrobe)."
+    },
+    {
+      "id": "r20261026-004",
+      "topic": "Be: past",
+      "level": "Dasar",
+      "q": "They ___ happy at the party last night.",
+      "opts": [
+        "was",
+        "are",
+        "were"
+      ],
+      "a": 2,
+      "why": "Jamak lampau: were."
+    },
+    {
+      "id": "r20261026-005",
+      "topic": "A/An",
+      "level": "Dasar",
+      "q": "She is ___ honest person.",
+      "opts": [
+        "an",
+        "a",
+        "the"
+      ],
+      "a": 0,
+      "why": "Honest berbunyi vokal (h tidak diucapkan): an."
+    },
+    {
+      "id": "r20261026-006",
+      "topic": "Vocabulary: meals",
+      "level": "Dasar",
+      "q": "We eat dinner in the ___.",
+      "opts": [
+        "morning",
+        "evening",
+        "afternoon"
+      ],
+      "a": 1,
+      "why": "Makan malam di malam hari (evening)."
+    },
+    {
+      "id": "r20261026-007",
+      "topic": "Imperatives",
+      "level": "Dasar",
+      "q": "___ quiet, please. The baby is sleeping.",
+      "opts": [
+        "Is",
+        "Are",
+        "Be"
+      ],
+      "a": 2,
+      "why": "Kalimat perintah dengan be: be quiet."
+    },
+    {
+      "id": "r20261026-008",
+      "topic": "How much/many",
+      "level": "Dasar",
+      "q": "___ water do you drink every day?",
+      "opts": [
+        "How many",
+        "How much",
+        "How often"
+      ],
+      "a": 1,
+      "why": "Water tak terhitung: how much."
+    },
+    {
+      "id": "r20261026-009",
+      "topic": "Vocabulary: sports",
+      "level": "Dasar",
+      "q": "You need a racket to play ___.",
+      "opts": [
+        "football",
+        "swimming",
+        "tennis"
+      ],
+      "a": 2,
+      "why": "Tenis memakai raket (racket)."
+    },
+    {
+      "id": "r20261026-010",
+      "topic": "Possessives",
+      "level": "Dasar",
+      "q": "That is my book. It is ___.",
+      "opts": [
+        "mine",
+        "my",
+        "me"
+      ],
+      "a": 0,
+      "why": "Milik saya (berdiri sendiri): mine."
+    },
+    {
+      "id": "r20261026-011",
+      "topic": "Past simple",
+      "level": "Menengah",
+      "q": "The teacher ___ us a lot of homework yesterday.",
+      "opts": [
+        "given",
+        "gave",
+        "gives"
+      ],
+      "a": 1,
+      "why": "Bentuk lampau give: gave."
+    },
+    {
+      "id": "r20261026-012",
+      "topic": "Superlatives",
+      "level": "Menengah",
+      "q": "December is the ___ month of the year.",
+      "opts": [
+        "last",
+        "latest",
+        "later"
+      ],
+      "a": 0,
+      "why": "Bulan terakhir: the last."
+    },
+    {
+      "id": "r20261026-013",
+      "topic": "Present continuous",
+      "level": "Menengah",
+      "q": "Please turn off the TV. I ___ to study.",
+      "opts": [
+        "try",
+        "am trying",
+        "tried"
+      ],
+      "a": 1,
+      "why": "Sedang berusaha sekarang: am trying."
+    },
+    {
+      "id": "r20261026-014",
+      "topic": "Prepositions of place",
+      "level": "Menengah",
+      "q": "There's a small park ___ my house. I can see it from my window.",
+      "opts": [
+        "between",
+        "among",
+        "in front of"
+      ],
+      "a": 2,
+      "why": "Di depan: in front of."
+    },
+    {
+      "id": "r20261026-015",
+      "topic": "Going to",
+      "level": "Menengah",
+      "q": "She ___ a doctor when she grows up. That's her dream.",
+      "opts": [
+        "is going to be",
+        "will being",
+        "is"
+      ],
+      "a": 0,
+      "why": "Rencana/cita-cita: is going to be."
+    },
+    {
+      "id": "r20261026-016",
+      "topic": "Too many/much",
+      "level": "Menengah",
+      "q": "I can't drink this coffee. There's ___ sugar in it.",
+      "opts": [
+        "too many",
+        "very",
+        "too much"
+      ],
+      "a": 2,
+      "why": "Sugar tak terhitung: too much."
+    },
+    {
+      "id": "r20261026-017",
+      "topic": "Whose",
+      "level": "Menengah",
+      "q": "___ idea was it to have a picnic?",
+      "opts": [
+        "Whose",
+        "Who's",
+        "Who"
+      ],
+      "a": 0,
+      "why": "Menanyakan pemilik ide: whose."
+    },
+    {
+      "id": "r20261026-018",
+      "topic": "Past simple questions",
+      "level": "Menengah",
+      "q": "What time ___ the movie start last night?",
+      "opts": [
+        "does",
+        "did",
+        "was"
+      ],
+      "a": 1,
+      "why": "Pertanyaan lampau: did + verb dasar."
+    },
+    {
+      "id": "r20261026-019",
+      "topic": "Adverbs of frequency",
+      "level": "Menengah",
+      "q": "The train is ___ late. It arrives on time every day.",
+      "opts": [
+        "always",
+        "usually",
+        "never"
+      ],
+      "a": 2,
+      "why": "Tepat waktu tiap hari: tidak pernah telat."
+    },
+    {
+      "id": "r20261026-020",
+      "topic": "Prepositions of time",
+      "level": "Menengah",
+      "q": "My grandfather was born ___ 1950.",
+      "opts": [
+        "on",
+        "in",
+        "at"
+      ],
+      "a": 1,
+      "why": "Tahun memakai in."
+    },
+    {
+      "id": "r20261026-021",
+      "topic": "Present perfect",
+      "level": "Menengah atas",
+      "q": "They have ___ seen the new mall. It opened yesterday.",
+      "opts": [
+        "already",
+        "yet",
+        "never"
+      ],
+      "a": 2,
+      "why": "Belum pernah: never."
+    },
+    {
+      "id": "r20261026-022",
+      "topic": "Passive voice",
+      "level": "Menengah atas",
+      "q": "The invitations ___ to all guests last week.",
+      "opts": [
+        "were sent",
+        "sent",
+        "are sent"
+      ],
+      "a": 0,
+      "why": "Pasif lampau: were sent."
+    },
+    {
+      "id": "r20261026-023",
+      "topic": "First conditional",
+      "level": "Menengah atas",
+      "q": "Unless you hurry, you ___ the bus.",
+      "opts": [
+        "miss",
+        "will miss",
+        "would miss"
+      ],
+      "a": 1,
+      "why": "Unless + present, will + verb."
+    },
+    {
+      "id": "r20261026-024",
+      "topic": "Relative clauses",
+      "level": "Menengah atas",
+      "q": "The phone ___ she bought last week is already broken.",
+      "opts": [
+        "that",
+        "who",
+        "whose"
+      ],
+      "a": 0,
+      "why": "Benda: that/which."
+    },
+    {
+      "id": "r20261026-025",
+      "topic": "Obligation",
+      "level": "Menengah atas",
+      "q": "You ___ buy tickets online; they're also sold at the station.",
+      "opts": [
+        "mustn't",
+        "don't have to",
+        "can't"
+      ],
+      "a": 1,
+      "why": "Tidak wajib: don't have to."
+    },
+    {
+      "id": "r20261026-026",
+      "topic": "Verb patterns",
+      "level": "Menengah atas",
+      "q": "I look forward to ___ from you soon.",
+      "opts": [
+        "hear",
+        "heard",
+        "hearing"
+      ],
+      "a": 2,
+      "why": "Look forward to + verb-ing."
+    },
+    {
+      "id": "r20261026-027",
+      "topic": "Past continuous",
+      "level": "Menengah atas",
+      "q": "While she ___ to work, she heard the news on the radio.",
+      "opts": [
+        "was driving",
+        "drove",
+        "drives"
+      ],
+      "a": 0,
+      "why": "Sedang berlangsung: was driving."
+    },
+    {
+      "id": "r20261026-028",
+      "topic": "Present perfect",
+      "level": "Menengah atas",
+      "q": "___ you ever eaten durian?",
+      "opts": [
+        "Did",
+        "Do",
+        "Have"
+      ],
+      "a": 2,
+      "why": "Pengalaman: have you ever."
+    },
+    {
+      "id": "r20261026-029",
+      "topic": "Advice",
+      "level": "Menengah atas",
+      "q": "You'd better ___ a doctor about that cough.",
+      "opts": [
+        "see",
+        "to see",
+        "seeing"
+      ],
+      "a": 0,
+      "why": "Had better + verb dasar."
+    },
+    {
+      "id": "r20261026-030",
+      "topic": "Make/do",
+      "level": "Menengah atas",
+      "q": "Could you ___ me a favor and open the window?",
+      "opts": [
+        "make",
+        "do",
+        "get"
+      ],
+      "a": 1,
+      "why": "Do someone a favor."
+    },
+    {
+      "id": "r20261026-031",
+      "topic": "Third conditional",
+      "level": "Menuju lancar",
+      "q": "If I had known about the party, I ___.",
+      "opts": [
+        "would come",
+        "will come",
+        "would have come"
+      ],
+      "a": 2,
+      "why": "Kondisi lampau tak nyata: would have + V3."
+    },
+    {
+      "id": "r20261026-032",
+      "topic": "Phrasal verbs",
+      "level": "Menuju lancar",
+      "q": "Our car ___ on the way to the airport, so we missed the flight.",
+      "opts": [
+        "broke up",
+        "broke down",
+        "broke in"
+      ],
+      "a": 1,
+      "why": "Break down = mogok."
+    },
+    {
+      "id": "r20261026-033",
+      "topic": "Past perfect",
+      "level": "Menuju lancar",
+      "q": "By six o'clock, they ___ all the preparations.",
+      "opts": [
+        "have finished",
+        "finish",
+        "had finished"
+      ],
+      "a": 2,
+      "why": "Selesai sebelum titik lampau: had finished."
+    },
+    {
+      "id": "r20261026-034",
+      "topic": "Connectors",
+      "level": "Menuju lancar",
+      "q": "___ the heavy rain, the football match was not cancelled.",
+      "opts": [
+        "Despite",
+        "Although",
+        "Because of"
+      ],
+      "a": 0,
+      "why": "Despite + noun phrase; because of tidak cocok dengan makna."
+    },
+    {
+      "id": "r20261026-035",
+      "topic": "Passive reporting",
+      "level": "Menuju lancar",
+      "q": "He is believed ___ the best student in his class.",
+      "opts": [
+        "be",
+        "to be",
+        "being"
+      ],
+      "a": 1,
+      "why": "Be believed to be: diyakini sebagai."
+    },
+    {
+      "id": "r20261026-036",
+      "topic": "Wish",
+      "level": "Menuju lancar",
+      "q": "I wish I ___ to the concert last week. Everyone said it was amazing.",
+      "opts": [
+        "had gone",
+        "went",
+        "would go"
+      ],
+      "a": 0,
+      "why": "Penyesalan lampau: wish + past perfect."
+    },
+    {
+      "id": "r20261026-037",
+      "topic": "So/such",
+      "level": "Menuju lancar",
+      "q": "The exam was ___ difficult that half the class failed.",
+      "opts": [
+        "such",
+        "so",
+        "too"
+      ],
+      "a": 1,
+      "why": "So + adjective + that."
+    },
+    {
+      "id": "r20261026-038",
+      "topic": "Reported speech",
+      "level": "Menuju lancar",
+      "q": "My friend promised ___ me with my move on Saturday.",
+      "opts": [
+        "help",
+        "helping",
+        "to help"
+      ],
+      "a": 2,
+      "why": "Promise + to-infinitive."
+    },
+    {
+      "id": "r20261026-039",
+      "topic": "Idioms",
+      "level": "Menuju lancar",
+      "q": "The two brothers don't see eye to ___ on anything.",
+      "opts": [
+        "eye",
+        "nose",
+        "face"
+      ],
+      "a": 0,
+      "why": "Idiom tidak sepaham: see eye to eye."
+    },
+    {
+      "id": "r20261026-040",
+      "topic": "Conditionals mixed",
+      "level": "Menuju lancar",
+      "q": "If I were you, I ___ apologize to her immediately.",
+      "opts": [
+        "will",
+        "shall",
+        "would"
+      ],
+      "a": 2,
+      "why": "Nasihat tak nyata: would."
+    }
+  ],
+  "articles": [
+    {
+      "id": "r20261026-a01",
+      "title": "The Old Bicycle",
+      "level": "Dasar",
+      "min": 2,
+      "body": [
+        "Rafi found an old bicycle in his grandfather's garage. It was dirty and the tires were flat, but Rafi loved its bright blue color.",
+        "Grandfather smiled and said, \"That was my bicycle when I was your age. Let's fix it together.\" They cleaned it, changed the tires, and painted the rusty parts.",
+        "Now Rafi rides the blue bicycle to school every day. His friends think it is cool because it looks classic. For Rafi, it is special because he fixed it with his grandfather."
+      ],
+      "gloss": {
+        "found": "menemukan",
+        "garage": "garasi",
+        "flat": "kempis",
+        "fix": "memperbaiki",
+        "rusty": "berkarat",
+        "rides": "mengendarai",
+        "classic": "klasik"
+      },
+      "qs": [
+        {
+          "q": "Where did Rafi find the bicycle?",
+          "opts": [
+            "In his grandfather's garage",
+            "At a shop",
+            "In the park"
+          ],
+          "a": 0
+        },
+        {
+          "q": "What did Rafi and his grandfather paint?",
+          "opts": [
+            "The whole house",
+            "The rusty parts",
+            "The new tires"
+          ],
+          "a": 1
+        },
+        {
+          "q": "Why do Rafi's friends think the bicycle is cool?",
+          "opts": [
+            "It is very fast",
+            "It is brand new",
+            "It looks classic"
+          ],
+          "a": 2
+        }
+      ]
+    },
+    {
+      "id": "r20261026-a02",
+      "title": "The Problem of E-Waste",
+      "level": "Menengah atas",
+      "min": 4,
+      "body": [
+        "Every year, people throw away millions of old phones, laptops, and televisions. This electronic waste, or e-waste, is one of the fastest-growing types of rubbish in the world.",
+        "E-waste is dangerous because electronics contain harmful materials like lead and mercury. When old devices end up in landfills, these materials can leak into the soil and water. In some countries, people burn e-waste to get the valuable metals inside, but the smoke is poisonous.",
+        "The good news is that most of an old device can be recycled. Many cities now have special collection points for electronics. Some companies also give discounts when you return your old phone. Before you throw a device away, check if it can be repaired, donated, or recycled. Small choices like these can make a big difference."
+      ],
+      "gloss": {
+        "waste": "limbah",
+        "throw away": "membuang",
+        "harmful": "berbahaya",
+        "landfills": "tempat pembuangan",
+        "leak": "merembes",
+        "valuable": "berharga",
+        "poisonous": "beracun",
+        "donated": "disumbangkan"
+      },
+      "qs": [
+        {
+          "q": "Why is e-waste dangerous?",
+          "opts": [
+            "It contains harmful materials",
+            "It is too heavy to move",
+            "It uses too much electricity"
+          ],
+          "a": 0
+        },
+        {
+          "q": "What happens when e-waste is burned for metals?",
+          "opts": [
+            "The metals become useless",
+            "The smoke is poisonous",
+            "The soil becomes fertile"
+          ],
+          "a": 1
+        },
+        {
+          "q": "What does the writer suggest checking before throwing a device away?",
+          "opts": [
+            "If it is still fashionable",
+            "If it can be sold abroad",
+            "If it can be repaired, donated, or recycled"
+          ],
+          "a": 2
+        }
+      ]
+    }
+  ]
+}
