@@ -1,0 +1,624 @@
+{
+  "bank": [
+    {
+      "id": "r20261027-001",
+      "topic": "Vocabulary: school subjects",
+      "level": "Dasar",
+      "q": "In ___ class, we learn about numbers.",
+      "opts": [
+        "history",
+        "math",
+        "art"
+      ],
+      "a": 1,
+      "why": "Angka dipelajari di matematika (math)."
+    },
+    {
+      "id": "r20261027-002",
+      "topic": "Simple present",
+      "level": "Dasar",
+      "q": "The bus ___ at 6 a.m. every day.",
+      "opts": [
+        "leave",
+        "leaving",
+        "leaves"
+      ],
+      "a": 2,
+      "why": "Jadwal, subjek tunggal: leaves."
+    },
+    {
+      "id": "r20261027-003",
+      "topic": "Vocabulary: body",
+      "level": "Dasar",
+      "q": "We walk with our ___.",
+      "opts": [
+        "feet",
+        "hands",
+        "arms"
+      ],
+      "a": 0,
+      "why": "Berjalan dengan kaki (feet)."
+    },
+    {
+      "id": "r20261027-004",
+      "topic": "Be: am/is/are",
+      "level": "Dasar",
+      "q": "My name ___ Andi.",
+      "opts": [
+        "am",
+        "are",
+        "is"
+      ],
+      "a": 2,
+      "why": "Subjek tunggal: is."
+    },
+    {
+      "id": "r20261027-005",
+      "topic": "There is/are",
+      "level": "Dasar",
+      "q": "___ any sugar in this tea?",
+      "opts": [
+        "Is there",
+        "Are there",
+        "There is"
+      ],
+      "a": 0,
+      "why": "Sugar tak terhitung: is there."
+    },
+    {
+      "id": "r20261027-006",
+      "topic": "Vocabulary: family",
+      "level": "Dasar",
+      "q": "My sister's daughter is my ___.",
+      "opts": [
+        "nephew",
+        "niece",
+        "cousin"
+      ],
+      "a": 1,
+      "why": "Anak perempuan saudari: keponakan perempuan (niece)."
+    },
+    {
+      "id": "r20261027-007",
+      "topic": "Present simple negative",
+      "level": "Dasar",
+      "q": "We ___ watch TV in the morning.",
+      "opts": [
+        "doesn't",
+        "aren't",
+        "don't"
+      ],
+      "a": 2,
+      "why": "Jamak: don't."
+    },
+    {
+      "id": "r20261027-008",
+      "topic": "Question words",
+      "level": "Dasar",
+      "q": "___ is that man? He is my teacher.",
+      "opts": [
+        "What",
+        "Who",
+        "Where"
+      ],
+      "a": 1,
+      "why": "Menanyakan orang: who."
+    },
+    {
+      "id": "r20261027-009",
+      "topic": "Vocabulary: weather",
+      "level": "Dasar",
+      "q": "You can see a rainbow when the sun and rain come ___.",
+      "opts": [
+        "alone",
+        "late",
+        "together"
+      ],
+      "a": 2,
+      "why": "Bersamaan: together."
+    },
+    {
+      "id": "r20261027-010",
+      "topic": "Prepositions of place",
+      "level": "Dasar",
+      "q": "The ball is ___ the table. You can't see it.",
+      "opts": [
+        "under",
+        "on",
+        "next"
+      ],
+      "a": 0,
+      "why": "Di bawah meja: under."
+    },
+    {
+      "id": "r20261027-011",
+      "topic": "Past simple",
+      "level": "Menengah",
+      "q": "I ___ an interesting book last week.",
+      "opts": [
+        "readed",
+        "read",
+        "reads"
+      ],
+      "a": 1,
+      "why": "Bentuk lampau read: read (tetap read)."
+    },
+    {
+      "id": "r20261027-012",
+      "topic": "Comparatives",
+      "level": "Menengah",
+      "q": "Trains are usually ___ than buses.",
+      "opts": [
+        "more comfortable",
+        "comfortabler",
+        "most comfortable"
+      ],
+      "a": 0,
+      "why": "Perbandingan: more comfortable."
+    },
+    {
+      "id": "r20261027-013",
+      "topic": "Present continuous",
+      "level": "Menengah",
+      "q": "I can't talk now. I ___ dinner.",
+      "opts": [
+        "cook",
+        "am cooking",
+        "cooked"
+      ],
+      "a": 1,
+      "why": "Sedang memasak: am cooking."
+    },
+    {
+      "id": "r20261027-014",
+      "topic": "Prepositions of movement",
+      "level": "Menengah",
+      "q": "Walk ___ the bridge and turn left.",
+      "opts": [
+        "through",
+        "between",
+        "across"
+      ],
+      "a": 2,
+      "why": "Menyeberangi jembatan: across."
+    },
+    {
+      "id": "r20261027-015",
+      "topic": "Future",
+      "level": "Menengah",
+      "q": "I promise I ___ be late again.",
+      "opts": [
+        "won't",
+        "don't",
+        "am not"
+      ],
+      "a": 0,
+      "why": "Janji: won't (will not)."
+    },
+    {
+      "id": "r20261027-016",
+      "topic": "Countable/uncountable",
+      "level": "Menengah",
+      "q": "How ___ chairs do we need for the party?",
+      "opts": [
+        "much",
+        "long",
+        "many"
+      ],
+      "a": 2,
+      "why": "Chairs terhitung: how many."
+    },
+    {
+      "id": "r20261027-017",
+      "topic": "Reflexives",
+      "level": "Menengah",
+      "q": "She made this cake ___. Nobody helped her.",
+      "opts": [
+        "herself",
+        "himself",
+        "itself"
+      ],
+      "a": 0,
+      "why": "Sendiri (perempuan): herself."
+    },
+    {
+      "id": "r20261027-018",
+      "topic": "Adverbs",
+      "level": "Menengah",
+      "q": "He answered the teacher's question ___. He knew it well.",
+      "opts": [
+        "correct",
+        "correctly",
+        "more correct"
+      ],
+      "a": 1,
+      "why": "Kata keterangan: correctly."
+    },
+    {
+      "id": "r20261027-019",
+      "topic": "Prepositions of time",
+      "level": "Menengah",
+      "q": "The concert starts ___ Saturday night.",
+      "opts": [
+        "in",
+        "at",
+        "on"
+      ],
+      "a": 2,
+      "why": "Malam pada hari tertentu: on Saturday night."
+    },
+    {
+      "id": "r20261027-020",
+      "topic": "Ability",
+      "level": "Menengah",
+      "q": "Excuse me, ___ you speak English?",
+      "opts": [
+        "may",
+        "can",
+        "must"
+      ],
+      "a": 1,
+      "why": "Menanyakan kemampuan: can."
+    },
+    {
+      "id": "r20261027-021",
+      "topic": "Present perfect",
+      "level": "Menengah atas",
+      "q": "I ___ this song before. It sounds familiar.",
+      "opts": [
+        "heard",
+        "hear",
+        "have heard"
+      ],
+      "a": 2,
+      "why": "Pengalaman tanpa waktu pasti: have heard."
+    },
+    {
+      "id": "r20261027-022",
+      "topic": "Passive voice",
+      "level": "Menengah atas",
+      "q": "Rice ___ in this region every year.",
+      "opts": [
+        "is grown",
+        "grows",
+        "is growing"
+      ],
+      "a": 0,
+      "why": "Pasif present: is grown."
+    },
+    {
+      "id": "r20261027-023",
+      "topic": "First conditional",
+      "level": "Menengah atas",
+      "q": "We ___ inside if the weather is bad.",
+      "opts": [
+        "stay",
+        "will stay",
+        "would stay"
+      ],
+      "a": 1,
+      "why": "Kondisi nyata: will + verb."
+    },
+    {
+      "id": "r20261027-024",
+      "topic": "Relative clauses",
+      "level": "Menengah atas",
+      "q": "The cafe ___ sells the best coffee is on Jalan Merdeka.",
+      "opts": [
+        "that",
+        "who",
+        "where"
+      ],
+      "a": 0,
+      "why": "Benda sebagai subjek: that/which."
+    },
+    {
+      "id": "r20261027-025",
+      "topic": "Present perfect continuous",
+      "level": "Menengah atas",
+      "q": "She ___ English for two years now.",
+      "opts": [
+        "learns",
+        "has been learning",
+        "learned"
+      ],
+      "a": 1,
+      "why": "Durasi sampai sekarang: has been learning."
+    },
+    {
+      "id": "r20261027-026",
+      "topic": "Verb patterns",
+      "level": "Menengah atas",
+      "q": "We hope ___ Bali again next year.",
+      "opts": [
+        "visiting",
+        "visit",
+        "to visit"
+      ],
+      "a": 2,
+      "why": "Hope + to-infinitive."
+    },
+    {
+      "id": "r20261027-027",
+      "topic": "Past simple vs continuous",
+      "level": "Menengah atas",
+      "q": "He ___ his leg while he was playing football.",
+      "opts": [
+        "broke",
+        "was breaking",
+        "breaks"
+      ],
+      "a": 0,
+      "why": "Peristiwa pemutus: broke."
+    },
+    {
+      "id": "r20261027-028",
+      "topic": "Question tags",
+      "level": "Menengah atas",
+      "q": "You won't forget to call me, ___?",
+      "opts": [
+        "won't you",
+        "do you",
+        "will you"
+      ],
+      "a": 2,
+      "why": "Tag positif dari negatif: will you."
+    },
+    {
+      "id": "r20261027-029",
+      "topic": "Deduction",
+      "level": "Menengah atas",
+      "q": "This can't be his jacket. It's too small. It ___ belong to his little brother.",
+      "opts": [
+        "must",
+        "can't",
+        "shouldn't"
+      ],
+      "a": 0,
+      "why": "Kesimpulan logis: must."
+    },
+    {
+      "id": "r20261027-030",
+      "topic": "Enough",
+      "level": "Menengah atas",
+      "q": "We have ___ chairs for everyone. Please sit down.",
+      "opts": [
+        "too",
+        "enough",
+        "such"
+      ],
+      "a": 1,
+      "why": "Cukup: enough + noun."
+    },
+    {
+      "id": "r20261027-031",
+      "topic": "Third conditional",
+      "level": "Menuju lancar",
+      "q": "If they had left on time, they ___ the accident.",
+      "opts": [
+        "would avoid",
+        "will avoid",
+        "would have avoided"
+      ],
+      "a": 2,
+      "why": "Kondisi lampau tak nyata: would have + V3."
+    },
+    {
+      "id": "r20261027-032",
+      "topic": "Phrasal verbs",
+      "level": "Menuju lancar",
+      "q": "I came ___ an old photo album while cleaning the attic.",
+      "opts": [
+        "over",
+        "across",
+        "up"
+      ],
+      "a": 1,
+      "why": "Come across = menemukan tanpa sengaja."
+    },
+    {
+      "id": "r20261027-033",
+      "topic": "Past perfect",
+      "level": "Menuju lancar",
+      "q": "Until last year, I ___ never seen snow.",
+      "opts": [
+        "have",
+        "was",
+        "had"
+      ],
+      "a": 2,
+      "why": "Sebelum titik lampau: had never seen."
+    },
+    {
+      "id": "r20261027-034",
+      "topic": "Connectors",
+      "level": "Menuju lancar",
+      "q": "She kept working ___ feeling unwell.",
+      "opts": [
+        "despite",
+        "although",
+        "in spite"
+      ],
+      "a": 0,
+      "why": "Despite + verb-ing; although butuh klausa."
+    },
+    {
+      "id": "r20261027-035",
+      "topic": "Get passive",
+      "level": "Menuju lancar",
+      "q": "Our house ___ broken into last week.",
+      "opts": [
+        "was get",
+        "got",
+        "has"
+      ],
+      "a": 1,
+      "why": "Get passive informal: got broken into."
+    },
+    {
+      "id": "r20261027-036",
+      "topic": "Would rather",
+      "level": "Menuju lancar",
+      "q": "I'd rather ___ at home tonight than go to the party.",
+      "opts": [
+        "stay",
+        "staying",
+        "to stay"
+      ],
+      "a": 0,
+      "why": "Would rather + verb dasar."
+    },
+    {
+      "id": "r20261027-037",
+      "topic": "Reported speech",
+      "level": "Menuju lancar",
+      "q": "She asked me not ___ anyone about the surprise party.",
+      "opts": [
+        "tell",
+        "to tell",
+        "telling"
+      ],
+      "a": 1,
+      "why": "Ask + not + to-infinitive."
+    },
+    {
+      "id": "r20261027-038",
+      "topic": "Idioms",
+      "level": "Menuju lancar",
+      "q": "Learning English is hard at first, but don't give up. Practice makes ___.",
+      "opts": [
+        "progress",
+        "power",
+        "perfect"
+      ],
+      "a": 2,
+      "why": "Peribahasa: practice makes perfect."
+    },
+    {
+      "id": "r20261027-039",
+      "topic": "Mixed conditionals",
+      "level": "Menuju lancar",
+      "q": "If you had saved your money, you ___ able to buy that laptop now.",
+      "opts": [
+        "would be",
+        "would have been",
+        "will be"
+      ],
+      "a": 0,
+      "why": "Kondisi campuran lampau-sekarang: would be."
+    },
+    {
+      "id": "r20261027-040",
+      "topic": "Causatives",
+      "level": "Menuju lancar",
+      "q": "I'll get the mechanic ___ my motorcycle tomorrow.",
+      "opts": [
+        "check",
+        "checking",
+        "to check"
+      ],
+      "a": 2,
+      "why": "Get + orang + to-infinitive."
+    }
+  ],
+  "articles": [
+    {
+      "id": "r20261027-a01",
+      "title": "Lina's Lemonade Stand",
+      "level": "Dasar",
+      "min": 2,
+      "body": [
+        "It is summer holiday, and Lina wants to earn some pocket money. She decides to sell lemonade in front of her house.",
+        "On the first day, she makes twenty glasses of lemonade. Her little sister draws a colorful sign, and her mom helps her carry the table outside. Each glass costs five thousand rupiah.",
+        "By five o'clock, Lina has sold all twenty glasses. She is tired but proud. She gives half of the money to her mom to keep safe, and tomorrow she will make thirty glasses."
+      ],
+      "gloss": {
+        "earn": "mendapatkan",
+        "pocket money": "uang saku",
+        "lemonade": "minuman lemon",
+        "sign": "papan tulisan",
+        "costs": "berharga",
+        "sold": "menjual",
+        "proud": "bangga"
+      },
+      "qs": [
+        {
+          "q": "Why does Lina sell lemonade?",
+          "opts": [
+            "To earn pocket money",
+            "To help at a cafe",
+            "To practice cooking"
+          ],
+          "a": 0
+        },
+        {
+          "q": "How much does one glass of lemonade cost?",
+          "opts": [
+            "Ten thousand rupiah",
+            "Five thousand rupiah",
+            "One thousand rupiah"
+          ],
+          "a": 1
+        },
+        {
+          "q": "What will Lina do tomorrow?",
+          "opts": [
+            "Buy a new table",
+            "Rest all day",
+            "Make thirty glasses"
+          ],
+          "a": 2
+        }
+      ]
+    },
+    {
+      "id": "r20261027-a02",
+      "title": "Why Young People Are Ditching Their Smartphones",
+      "level": "Menengah atas",
+      "min": 4,
+      "body": [
+        "A surprising trend is growing among teenagers in several countries: some of them are buying old-fashioned phones that can only call and send texts. These 'dumb phones' are becoming cool again.",
+        "There are good reasons behind this trend. Many young people feel that smartphones steal their attention. They check social media hundreds of times a day and find it hard to focus on homework, hobbies, or real conversations. With a simple phone, there is nothing to check, so their minds are free.",
+        "Of course, smartphones are useful for maps, photos, and staying in touch with family. That is why some teenagers keep a smartphone at home but only carry a simple phone when they go out. It seems the future is not about having the newest technology, but about choosing how much technology we let into our lives."
+      ],
+      "gloss": {
+        "trend": "tren",
+        "old-fashioned": "kuno",
+        "texts": "pesan singkat",
+        "steal": "mencuri",
+        "attention": "perhatian",
+        "focus": "fokus",
+        "staying in touch": "tetap berhubungan"
+      },
+      "qs": [
+        {
+          "q": "What can old-fashioned 'dumb phones' do?",
+          "opts": [
+            "Only call and send texts",
+            "Take photos and play music",
+            "Browse the internet slowly"
+          ],
+          "a": 0
+        },
+        {
+          "q": "Why do some teenagers prefer simple phones?",
+          "opts": [
+            "Smartphones are too expensive",
+            "Smartphones steal their attention",
+            "Simple phones have better games"
+          ],
+          "a": 1
+        },
+        {
+          "q": "What do some teenagers do with their smartphones?",
+          "opts": [
+            "Throw them away",
+            "Sell them online",
+            "Keep them at home"
+          ],
+          "a": 2
+        }
+      ]
+    }
+  ]
+}
