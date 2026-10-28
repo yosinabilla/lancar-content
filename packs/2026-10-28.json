@@ -1,0 +1,624 @@
+{
+  "bank": [
+    {
+      "id": "r20261028-001",
+      "topic": "Vocabulary: fruit",
+      "level": "Dasar",
+      "q": "A ___ is yellow and monkeys love it.",
+      "opts": [
+        "apple",
+        "banana",
+        "grape"
+      ],
+      "a": 1,
+      "why": "Kuning dan disukai monyet: pisang (banana)."
+    },
+    {
+      "id": "r20261028-002",
+      "topic": "Simple present",
+      "level": "Dasar",
+      "q": "My mother ___ breakfast every morning.",
+      "opts": [
+        "cook",
+        "cooking",
+        "cooks"
+      ],
+      "a": 2,
+      "why": "Orang ketiga tunggal: cooks."
+    },
+    {
+      "id": "r20261028-003",
+      "topic": "Vocabulary: rooms",
+      "level": "Dasar",
+      "q": "You take a shower in the ___.",
+      "opts": [
+        "bathroom",
+        "kitchen",
+        "living room"
+      ],
+      "a": 0,
+      "why": "Mandi di kamar mandi (bathroom)."
+    },
+    {
+      "id": "r20261028-004",
+      "topic": "Be: questions",
+      "level": "Dasar",
+      "q": "___ it raining outside?",
+      "opts": [
+        "Are",
+        "Am",
+        "Is"
+      ],
+      "a": 2,
+      "why": "It dengan is."
+    },
+    {
+      "id": "r20261028-005",
+      "topic": "Plurals",
+      "level": "Dasar",
+      "q": "I see three ___ in the sky.",
+      "opts": [
+        "birds",
+        "bird",
+        "birdes"
+      ],
+      "a": 0,
+      "why": "Jamak: birds."
+    },
+    {
+      "id": "r20261028-006",
+      "topic": "Vocabulary: time",
+      "level": "Dasar",
+      "q": "There are twelve months in a ___.",
+      "opts": [
+        "week",
+        "year",
+        "day"
+      ],
+      "a": 1,
+      "why": "12 bulan = satu tahun (year)."
+    },
+    {
+      "id": "r20261028-007",
+      "topic": "Imperatives",
+      "level": "Dasar",
+      "q": "___ your hands before eating, please.",
+      "opts": [
+        "Washes",
+        "Washing",
+        "Wash"
+      ],
+      "a": 2,
+      "why": "Kalimat perintah: wash."
+    },
+    {
+      "id": "r20261028-008",
+      "topic": "This/These",
+      "level": "Dasar",
+      "q": "___ are my new shoes. Do you like them?",
+      "opts": [
+        "This",
+        "These",
+        "That"
+      ],
+      "a": 1,
+      "why": "Dekat dan jamak: these."
+    },
+    {
+      "id": "r20261028-009",
+      "topic": "Vocabulary: jobs",
+      "level": "Dasar",
+      "q": "A ___ flies an airplane.",
+      "opts": [
+        "driver",
+        "sailor",
+        "pilot"
+      ],
+      "a": 2,
+      "why": "Menerbangkan pesawat: pilot."
+    },
+    {
+      "id": "r20261028-010",
+      "topic": "Like",
+      "level": "Dasar",
+      "q": "Do you ___ ice cream?",
+      "opts": [
+        "like",
+        "likes",
+        "liking"
+      ],
+      "a": 0,
+      "why": "Pertanyaan dengan do + verb dasar."
+    },
+    {
+      "id": "r20261028-011",
+      "topic": "Past simple",
+      "level": "Menengah",
+      "q": "We ___ a great time at the beach yesterday.",
+      "opts": [
+        "have",
+        "had",
+        "has"
+      ],
+      "a": 1,
+      "why": "Lampau: had."
+    },
+    {
+      "id": "r20261028-012",
+      "topic": "Superlatives",
+      "level": "Menengah",
+      "q": "Who is the ___ student in your class?",
+      "opts": [
+        "tallest",
+        "taller",
+        "tall"
+      ],
+      "a": 0,
+      "why": "Superlatif: the tallest."
+    },
+    {
+      "id": "r20261028-013",
+      "topic": "Present continuous",
+      "level": "Menengah",
+      "q": "Shh! The movie ___ right now.",
+      "opts": [
+        "starts",
+        "is starting",
+        "started"
+      ],
+      "a": 1,
+      "why": "Sedang dimulai: is starting."
+    },
+    {
+      "id": "r20261028-014",
+      "topic": "Prepositions of place",
+      "level": "Menengah",
+      "q": "The pharmacy is ___ the corner of the street.",
+      "opts": [
+        "at",
+        "in",
+        "on"
+      ],
+      "a": 2,
+      "why": "Di sudut: on/at the corner; 'at the corner' untuk titik. Keduanya benar, tetapi untuk posisi tepat di sudut: at."
+    },
+    {
+      "id": "r20261028-015",
+      "topic": "Future",
+      "level": "Menengah",
+      "q": "Maybe it ___ be sunny tomorrow.",
+      "opts": [
+        "will",
+        "is",
+        "does"
+      ],
+      "a": 0,
+      "why": "Prediksi: will."
+    },
+    {
+      "id": "r20261028-016",
+      "topic": "Some/any",
+      "level": "Menengah",
+      "q": "I have ___ friends in Australia.",
+      "opts": [
+        "any",
+        "much",
+        "some"
+      ],
+      "a": 2,
+      "why": "Positif: some."
+    },
+    {
+      "id": "r20261028-017",
+      "topic": "Wh- questions",
+      "level": "Menengah",
+      "q": "___ did you go last weekend? To my grandmother's house.",
+      "opts": [
+        "Where",
+        "What",
+        "When"
+      ],
+      "a": 0,
+      "why": "Menanyakan tempat: where."
+    },
+    {
+      "id": "r20261028-018",
+      "topic": "Past continuous",
+      "level": "Menengah",
+      "q": "It ___ heavily when I woke up this morning.",
+      "opts": [
+        "rained",
+        "was raining",
+        "rains"
+      ],
+      "a": 1,
+      "why": "Sedang berlangsung: was raining."
+    },
+    {
+      "id": "r20261028-019",
+      "topic": "Mustn't/don't have to",
+      "level": "Menengah",
+      "q": "You ___ bring your own pencil; the school provides one.",
+      "opts": [
+        "mustn't",
+        "can't",
+        "don't have to"
+      ],
+      "a": 2,
+      "why": "Tidak wajib: don't have to."
+    },
+    {
+      "id": "r20261028-020",
+      "topic": "Object pronouns",
+      "level": "Menengah",
+      "q": "That is Rani. Do you know ___?",
+      "opts": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "a": 1,
+      "why": "Objek: her."
+    },
+    {
+      "id": "r20261028-021",
+      "topic": "Present perfect",
+      "level": "Menengah atas",
+      "q": "He ___ just ___ his lunch, so he is not hungry.",
+      "opts": [
+        "have, ate",
+        "has, eat",
+        "has, eaten"
+      ],
+      "a": 2,
+      "why": "Baru saja: has eaten."
+    },
+    {
+      "id": "r20261028-022",
+      "topic": "Passive voice",
+      "level": "Menengah atas",
+      "q": "This song ___ by millions of people every day.",
+      "opts": [
+        "is heard",
+        "hears",
+        "is hearing"
+      ],
+      "a": 0,
+      "why": "Pasif present: is heard."
+    },
+    {
+      "id": "r20261028-023",
+      "topic": "First conditional",
+      "level": "Menengah atas",
+      "q": "If you ___ me your pen, I'll give it back in a minute.",
+      "opts": [
+        "will lend",
+        "lend",
+        "lent"
+      ],
+      "a": 1,
+      "why": "Klausa if: present simple."
+    },
+    {
+      "id": "r20261028-024",
+      "topic": "Relative clauses",
+      "level": "Menengah atas",
+      "q": "The girl ___ won the race is my cousin.",
+      "opts": [
+        "who",
+        "which",
+        "whose"
+      ],
+      "a": 0,
+      "why": "Orang sebagai subjek: who."
+    },
+    {
+      "id": "r20261028-025",
+      "topic": "Advice",
+      "level": "Menengah atas",
+      "q": "You ___ see a dentist about that toothache.",
+      "opts": [
+        "would",
+        "should",
+        "might"
+      ],
+      "a": 1,
+      "why": "Saran: should."
+    },
+    {
+      "id": "r20261028-026",
+      "topic": "Gerunds",
+      "level": "Menengah atas",
+      "q": "She is interested in ___ photography.",
+      "opts": [
+        "learn",
+        "to learn",
+        "learning"
+      ],
+      "a": 2,
+      "why": "Preposisi in + verb-ing."
+    },
+    {
+      "id": "r20261028-027",
+      "topic": "Past simple vs present perfect",
+      "level": "Menengah atas",
+      "q": "I ___ in Bandung for five years, but now I live in Jakarta.",
+      "opts": [
+        "lived",
+        "have lived",
+        "live"
+      ],
+      "a": 0,
+      "why": "Masa lampau yang sudah selesai: lived."
+    },
+    {
+      "id": "r20261028-028",
+      "topic": "Too/enough",
+      "level": "Menengah atas",
+      "q": "He isn't tall ___ to reach the top shelf.",
+      "opts": [
+        "too",
+        "very",
+        "enough"
+      ],
+      "a": 2,
+      "why": "Cukup tinggi: tall enough."
+    },
+    {
+      "id": "r20261028-029",
+      "topic": "Question tags",
+      "level": "Menengah atas",
+      "q": "It's a beautiful day, ___?",
+      "opts": [
+        "isn't it",
+        "is it",
+        "doesn't it"
+      ],
+      "a": 0,
+      "why": "Tag negatif: isn't it."
+    },
+    {
+      "id": "r20261028-030",
+      "topic": "Prepositions",
+      "level": "Menengah atas",
+      "q": "Are you interested ___ art history?",
+      "opts": [
+        "at",
+        "in",
+        "on"
+      ],
+      "a": 1,
+      "why": "Tertarik pada: interested in."
+    },
+    {
+      "id": "r20261028-031",
+      "topic": "Third conditional",
+      "level": "Menuju lancar",
+      "q": "If we ___ the map, we wouldn't have gotten lost.",
+      "opts": [
+        "brought",
+        "bring",
+        "had brought"
+      ],
+      "a": 2,
+      "why": "Kondisi lampau tak nyata: had + V3."
+    },
+    {
+      "id": "r20261028-032",
+      "topic": "Phrasal verbs",
+      "level": "Menuju lancar",
+      "q": "Could you ___ me a favor and watch my bag for a minute?",
+      "opts": [
+        "make",
+        "do",
+        "give"
+      ],
+      "a": 1,
+      "why": "Do me a favor = tolong saya."
+    },
+    {
+      "id": "r20261028-033",
+      "topic": "Past perfect continuous",
+      "level": "Menuju lancar",
+      "q": "He ___ for three hours when the rescue team found him.",
+      "opts": [
+        "waited",
+        "has waited",
+        "had been waiting"
+      ],
+      "a": 2,
+      "why": "Durasi sebelum lampau: had been waiting."
+    },
+    {
+      "id": "r20261028-034",
+      "topic": "Connectors",
+      "level": "Menuju lancar",
+      "q": "___ the fact that it was expensive, she bought the dress.",
+      "opts": [
+        "Despite",
+        "Although",
+        "However"
+      ],
+      "a": 0,
+      "why": "Despite + the fact that."
+    },
+    {
+      "id": "r20261028-035",
+      "topic": "Passive modals",
+      "level": "Menuju lancar",
+      "q": "Mobile phones ___ during the exam.",
+      "opts": [
+        "must not use",
+        "must not be used",
+        "must not been used"
+      ],
+      "a": 1,
+      "why": "Pasif modal: must not be + V3."
+    },
+    {
+      "id": "r20261028-036",
+      "topic": "Wish",
+      "level": "Menuju lancar",
+      "q": "I wish you ___ making that noise. It's annoying.",
+      "opts": [
+        "would stop",
+        "stopped",
+        "stop"
+      ],
+      "a": 0,
+      "why": "Keluhan: wish + would."
+    },
+    {
+      "id": "r20261028-037",
+      "topic": "Reported speech",
+      "level": "Menuju lancar",
+      "q": "He asked me what time ___.",
+      "opts": [
+        "was it",
+        "it was",
+        "it is"
+      ],
+      "a": 1,
+      "why": "Pertanyaan tak langsung: urutan subjek-verb."
+    },
+    {
+      "id": "r20261028-038",
+      "topic": "Idioms",
+      "level": "Menuju lancar",
+      "q": "Break a ___! Good luck with your performance tonight.",
+      "opts": [
+        "neck",
+        "record",
+        "leg"
+      ],
+      "a": 2,
+      "why": "Idiom semoga sukses: break a leg."
+    },
+    {
+      "id": "r20261028-039",
+      "topic": "Inversions",
+      "level": "Menuju lancar",
+      "q": "Hardly ___ the station when the train left.",
+      "opts": [
+        "had we reached",
+        "we had reached",
+        "did we reach"
+      ],
+      "a": 0,
+      "why": "Inversi: hardly had + subjek + V3."
+    },
+    {
+      "id": "r20261028-040",
+      "topic": "Articles",
+      "level": "Menuju lancar",
+      "q": "___ honest man always tells the truth.",
+      "opts": [
+        "A",
+        "The",
+        "An"
+      ],
+      "a": 2,
+      "why": "Bunyi vokal (h tidak diucapkan): an."
+    }
+  ],
+  "articles": [
+    {
+      "id": "r20261028-a01",
+      "title": "A Rainy Day at Grandpa's",
+      "level": "Dasar",
+      "min": 2,
+      "body": [
+        "It was raining all day, so Dito and his little sister could not play outside. They were staying at Grandpa's house in the village.",
+        "Grandpa had a great idea. He taught them how to make paper boats. Then they put the boats in a big bowl of water and blew them across with straws. Dito's boat won three times!",
+        "Before dinner, Grandpa told them stories about when he was a sailor. The rain was still falling, but Dito did not mind anymore. It was the best rainy day ever."
+      ],
+      "gloss": {
+        "raining": "hujan",
+        "staying": "menginap",
+        "taught": "mengajari",
+        "bowl": "mangkuk besar",
+        "blew": "meniup",
+        "straws": "sedotan",
+        "sailor": "pelaut"
+      },
+      "qs": [
+        {
+          "q": "Why couldn't the children play outside?",
+          "opts": [
+            "It was raining all day",
+            "They were sick",
+            "The garden was closed"
+          ],
+          "a": 0
+        },
+        {
+          "q": "How did they move the paper boats?",
+          "opts": [
+            "By pushing them with sticks",
+            "By blowing them with straws",
+            "By shaking the bowl"
+          ],
+          "a": 1
+        },
+        {
+          "q": "What was Grandpa's job in the past?",
+          "opts": [
+            "A fisherman",
+            "A boat maker",
+            "A sailor"
+          ],
+          "a": 2
+        }
+      ]
+    },
+    {
+      "id": "r20261028-a02",
+      "title": "The Power of Micro-Volunteering",
+      "level": "Menengah atas",
+      "min": 4,
+      "body": [
+        "Many people want to help their communities, but they do not have hours of free time. This is why micro-volunteering is becoming popular: doing good in just a few minutes.",
+        "Micro-volunteering means doing small tasks that help others. For example, you can translate a document for a charity during your lunch break, identify plants in photos for scientists while waiting for the bus, or record your voice reading a story for blind children. All of this can be done from your phone, in under thirty minutes.",
+        "These small actions may seem tiny, but together they are powerful. When thousands of people each give fifteen minutes, charities get hundreds of hours of free help. Micro-volunteering shows us that you do not need a lot of time to make a difference. You just need to start."
+      ],
+      "gloss": {
+        "communities": "komunitas",
+        "charity": "badan amal",
+        "identify": "mengidentifikasi",
+        "lunch break": "istirahat makan siang",
+        "blind": "buta",
+        "tiny": "kecil",
+        "difference": "perbedaan"
+      },
+      "qs": [
+        {
+          "q": "What is micro-volunteering?",
+          "opts": [
+            "Doing small helpful tasks in a few minutes",
+            "Working full-time for a charity",
+            "Donating large amounts of money"
+          ],
+          "a": 0
+        },
+        {
+          "q": "Which is an example of micro-volunteering mentioned in the text?",
+          "opts": [
+            "Building houses for the poor",
+            "Identifying plants in photos for scientists",
+            "Teaching English for a year"
+          ],
+          "a": 1
+        },
+        {
+          "q": "Why is micro-volunteering powerful?",
+          "opts": [
+            "It pays very well",
+            "It replaces all traditional volunteering",
+            "Many small actions add up to hundreds of hours"
+          ],
+          "a": 2
+        }
+      ]
+    }
+  ]
+}
