@@ -1,0 +1,624 @@
+{
+  "bank": [
+    {
+      "id": "r20261029-001",
+      "topic": "Vocabulary: drinks",
+      "level": "Dasar",
+      "q": "Babies drink ___.",
+      "opts": [
+        "coffee",
+        "milk",
+        "tea"
+      ],
+      "a": 1,
+      "why": "Bayi minum susu (milk)."
+    },
+    {
+      "id": "r20261029-002",
+      "topic": "Simple present",
+      "level": "Dasar",
+      "q": "She ___ to school by bus.",
+      "opts": [
+        "go",
+        "going",
+        "goes"
+      ],
+      "a": 2,
+      "why": "Orang ketiga tunggal: goes."
+    },
+    {
+      "id": "r20261029-003",
+      "topic": "Vocabulary: animals",
+      "level": "Dasar",
+      "q": "A ___ lives in water and swims well.",
+      "opts": [
+        "fish",
+        "bird",
+        "cat"
+      ],
+      "a": 0,
+      "why": "Hidup di air: ikan (fish)."
+    },
+    {
+      "id": "r20261029-004",
+      "topic": "Be: negative",
+      "level": "Dasar",
+      "q": "He ___ a doctor. He is a teacher.",
+      "opts": [
+        "aren't",
+        "am not",
+        "isn't"
+      ],
+      "a": 2,
+      "why": "Tunggal: isn't."
+    },
+    {
+      "id": "r20261029-005",
+      "topic": "Numbers",
+      "level": "Dasar",
+      "q": "Twenty plus ten is ___.",
+      "opts": [
+        "thirty",
+        "twelve",
+        "forty"
+      ],
+      "a": 0,
+      "why": "20 + 10 = 30 (thirty)."
+    },
+    {
+      "id": "r20261029-006",
+      "topic": "Vocabulary: clothes",
+      "level": "Dasar",
+      "q": "When it is cold, I wear a warm ___.",
+      "opts": [
+        "t-shirt",
+        "jacket",
+        "shorts"
+      ],
+      "a": 1,
+      "why": "Saat dingin memakai jaket (jacket)."
+    },
+    {
+      "id": "r20261029-007",
+      "topic": "There is/are",
+      "level": "Dasar",
+      "q": "___ a mosque near here?",
+      "opts": [
+        "Are there",
+        "There are",
+        "Is there"
+      ],
+      "a": 2,
+      "why": "Tunggal: is there."
+    },
+    {
+      "id": "r20261029-008",
+      "topic": "Possessive adjectives",
+      "level": "Dasar",
+      "q": "The dog is eating ___ food.",
+      "opts": [
+        "it's",
+        "its",
+        "their"
+      ],
+      "a": 1,
+      "why": "Miliknya (hewan): its."
+    },
+    {
+      "id": "r20261029-009",
+      "topic": "Vocabulary: house",
+      "level": "Dasar",
+      "q": "We watch TV in the ___.",
+      "opts": [
+        "bathroom",
+        "garage",
+        "living room"
+      ],
+      "a": 2,
+      "why": "Nonton TV di ruang keluarga (living room)."
+    },
+    {
+      "id": "r20261029-010",
+      "topic": "Question words",
+      "level": "Dasar",
+      "q": "___ is your birthday?",
+      "opts": [
+        "When",
+        "Who",
+        "Where"
+      ],
+      "a": 0,
+      "why": "Menanyakan waktu: when."
+    },
+    {
+      "id": "r20261029-011",
+      "topic": "Past simple",
+      "level": "Menengah",
+      "q": "She ___ her phone on the bus this morning.",
+      "opts": [
+        "forget",
+        "forgot",
+        "forgets"
+      ],
+      "a": 1,
+      "why": "Bentuk lampau: forgot."
+    },
+    {
+      "id": "r20261029-012",
+      "topic": "Comparatives",
+      "level": "Menengah",
+      "q": "Motorcycles are ___ than cars in heavy traffic.",
+      "opts": [
+        "faster",
+        "fastest",
+        "fast"
+      ],
+      "a": 0,
+      "why": "Perbandingan: faster than."
+    },
+    {
+      "id": "r20261029-013",
+      "topic": "Present continuous",
+      "level": "Menengah",
+      "q": "What are you doing? I ___ my grandmother's letter.",
+      "opts": [
+        "answer",
+        "am answering",
+        "answered"
+      ],
+      "a": 1,
+      "why": "Sedang menjawab: am answering."
+    },
+    {
+      "id": "r20261029-014",
+      "topic": "Prepositions of movement",
+      "level": "Menengah",
+      "q": "The dog ran ___ the garden and hid behind a tree.",
+      "opts": [
+        "between",
+        "under",
+        "across"
+      ],
+      "a": 2,
+      "why": "Berlari melintasi: across."
+    },
+    {
+      "id": "r20261029-015",
+      "topic": "Going to",
+      "level": "Menengah",
+      "q": "Watch out! You ___ drop your phone.",
+      "opts": [
+        "are going to",
+        "will",
+        "would"
+      ],
+      "a": 0,
+      "why": "Bukti terlihat: be going to."
+    },
+    {
+      "id": "r20261029-016",
+      "topic": "Too many/much",
+      "level": "Menengah",
+      "q": "There is too ___ noise in this cafe. Let's go somewhere else.",
+      "opts": [
+        "many",
+        "few",
+        "much"
+      ],
+      "a": 2,
+      "why": "Noise tak terhitung: too much."
+    },
+    {
+      "id": "r20261029-017",
+      "topic": "Frequency adverbs",
+      "level": "Menengah",
+      "q": "He ___ eats breakfast because he wakes up too late.",
+      "opts": [
+        "rarely",
+        "always",
+        "usually"
+      ],
+      "a": 0,
+      "why": "Jarang: rarely."
+    },
+    {
+      "id": "r20261029-018",
+      "topic": "Past simple negative",
+      "level": "Menengah",
+      "q": "I ___ see the teacher yesterday. She was absent.",
+      "opts": [
+        "don't",
+        "didn't",
+        "wasn't"
+      ],
+      "a": 1,
+      "why": "Negatif lampau: didn't."
+    },
+    {
+      "id": "r20261029-019",
+      "topic": "Prepositions of time",
+      "level": "Menengah",
+      "q": "The bank opens ___ nine thirty.",
+      "opts": [
+        "in",
+        "on",
+        "at"
+      ],
+      "a": 2,
+      "why": "Jam: at."
+    },
+    {
+      "id": "r20261029-020",
+      "topic": "Subject pronouns",
+      "level": "Menengah",
+      "q": "Rina and I are friends. ___ study together.",
+      "opts": [
+        "They",
+        "We",
+        "Us"
+      ],
+      "a": 1,
+      "why": "Subjek: we."
+    },
+    {
+      "id": "r20261029-021",
+      "topic": "Present perfect",
+      "level": "Menengah atas",
+      "q": "She ___ to Singapore twice this year.",
+      "opts": [
+        "have been",
+        "was",
+        "has been"
+      ],
+      "a": 2,
+      "why": "Pengalaman tahun ini: has been."
+    },
+    {
+      "id": "r20261029-022",
+      "topic": "Passive voice",
+      "level": "Menengah atas",
+      "q": "The new bridge ___ next year.",
+      "opts": [
+        "will be finished",
+        "will finish",
+        "finishes"
+      ],
+      "a": 0,
+      "why": "Pasif masa depan: will be finished."
+    },
+    {
+      "id": "r20261029-023",
+      "topic": "Second conditional",
+      "level": "Menengah atas",
+      "q": "If I won the lottery, I ___ a house for my parents.",
+      "opts": [
+        "will buy",
+        "would buy",
+        "buy"
+      ],
+      "a": 1,
+      "why": "Kondisi tak nyata: would + verb."
+    },
+    {
+      "id": "r20261029-024",
+      "topic": "Relative clauses",
+      "level": "Menengah atas",
+      "q": "The reason ___ I called you is important.",
+      "opts": [
+        "why",
+        "who",
+        "which"
+      ],
+      "a": 0,
+      "why": "Alasan: the reason why."
+    },
+    {
+      "id": "r20261029-025",
+      "topic": "Obligation",
+      "level": "Menengah atas",
+      "q": "All passengers ___ show their tickets before boarding.",
+      "opts": [
+        "can",
+        "must",
+        "might"
+      ],
+      "a": 1,
+      "why": "Kewajiban: must."
+    },
+    {
+      "id": "r20261029-026",
+      "topic": "Verb patterns",
+      "level": "Menengah atas",
+      "q": "I don't mind ___ early on weekdays.",
+      "opts": [
+        "wake up",
+        "to wake up",
+        "waking up"
+      ],
+      "a": 2,
+      "why": "Mind + verb-ing."
+    },
+    {
+      "id": "r20261029-027",
+      "topic": "Past perfect",
+      "level": "Menengah atas",
+      "q": "When I got to the station, the train ___ already.",
+      "opts": [
+        "had left",
+        "has left",
+        "leaves"
+      ],
+      "a": 0,
+      "why": "Kejadian lebih dulu: had left."
+    },
+    {
+      "id": "r20261029-028",
+      "topic": "Present perfect",
+      "level": "Menengah atas",
+      "q": "I ___ my keys. Have you seen them?",
+      "opts": [
+        "lost",
+        "lose",
+        "have lost"
+      ],
+      "a": 2,
+      "why": "Hasil terasa sekarang: have lost."
+    },
+    {
+      "id": "r20261029-029",
+      "topic": "Suggestions",
+      "level": "Menengah atas",
+      "q": "How about ___ a movie tonight?",
+      "opts": [
+        "watching",
+        "watch",
+        "to watch"
+      ],
+      "a": 0,
+      "why": "How about + verb-ing."
+    },
+    {
+      "id": "r20261029-030",
+      "topic": "Prepositions",
+      "level": "Menengah atas",
+      "q": "This bag belongs ___ me.",
+      "opts": [
+        "of",
+        "to",
+        "with"
+      ],
+      "a": 1,
+      "why": "Milik: belong to."
+    },
+    {
+      "id": "r20261029-031",
+      "topic": "Third conditional",
+      "level": "Menuju lancar",
+      "q": "If she had taken the earlier flight, she ___ here by now.",
+      "opts": [
+        "would be",
+        "will be",
+        "would have been"
+      ],
+      "a": 2,
+      "why": "Kontras lampau-sekarang, hasil lampau: would have been."
+    },
+    {
+      "id": "r20261029-032",
+      "topic": "Phrasal verbs",
+      "level": "Menuju lancar",
+      "q": "The company plans to ___ 200 new workers next year.",
+      "opts": [
+        "take off",
+        "take on",
+        "take in"
+      ],
+      "a": 1,
+      "why": "Take on = merekrut."
+    },
+    {
+      "id": "r20261029-033",
+      "topic": "Past perfect",
+      "level": "Menuju lancar",
+      "q": "She realized she ___ her umbrella at the restaurant.",
+      "opts": [
+        "has left",
+        "left",
+        "had left"
+      ],
+      "a": 2,
+      "why": "Sebelum menyadari: had left."
+    },
+    {
+      "id": "r20261029-034",
+      "topic": "Connectors",
+      "level": "Menuju lancar",
+      "q": "___ it was late, she kept working on her report.",
+      "opts": [
+        "Even though",
+        "Even if",
+        "Despite"
+      ],
+      "a": 0,
+      "why": "Even though + klausa; despite + noun."
+    },
+    {
+      "id": "r20261029-035",
+      "topic": "Wishes",
+      "level": "Menuju lancar",
+      "q": "I wish we ___ a bigger house. The kids have to share a room.",
+      "opts": [
+        "have",
+        "had",
+        "would have"
+      ],
+      "a": 1,
+      "why": "Harapan tak nyata sekarang: past simple."
+    },
+    {
+      "id": "r20261029-036",
+      "topic": "Reported speech",
+      "level": "Menuju lancar",
+      "q": "The guide warned us ___ too close to the edge.",
+      "opts": [
+        "not to go",
+        "to not go",
+        "don't go"
+      ],
+      "a": 0,
+      "why": "Warn + not + to-infinitive."
+    },
+    {
+      "id": "r20261029-037",
+      "topic": "Idioms",
+      "level": "Menuju lancar",
+      "q": "He works from nine to five, but in his free time he paints. He has the best of both ___.",
+      "opts": [
+        "lives",
+        "worlds",
+        "sides"
+      ],
+      "a": 1,
+      "why": "Idiom: the best of both worlds."
+    },
+    {
+      "id": "r20261029-038",
+      "topic": "Used to / would",
+      "level": "Menuju lancar",
+      "q": "When we were kids, we ___ spend every summer at the beach.",
+      "opts": [
+        "use to",
+        "are used to",
+        "would"
+      ],
+      "a": 2,
+      "why": "Kebiasaan lampau: would + verb."
+    },
+    {
+      "id": "r20261029-039",
+      "topic": "Causatives",
+      "level": "Menuju lancar",
+      "q": "She got her phone ___ at the service center.",
+      "opts": [
+        "repaired",
+        "repair",
+        "to repair"
+      ],
+      "a": 0,
+      "why": "Get something done."
+    },
+    {
+      "id": "r20261029-040",
+      "topic": "Correlatives",
+      "level": "Menuju lancar",
+      "q": "The earlier you leave, the ___ traffic you will meet.",
+      "opts": [
+        "fewer",
+        "least",
+        "less"
+      ],
+      "a": 2,
+      "why": "Traffic tak terhitung: less."
+    }
+  ],
+  "articles": [
+    {
+      "id": "r20261029-a01",
+      "title": "The Missing Cat",
+      "level": "Dasar",
+      "min": 2,
+      "body": [
+        "On Sunday morning, Putri could not find her cat, Momo. She looked under the bed, behind the sofa, and inside every cupboard, but Momo was not there.",
+        "Putri made a poster with Momo's photo and put it on the tree in front of her house. Then she asked her neighbors. Mrs. Sari said she saw an orange cat near the park.",
+        "Putri ran to the park and called, \"Momo! Momo!\" After five minutes, Momo jumped down from a tall tree. Putri was so happy. That night, Momo slept in Putri's arms."
+      ],
+      "gloss": {
+        "missing": "hilang",
+        "looked": "mencari",
+        "cupboard": "lemari",
+        "poster": "poster",
+        "neighbors": "tetangga",
+        "park": "taman",
+        "arms": "pelukan"
+      },
+      "qs": [
+        {
+          "q": "Where did Putri put the poster?",
+          "opts": [
+            "On the tree in front of her house",
+            "On her door",
+            "At the park"
+          ],
+          "a": 0
+        },
+        {
+          "q": "Who saw an orange cat near the park?",
+          "opts": [
+            "Putri's mother",
+            "Mrs. Sari",
+            "A police officer"
+          ],
+          "a": 1
+        },
+        {
+          "q": "Where was Momo?",
+          "opts": [
+            "Under the bed",
+            "Behind the sofa",
+            "In a tall tree"
+          ],
+          "a": 2
+        }
+      ]
+    },
+    {
+      "id": "r20261029-a02",
+      "title": "The Return of the Train",
+      "level": "Menengah atas",
+      "min": 4,
+      "body": [
+        "For many years, trains were considered old-fashioned. Planes were faster and cars were more convenient. But today, trains are making a comeback in many parts of the world.",
+        "One reason is the environment. A train journey produces far less pollution per passenger than a flight. Another reason is comfort. On a train, you can walk around, work at a table, and arrive in the city center instead of an airport far outside town. High-speed trains can now travel between many cities faster than the total time of a flight, once you count airport check-in and travel to the airport.",
+        "Governments are listening. Countries in Europe and Asia are building new high-speed lines and reopening night trains with beds. For travelers who want a relaxed and greener way to move, the train is back on the menu."
+      ],
+      "gloss": {
+        "considered": "dianggap",
+        "convenient": "praktis",
+        "comeback": "kebangkitan kembali",
+        "passenger": "penumpang",
+        "check-in": "lapor diri",
+        "reopening": "membuka kembali",
+        "greener": "lebih ramah lingkungan"
+      },
+      "qs": [
+        {
+          "q": "Why are trains better for the environment?",
+          "opts": [
+            "They produce less pollution per passenger",
+            "They use solar power only",
+            "They carry fewer people"
+          ],
+          "a": 0
+        },
+        {
+          "q": "Where do trains usually arrive, compared to planes?",
+          "opts": [
+            "Far outside town",
+            "In the city center",
+            "At the harbor"
+          ],
+          "a": 1
+        },
+        {
+          "q": "What are some countries reopening?",
+          "opts": [
+            "Old airports",
+            "Car factories",
+            "Night trains with beds"
+          ],
+          "a": 2
+        }
+      ]
+    }
+  ]
+}
