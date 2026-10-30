@@ -1,0 +1,625 @@
+{
+  "bank": [
+    {
+      "id": "r20261030-001",
+      "topic": "Vocabulary: vegetables",
+      "level": "Dasar",
+      "q": "Rabbits like to eat ___.",
+      "opts": [
+        "bread",
+        "carrots",
+        "meat"
+      ],
+      "a": 1,
+      "why": "Kelinci suka wortel (carrots)."
+    },
+    {
+      "id": "r20261030-002",
+      "topic": "Simple present",
+      "level": "Dasar",
+      "q": "They ___ English at school.",
+      "opts": [
+        "studies",
+        "studying",
+        "study"
+      ],
+      "a": 2,
+      "why": "Subjek jamak: study."
+    },
+    {
+      "id": "r20261030-003",
+      "topic": "Vocabulary: transport",
+      "level": "Dasar",
+      "q": "A ___ stops at the station.",
+      "opts": [
+        "train",
+        "car",
+        "plane"
+      ],
+      "a": 0,
+      "why": "Berhenti di stasiun: kereta (train)."
+    },
+    {
+      "id": "r20261030-004",
+      "topic": "Be: past",
+      "level": "Dasar",
+      "q": "The weather ___ nice yesterday.",
+      "opts": [
+        "were",
+        "is",
+        "was"
+      ],
+      "a": 2,
+      "why": "Tunggal lampau: was."
+    },
+    {
+      "id": "r20261030-005",
+      "topic": "How much/many",
+      "level": "Dasar",
+      "q": "___ does this shirt cost?",
+      "opts": [
+        "How much",
+        "How many",
+        "How long"
+      ],
+      "a": 0,
+      "why": "Menanyakan harga: how much."
+    },
+    {
+      "id": "r20261030-006",
+      "topic": "Vocabulary: body",
+      "level": "Dasar",
+      "q": "We smell with our ___.",
+      "opts": [
+        "ears",
+        "nose",
+        "mouth"
+      ],
+      "a": 1,
+      "why": "Mencium dengan hidung (nose)."
+    },
+    {
+      "id": "r20261030-007",
+      "topic": "Present simple negative",
+      "level": "Dasar",
+      "q": "He ___ work on Sundays.",
+      "opts": [
+        "don't",
+        "isn't",
+        "doesn't"
+      ],
+      "a": 2,
+      "why": "Orang ketiga: doesn't."
+    },
+    {
+      "id": "r20261030-008",
+      "topic": "Possessives",
+      "level": "Dasar",
+      "q": "This is her bag. It is ___.",
+      "opts": [
+        "her",
+        "hers",
+        "she"
+      ],
+      "a": 1,
+      "why": "Miliknya berdiri sendiri: hers."
+    },
+    {
+      "id": "r20261030-009",
+      "topic": "Vocabulary: school",
+      "level": "Dasar",
+      "q": "You keep your books in a ___.",
+      "opts": [
+        "wallet",
+        "pocket",
+        "backpack"
+      ],
+      "a": 2,
+      "why": "Buku di tas ransel (backpack)."
+    },
+    {
+      "id": "r20261030-010",
+      "topic": "Days",
+      "level": "Dasar",
+      "q": "The day before Sunday is ___.",
+      "opts": [
+        "Saturday",
+        "Monday",
+        "Friday"
+      ],
+      "a": 0,
+      "why": "Sebelum Minggu: Sabtu (Saturday)."
+    },
+    {
+      "id": "r20261030-011",
+      "topic": "Past simple",
+      "level": "Menengah",
+      "q": "The baby ___ all night, so I am tired today.",
+      "opts": [
+        "cry",
+        "cried",
+        "cries"
+      ],
+      "a": 1,
+      "why": "Lampau: cried."
+    },
+    {
+      "id": "r20261030-012",
+      "topic": "Superlatives",
+      "level": "Menengah",
+      "q": "This is the ___ film I have ever seen. I loved it!",
+      "opts": [
+        "best",
+        "better",
+        "good"
+      ],
+      "a": 0,
+      "why": "Superlatif dari good: best."
+    },
+    {
+      "id": "r20261030-013",
+      "topic": "Present continuous",
+      "level": "Menengah",
+      "q": "Why ___? Did I say something funny?",
+      "opts": [
+        "you are laughing",
+        "are you laughing",
+        "do you laugh"
+      ],
+      "a": 1,
+      "why": "Sedang tertawa: are you laughing."
+    },
+    {
+      "id": "r20261030-014",
+      "topic": "Prepositions of place",
+      "level": "Menengah",
+      "q": "Jakarta is ___ the north coast of Java.",
+      "opts": [
+        "at",
+        "in",
+        "on"
+      ],
+      "a": 2,
+      "why": "Di pesisir: on the coast."
+    },
+    {
+      "id": "r20261030-015",
+      "topic": "Future plans",
+      "level": "Menengah",
+      "q": "A: What are your plans for tonight? B: I ___ dinner with my cousins.",
+      "opts": [
+        "am having",
+        "have",
+        "will having"
+      ],
+      "a": 0,
+      "why": "Rencana: present continuous."
+    },
+    {
+      "id": "r20261030-016",
+      "topic": "Countable/uncountable",
+      "level": "Menengah",
+      "q": "Can I have ___ information about the course?",
+      "opts": [
+        "many",
+        "a few",
+        "some"
+      ],
+      "a": 2,
+      "why": "Information tak terhitung: some."
+    },
+    {
+      "id": "r20261030-017",
+      "topic": "Past continuous",
+      "level": "Menengah",
+      "q": "The phone rang while I ___ a shower.",
+      "opts": [
+        "was taking",
+        "took",
+        "take"
+      ],
+      "a": 0,
+      "why": "Sedang mandi: was taking."
+    },
+    {
+      "id": "r20261030-018",
+      "topic": "Adverbs",
+      "level": "Menengah",
+      "q": "She finished the test ___, so she checked her answers again.",
+      "opts": [
+        "earlier",
+        "early",
+        "earliest"
+      ],
+      "a": 1,
+      "why": "Lebih awal: early."
+    },
+    {
+      "id": "r20261030-019",
+      "topic": "Prepositions of time",
+      "level": "Menengah",
+      "q": "I was born ___ October.",
+      "opts": [
+        "on",
+        "at",
+        "in"
+      ],
+      "a": 2,
+      "why": "Bulan: in."
+    },
+    {
+      "id": "r20261030-020",
+      "topic": "Modal verbs",
+      "level": "Menengah",
+      "q": "You look pale. You ___ see a doctor.",
+      "opts": [
+        "would",
+        "should",
+        "could"
+      ],
+      "a": 1,
+      "why": "Saran: should."
+    },
+    {
+      "id": "r20261030-021",
+      "topic": "Present perfect",
+      "level": "Menengah atas",
+      "q": "They ___ in this city since 2020.",
+      "opts": [
+        "lived",
+        "are living",
+        "have lived"
+      ],
+      "a": 2,
+      "why": "Sejak titik lampau: have lived."
+    },
+    {
+      "id": "r20261030-022",
+      "topic": "Passive voice",
+      "level": "Menengah atas",
+      "q": "The homework ___ by the teacher right now.",
+      "opts": [
+        "is being checked",
+        "is checking",
+        "checks"
+      ],
+      "a": 0,
+      "why": "Pasif sedang berlangsung: is being checked."
+    },
+    {
+      "id": "r20261030-023",
+      "topic": "First conditional",
+      "level": "Menengah atas",
+      "q": "If we don't hurry, we ___ late for class.",
+      "opts": [
+        "are",
+        "will be",
+        "would be"
+      ],
+      "a": 1,
+      "why": "Kondisi nyata: will be."
+    },
+    {
+      "id": "r20261030-024",
+      "topic": "Relative clauses",
+      "level": "Menengah atas",
+      "q": "I remember the day ___ we first met.",
+      "opts": [
+        "when",
+        "which",
+        "who"
+      ],
+      "a": 0,
+      "why": "Waktu: when."
+    },
+    {
+      "id": "r20261030-025",
+      "topic": "Present perfect continuous",
+      "level": "Menengah atas",
+      "q": "It ___ all day. The streets are flooded.",
+      "opts": [
+        "rains",
+        "has been raining",
+        "rained"
+      ],
+      "a": 1,
+      "why": "Durasi sampai sekarang: has been raining."
+    },
+    {
+      "id": "r20261030-026",
+      "topic": "Verb patterns",
+      "level": "Menengah atas",
+      "q": "She offered ___ me with my bags.",
+      "opts": [
+        "helping",
+        "help",
+        "to help"
+      ],
+      "a": 2,
+      "why": "Offer + to-infinitive."
+    },
+    {
+      "id": "r20261030-027",
+      "topic": "Past simple vs present perfect",
+      "level": "Menengah atas",
+      "q": "We ___ this movie last night. It was great.",
+      "opts": [
+        "watched",
+        "have watched",
+        "watch"
+      ],
+      "a": 0,
+      "why": "Waktu pasti lampau: watched."
+    },
+    {
+      "id": "r20261030-028",
+      "topic": "Question tags",
+      "level": "Menengah atas",
+      "q": "Let's go to the beach, ___?",
+      "opts": [
+        "don't we",
+        "will we",
+        "shall we"
+      ],
+      "a": 2,
+      "why": "Tag untuk let's: shall we."
+    },
+    {
+      "id": "r20261030-029",
+      "topic": "Deduction",
+      "level": "Menengah atas",
+      "q": "She ___ be at work. I just saw her car in the parking lot.",
+      "opts": [
+        "must",
+        "can't",
+        "might not"
+      ],
+      "a": 0,
+      "why": "Kesimpulan logis: must."
+    },
+    {
+      "id": "r20261030-030",
+      "topic": "Both/neither",
+      "level": "Menengah atas",
+      "q": "___ answers are correct. You can choose either one.",
+      "opts": [
+        "Neither",
+        "Both",
+        "All"
+      ],
+      "a": 1,
+      "why": "Dua jawaban benar: both."
+    },
+    {
+      "id": "r20261030-031",
+      "topic": "Third conditional",
+      "level": "Menuju lancar",
+      "q": "If you ___ the red button, the alarm would have gone off.",
+      "opts": [
+        "pressed",
+        "press",
+        "had pressed"
+      ],
+      "a": 2,
+      "why": "Kondisi lampau tak nyata: had + V3."
+    },
+    {
+      "id": "r20261030-032",
+      "topic": "Phrasal verbs",
+      "level": "Menuju lancar",
+      "q": "My flight was delayed, so I had to ___ at the airport for six hours.",
+      "opts": [
+        "hang out",
+        "hang around",
+        "hang up"
+      ],
+      "a": 1,
+      "why": "Hang around = menunggu tanpa tujuan."
+    },
+    {
+      "id": "r20261030-033",
+      "topic": "Past perfect",
+      "level": "Menuju lancar",
+      "q": "Hardly ___ home when it started to rain.",
+      "opts": [
+        "I had got",
+        "did I get",
+        "had I got"
+      ],
+      "a": 2,
+      "why": "Inversi: hardly had + subjek + V3."
+    },
+    {
+      "id": "r20261030-034",
+      "topic": "Connectors",
+      "level": "Menuju lancar",
+      "q": "He failed the test. ___, he decided to study harder.",
+      "opts": [
+        "Nevertheless",
+        "Because",
+        "Although"
+      ],
+      "a": 0,
+      "why": "Meski begitu: nevertheless."
+    },
+    {
+      "id": "r20261030-035",
+      "topic": "Passive voice",
+      "level": "Menuju lancar",
+      "q": "The suspect is being ___ by the police.",
+      "opts": [
+        "question",
+        "questioned",
+        "questioning"
+      ],
+      "a": 1,
+      "why": "Pasif continuous: being + V3."
+    },
+    {
+      "id": "r20261030-036",
+      "topic": "Wish",
+      "level": "Menuju lancar",
+      "q": "I wish I ___ earlier about the traffic. I would have left sooner.",
+      "opts": [
+        "had known",
+        "knew",
+        "know"
+      ],
+      "a": 0,
+      "why": "Penyesalan lampau: wish + past perfect."
+    },
+    {
+      "id": "r20261030-037",
+      "topic": "Reported speech",
+      "level": "Menuju lancar",
+      "q": "She reminded me ___ my umbrella because of the rain.",
+      "opts": [
+        "bring",
+        "to bring",
+        "bringing"
+      ],
+      "a": 1,
+      "why": "Remind + to-infinitive."
+    },
+    {
+      "id": "r20261030-038",
+      "topic": "Idioms",
+      "level": "Menuju lancar",
+      "q": "Don't count your chickens before they ___.",
+      "opts": [
+        "grow",
+        "eat",
+        "hatch"
+      ],
+      "a": 2,
+      "why": "Peribahasa: jangan berharap sebelum pasti."
+    },
+    {
+      "id": "r20261030-039",
+      "topic": "Inversions",
+      "level": "Menuju lancar",
+      "q": "Not only ___ late, but he also forgot the documents.",
+      "opts": [
+        "was he",
+        "he was",
+        "did he"
+      ],
+      "a": 0,
+      "why": "Inversi setelah not only: was he."
+    },
+    {
+      "id": "r20261030-040",
+      "topic": "Vocabulary: formal",
+      "level": "Menuju lancar",
+      "q": "The manager asked me to ___ the meeting until Friday.",
+      "opts": [
+        "prevent",
+        "predict",
+        "postpone"
+      ],
+      "a": 2,
+      "why": "Postpone = menunda."
+    }
+  ],
+  "articles": [
+    {
+      "id": "r20261030-a01",
+      "title": "The School Garden Project",
+      "level": "Dasar",
+      "min": 2,
+      "body": [
+        "This year, Class 7B has a new project: a vegetable garden behind the school. Every student has a small job. Some water the plants, some pull the weeds, and some carry the tools.",
+        "Last month, they planted tomatoes, chilies, and spinach. The students checked the garden every morning before class. Their teacher, Mr. Joko, showed them how to use compost from old leaves.",
+        "Yesterday was a special day. The students picked their first red tomatoes. They made a fresh salad and ate it together at lunch. Next, they want to plant corn."
+      ],
+      "gloss": {
+        "project": "proyek",
+        "weeds": "rumput liar",
+        "tools": "peralatan",
+        "planted": "menanam",
+        "compost": "kompos",
+        "picked": "memetik",
+        "corn": "jagung"
+      },
+      "qs": [
+        {
+          "q": "Where is the vegetable garden?",
+          "opts": [
+            "Behind the school",
+            "On the school roof",
+            "Next to the library"
+          ],
+          "a": 0
+        },
+        {
+          "q": "What did Mr. Joko teach the students to use?",
+          "opts": [
+            "Chemical fertilizer",
+            "Compost from old leaves",
+            "Plastic pots"
+          ],
+          "a": 1
+        },
+        {
+          "q": "What did the students make with the first tomatoes?",
+          "opts": [
+            "Tomato soup",
+            "Sandwiches",
+            "A fresh salad"
+          ],
+          "a": 2
+        }
+      ]
+    },
+    {
+      "id": "r20261030-a02",
+      "title": "How Video Games Are Helping Hospitals",
+      "level": "Menengah atas",
+      "min": 4,
+      "body": [
+        "Video games are often blamed for making children lazy, but hospitals around the world are finding surprising ways to use them for good.",
+        "In some children's hospitals, young patients play special games during painful treatments. The games distract them, so they feel less pain and need less medicine. In other hospitals, games help patients recover movement after injuries. Moving a character on the screen becomes exercise for weak arms and legs, and because it feels like play, patients practice longer.",
+        "Doctors say games are not a magic cure, and screen time still needs limits. But when a game can turn a difficult treatment into something a child does not fear, it becomes a useful medical tool. Sometimes, play is serious medicine."
+      ],
+      "gloss": {
+        "blamed": "disalahkan",
+        "patients": "pasien",
+        "treatments": "perawatan",
+        "distract": "mengalihkan",
+        "recover": "memulihkan",
+        "injuries": "cedera",
+        "limits": "batasan",
+        "cure": "obat"
+      },
+      "qs": [
+        {
+          "q": "How do games help children during painful treatments?",
+          "opts": [
+            "They distract them from the pain",
+            "They make treatments shorter",
+            "They replace all medicine"
+          ],
+          "a": 0
+        },
+        {
+          "q": "Why do patients practice longer with games?",
+          "opts": [
+            "Because doctors order them to",
+            "Because it feels like play",
+            "Because the games are easy"
+          ],
+          "a": 1
+        },
+        {
+          "q": "What do doctors say about games?",
+          "opts": [
+            "They are dangerous for everyone",
+            "They should replace exercise",
+            "They are useful tools but not magic cures"
+          ],
+          "a": 2
+        }
+      ]
+    }
+  ]
+}
