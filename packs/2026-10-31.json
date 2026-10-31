@@ -1,0 +1,623 @@
+{
+  "bank": [
+    {
+      "id": "r20261031-001",
+      "topic": "Vocabulary: shapes",
+      "level": "Dasar",
+      "q": "A ball is round like a ___.",
+      "opts": [
+        "square",
+        "circle",
+        "triangle"
+      ],
+      "a": 1,
+      "why": "Bulat seperti lingkaran (circle)."
+    },
+    {
+      "id": "r20261031-002",
+      "topic": "Simple present",
+      "level": "Dasar",
+      "q": "The train ___ at seven every morning.",
+      "opts": [
+        "arrive",
+        "arriving",
+        "arrives"
+      ],
+      "a": 2,
+      "why": "Jadwal, tunggal: arrives."
+    },
+    {
+      "id": "r20261031-003",
+      "topic": "Vocabulary: drinks",
+      "level": "Dasar",
+      "q": "I am thirsty. Can I have a glass of ___?",
+      "opts": [
+        "water",
+        "rice",
+        "bread"
+      ],
+      "a": 0,
+      "why": "Haus minta minum: air (water)."
+    },
+    {
+      "id": "r20261031-004",
+      "topic": "Be: questions",
+      "level": "Dasar",
+      "q": "___ they your classmates?",
+      "opts": [
+        "Is",
+        "Am",
+        "Are"
+      ],
+      "a": 2,
+      "why": "Jamak: are."
+    },
+    {
+      "id": "r20261031-005",
+      "topic": "Plurals",
+      "level": "Dasar",
+      "q": "There are five ___ on the plate.",
+      "opts": [
+        "oranges",
+        "orange",
+        "orangs"
+      ],
+      "a": 0,
+      "why": "Jamak: oranges."
+    },
+    {
+      "id": "r20261031-006",
+      "topic": "Vocabulary: weather",
+      "level": "Dasar",
+      "q": "When it is ___, we can build a snowman.",
+      "opts": [
+        "rainy",
+        "snowy",
+        "sunny"
+      ],
+      "a": 1,
+      "why": "Bersalju (snowy) bisa membuat boneka salju."
+    },
+    {
+      "id": "r20261031-007",
+      "topic": "Imperatives",
+      "level": "Dasar",
+      "q": "___ the lights when you leave the room.",
+      "opts": [
+        "Turns off",
+        "Turning off",
+        "Turn off"
+      ],
+      "a": 2,
+      "why": "Kalimat perintah: turn off."
+    },
+    {
+      "id": "r20261031-008",
+      "topic": "That/Those",
+      "level": "Dasar",
+      "q": "___ is a big mountain far away.",
+      "opts": [
+        "Those",
+        "That",
+        "These"
+      ],
+      "a": 1,
+      "why": "Jauh dan tunggal: that."
+    },
+    {
+      "id": "r20261031-009",
+      "topic": "Vocabulary: jobs",
+      "level": "Dasar",
+      "q": "A ___ teaches students at school.",
+      "opts": [
+        "doctor",
+        "chef",
+        "teacher"
+      ],
+      "a": 2,
+      "why": "Mengajar di sekolah: guru (teacher)."
+    },
+    {
+      "id": "r20261031-010",
+      "topic": "Can",
+      "level": "Dasar",
+      "q": "Fish ___ fly.",
+      "opts": [
+        "cannot",
+        "can",
+        "must"
+      ],
+      "a": 0,
+      "why": "Ikan tidak bisa terbang: cannot."
+    },
+    {
+      "id": "r20261031-011",
+      "topic": "Past simple",
+      "level": "Menengah",
+      "q": "He ___ his leg while playing basketball last week.",
+      "opts": [
+        "hurted",
+        "hurt",
+        "hurts"
+      ],
+      "a": 1,
+      "why": "Bentuk lampau hurt: hurt."
+    },
+    {
+      "id": "r20261031-012",
+      "topic": "Comparatives",
+      "level": "Menengah",
+      "q": "My new phone is ___ than my old one.",
+      "opts": [
+        "more expensive",
+        "expensive",
+        "most expensive"
+      ],
+      "a": 0,
+      "why": "Perbandingan: more expensive."
+    },
+    {
+      "id": "r20261031-013",
+      "topic": "Present continuous",
+      "level": "Menengah",
+      "q": "They ___ for the exam in the library right now.",
+      "opts": [
+        "study",
+        "are studying",
+        "studied"
+      ],
+      "a": 1,
+      "why": "Sedang belajar: are studying."
+    },
+    {
+      "id": "r20261031-014",
+      "topic": "Prepositions of movement",
+      "level": "Menengah",
+      "q": "The kids walked ___ the forest carefully.",
+      "opts": [
+        "across",
+        "over",
+        "through"
+      ],
+      "a": 2,
+      "why": "Melalui hutan: through."
+    },
+    {
+      "id": "r20261031-015",
+      "topic": "Future",
+      "level": "Menengah",
+      "q": "I ___ call you as soon as I arrive.",
+      "opts": [
+        "will",
+        "am",
+        "do"
+      ],
+      "a": 0,
+      "why": "Janji: will."
+    },
+    {
+      "id": "r20261031-016",
+      "topic": "Some/any",
+      "level": "Menengah",
+      "q": "There isn't ___ bread left. I'll buy some.",
+      "opts": [
+        "some",
+        "much",
+        "any"
+      ],
+      "a": 2,
+      "why": "Negatif: any."
+    },
+    {
+      "id": "r20261031-017",
+      "topic": "Whose",
+      "level": "Menengah",
+      "q": "___ bicycle is that outside? It's Budi's.",
+      "opts": [
+        "Whose",
+        "Who's",
+        "Who"
+      ],
+      "a": 0,
+      "why": "Menanyakan pemilik: whose."
+    },
+    {
+      "id": "r20261031-018",
+      "topic": "Adverbs of frequency",
+      "level": "Menengah",
+      "q": "We ___ go swimming in the lake, only in summer.",
+      "opts": [
+        "always",
+        "occasionally",
+        "every day"
+      ],
+      "a": 1,
+      "why": "Kadang-kadang: occasionally."
+    },
+    {
+      "id": "r20261031-019",
+      "topic": "Past simple questions",
+      "level": "Menengah",
+      "q": "Why ___ you cry at the movie yesterday?",
+      "opts": [
+        "do",
+        "were",
+        "did"
+      ],
+      "a": 2,
+      "why": "Pertanyaan lampau: did."
+    },
+    {
+      "id": "r20261031-020",
+      "topic": "Prepositions of time",
+      "level": "Menengah",
+      "q": "We have a test ___ two weeks.",
+      "opts": [
+        "on",
+        "in",
+        "at"
+      ],
+      "a": 1,
+      "why": "Dalam dua minggu: in."
+    },
+    {
+      "id": "r20261031-021",
+      "topic": "Present perfect",
+      "level": "Menengah atas",
+      "q": "Have you finished your project ___?",
+      "opts": [
+        "already",
+        "ever",
+        "yet"
+      ],
+      "a": 2,
+      "why": "Pertanyaan: yet."
+    },
+    {
+      "id": "r20261031-022",
+      "topic": "Passive voice",
+      "level": "Menengah atas",
+      "q": "The mail ___ every morning at eight.",
+      "opts": [
+        "is delivered",
+        "delivers",
+        "is delivering"
+      ],
+      "a": 0,
+      "why": "Pasif present: is delivered."
+    },
+    {
+      "id": "r20261031-023",
+      "topic": "Second conditional",
+      "level": "Menengah atas",
+      "q": "If he ___ more careful, he wouldn't make so many mistakes.",
+      "opts": [
+        "is",
+        "were",
+        "will be"
+      ],
+      "a": 1,
+      "why": "Kondisi tak nyata: were."
+    },
+    {
+      "id": "r20261031-024",
+      "topic": "Relative clauses",
+      "level": "Menengah atas",
+      "q": "The park ___ we usually jog is closed today.",
+      "opts": [
+        "where",
+        "who",
+        "whose"
+      ],
+      "a": 0,
+      "why": "Tempat: where."
+    },
+    {
+      "id": "r20261031-025",
+      "topic": "Advice",
+      "level": "Menengah atas",
+      "q": "You ___ apologize to her. You were rude.",
+      "opts": [
+        "would",
+        "should",
+        "could"
+      ],
+      "a": 1,
+      "why": "Saran: should."
+    },
+    {
+      "id": "r20261031-026",
+      "topic": "Gerunds",
+      "level": "Menengah atas",
+      "q": "They avoided ___ about the problem.",
+      "opts": [
+        "to talk",
+        "talk",
+        "talking"
+      ],
+      "a": 2,
+      "why": "Avoid + verb-ing."
+    },
+    {
+      "id": "r20261031-027",
+      "topic": "Past perfect",
+      "level": "Menengah atas",
+      "q": "The show had already started ___ we arrived.",
+      "opts": [
+        "when",
+        "while",
+        "during"
+      ],
+      "a": 0,
+      "why": "Ketika kami tiba: when."
+    },
+    {
+      "id": "r20261031-028",
+      "topic": "Present perfect",
+      "level": "Menengah atas",
+      "q": "I ___ never ___ such a beautiful sunset before.",
+      "opts": [
+        "has, seen",
+        "have, saw",
+        "have, seen"
+      ],
+      "a": 2,
+      "why": "Belum pernah: have never seen."
+    },
+    {
+      "id": "r20261031-029",
+      "topic": "Too/enough",
+      "level": "Menengah atas",
+      "q": "This coffee is ___ hot to drink now.",
+      "opts": [
+        "too",
+        "enough",
+        "very"
+      ],
+      "a": 0,
+      "why": "Terlalu panas: too hot."
+    },
+    {
+      "id": "r20261031-030",
+      "topic": "Prepositions",
+      "level": "Menengah atas",
+      "q": "Congratulations ___ your graduation!",
+      "opts": [
+        "for",
+        "on",
+        "about"
+      ],
+      "a": 1,
+      "why": "Selamat atas: congratulations on."
+    },
+    {
+      "id": "r20261031-031",
+      "topic": "Third conditional",
+      "level": "Menuju lancar",
+      "q": "If they ___ the warning, the accident wouldn't have happened.",
+      "opts": [
+        "heard",
+        "hear",
+        "had heard"
+      ],
+      "a": 2,
+      "why": "Kondisi lampau tak nyata: had + V3."
+    },
+    {
+      "id": "r20261031-032",
+      "topic": "Phrasal verbs",
+      "level": "Menuju lancar",
+      "q": "She ___ her little sister while their parents were at work.",
+      "opts": [
+        "looked for",
+        "looked after",
+        "looked up"
+      ],
+      "a": 1,
+      "why": "Look after = menjaga."
+    },
+    {
+      "id": "r20261031-033",
+      "topic": "Past perfect continuous",
+      "level": "Menuju lancar",
+      "q": "The ground was wet because it ___ all night.",
+      "opts": [
+        "rained",
+        "has rained",
+        "had been raining"
+      ],
+      "a": 2,
+      "why": "Durasi sebelum lampau: had been raining."
+    },
+    {
+      "id": "r20261031-034",
+      "topic": "Connectors",
+      "level": "Menuju lancar",
+      "q": "___ being tired, she finished the marathon.",
+      "opts": [
+        "Despite",
+        "Although",
+        "However"
+      ],
+      "a": 0,
+      "why": "Despite + verb-ing."
+    },
+    {
+      "id": "r20261031-035",
+      "topic": "Passive reporting",
+      "level": "Menuju lancar",
+      "q": "The new medicine is said ___ very effective.",
+      "opts": [
+        "be",
+        "to be",
+        "being"
+      ],
+      "a": 1,
+      "why": "Is said to be: dikatakan sangat efektif."
+    },
+    {
+      "id": "r20261031-036",
+      "topic": "Wish",
+      "level": "Menuju lancar",
+      "q": "I wish the weekend ___ longer. Two days is not enough.",
+      "opts": [
+        "lasted",
+        "lasts",
+        "will last"
+      ],
+      "a": 0,
+      "why": "Harapan tak nyata: lasted."
+    },
+    {
+      "id": "r20261031-037",
+      "topic": "Reported questions",
+      "level": "Menuju lancar",
+      "q": "He wanted to know ___ the museum was open on Sundays.",
+      "opts": [
+        "that",
+        "whether",
+        "what"
+      ],
+      "a": 1,
+      "why": "Ya/tidak tak langsung: whether."
+    },
+    {
+      "id": "r20261031-038",
+      "topic": "Idioms",
+      "level": "Menuju lancar",
+      "q": "The exam was difficult, but I passed by the skin of my ___.",
+      "opts": [
+        "nose",
+        "hair",
+        "teeth"
+      ],
+      "a": 2,
+      "why": "Idiom nyaris: by the skin of my teeth."
+    },
+    {
+      "id": "r20261031-039",
+      "topic": "Inversions",
+      "level": "Menuju lancar",
+      "q": "Seldom ___ such dedication in a young worker.",
+      "opts": [
+        "have I seen",
+        "I have seen",
+        "did I see"
+      ],
+      "a": 0,
+      "why": "Inversi setelah seldom: have I seen."
+    },
+    {
+      "id": "r20261031-040",
+      "topic": "Make/let",
+      "level": "Menuju lancar",
+      "q": "The strict teacher made the students ___ the essay again.",
+      "opts": [
+        "to rewrite",
+        "rewriting",
+        "rewrite"
+      ],
+      "a": 2,
+      "why": "Make + object + verb dasar."
+    }
+  ],
+  "articles": [
+    {
+      "id": "r20261031-a01",
+      "title": "The First Snow",
+      "level": "Dasar",
+      "min": 2,
+      "body": [
+        "Yuki lives in a small town in Japan. Last night, the first snow of the year fell while everyone was sleeping.",
+        "In the morning, Yuki opened her window and shouted with joy. The whole town was white! She quickly put on her warm jacket, boots, and red scarf, then ran outside.",
+        "Yuki and her friends built a big snowman in the park. They used two stones for its eyes and a carrot for its nose. Before going home, they promised to meet again after school for a snowball fight."
+      ],
+      "gloss": {
+        "fell": "turun",
+        "shouted": "berteriak",
+        "joy": "kegembiraan",
+        "scarf": "syal",
+        "stones": "batu",
+        "carrot": "wortel",
+        "promised": "berjanji"
+      },
+      "qs": [
+        {
+          "q": "When did the first snow fall?",
+          "opts": [
+            "While everyone was sleeping",
+            "In the afternoon",
+            "During dinner"
+          ],
+          "a": 0
+        },
+        {
+          "q": "What color is Yuki's scarf?",
+          "opts": [
+            "Blue",
+            "Red",
+            "White"
+          ],
+          "a": 1
+        },
+        {
+          "q": "What did they use for the snowman's nose?",
+          "opts": [
+            "A stone",
+            "A stick",
+            "A carrot"
+          ],
+          "a": 2
+        }
+      ]
+    },
+    {
+      "id": "r20261031-a02",
+      "title": "Why Handwriting Still Matters",
+      "level": "Menengah atas",
+      "min": 4,
+      "body": [
+        "Today, most students type on laptops and phones. Some schools have even stopped teaching handwriting. But researchers say writing by hand is still an important skill.",
+        "Studies show that students who take notes by hand remember more than those who type. The reason is simple: you cannot write as fast as you type, so you must choose the most important ideas and put them in your own words. This deeper thinking helps the brain learn. Writing by hand also uses more parts of the brain connected to memory and creativity.",
+        "This does not mean we should throw away our keyboards. Typing is faster for long texts and easier to share. The smart approach is to use both: type when speed matters, and pick up a pen when you really need to learn and remember."
+      ],
+      "gloss": {
+        "handwriting": "tulisan tangan",
+        "skill": "keterampilan",
+        "take notes": "mencatat",
+        "deeper": "lebih dalam",
+        "creativity": "kreativitas",
+        "approach": "pendekatan"
+      },
+      "qs": [
+        {
+          "q": "Why do handwritten notes help memory?",
+          "opts": [
+            "You must choose key ideas and use your own words",
+            "Handwriting is faster than typing",
+            "They are easier to share"
+          ],
+          "a": 0
+        },
+        {
+          "q": "What else does writing by hand use more of?",
+          "opts": [
+            "Ink and paper",
+            "Parts of the brain linked to memory and creativity",
+            "Time in class"
+          ],
+          "a": 1
+        },
+        {
+          "q": "What approach does the writer suggest?",
+          "opts": [
+            "Stop using keyboards",
+            "Teach only handwriting",
+            "Use both typing and handwriting"
+          ],
+          "a": 2
+        }
+      ]
+    }
+  ]
+}
