@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-30",
+  "updated": "2026-10-31",
   "packs": [
     "packs/2026-10-13-2.json",
     "packs/2026-10-14.json",
@@ -21,6 +21,7 @@
     "packs/2026-10-27.json",
     "packs/2026-10-28.json",
     "packs/2026-10-29.json",
-    "packs/2026-10-30.json"
+    "packs/2026-10-30.json",
+    "packs/2026-10-31.json"
   ]
 }
