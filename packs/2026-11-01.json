@@ -1,0 +1,623 @@
+{
+  "bank": [
+    {
+      "id": "r20261101-001",
+      "topic": "Vocabulary: furniture",
+      "level": "Dasar",
+      "q": "You sleep on a ___.",
+      "opts": [
+        "chair",
+        "bed",
+        "table"
+      ],
+      "a": 1,
+      "why": "Tidur di tempat tidur (bed)."
+    },
+    {
+      "id": "r20261101-002",
+      "topic": "Simple present",
+      "level": "Dasar",
+      "q": "He ___ his teeth twice a day.",
+      "opts": [
+        "brush",
+        "brushing",
+        "brushes"
+      ],
+      "a": 2,
+      "why": "Orang ketiga tunggal: brushes."
+    },
+    {
+      "id": "r20261101-003",
+      "topic": "Vocabulary: fruit",
+      "level": "Dasar",
+      "q": "An ___ a day keeps the doctor away.",
+      "opts": [
+        "apple",
+        "orange",
+        "banana"
+      ],
+      "a": 0,
+      "why": "Pepatah: an apple a day."
+    },
+    {
+      "id": "r20261101-004",
+      "topic": "Be: am/is/are",
+      "level": "Dasar",
+      "q": "You ___ my best friend.",
+      "opts": [
+        "is",
+        "am",
+        "are"
+      ],
+      "a": 2,
+      "why": "You dengan are."
+    },
+    {
+      "id": "r20261101-005",
+      "topic": "There is/are",
+      "level": "Dasar",
+      "q": "___ two books on my desk.",
+      "opts": [
+        "There are",
+        "There is",
+        "It is"
+      ],
+      "a": 0,
+      "why": "Jamak: there are."
+    },
+    {
+      "id": "r20261101-006",
+      "topic": "Vocabulary: weather",
+      "level": "Dasar",
+      "q": "A strong wind means the weather is ___.",
+      "opts": [
+        "cloudy",
+        "windy",
+        "foggy"
+      ],
+      "a": 1,
+      "why": "Angin kencang: windy."
+    },
+    {
+      "id": "r20261101-007",
+      "topic": "Imperatives",
+      "level": "Dasar",
+      "q": "___ carefully! The floor is wet.",
+      "opts": [
+        "Walks",
+        "Walking",
+        "Walk"
+      ],
+      "a": 2,
+      "why": "Kalimat perintah: walk."
+    },
+    {
+      "id": "r20261101-008",
+      "topic": "This/That",
+      "level": "Dasar",
+      "q": "___ is my pen right here in my hand.",
+      "opts": [
+        "That",
+        "This",
+        "Those"
+      ],
+      "a": 1,
+      "why": "Dekat dan tunggal: this."
+    },
+    {
+      "id": "r20261101-009",
+      "topic": "Vocabulary: animals",
+      "level": "Dasar",
+      "q": "A ___ can jump very high and carries its baby in a pouch.",
+      "opts": [
+        "rabbit",
+        "frog",
+        "kangaroo"
+      ],
+      "a": 2,
+      "why": "Melompat dan berkantong: kanguru (kangaroo)."
+    },
+    {
+      "id": "r20261101-010",
+      "topic": "Like",
+      "level": "Dasar",
+      "q": "My little brother ___ cartoons on TV.",
+      "opts": [
+        "likes",
+        "like",
+        "liking"
+      ],
+      "a": 0,
+      "why": "Tunggal: likes."
+    },
+    {
+      "id": "r20261101-011",
+      "topic": "Past simple",
+      "level": "Menengah",
+      "q": "They ___ a small house near the beach two years ago.",
+      "opts": [
+        "buy",
+        "bought",
+        "buyed"
+      ],
+      "a": 1,
+      "why": "Bentuk lampau buy: bought."
+    },
+    {
+      "id": "r20261101-012",
+      "topic": "Superlatives",
+      "level": "Menengah",
+      "q": "January is usually the ___ month of the year here.",
+      "opts": [
+        "wettest",
+        "wetter",
+        "wet"
+      ],
+      "a": 0,
+      "why": "Superlatif: the wettest (paling basah/hujan)."
+    },
+    {
+      "id": "r20261101-013",
+      "topic": "Present continuous",
+      "level": "Menengah",
+      "q": "Be quiet, please. I ___ to the teacher's explanation.",
+      "opts": [
+        "listen",
+        "am listening",
+        "listened"
+      ],
+      "a": 1,
+      "why": "Sedang mendengarkan: am listening."
+    },
+    {
+      "id": "r20261101-014",
+      "topic": "Prepositions of place",
+      "level": "Menengah",
+      "q": "The cat is sitting ___ the two boxes.",
+      "opts": [
+        "among",
+        "behind",
+        "between"
+      ],
+      "a": 2,
+      "why": "Di antara dua: between."
+    },
+    {
+      "id": "r20261101-015",
+      "topic": "Going to",
+      "level": "Menengah",
+      "q": "We ___ a picnic tomorrow if the weather is nice.",
+      "opts": [
+        "are going to have",
+        "will having",
+        "have"
+      ],
+      "a": 0,
+      "why": "Rencana: be going to."
+    },
+    {
+      "id": "r20261101-016",
+      "topic": "Much/many/a lot",
+      "level": "Menengah",
+      "q": "She has ___ friends at her new school.",
+      "opts": [
+        "much",
+        "a",
+        "a lot of"
+      ],
+      "a": 2,
+      "why": "Banyak: a lot of."
+    },
+    {
+      "id": "r20261101-017",
+      "topic": "Reflexives",
+      "level": "Menengah",
+      "q": "The boys cooked dinner by ___.",
+      "opts": [
+        "themselves",
+        "theirselves",
+        "them"
+      ],
+      "a": 0,
+      "why": "Sendiri (jamak): themselves."
+    },
+    {
+      "id": "r20261101-018",
+      "topic": "Adverbs",
+      "level": "Menengah",
+      "q": "He speaks English very ___ for a beginner.",
+      "opts": [
+        "good",
+        "well",
+        "best"
+      ],
+      "a": 1,
+      "why": "Kata keterangan dari good: well."
+    },
+    {
+      "id": "r20261101-019",
+      "topic": "Prepositions of time",
+      "level": "Menengah",
+      "q": "The class starts ___ eight thirty.",
+      "opts": [
+        "in",
+        "on",
+        "at"
+      ],
+      "a": 2,
+      "why": "Jam: at."
+    },
+    {
+      "id": "r20261101-020",
+      "topic": "Object pronouns",
+      "level": "Menengah",
+      "q": "My parents love me, and I love ___ very much.",
+      "opts": [
+        "they",
+        "them",
+        "their"
+      ],
+      "a": 1,
+      "why": "Objek: them."
+    },
+    {
+      "id": "r20261101-021",
+      "topic": "Present perfect",
+      "level": "Menengah atas",
+      "q": "I ___ three emails this morning.",
+      "opts": [
+        "sent",
+        "send",
+        "have sent"
+      ],
+      "a": 2,
+      "why": "Pagi ini (belum selesai): have sent."
+    },
+    {
+      "id": "r20261101-022",
+      "topic": "Passive voice",
+      "level": "Menengah atas",
+      "q": "This temple ___ hundreds of years ago.",
+      "opts": [
+        "was built",
+        "built",
+        "is built"
+      ],
+      "a": 0,
+      "why": "Pasif lampau: was built."
+    },
+    {
+      "id": "r20261101-023",
+      "topic": "First conditional",
+      "level": "Menengah atas",
+      "q": "If she practices every day, she ___ better quickly.",
+      "opts": [
+        "gets",
+        "will get",
+        "would get"
+      ],
+      "a": 1,
+      "why": "Kondisi nyata: will get."
+    },
+    {
+      "id": "r20261101-024",
+      "topic": "Relative clauses",
+      "level": "Menengah atas",
+      "q": "The student ___ bag was stolen reported it to the teacher.",
+      "opts": [
+        "whose",
+        "who",
+        "which"
+      ],
+      "a": 0,
+      "why": "Kepemilikan: whose."
+    },
+    {
+      "id": "r20261101-025",
+      "topic": "Modal verbs",
+      "level": "Menengah atas",
+      "q": "You ___ be quiet in the library. It's a rule.",
+      "opts": [
+        "can",
+        "must",
+        "might"
+      ],
+      "a": 1,
+      "why": "Wajib: must."
+    },
+    {
+      "id": "r20261101-026",
+      "topic": "Verb patterns",
+      "level": "Menengah atas",
+      "q": "We agreed ___ at seven in front of the cinema.",
+      "opts": [
+        "meeting",
+        "meet",
+        "to meet"
+      ],
+      "a": 2,
+      "why": "Agree + to-infinitive."
+    },
+    {
+      "id": "r20261101-027",
+      "topic": "Past continuous",
+      "level": "Menengah atas",
+      "q": "The sun ___ when we reached the top of the hill.",
+      "opts": [
+        "was setting",
+        "set",
+        "sets"
+      ],
+      "a": 0,
+      "why": "Latar sedang berlangsung: was setting."
+    },
+    {
+      "id": "r20261101-028",
+      "topic": "Present perfect",
+      "level": "Menengah atas",
+      "q": "She ___ her new job for two months now.",
+      "opts": [
+        "has",
+        "have",
+        "has had"
+      ],
+      "a": 2,
+      "why": "Sampai sekarang: has had."
+    },
+    {
+      "id": "r20261101-029",
+      "topic": "Question tags",
+      "level": "Menengah atas",
+      "q": "He didn't come to class yesterday, ___?",
+      "opts": [
+        "did he",
+        "didn't he",
+        "does he"
+      ],
+      "a": 0,
+      "why": "Tag positif dari negatif: did he."
+    },
+    {
+      "id": "r20261101-030",
+      "topic": "Prepositions",
+      "level": "Menengah atas",
+      "q": "She is married ___ a doctor.",
+      "opts": [
+        "with",
+        "to",
+        "by"
+      ],
+      "a": 1,
+      "why": "Menikah dengan: married to."
+    },
+    {
+      "id": "r20261101-031",
+      "topic": "Third conditional",
+      "level": "Menuju lancar",
+      "q": "If I ___ harder last semester, my grades would have been better.",
+      "opts": [
+        "studied",
+        "study",
+        "had studied"
+      ],
+      "a": 2,
+      "why": "Kondisi lampau tak nyata: had + V3."
+    },
+    {
+      "id": "r20261101-032",
+      "topic": "Phrasal verbs",
+      "level": "Menuju lancar",
+      "q": "He ___ his old toys to charity before moving abroad.",
+      "opts": [
+        "gave up",
+        "gave away",
+        "gave in"
+      ],
+      "a": 1,
+      "why": "Give away = menyumbangkan."
+    },
+    {
+      "id": "r20261101-033",
+      "topic": "Past perfect",
+      "level": "Menuju lancar",
+      "q": "The museum was closed, but luckily we ___ it the day before.",
+      "opts": [
+        "visited",
+        "visit",
+        "had visited"
+      ],
+      "a": 2,
+      "why": "Sebelumnya: had visited."
+    },
+    {
+      "id": "r20261101-034",
+      "topic": "Connectors",
+      "level": "Menuju lancar",
+      "q": "She passed the exam easily ___ she studied only one night.",
+      "opts": [
+        "even though",
+        "despite",
+        "because"
+      ],
+      "a": 0,
+      "why": "Even though + klausa."
+    },
+    {
+      "id": "r20261101-035",
+      "topic": "Passive modals",
+      "level": "Menuju lancar",
+      "q": "This medicine ___ twice a day after meals.",
+      "opts": [
+        "should take",
+        "should be taken",
+        "should been taken"
+      ],
+      "a": 1,
+      "why": "Pasif modal: should be + V3."
+    },
+    {
+      "id": "r20261101-036",
+      "topic": "Wish",
+      "level": "Menuju lancar",
+      "q": "I wish I ___ so much junk food when I was younger.",
+      "opts": [
+        "hadn't eaten",
+        "didn't eat",
+        "don't eat"
+      ],
+      "a": 0,
+      "why": "Penyesalan lampau: wish + past perfect negatif."
+    },
+    {
+      "id": "r20261101-037",
+      "topic": "Reported speech",
+      "level": "Menuju lancar",
+      "q": "The receptionist asked me ___ a seat and wait.",
+      "opts": [
+        "take",
+        "to take",
+        "taking"
+      ],
+      "a": 1,
+      "why": "Ask + to-infinitive."
+    },
+    {
+      "id": "r20261101-038",
+      "topic": "Idioms",
+      "level": "Menuju lancar",
+      "q": "You've been working all day. Why don't you take a break and recharge your ___?",
+      "opts": [
+        "engines",
+        "phones",
+        "batteries"
+      ],
+      "a": 2,
+      "why": "Idiom istirahat: recharge your batteries."
+    },
+    {
+      "id": "r20261101-039",
+      "topic": "Inversions",
+      "level": "Menuju lancar",
+      "q": "Under no circumstances ___ the door unlocked at night.",
+      "opts": [
+        "should you leave",
+        "you should leave",
+        "you leave"
+      ],
+      "a": 0,
+      "why": "Inversi setelah under no circumstances."
+    },
+    {
+      "id": "r20261101-040",
+      "topic": "Get used to",
+      "level": "Menuju lancar",
+      "q": "It took me months to get used to ___ on the left side of the road.",
+      "opts": [
+        "drive",
+        "drove",
+        "driving"
+      ],
+      "a": 2,
+      "why": "Get used to + verb-ing."
+    }
+  ],
+  "articles": [
+    {
+      "id": "r20261101-a01",
+      "title": "The Kind Bus Driver",
+      "level": "Dasar",
+      "min": 2,
+      "body": [
+        "Every morning, Tono takes the number 12 bus to school. The driver, Mr. Hasan, always smiles and says good morning to every passenger.",
+        "One rainy Tuesday, Tono left his umbrella on the bus. He was very sad because it was a gift from his father. The next day, Mr. Hasan saw Tono and called him. \"Is this yours?\" he asked, holding the umbrella.",
+        "Tono was so happy. He thanked Mr. Hasan and gave him a drawing of the blue bus. Now the drawing hangs next to the driver's seat, and they are good friends."
+      ],
+      "gloss": {
+        "driver": "sopir",
+        "passenger": "penumpang",
+        "umbrella": "payung",
+        "gift": "hadiah",
+        "holding": "memegang",
+        "hangs": "tergantung"
+      },
+      "qs": [
+        {
+          "q": "What does Mr. Hasan do every morning?",
+          "opts": [
+            "Smiles and greets every passenger",
+            "Sings on the bus",
+            "Drives very fast"
+          ],
+          "a": 0
+        },
+        {
+          "q": "Why was the umbrella special to Tono?",
+          "opts": [
+            "It was very expensive",
+            "It was a gift from his father",
+            "It was new"
+          ],
+          "a": 1
+        },
+        {
+          "q": "What did Tono give Mr. Hasan?",
+          "opts": [
+            "A new umbrella",
+            "A thank-you card",
+            "A drawing of the bus"
+          ],
+          "a": 2
+        }
+      ]
+    },
+    {
+      "id": "r20261101-a02",
+      "title": "The Secret Life of Houseplants",
+      "level": "Menengah atas",
+      "min": 4,
+      "body": [
+        "Houseplants are popular again. In big cities, many young people fill their small apartments with green plants, and plant shops are busier than ever. But why do people love plants so much?",
+        "Science offers some answers. Studies show that being near plants can lower stress and blood pressure. Plants also clean the air by absorbing harmful chemicals. For people who work from home, caring for plants gives a healthy break from screens. Watering, cutting old leaves, and watching new leaves grow can be surprisingly satisfying.",
+        "There is also a social side. Plant lovers trade cuttings, share advice in online groups, and even give plants as gifts. In a fast digital world, plants grow slowly, and maybe that is exactly the point: they teach us patience."
+      ],
+      "gloss": {
+        "houseplants": "tanaman hias",
+        "apartments": "apartemen",
+        "blood pressure": "tekanan darah",
+        "absorbing": "menyerap",
+        "satisfying": "memuaskan",
+        "cuttings": "stek",
+        "patience": "kesabaran"
+      },
+      "qs": [
+        {
+          "q": "What do studies say about being near plants?",
+          "opts": [
+            "It can lower stress and blood pressure",
+            "It makes people work faster",
+            "It cures all illnesses"
+          ],
+          "a": 0
+        },
+        {
+          "q": "Why is caring for plants good for people working from home?",
+          "opts": [
+            "It replaces exercise",
+            "It gives a healthy break from screens",
+            "It makes the internet faster"
+          ],
+          "a": 1
+        },
+        {
+          "q": "What do plant lovers trade?",
+          "opts": [
+            "Seeds from shops",
+            "Plant pots",
+            "Cuttings"
+          ],
+          "a": 2
+        }
+      ]
+    }
+  ]
+}
