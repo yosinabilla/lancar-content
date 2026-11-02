@@ -1,0 +1,624 @@
+{
+  "bank": [
+    {
+      "id": "r20261102-001",
+      "topic": "Vocabulary: colors",
+      "level": "Dasar",
+      "q": "The sky is ___ on a clear day.",
+      "opts": [
+        "green",
+        "blue",
+        "gray"
+      ],
+      "a": 1,
+      "why": "Langit cerah berwarna biru (blue)."
+    },
+    {
+      "id": "r20261102-002",
+      "topic": "Simple present",
+      "level": "Dasar",
+      "q": "My sister ___ TV in the evening.",
+      "opts": [
+        "watch",
+        "watching",
+        "watches"
+      ],
+      "a": 2,
+      "why": "Orang ketiga tunggal: watches."
+    },
+    {
+      "id": "r20261102-003",
+      "topic": "Vocabulary: school",
+      "level": "Dasar",
+      "q": "You answer questions when the teacher ___ you.",
+      "opts": [
+        "asks",
+        "ask",
+        "asking"
+      ],
+      "a": 0,
+      "why": "Guru bertanya: asks (tunggal)."
+    },
+    {
+      "id": "r20261102-004",
+      "topic": "Be: negative",
+      "level": "Dasar",
+      "q": "I ___ hungry. I just ate lunch.",
+      "opts": [
+        "isn't",
+        "aren't",
+        "am not"
+      ],
+      "a": 2,
+      "why": "I: am not."
+    },
+    {
+      "id": "r20261102-005",
+      "topic": "A/An",
+      "level": "Dasar",
+      "q": "She bought ___ umbrella because it was raining.",
+      "opts": [
+        "an",
+        "a",
+        "the"
+      ],
+      "a": 0,
+      "why": "Umbrella berbunyi vokal: an."
+    },
+    {
+      "id": "r20261102-006",
+      "topic": "Vocabulary: kitchen",
+      "level": "Dasar",
+      "q": "You boil water in a ___.",
+      "opts": [
+        "fridge",
+        "kettle",
+        "cupboard"
+      ],
+      "a": 1,
+      "why": "Merebus air di ketel (kettle)."
+    },
+    {
+      "id": "r20261102-007",
+      "topic": "Prepositions of place",
+      "level": "Dasar",
+      "q": "The picture hangs ___ the wall.",
+      "opts": [
+        "in",
+        "at",
+        "on"
+      ],
+      "a": 2,
+      "why": "Menempel di dinding: on."
+    },
+    {
+      "id": "r20261102-008",
+      "topic": "Question words",
+      "level": "Dasar",
+      "q": "___ is your favorite subject? Math.",
+      "opts": [
+        "Who",
+        "What",
+        "When"
+      ],
+      "a": 1,
+      "why": "Menanyakan hal: what."
+    },
+    {
+      "id": "r20261102-009",
+      "topic": "Vocabulary: body",
+      "level": "Dasar",
+      "q": "We taste food with our ___.",
+      "opts": [
+        "teeth",
+        "lips",
+        "tongue"
+      ],
+      "a": 2,
+      "why": "Mengecap dengan lidah (tongue)."
+    },
+    {
+      "id": "r20261102-010",
+      "topic": "Can",
+      "level": "Dasar",
+      "q": "A penguin ___ swim but it cannot fly.",
+      "opts": [
+        "can",
+        "cannot",
+        "must"
+      ],
+      "a": 0,
+      "why": "Penguin bisa berenang: can."
+    },
+    {
+      "id": "r20261102-011",
+      "topic": "Past simple",
+      "level": "Menengah",
+      "q": "I ___ to the dentist last Tuesday.",
+      "opts": [
+        "go",
+        "went",
+        "gone"
+      ],
+      "a": 1,
+      "why": "Lampau: went."
+    },
+    {
+      "id": "r20261102-012",
+      "topic": "Comparatives",
+      "level": "Menengah",
+      "q": "Reading a book is usually ___ than watching the movie.",
+      "opts": [
+        "better",
+        "best",
+        "good"
+      ],
+      "a": 0,
+      "why": "Perbandingan dari good: better."
+    },
+    {
+      "id": "r20261102-013",
+      "topic": "Present continuous",
+      "level": "Menengah",
+      "q": "Right now, the students ___ a test in room 4.",
+      "opts": [
+        "take",
+        "are taking",
+        "took"
+      ],
+      "a": 1,
+      "why": "Sedang berlangsung: are taking."
+    },
+    {
+      "id": "r20261102-014",
+      "topic": "Prepositions of movement",
+      "level": "Menengah",
+      "q": "The ball rolled ___ the hill and into the river.",
+      "opts": [
+        "up",
+        "between",
+        "down"
+      ],
+      "a": 2,
+      "why": "Turun bukit: down."
+    },
+    {
+      "id": "r20261102-015",
+      "topic": "Future",
+      "level": "Menengah",
+      "q": "Don't worry about the mess. I ___ clean it up.",
+      "opts": [
+        "will",
+        "am",
+        "do"
+      ],
+      "a": 0,
+      "why": "Janji spontan: will."
+    },
+    {
+      "id": "r20261102-016",
+      "topic": "How often",
+      "level": "Menengah",
+      "q": "___ do you visit your grandparents? Once a month.",
+      "opts": [
+        "How long",
+        "How much",
+        "How often"
+      ],
+      "a": 2,
+      "why": "Frekuensi: how often."
+    },
+    {
+      "id": "r20261102-017",
+      "topic": "Past continuous",
+      "level": "Menengah",
+      "q": "We ___ dinner when the guests arrived.",
+      "opts": [
+        "were cooking",
+        "cook",
+        "cooked"
+      ],
+      "a": 0,
+      "why": "Sedang memasak: were cooking."
+    },
+    {
+      "id": "r20261102-018",
+      "topic": "Adverbs",
+      "level": "Menengah",
+      "q": "The little girl sang ___ at the school show.",
+      "opts": [
+        "sweet",
+        "sweetly",
+        "sweeter"
+      ],
+      "a": 1,
+      "why": "Kata keterangan: sweetly."
+    },
+    {
+      "id": "r20261102-019",
+      "topic": "Prepositions of time",
+      "level": "Menengah",
+      "q": "We always eat together ___ dinner time.",
+      "opts": [
+        "in",
+        "on",
+        "at"
+      ],
+      "a": 2,
+      "why": "Waktu makan malam: at."
+    },
+    {
+      "id": "r20261102-020",
+      "topic": "Some/any",
+      "level": "Menengah",
+      "q": "Do we have ___ eggs left? I want to make an omelette.",
+      "opts": [
+        "some",
+        "any",
+        "much"
+      ],
+      "a": 1,
+      "why": "Pertanyaan: any."
+    },
+    {
+      "id": "r20261102-021",
+      "topic": "Present perfect",
+      "level": "Menengah atas",
+      "q": "They ___ just ___ from their honeymoon.",
+      "opts": [
+        "has, returned",
+        "have, return",
+        "have, returned"
+      ],
+      "a": 2,
+      "why": "Baru saja: have returned."
+    },
+    {
+      "id": "r20261102-022",
+      "topic": "Passive voice",
+      "level": "Menengah atas",
+      "q": "The accident ___ on the evening news yesterday.",
+      "opts": [
+        "was reported",
+        "reported",
+        "is reported"
+      ],
+      "a": 0,
+      "why": "Pasif lampau: was reported."
+    },
+    {
+      "id": "r20261102-023",
+      "topic": "First conditional",
+      "level": "Menengah atas",
+      "q": "If you ___ your umbrella, you'll get wet.",
+      "opts": [
+        "will forget",
+        "forget",
+        "forgot"
+      ],
+      "a": 1,
+      "why": "Klausa if: present simple."
+    },
+    {
+      "id": "r20261102-024",
+      "topic": "Relative clauses",
+      "level": "Menengah atas",
+      "q": "The man ___ fixed our car was very friendly.",
+      "opts": [
+        "who",
+        "which",
+        "whose"
+      ],
+      "a": 0,
+      "why": "Orang sebagai subjek: who."
+    },
+    {
+      "id": "r20261102-025",
+      "topic": "Modal deduction",
+      "level": "Menengah atas",
+      "q": "The ground is wet. It ___ rained last night.",
+      "opts": [
+        "can't have",
+        "must have",
+        "should"
+      ],
+      "a": 1,
+      "why": "Kesimpulan tentang lampau: must have + V3."
+    },
+    {
+      "id": "r20261102-026",
+      "topic": "Gerunds",
+      "level": "Menengah atas",
+      "q": "She suggested ___ to the new Italian restaurant.",
+      "opts": [
+        "to go",
+        "go",
+        "going"
+      ],
+      "a": 2,
+      "why": "Suggest + verb-ing."
+    },
+    {
+      "id": "r20261102-027",
+      "topic": "Past perfect",
+      "level": "Menengah atas",
+      "q": "When the police arrived, the thief ___.",
+      "opts": [
+        "had escaped",
+        "escaped",
+        "escapes"
+      ],
+      "a": 0,
+      "why": "Kejadian lebih dulu: had escaped."
+    },
+    {
+      "id": "r20261102-028",
+      "topic": "Present perfect",
+      "level": "Menengah atas",
+      "q": "I ___ him since we were in elementary school.",
+      "opts": [
+        "knew",
+        "know",
+        "have known"
+      ],
+      "a": 2,
+      "why": "Durasi sampai sekarang: have known."
+    },
+    {
+      "id": "r20261102-029",
+      "topic": "Too/enough",
+      "level": "Menengah atas",
+      "q": "He ran fast ___ to win the race.",
+      "opts": [
+        "enough",
+        "too",
+        "very"
+      ],
+      "a": 0,
+      "why": "Cukup cepat: fast enough."
+    },
+    {
+      "id": "r20261102-030",
+      "topic": "Prepositions",
+      "level": "Menengah atas",
+      "q": "What are you looking ___? Your glasses? They're on your head.",
+      "opts": [
+        "at",
+        "for",
+        "after"
+      ],
+      "a": 1,
+      "why": "Mencari: look for."
+    },
+    {
+      "id": "r20261102-031",
+      "topic": "Third conditional",
+      "level": "Menuju lancar",
+      "q": "If the weather ___ better, we would have gone hiking.",
+      "opts": [
+        "was",
+        "were",
+        "had been"
+      ],
+      "a": 2,
+      "why": "Kondisi lampau tak nyata: had been."
+    },
+    {
+      "id": "r20261102-032",
+      "topic": "Phrasal verbs",
+      "level": "Menuju lancar",
+      "q": "The teacher asked us to ___ the new words in the dictionary.",
+      "opts": [
+        "look after",
+        "look up",
+        "look for"
+      ],
+      "a": 1,
+      "why": "Look up = mencari arti kata."
+    },
+    {
+      "id": "r20261102-033",
+      "topic": "Past perfect continuous",
+      "level": "Menuju lancar",
+      "q": "She ___ the piano for ten years before she gave her first concert.",
+      "opts": [
+        "played",
+        "plays",
+        "had been playing"
+      ],
+      "a": 2,
+      "why": "Durasi sebelum lampau: had been playing."
+    },
+    {
+      "id": "r20261102-034",
+      "topic": "Connectors",
+      "level": "Menuju lancar",
+      "q": "Take your umbrella ___ it rains this afternoon.",
+      "opts": [
+        "in case",
+        "unless",
+        "until"
+      ],
+      "a": 0,
+      "why": "Berjaga-jaga: in case."
+    },
+    {
+      "id": "r20261102-035",
+      "topic": "Passive voice",
+      "level": "Menuju lancar",
+      "q": "The winner will be ___ live on national television.",
+      "opts": [
+        "announce",
+        "announced",
+        "announcing"
+      ],
+      "a": 1,
+      "why": "Pasif future: will be + V3."
+    },
+    {
+      "id": "r20261102-036",
+      "topic": "Wish",
+      "level": "Menuju lancar",
+      "q": "I wish the traffic in Jakarta ___ so bad in the morning.",
+      "opts": [
+        "wasn't",
+        "isn't",
+        "won't be"
+      ],
+      "a": 0,
+      "why": "Harapan tak nyata: wasn't."
+    },
+    {
+      "id": "r20261102-037",
+      "topic": "Reported speech",
+      "level": "Menuju lancar",
+      "q": "He denied ___ the money from the drawer.",
+      "opts": [
+        "to take",
+        "taking",
+        "take"
+      ],
+      "a": 1,
+      "why": "Deny + verb-ing."
+    },
+    {
+      "id": "r20261102-038",
+      "topic": "Idioms",
+      "level": "Menuju lancar",
+      "q": "When my uncle starts talking about football, he never stops. He can talk the hind legs off a ___.",
+      "opts": [
+        "horse",
+        "dog",
+        "donkey"
+      ],
+      "a": 2,
+      "why": "Idiom bicara terus-menerus: talk the hind legs off a donkey."
+    },
+    {
+      "id": "r20261102-039",
+      "topic": "Inversions",
+      "level": "Menuju lancar",
+      "q": "Little ___ that his life was about to change.",
+      "opts": [
+        "did he know",
+        "he knew",
+        "he did know"
+      ],
+      "a": 0,
+      "why": "Inversi setelah little: did he know."
+    },
+    {
+      "id": "r20261102-040",
+      "topic": "Causatives",
+      "level": "Menuju lancar",
+      "q": "I need to have my laptop ___ before the presentation.",
+      "opts": [
+        "fix",
+        "to fix",
+        "fixed"
+      ],
+      "a": 2,
+      "why": "Have something done."
+    }
+  ],
+  "articles": [
+    {
+      "id": "r20261102-a01",
+      "title": "Bima's Paper Plane Contest",
+      "level": "Dasar",
+      "min": 2,
+      "body": [
+        "Bima's school held a paper plane contest on Friday. Every student brought one paper plane made at home.",
+        "Bima practiced all week. He folded his plane carefully and drew a red star on each wing. His dad taught him to make the wings flat and wide so the plane could fly far.",
+        "At the contest, Bima threw his plane. It flew over the fence and landed on the roof of the library! Bima won second place. He was very happy and gave his dad a big hug."
+      ],
+      "gloss": {
+        "contest": "lomba",
+        "folded": "melipat",
+        "wings": "sayap",
+        "flat and wide": "datar dan lebar",
+        "fence": "pagar",
+        "landed": "mendarat",
+        "roof": "atap"
+      },
+      "qs": [
+        {
+          "q": "What did Bima draw on the wings?",
+          "opts": [
+            "A red star",
+            "His name",
+            "A blue circle"
+          ],
+          "a": 0
+        },
+        {
+          "q": "Who taught Bima to make the plane?",
+          "opts": [
+            "His teacher",
+            "His dad",
+            "His friend"
+          ],
+          "a": 1
+        },
+        {
+          "q": "Where did Bima's plane land?",
+          "opts": [
+            "In a tree",
+            "On the fence",
+            "On the library roof"
+          ],
+          "a": 2
+        }
+      ]
+    },
+    {
+      "id": "r20261102-a02",
+      "title": "The Rise of Silent Book Clubs",
+      "level": "Menengah atas",
+      "min": 4,
+      "body": [
+        "Book clubs usually mean long discussions about one book everyone had to read. But a new kind of book club is becoming popular, and in these clubs, nobody talks about the book at all.",
+        "In a silent book club, people meet in a cafe, a library, or a park. For the first thirty minutes, they drink tea and chat about anything. Then, for one hour, everyone reads their own book in silence. There is no homework, no pressure to finish, and no arguing about which book is best. Introverts especially love this format because they can enjoy being around people without having to talk.",
+        "Silent book clubs started in Seattle and have spread to hundreds of cities. For many members, it is the perfect mix: time alone, together."
+      ],
+      "gloss": {
+        "discussions": "diskusi",
+        "silent": "hening",
+        "pressure": "tekanan",
+        "arguing": "berdebat",
+        "introverts": "introvert",
+        "format": "format",
+        "spread": "menyebar"
+      },
+      "qs": [
+        {
+          "q": "What happens during the middle hour of a silent book club meeting?",
+          "opts": [
+            "Everyone reads their own book in silence",
+            "Members discuss one book",
+            "A member reads aloud"
+          ],
+          "a": 0
+        },
+        {
+          "q": "Why do introverts love silent book clubs?",
+          "opts": [
+            "They can read faster",
+            "They can be around people without having to talk",
+            "The meetings are online"
+          ],
+          "a": 1
+        },
+        {
+          "q": "Where did silent book clubs start?",
+          "opts": [
+            "In London",
+            "In Jakarta",
+            "In Seattle"
+          ],
+          "a": 2
+        }
+      ]
+    }
+  ]
+}
