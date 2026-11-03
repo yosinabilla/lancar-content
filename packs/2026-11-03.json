@@ -1,0 +1,624 @@
+{
+  "bank": [
+    {
+      "id": "r20261103-001",
+      "topic": "Vocabulary: school subjects",
+      "level": "Dasar",
+      "q": "In ___ class, we draw and paint.",
+      "opts": [
+        "math",
+        "art",
+        "music"
+      ],
+      "a": 1,
+      "why": "Menggambar dan melukis: seni (art)."
+    },
+    {
+      "id": "r20261103-002",
+      "topic": "Simple present",
+      "level": "Dasar",
+      "q": "The shop ___ at nine in the morning.",
+      "opts": [
+        "open",
+        "opening",
+        "opens"
+      ],
+      "a": 2,
+      "why": "Jadwal tunggal: opens."
+    },
+    {
+      "id": "r20261103-003",
+      "topic": "Vocabulary: rooms",
+      "level": "Dasar",
+      "q": "You park your car in the ___.",
+      "opts": [
+        "garage",
+        "kitchen",
+        "bedroom"
+      ],
+      "a": 0,
+      "why": "Mobil di garasi (garage)."
+    },
+    {
+      "id": "r20261103-004",
+      "topic": "Be: past",
+      "level": "Dasar",
+      "q": "The movie ___ very boring, so I slept.",
+      "opts": [
+        "were",
+        "are",
+        "was"
+      ],
+      "a": 2,
+      "why": "Tunggal lampau: was."
+    },
+    {
+      "id": "r20261103-005",
+      "topic": "How much/many",
+      "level": "Dasar",
+      "q": "___ students are in your class?",
+      "opts": [
+        "How many",
+        "How much",
+        "How old"
+      ],
+      "a": 0,
+      "why": "Students terhitung: how many."
+    },
+    {
+      "id": "r20261103-006",
+      "topic": "Vocabulary: clothes",
+      "level": "Dasar",
+      "q": "You wear a ___ around your neck when it is cold.",
+      "opts": [
+        "belt",
+        "scarf",
+        "hat"
+      ],
+      "a": 1,
+      "why": "Di leher saat dingin: syal (scarf)."
+    },
+    {
+      "id": "r20261103-007",
+      "topic": "Present simple negative",
+      "level": "Dasar",
+      "q": "Cats ___ like water.",
+      "opts": [
+        "doesn't",
+        "aren't",
+        "don't"
+      ],
+      "a": 2,
+      "why": "Jamak: don't."
+    },
+    {
+      "id": "r20261103-008",
+      "topic": "Possessives",
+      "level": "Dasar",
+      "q": "These are our bikes. They are ___.",
+      "opts": [
+        "our",
+        "ours",
+        "us"
+      ],
+      "a": 1,
+      "why": "Milik kami berdiri sendiri: ours."
+    },
+    {
+      "id": "r20261103-009",
+      "topic": "Vocabulary: time",
+      "level": "Dasar",
+      "q": "There are twenty-four hours in a ___.",
+      "opts": [
+        "week",
+        "month",
+        "day"
+      ],
+      "a": 2,
+      "why": "24 jam = satu hari (day)."
+    },
+    {
+      "id": "r20261103-010",
+      "topic": "Like",
+      "level": "Dasar",
+      "q": "Does she ___ chocolate ice cream?",
+      "opts": [
+        "like",
+        "likes",
+        "liking"
+      ],
+      "a": 0,
+      "why": "Does + verb dasar."
+    },
+    {
+      "id": "r20261103-011",
+      "topic": "Past simple",
+      "level": "Menengah",
+      "q": "The children ___ in the park all afternoon.",
+      "opts": [
+        "play",
+        "played",
+        "plays"
+      ],
+      "a": 1,
+      "why": "Lampau: played."
+    },
+    {
+      "id": "r20261103-012",
+      "topic": "Superlatives",
+      "level": "Menengah",
+      "q": "This is the ___ restaurant in town. Everyone loves it.",
+      "opts": [
+        "most popular",
+        "more popular",
+        "popular"
+      ],
+      "a": 0,
+      "why": "Superlatif: the most popular."
+    },
+    {
+      "id": "r20261103-013",
+      "topic": "Present continuous",
+      "level": "Menengah",
+      "q": "Don't disturb her. She ___ an important phone call.",
+      "opts": [
+        "makes",
+        "is making",
+        "made"
+      ],
+      "a": 1,
+      "why": "Sedang menelepon: is making."
+    },
+    {
+      "id": "r20261103-014",
+      "topic": "Prepositions of place",
+      "level": "Menengah",
+      "q": "The airport is far ___ the city center.",
+      "opts": [
+        "of",
+        "to",
+        "from"
+      ],
+      "a": 2,
+      "why": "Jauh dari: far from."
+    },
+    {
+      "id": "r20261103-015",
+      "topic": "Future plans",
+      "level": "Menengah",
+      "q": "I ___ my driving test next Monday. Wish me luck!",
+      "opts": [
+        "am taking",
+        "take",
+        "will taking"
+      ],
+      "a": 0,
+      "why": "Jadwal pasti: present continuous."
+    },
+    {
+      "id": "r20261103-016",
+      "topic": "Countable/uncountable",
+      "level": "Menengah",
+      "q": "We don't have ___ time. The movie starts in five minutes.",
+      "opts": [
+        "many",
+        "few",
+        "much"
+      ],
+      "a": 2,
+      "why": "Time tak terhitung: much."
+    },
+    {
+      "id": "r20261103-017",
+      "topic": "Past continuous",
+      "level": "Menengah",
+      "q": "While we ___ home, it started to snow.",
+      "opts": [
+        "were walking",
+        "walked",
+        "walk"
+      ],
+      "a": 0,
+      "why": "Sedang berjalan: were walking."
+    },
+    {
+      "id": "r20261103-018",
+      "topic": "Adverbs",
+      "level": "Menengah",
+      "q": "He drives very ___. His mother worries about him.",
+      "opts": [
+        "dangerous",
+        "dangerously",
+        "danger"
+      ],
+      "a": 1,
+      "why": "Kata keterangan: dangerously."
+    },
+    {
+      "id": "r20261103-019",
+      "topic": "Prepositions of time",
+      "level": "Menengah",
+      "q": "Her flight leaves ___ Friday morning.",
+      "opts": [
+        "in",
+        "at",
+        "on"
+      ],
+      "a": 2,
+      "why": "Pagi pada hari tertentu: on."
+    },
+    {
+      "id": "r20261103-020",
+      "topic": "Whose",
+      "level": "Menengah",
+      "q": "___ turn is it to wash the dishes?",
+      "opts": [
+        "Who's",
+        "Whose",
+        "Who"
+      ],
+      "a": 1,
+      "why": "Giliran siapa: whose."
+    },
+    {
+      "id": "r20261103-021",
+      "topic": "Present perfect",
+      "level": "Menengah atas",
+      "q": "We ___ this song three times today.",
+      "opts": [
+        "heard",
+        "hear",
+        "have heard"
+      ],
+      "a": 2,
+      "why": "Hari ini (belum selesai): have heard."
+    },
+    {
+      "id": "r20261103-022",
+      "topic": "Passive voice",
+      "level": "Menengah atas",
+      "q": "All the tickets ___ online yesterday.",
+      "opts": [
+        "were sold",
+        "sold",
+        "are sold"
+      ],
+      "a": 0,
+      "why": "Pasif lampau: were sold."
+    },
+    {
+      "id": "r20261103-023",
+      "topic": "Second conditional",
+      "level": "Menengah atas",
+      "q": "If I ___ a car, I would drive you to school.",
+      "opts": [
+        "have",
+        "had",
+        "will have"
+      ],
+      "a": 1,
+      "why": "Kondisi tak nyata: past simple."
+    },
+    {
+      "id": "r20261103-024",
+      "topic": "Relative clauses",
+      "level": "Menengah atas",
+      "q": "The laptop ___ screen is broken needs repair.",
+      "opts": [
+        "whose",
+        "which",
+        "that"
+      ],
+      "a": 0,
+      "why": "Kepemilikan: whose."
+    },
+    {
+      "id": "r20261103-025",
+      "topic": "Obligation",
+      "level": "Menengah atas",
+      "q": "You ___ pay to enter the museum. It's free on Sundays.",
+      "opts": [
+        "mustn't",
+        "don't have to",
+        "can't"
+      ],
+      "a": 1,
+      "why": "Tidak wajib: don't have to."
+    },
+    {
+      "id": "r20261103-026",
+      "topic": "Verb patterns",
+      "level": "Menengah atas",
+      "q": "He refused ___ my question.",
+      "opts": [
+        "answering",
+        "answer",
+        "to answer"
+      ],
+      "a": 2,
+      "why": "Refuse + to-infinitive."
+    },
+    {
+      "id": "r20261103-027",
+      "topic": "Past simple vs continuous",
+      "level": "Menengah atas",
+      "q": "I ___ my old teacher while I was shopping.",
+      "opts": [
+        "met",
+        "was meeting",
+        "meet"
+      ],
+      "a": 0,
+      "why": "Peristiwa pemutus: met."
+    },
+    {
+      "id": "r20261103-028",
+      "topic": "Present perfect",
+      "level": "Menengah atas",
+      "q": "She ___ in that company since she graduated.",
+      "opts": [
+        "worked",
+        "works",
+        "has worked"
+      ],
+      "a": 2,
+      "why": "Sampai sekarang: has worked."
+    },
+    {
+      "id": "r20261103-029",
+      "topic": "Question tags",
+      "level": "Menengah atas",
+      "q": "Nobody called, ___?",
+      "opts": [
+        "did they",
+        "didn't they",
+        "did he"
+      ],
+      "a": 0,
+      "why": "Tag setelah nobody (negatif): did they."
+    },
+    {
+      "id": "r20261103-030",
+      "topic": "Prepositions",
+      "level": "Menengah atas",
+      "q": "Are you good ___ cooking?",
+      "opts": [
+        "in",
+        "at",
+        "on"
+      ],
+      "a": 1,
+      "why": "Pandai dalam: good at."
+    },
+    {
+      "id": "r20261103-031",
+      "topic": "Third conditional",
+      "level": "Menuju lancar",
+      "q": "If you ___ me, I would have picked you up at the station.",
+      "opts": [
+        "called",
+        "call",
+        "had called"
+      ],
+      "a": 2,
+      "why": "Kondisi lampau tak nyata: had + V3."
+    },
+    {
+      "id": "r20261103-032",
+      "topic": "Phrasal verbs",
+      "level": "Menuju lancar",
+      "q": "The old lady could not ___ the stairs without help.",
+      "opts": [
+        "get over",
+        "get up",
+        "get along"
+      ],
+      "a": 1,
+      "why": "Get up the stairs = naik tangga."
+    },
+    {
+      "id": "r20261103-033",
+      "topic": "Past perfect",
+      "level": "Menuju lancar",
+      "q": "By the time the rain stopped, the garden ___ flooded.",
+      "opts": [
+        "was",
+        "is",
+        "had been"
+      ],
+      "a": 2,
+      "why": "Keadaan sebelumnya: had been."
+    },
+    {
+      "id": "r20261103-034",
+      "topic": "Connectors",
+      "level": "Menuju lancar",
+      "q": "___ the traffic jam, we arrived on time.",
+      "opts": [
+        "Despite",
+        "Although",
+        "Because"
+      ],
+      "a": 0,
+      "why": "Despite + noun."
+    },
+    {
+      "id": "r20261103-035",
+      "topic": "Passive voice",
+      "level": "Menuju lancar",
+      "q": "The missing painting has finally ___ after twenty years.",
+      "opts": [
+        "found",
+        "been found",
+        "find"
+      ],
+      "a": 1,
+      "why": "Pasif present perfect: has been found."
+    },
+    {
+      "id": "r20261103-036",
+      "topic": "Wish",
+      "level": "Menuju lancar",
+      "q": "I wish you ___ told me about the problem earlier.",
+      "opts": [
+        "had",
+        "would have",
+        "have"
+      ],
+      "a": 0,
+      "why": "Penyesalan lampau: had + V3."
+    },
+    {
+      "id": "r20261103-037",
+      "topic": "Reported speech",
+      "level": "Menuju lancar",
+      "q": "My boss asked me ___ I could work on Saturday.",
+      "opts": [
+        "that",
+        "if",
+        "what"
+      ],
+      "a": 1,
+      "why": "Ya/tidak tak langsung: if."
+    },
+    {
+      "id": "r20261103-038",
+      "topic": "Idioms",
+      "level": "Menuju lancar",
+      "q": "Stop beating around the ___ and tell me what happened.",
+      "opts": [
+        "tree",
+        "house",
+        "bush"
+      ],
+      "a": 2,
+      "why": "Idiom bertele-tele: beat around the bush."
+    },
+    {
+      "id": "r20261103-039",
+      "topic": "Inversions",
+      "level": "Menuju lancar",
+      "q": "Only after the exam ___ how easy it was.",
+      "opts": [
+        "did I realize",
+        "I realized",
+        "I did realize"
+      ],
+      "a": 0,
+      "why": "Inversi setelah only after: did I realize."
+    },
+    {
+      "id": "r20261103-040",
+      "topic": "Correlatives",
+      "level": "Menuju lancar",
+      "q": "The harder you work, the ___ you will achieve.",
+      "opts": [
+        "most",
+        "much",
+        "more"
+      ],
+      "a": 2,
+      "why": "The + comparative: the more."
+    }
+  ],
+  "articles": [
+    {
+      "id": "r20261103-a01",
+      "title": "Nadia's First Flight",
+      "level": "Dasar",
+      "min": 2,
+      "body": [
+        "Nadia is eight years old. Last month, she flew on an airplane for the first time. She went with her parents to visit her grandma in Makassar.",
+        "At the airport, Nadia watched the big planes through the window. On the plane, a kind flight attendant gave her juice and cookies. Nadia sat next to the window and looked at the clouds below her.",
+        "When the plane landed, Nadia clapped her hands. 'That was amazing!' she said. Grandma was waiting at the airport with a big smile and a bag of Nadia's favorite snacks."
+      ],
+      "gloss": {
+        "flew": "terbang",
+        "attendant": "pramugari",
+        "clouds": "awan",
+        "below": "di bawah",
+        "landed": "mendarat",
+        "clapped": "bertepuk tangan",
+        "snacks": "makanan ringan"
+      },
+      "qs": [
+        {
+          "q": "Who did Nadia fly with?",
+          "opts": [
+            "Her parents",
+            "Her grandma",
+            "Her friends"
+          ],
+          "a": 0
+        },
+        {
+          "q": "What did the flight attendant give Nadia?",
+          "opts": [
+            "A toy plane",
+            "Juice and cookies",
+            "A book"
+          ],
+          "a": 1
+        },
+        {
+          "q": "What was Grandma holding at the airport?",
+          "opts": [
+            "A big balloon",
+            "A photo",
+            "A bag of snacks"
+          ],
+          "a": 2
+        }
+      ]
+    },
+    {
+      "id": "r20261103-a02",
+      "title": "Why Cities Are Building Sponge Parks",
+      "level": "Menengah atas",
+      "min": 4,
+      "body": [
+        "Heavy rain is causing floods in more and more cities. Concrete and asphalt cannot absorb water, so it flows into the streets. To solve this problem, some cities are building 'sponge parks'.",
+        "A sponge park looks like a normal park, but it is designed to hold rainwater. The ground is lower than the streets around it, and it is full of plants and soil that drink up the water like a sponge. During heavy rain, the park fills with water instead of the streets. A few days later, the water slowly sinks into the ground.",
+        "These parks do more than stop floods. They give people green space to relax, they keep the city cooler, and they help birds and insects survive in the city. Cities from China to the Netherlands are now building them. Sometimes the best technology is simply a garden."
+      ],
+      "gloss": {
+        "floods": "banjir",
+        "absorb": "menyerap",
+        "designed": "dirancang",
+        "soil": "tanah",
+        "fills with": "terisi",
+        "sinks": "meresap",
+        "survive": "bertahan hidup"
+      },
+      "qs": [
+        {
+          "q": "Why do cities flood easily?",
+          "opts": [
+            "Concrete and asphalt cannot absorb water",
+            "It rains every day",
+            "The rivers are too small"
+          ],
+          "a": 0
+        },
+        {
+          "q": "What happens to a sponge park during heavy rain?",
+          "opts": [
+            "Its plants die",
+            "It fills with water instead of the streets",
+            "People must leave it"
+          ],
+          "a": 1
+        },
+        {
+          "q": "Which of these is NOT a benefit of sponge parks?",
+          "opts": [
+            "They keep the city cooler",
+            "They help birds survive",
+            "They produce electricity"
+          ],
+          "a": 2
+        }
+      ]
+    }
+  ]
+}
