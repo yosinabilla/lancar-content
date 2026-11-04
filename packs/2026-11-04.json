@@ -1,0 +1,624 @@
+{
+  "bank": [
+    {
+      "id": "r20261104-001",
+      "topic": "Vocabulary: animals",
+      "level": "Dasar",
+      "q": "A ___ has a long neck and eats leaves from tall trees.",
+      "opts": [
+        "zebra",
+        "giraffe",
+        "elephant"
+      ],
+      "a": 1,
+      "why": "Leher panjang: jerapah (giraffe)."
+    },
+    {
+      "id": "r20261104-002",
+      "topic": "Simple present",
+      "level": "Dasar",
+      "q": "We ___ breakfast at seven every morning.",
+      "opts": [
+        "has",
+        "having",
+        "have"
+      ],
+      "a": 2,
+      "why": "Jamak: have."
+    },
+    {
+      "id": "r20261104-003",
+      "topic": "Vocabulary: house",
+      "level": "Dasar",
+      "q": "You wash your hands in the ___.",
+      "opts": [
+        "sink",
+        "stove",
+        "bed"
+      ],
+      "a": 0,
+      "why": "Cuci tangan di wastafel (sink)."
+    },
+    {
+      "id": "r20261104-004",
+      "topic": "Be: questions",
+      "level": "Dasar",
+      "q": "___ he your brother?",
+      "opts": [
+        "Are",
+        "Am",
+        "Is"
+      ],
+      "a": 2,
+      "why": "He dengan is."
+    },
+    {
+      "id": "r20261104-005",
+      "topic": "Numbers",
+      "level": "Dasar",
+      "q": "Seven plus eight is ___.",
+      "opts": [
+        "fifteen",
+        "sixteen",
+        "thirteen"
+      ],
+      "a": 0,
+      "why": "7 + 8 = 15 (fifteen)."
+    },
+    {
+      "id": "r20261104-006",
+      "topic": "Vocabulary: transport",
+      "level": "Dasar",
+      "q": "A ___ has two wheels and you pedal it.",
+      "opts": [
+        "car",
+        "bicycle",
+        "bus"
+      ],
+      "a": 1,
+      "why": "Dua roda dan dikayuh: sepeda (bicycle)."
+    },
+    {
+      "id": "r20261104-007",
+      "topic": "Prepositions of place",
+      "level": "Dasar",
+      "q": "The shoes are ___ the door. Please put them away.",
+      "opts": [
+        "between",
+        "among",
+        "behind"
+      ],
+      "a": 2,
+      "why": "Di belakang pintu: behind."
+    },
+    {
+      "id": "r20261104-008",
+      "topic": "Question words",
+      "level": "Dasar",
+      "q": "___ does the train leave? At nine.",
+      "opts": [
+        "Where",
+        "When",
+        "Who"
+      ],
+      "a": 1,
+      "why": "Menanyakan waktu: when."
+    },
+    {
+      "id": "r20261104-009",
+      "topic": "Vocabulary: weather",
+      "level": "Dasar",
+      "q": "You cannot see the road when it is very ___.",
+      "opts": [
+        "sunny",
+        "dry",
+        "foggy"
+      ],
+      "a": 2,
+      "why": "Berkabut: foggy."
+    },
+    {
+      "id": "r20261104-010",
+      "topic": "Can",
+      "level": "Dasar",
+      "q": "Elephants ___ jump.",
+      "opts": [
+        "cannot",
+        "can",
+        "must"
+      ],
+      "a": 0,
+      "why": "Gajah tidak bisa melompat: cannot."
+    },
+    {
+      "id": "r20261104-011",
+      "topic": "Past simple",
+      "level": "Menengah",
+      "q": "She ___ the answer, but she was too shy to raise her hand.",
+      "opts": [
+        "know",
+        "knew",
+        "knows"
+      ],
+      "a": 1,
+      "why": "Lampau: knew."
+    },
+    {
+      "id": "r20261104-012",
+      "topic": "Comparatives",
+      "level": "Menengah",
+      "q": "Winter nights are ___ than summer nights.",
+      "opts": [
+        "longer",
+        "longest",
+        "long"
+      ],
+      "a": 0,
+      "why": "Perbandingan: longer."
+    },
+    {
+      "id": "r20261104-013",
+      "topic": "Present continuous",
+      "level": "Menengah",
+      "q": "Look at those dark clouds. It ___ soon.",
+      "opts": [
+        "rains",
+        "is going to rain",
+        "rained"
+      ],
+      "a": 1,
+      "why": "Bukti terlihat: is going to rain."
+    },
+    {
+      "id": "r20261104-014",
+      "topic": "Prepositions of movement",
+      "level": "Menengah",
+      "q": "The boy climbed ___ the tree to get his kite.",
+      "opts": [
+        "down",
+        "between",
+        "up"
+      ],
+      "a": 2,
+      "why": "Naik pohon: up."
+    },
+    {
+      "id": "r20261104-015",
+      "topic": "Future",
+      "level": "Menengah",
+      "q": "I'm sure you ___ the test. You studied hard.",
+      "opts": [
+        "will pass",
+        "pass",
+        "passing"
+      ],
+      "a": 0,
+      "why": "Keyakinan: will pass."
+    },
+    {
+      "id": "r20261104-016",
+      "topic": "Some/any",
+      "level": "Menengah",
+      "q": "She bought ___ flowers for her mother's birthday.",
+      "opts": [
+        "any",
+        "much",
+        "some"
+      ],
+      "a": 2,
+      "why": "Positif: some."
+    },
+    {
+      "id": "r20261104-017",
+      "topic": "Frequency",
+      "level": "Menengah",
+      "q": "My dad ___ drinks coffee, maybe once a week.",
+      "opts": [
+        "rarely",
+        "always",
+        "usually"
+      ],
+      "a": 0,
+      "why": "Seminggu sekali: rarely."
+    },
+    {
+      "id": "r20261104-018",
+      "topic": "Past simple negative",
+      "level": "Menengah",
+      "q": "They ___ enjoy the concert because the sound was bad.",
+      "opts": [
+        "don't",
+        "didn't",
+        "weren't"
+      ],
+      "a": 1,
+      "why": "Negatif lampau: didn't."
+    },
+    {
+      "id": "r20261104-019",
+      "topic": "Prepositions of time",
+      "level": "Menengah",
+      "q": "My exam is ___ the fifteenth of June.",
+      "opts": [
+        "in",
+        "at",
+        "on"
+      ],
+      "a": 2,
+      "why": "Tanggal: on."
+    },
+    {
+      "id": "r20261104-020",
+      "topic": "Object pronouns",
+      "level": "Menengah",
+      "q": "That letter is for you. Please open ___.",
+      "opts": [
+        "its",
+        "it",
+        "them"
+      ],
+      "a": 1,
+      "why": "Objek tunggal: it."
+    },
+    {
+      "id": "r20261104-021",
+      "topic": "Present perfect",
+      "level": "Menengah atas",
+      "q": "I ___ my umbrella. Can I share yours?",
+      "opts": [
+        "forgot",
+        "forget",
+        "have forgotten"
+      ],
+      "a": 2,
+      "why": "Hasil terasa sekarang: have forgotten."
+    },
+    {
+      "id": "r20261104-022",
+      "topic": "Passive voice",
+      "level": "Menengah atas",
+      "q": "The hospital ___ in 2010.",
+      "opts": [
+        "was opened",
+        "opened",
+        "is opened"
+      ],
+      "a": 0,
+      "why": "Pasif lampau: was opened."
+    },
+    {
+      "id": "r20261104-023",
+      "topic": "First conditional",
+      "level": "Menengah atas",
+      "q": "If we ___ now, we'll catch the early train.",
+      "opts": [
+        "will leave",
+        "leave",
+        "left"
+      ],
+      "a": 1,
+      "why": "Klausa if: present simple."
+    },
+    {
+      "id": "r20261104-024",
+      "topic": "Relative clauses",
+      "level": "Menengah atas",
+      "q": "The restaurant ___ we had dinner was excellent.",
+      "opts": [
+        "where",
+        "who",
+        "whose"
+      ],
+      "a": 0,
+      "why": "Tempat: where."
+    },
+    {
+      "id": "r20261104-025",
+      "topic": "Advice",
+      "level": "Menengah atas",
+      "q": "You look stressed. You ___ take a short holiday.",
+      "opts": [
+        "would",
+        "should",
+        "might"
+      ],
+      "a": 1,
+      "why": "Saran: should."
+    },
+    {
+      "id": "r20261104-026",
+      "topic": "Gerunds",
+      "level": "Menengah atas",
+      "q": "I remember ___ this movie when I was a child.",
+      "opts": [
+        "to watch",
+        "watch",
+        "watching"
+      ],
+      "a": 2,
+      "why": "Ingat pernah: remember + verb-ing."
+    },
+    {
+      "id": "r20261104-027",
+      "topic": "Past perfect",
+      "level": "Menengah atas",
+      "q": "She ___ the email before the meeting started.",
+      "opts": [
+        "had read",
+        "has read",
+        "reads"
+      ],
+      "a": 0,
+      "why": "Lebih dulu: had read."
+    },
+    {
+      "id": "r20261104-028",
+      "topic": "Present perfect continuous",
+      "level": "Menengah atas",
+      "q": "He ___ for this company since 2018.",
+      "opts": [
+        "works",
+        "worked",
+        "has been working"
+      ],
+      "a": 2,
+      "why": "Durasi sampai sekarang: has been working."
+    },
+    {
+      "id": "r20261104-029",
+      "topic": "Question tags",
+      "level": "Menengah atas",
+      "q": "There is a problem with my order, ___?",
+      "opts": [
+        "isn't there",
+        "is there",
+        "doesn't it"
+      ],
+      "a": 0,
+      "why": "Tag negatif: isn't there."
+    },
+    {
+      "id": "r20261104-030",
+      "topic": "Prepositions",
+      "level": "Menengah atas",
+      "q": "It depends ___ the weather.",
+      "opts": [
+        "of",
+        "on",
+        "about"
+      ],
+      "a": 1,
+      "why": "Tergantung: depend on."
+    },
+    {
+      "id": "r20261104-031",
+      "topic": "Third conditional",
+      "level": "Menuju lancar",
+      "q": "If they ___ the instructions, the machine wouldn't have broken.",
+      "opts": [
+        "followed",
+        "follow",
+        "had followed"
+      ],
+      "a": 2,
+      "why": "Kondisi lampau tak nyata: had + V3."
+    },
+    {
+      "id": "r20261104-032",
+      "topic": "Phrasal verbs",
+      "level": "Menuju lancar",
+      "q": "The plane couldn't ___ because of the storm.",
+      "opts": [
+        "take on",
+        "take off",
+        "take up"
+      ],
+      "a": 1,
+      "why": "Take off = lepas landas."
+    },
+    {
+      "id": "r20261104-033",
+      "topic": "Past perfect continuous",
+      "level": "Menuju lancar",
+      "q": "They ___ for the bus for forty minutes when it finally came.",
+      "opts": [
+        "waited",
+        "wait",
+        "had been waiting"
+      ],
+      "a": 2,
+      "why": "Durasi sebelum lampau: had been waiting."
+    },
+    {
+      "id": "r20261104-034",
+      "topic": "Connectors",
+      "level": "Menuju lancar",
+      "q": "He kept smiling ___ the bad news.",
+      "opts": [
+        "in spite of",
+        "although",
+        "because"
+      ],
+      "a": 0,
+      "why": "In spite of + noun."
+    },
+    {
+      "id": "r20261104-035",
+      "topic": "Passive voice",
+      "level": "Menuju lancar",
+      "q": "The thief has been ___ by the police.",
+      "opts": [
+        "catch",
+        "caught",
+        "catching"
+      ],
+      "a": 1,
+      "why": "Pasif present perfect: has been caught."
+    },
+    {
+      "id": "r20261104-036",
+      "topic": "Wish",
+      "level": "Menuju lancar",
+      "q": "I wish I ___ play the guitar. It looks like fun.",
+      "opts": [
+        "could",
+        "can",
+        "will"
+      ],
+      "a": 0,
+      "why": "Kemampuan tak nyata: could."
+    },
+    {
+      "id": "r20261104-037",
+      "topic": "Reported speech",
+      "level": "Menuju lancar",
+      "q": "She suggested ___ to a cheaper hotel.",
+      "opts": [
+        "to move",
+        "moving",
+        "move"
+      ],
+      "a": 1,
+      "why": "Suggest + verb-ing."
+    },
+    {
+      "id": "r20261104-038",
+      "topic": "Idioms",
+      "level": "Menuju lancar",
+      "q": "I was nervous about the speech, but once I started, I broke the ___ with a joke.",
+      "opts": [
+        "glass",
+        "rule",
+        "ice"
+      ],
+      "a": 2,
+      "why": "Idiom pencair suasana: break the ice."
+    },
+    {
+      "id": "r20261104-039",
+      "topic": "Inversions",
+      "level": "Menuju lancar",
+      "q": "Never ___ such a talented singer before.",
+      "opts": [
+        "have I heard",
+        "I have heard",
+        "did I hear"
+      ],
+      "a": 0,
+      "why": "Inversi setelah never: have I heard."
+    },
+    {
+      "id": "r20261104-040",
+      "topic": "Articles",
+      "level": "Menuju lancar",
+      "q": "___ Mount Bromo is an active volcano in East Java.",
+      "opts": [
+        "The",
+        "A",
+        "-"
+      ],
+      "a": 2,
+      "why": "Nama gunung tanpa artikel."
+    }
+  ],
+  "articles": [
+    {
+      "id": "r20261104-a01",
+      "title": "The Lemon Tree",
+      "level": "Dasar",
+      "min": 2,
+      "body": [
+        "When Dara moved to her new house, there was a small lemon tree in the backyard. It looked dry and had no fruit.",
+        "Every morning before school, Dara watered the tree. Her father showed her how to cut the dead branches. Her little brother made a small fence around it so the neighbor's chickens would not step on it.",
+        "Six months later, the tree was full of yellow lemons. Dara's mother made fresh lemonade, and the family drank it under the tree. Dara was proud. She learned that small daily care can give sweet results."
+      ],
+      "gloss": {
+        "backyard": "halaman belakang",
+        "watered": "menyiram",
+        "branches": "cabang",
+        "fence": "pagar",
+        "chickens": "ayam",
+        "proud": "bangga",
+        "care": "perawatan"
+      },
+      "qs": [
+        {
+          "q": "How did the lemon tree look at first?",
+          "opts": [
+            "Dry with no fruit",
+            "Full of lemons",
+            "Very tall"
+          ],
+          "a": 0
+        },
+        {
+          "q": "Why did the little brother make a fence?",
+          "opts": [
+            "To keep the dog inside",
+            "So the chickens would not step on the tree",
+            "To make the garden pretty"
+          ],
+          "a": 1
+        },
+        {
+          "q": "What did Dara learn?",
+          "opts": [
+            "Lemons grow fast",
+            "Trees need fences",
+            "Small daily care gives sweet results"
+          ],
+          "a": 2
+        }
+      ]
+    },
+    {
+      "id": "r20261104-a02",
+      "title": "The Quiet Rise of Repair Cafes",
+      "level": "Menengah atas",
+      "min": 4,
+      "body": [
+        "When your toaster breaks, what do you do? Most people throw it away and buy a new one. But in hundreds of cities, people now bring broken things to a 'repair cafe' instead.",
+        "A repair cafe is a free meeting place, usually in a library or community center. Volunteers with repair skills fix your broken lamp, bicycle, or jacket while you watch and learn. The idea started in Amsterdam in 2009 and has spread to more than two thousand locations worldwide.",
+        "Repair cafes are good for the environment because fewer things end up as waste. But visitors say the best part is something else: learning that a broken thing is not the end. Often, a ten-minute fix can give an object five more years of life, and give you a new skill for free."
+      ],
+      "gloss": {
+        "toaster": "pemanggang roti",
+        "throw away": "membuang",
+        "volunteers": "relawan",
+        "community": "komunitas",
+        "spread": "menyebar",
+        "waste": "limbah",
+        "skill": "keterampilan"
+      },
+      "qs": [
+        {
+          "q": "Where did the repair cafe idea start?",
+          "opts": [
+            "In Amsterdam",
+            "In Jakarta",
+            "In London"
+          ],
+          "a": 0
+        },
+        {
+          "q": "What do volunteers do at a repair cafe?",
+          "opts": [
+            "Sell cheap electronics",
+            "Fix broken things while you watch and learn",
+            "Teach cooking classes"
+          ],
+          "a": 1
+        },
+        {
+          "q": "According to the text, what is the best part for visitors?",
+          "opts": [
+            "Getting free new items",
+            "Meeting famous repair experts",
+            "Learning that a broken thing is not the end"
+          ],
+          "a": 2
+        }
+      ]
+    }
+  ]
+}
