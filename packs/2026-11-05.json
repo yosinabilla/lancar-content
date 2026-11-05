@@ -1,0 +1,627 @@
+{
+  "bank": [
+    {
+      "id": "r20261105-001",
+      "topic": "Vocabulary: kitchen",
+      "level": "Dasar",
+      "q": "Mother cooks soup in a big ___.",
+      "opts": [
+        "pot",
+        "shoe",
+        "key"
+      ],
+      "a": 0,
+      "why": "Memasak sup di panci (pot)."
+    },
+    {
+      "id": "r20261105-002",
+      "topic": "Plural nouns",
+      "level": "Dasar",
+      "q": "I have two ___.",
+      "opts": [
+        "cat",
+        "cats",
+        "cates"
+      ],
+      "a": 1,
+      "why": "Dua = jamak: cats."
+    },
+    {
+      "id": "r20261105-003",
+      "topic": "Prepositions",
+      "level": "Dasar",
+      "q": "The scared cat is hiding ___ the table.",
+      "opts": [
+        "between",
+        "across",
+        "under"
+      ],
+      "a": 2,
+      "why": "Bersembunyi di bawah meja: under."
+    },
+    {
+      "id": "r20261105-004",
+      "topic": "Present simple",
+      "level": "Dasar",
+      "q": "She ___ TV every evening.",
+      "opts": [
+        "watches",
+        "watch",
+        "watching"
+      ],
+      "a": 0,
+      "why": "Subjek she: kata kerja +es (watches)."
+    },
+    {
+      "id": "r20261105-005",
+      "topic": "Demonstratives",
+      "level": "Dasar",
+      "q": "Look! ___ bird in the tree is blue.",
+      "opts": [
+        "These",
+        "Those",
+        "That"
+      ],
+      "a": 2,
+      "why": "Satu burung di sana: that."
+    },
+    {
+      "id": "r20261105-006",
+      "topic": "Vocabulary: weather",
+      "level": "Dasar",
+      "q": "When it rains, I bring an ___.",
+      "opts": [
+        "umbrella",
+        "oven",
+        "envelope"
+      ],
+      "a": 0,
+      "why": "Saat hujan bawa payung (umbrella)."
+    },
+    {
+      "id": "r20261105-007",
+      "topic": "Verb to be",
+      "level": "Dasar",
+      "q": "My parents ___ teachers.",
+      "opts": [
+        "is",
+        "are",
+        "am"
+      ],
+      "a": 1,
+      "why": "Parents jamak: are."
+    },
+    {
+      "id": "r20261105-008",
+      "topic": "Numbers",
+      "level": "Dasar",
+      "q": "A week has ___ days.",
+      "opts": [
+        "six",
+        "eight",
+        "seven"
+      ],
+      "a": 2,
+      "why": "Satu minggu = tujuh hari."
+    },
+    {
+      "id": "r20261105-009",
+      "topic": "Present simple",
+      "level": "Dasar",
+      "q": "My father ___ a car to work.",
+      "opts": [
+        "drive",
+        "drives",
+        "driving"
+      ],
+      "a": 1,
+      "why": "Subjek my father (he): drives."
+    },
+    {
+      "id": "r20261105-010",
+      "topic": "Adjectives",
+      "level": "Dasar",
+      "q": "The baby is sleeping. Please be ___.",
+      "opts": [
+        "loud",
+        "angry",
+        "quiet"
+      ],
+      "a": 2,
+      "why": "Bayi tidur: harap diam/tenang (quiet)."
+    },
+    {
+      "id": "r20261105-011",
+      "topic": "Past simple",
+      "level": "Menengah",
+      "q": "We ___ to Bandung last weekend.",
+      "opts": [
+        "went",
+        "go",
+        "goes"
+      ],
+      "a": 0,
+      "why": "Last weekend = lampau: went."
+    },
+    {
+      "id": "r20261105-012",
+      "topic": "Future arrangements",
+      "level": "Menengah",
+      "q": "Look at my ticket! I ___ to Surabaya tonight.",
+      "opts": [
+        "fly",
+        "am flying",
+        "flew"
+      ],
+      "a": 1,
+      "why": "Rencana pasti: present continuous."
+    },
+    {
+      "id": "r20261105-013",
+      "topic": "Modals",
+      "level": "Menengah",
+      "q": "You ___ smoke in the hospital. It is forbidden.",
+      "opts": [
+        "must not",
+        "don’t have to",
+        "wouldn’t"
+      ],
+      "a": 0,
+      "why": "Larangan tegas: must not."
+    },
+    {
+      "id": "r20261105-014",
+      "topic": "Comparatives",
+      "level": "Menengah",
+      "q": "Jakarta is ___ than my hometown.",
+      "opts": [
+        "big",
+        "bigger",
+        "more big"
+      ],
+      "a": 1,
+      "why": "Perbandingan: bigger than."
+    },
+    {
+      "id": "r20261105-015",
+      "topic": "Gerunds",
+      "level": "Menengah",
+      "q": "My little sister enjoys ___ stories before bed.",
+      "opts": [
+        "read",
+        "to reading",
+        "reading"
+      ],
+      "a": 2,
+      "why": "Enjoy + V-ing."
+    },
+    {
+      "id": "r20261105-016",
+      "topic": "Quantifiers",
+      "level": "Menengah",
+      "q": "There is ___ sugar in this tea. It’s too sweet.",
+      "opts": [
+        "too much",
+        "too many",
+        "enough"
+      ],
+      "a": 0,
+      "why": "Sugar tak terhitung: too much."
+    },
+    {
+      "id": "r20261105-017",
+      "topic": "Offers",
+      "level": "Menengah",
+      "q": "That bag looks heavy. I ___ it for you.",
+      "opts": [
+        "carry",
+        "carried",
+        "will carry"
+      ],
+      "a": 2,
+      "why": "Tawaran spontan: will + V1."
+    },
+    {
+      "id": "r20261105-018",
+      "topic": "Since/for",
+      "level": "Menengah",
+      "q": "They have lived in this city ___ 2015.",
+      "opts": [
+        "since",
+        "for",
+        "from"
+      ],
+      "a": 0,
+      "why": "Titik waktu (2015): since."
+    },
+    {
+      "id": "r20261105-019",
+      "topic": "Past continuous",
+      "level": "Menengah",
+      "q": "While I ___ home, it started to rain.",
+      "opts": [
+        "walk",
+        "was walking",
+        "am walking"
+      ],
+      "a": 1,
+      "why": "Aksi sedang berlangsung di lampau: was walking."
+    },
+    {
+      "id": "r20261105-020",
+      "topic": "Present perfect",
+      "level": "Menengah",
+      "q": "Have you ever ___ a horse?",
+      "opts": [
+        "rode",
+        "ride",
+        "ridden"
+      ],
+      "a": 2,
+      "why": "Present perfect: have + V3 (ridden)."
+    },
+    {
+      "id": "r20261105-021",
+      "topic": "Second conditional",
+      "level": "Menengah atas",
+      "q": "If I ___ taller, I would join the basketball team.",
+      "opts": [
+        "am",
+        "were",
+        "will be"
+      ],
+      "a": 1,
+      "why": "Pengandaian tak nyata: were."
+    },
+    {
+      "id": "r20261105-022",
+      "topic": "Passive voice",
+      "level": "Menengah atas",
+      "q": "The homework ___ by all the students yesterday.",
+      "opts": [
+        "finished",
+        "is finishing",
+        "was finished"
+      ],
+      "a": 2,
+      "why": "Pasif lampau: was + V3."
+    },
+    {
+      "id": "r20261105-023",
+      "topic": "Reported speech",
+      "level": "Menengah atas",
+      "q": "He said he ___ busy that day.",
+      "opts": [
+        "was",
+        "is",
+        "will be"
+      ],
+      "a": 0,
+      "why": "Reported speech mundur satu tenses: was."
+    },
+    {
+      "id": "r20261105-024",
+      "topic": "Past perfect",
+      "level": "Menengah atas",
+      "q": "When I arrived, the meeting ___ already started.",
+      "opts": [
+        "has",
+        "had",
+        "have"
+      ],
+      "a": 1,
+      "why": "Kejadian lebih dulu: past perfect had started."
+    },
+    {
+      "id": "r20261105-025",
+      "topic": "Relative clauses",
+      "level": "Menengah atas",
+      "q": "The woman ___ lives next door is a dentist.",
+      "opts": [
+        "who",
+        "which",
+        "what"
+      ],
+      "a": 0,
+      "why": "Orang: who."
+    },
+    {
+      "id": "r20261105-026",
+      "topic": "Wish",
+      "level": "Menengah atas",
+      "q": "I wish I ___ more free time now.",
+      "opts": [
+        "have",
+        "had",
+        "will have"
+      ],
+      "a": 1,
+      "why": "Wish + past simple untuk sekarang."
+    },
+    {
+      "id": "r20261105-027",
+      "topic": "Present perfect continuous",
+      "level": "Menengah atas",
+      "q": "It ___ all day. The streets are still wet.",
+      "opts": [
+        "is raining",
+        "rains",
+        "has been raining"
+      ],
+      "a": 2,
+      "why": "Durasi sampai sekarang: has been + V-ing."
+    },
+    {
+      "id": "r20261105-028",
+      "topic": "Too/enough",
+      "level": "Menengah atas",
+      "q": "This coffee is ___ hot to drink.",
+      "opts": [
+        "too",
+        "very",
+        "enough"
+      ],
+      "a": 0,
+      "why": "Terlalu panas untuk diminum: too + adj + to."
+    },
+    {
+      "id": "r20261105-029",
+      "topic": "Question tags",
+      "level": "Menengah atas",
+      "q": "You have finished your homework, ___?",
+      "opts": [
+        "have you",
+        "didn’t you",
+        "haven’t you"
+      ],
+      "a": 2,
+      "why": "Tag untuk have (positif): haven’t you."
+    },
+    {
+      "id": "r20261105-030",
+      "topic": "Used to",
+      "level": "Menengah atas",
+      "q": "There ___ be a big tree in our yard, but we cut it down.",
+      "opts": [
+        "used to",
+        "use to",
+        "would to"
+      ],
+      "a": 0,
+      "why": "Keadaan lampau yang sudah tidak ada: used to."
+    },
+    {
+      "id": "r20261105-031",
+      "topic": "Causative",
+      "level": "Menuju lancar",
+      "q": "We are going to have the roof ___ before the rainy season.",
+      "opts": [
+        "repair",
+        "repaired",
+        "repairing"
+      ],
+      "a": 1,
+      "why": "Have + object + V3 (causative)."
+    },
+    {
+      "id": "r20261105-032",
+      "topic": "Phrasal verbs",
+      "level": "Menuju lancar",
+      "q": "The meeting was ___ until next Friday.",
+      "opts": [
+        "put on",
+        "put away",
+        "put off"
+      ],
+      "a": 2,
+      "why": "Put off = menunda."
+    },
+    {
+      "id": "r20261105-033",
+      "topic": "Subjunctive",
+      "level": "Menuju lancar",
+      "q": "The teacher suggested that each student ___ a summary.",
+      "opts": [
+        "writes",
+        "write",
+        "writing"
+      ],
+      "a": 1,
+      "why": "Suggest + that + base verb (subjunctive)."
+    },
+    {
+      "id": "r20261105-034",
+      "topic": "Concession",
+      "level": "Menuju lancar",
+      "q": "___ the heavy rain, the outdoor concert continued.",
+      "opts": [
+        "Although",
+        "Because",
+        "Despite"
+      ],
+      "a": 2,
+      "why": "Despite + noun phrase; although butuh klausa."
+    },
+    {
+      "id": "r20261105-035",
+      "topic": "Word forms",
+      "level": "Menuju lancar",
+      "q": "The witness gave a very ___ description of the thief.",
+      "opts": [
+        "detailed",
+        "detail",
+        "detailing"
+      ],
+      "a": 0,
+      "why": "Butuh adjective: detailed."
+    },
+    {
+      "id": "r20261105-036",
+      "topic": "By the time",
+      "level": "Menuju lancar",
+      "q": "By the time we got to the station, the train ___.",
+      "opts": [
+        "has left",
+        "had left",
+        "leaves"
+      ],
+      "a": 1,
+      "why": "By the time + past perfect."
+    },
+    {
+      "id": "r20261105-037",
+      "topic": "Would rather",
+      "level": "Menuju lancar",
+      "q": "I would rather ___ at home tonight. I am exhausted.",
+      "opts": [
+        "stay",
+        "to stay",
+        "staying"
+      ],
+      "a": 0,
+      "why": "Would rather + V1."
+    },
+    {
+      "id": "r20261105-038",
+      "topic": "Cleft sentences",
+      "level": "Menuju lancar",
+      "q": "It was in Yogyakarta ___ we first met.",
+      "opts": [
+        "where",
+        "that",
+        "which"
+      ],
+      "a": 1,
+      "why": "Cleft: It was ... that ..."
+    },
+    {
+      "id": "r20261105-039",
+      "topic": "Inversion",
+      "level": "Menuju lancar",
+      "q": "Scarcely had the show started ___ the lights went out.",
+      "opts": [
+        "than",
+        "that",
+        "when"
+      ],
+      "a": 2,
+      "why": "Scarcely ... when ..."
+    },
+    {
+      "id": "r20261105-040",
+      "topic": "Passive infinitive",
+      "level": "Menuju lancar",
+      "q": "He is believed ___ the money from the safe.",
+      "opts": [
+        "to have taken",
+        "to take",
+        "taking"
+      ],
+      "a": 0,
+      "why": "Is believed + perfect infinitive (taking happened first)."
+    }
+  ],
+  "articles": [
+    {
+      "id": "r20261105-a01",
+      "title": "Kadek’s Surf Lesson",
+      "level": "Dasar",
+      "min": 2,
+      "body": [
+        "Kadek lives near a beach in Bali. Every day he watched the surfers on the big waves. He wanted to try, but he was afraid of the deep water.",
+        "On his twelfth birthday, his uncle gave him a surfboard and a free lesson. His uncle is a surf teacher. \"First, you must learn to stand on the sand,\" he said. Kadek practiced standing on the board on the beach all morning.",
+        "In the afternoon, they went into the small waves. Kadek fell many times, but he laughed and tried again. At the end of the day, he stood up on a real wave for three seconds. It was the best birthday ever."
+      ],
+      "gloss": {
+        "beach": "pantai",
+        "waves": "ombak",
+        "afraid": "takut",
+        "deep": "dalam",
+        "surfboard": "papan selancar",
+        "practiced": "berlatih",
+        "fell": "jatuh",
+        "seconds": "detik"
+      },
+      "qs": [
+        {
+          "q": "Why didn’t Kadek try surfing before?",
+          "opts": [
+            "He did not like sunny days",
+            "His board was too old",
+            "He was afraid of the deep water"
+          ],
+          "a": 2
+        },
+        {
+          "q": "What did Kadek get for his twelfth birthday?",
+          "opts": [
+            "A surfboard and a free lesson",
+            "A new bicycle",
+            "A ticket to a surf show"
+          ],
+          "a": 0
+        },
+        {
+          "q": "How long did Kadek stand on the real wave?",
+          "opts": [
+            "For three minutes",
+            "For three seconds",
+            "For three hours"
+          ],
+          "a": 1
+        }
+      ]
+    },
+    {
+      "id": "r20261105-a02",
+      "title": "The Community Fridge",
+      "level": "Menengah",
+      "min": 3,
+      "body": [
+        "In a small neighborhood in Rotterdam, there is a white refrigerator on the sidewalk. It is not broken, and it is not trash. It is a community fridge, and it is full of free food.",
+        "The idea is simple. People who have extra food put it in the fridge. A baker brings the bread that he did not sell. Families bring vegetables from their gardens. Anyone who is hungry can open the door and take what they need. No money changes hands, and no one asks questions.",
+        "Volunteers clean the fridge every day and check the dates on the food. \"It is about dignity, not charity,\" says Marta, one of the volunteers. \"Good food should feed people, not landfills.\""
+      ],
+      "gloss": {
+        "neighborhood": "lingkungan",
+        "sidewalk": "trotoar",
+        "free": "gratis",
+        "extra": "berlebih",
+        "anyone": "siapa saja",
+        "volunteers": "relawan",
+        "dignity": "harga diri",
+        "charity": "amal",
+        "landfills": "tempat pembuangan akhir"
+      },
+      "qs": [
+        {
+          "q": "What is special about the white refrigerator?",
+          "opts": [
+            "It is broken and waits for repair",
+            "It is for sale on the sidewalk",
+            "It is a community fridge full of free food"
+          ],
+          "a": 2
+        },
+        {
+          "q": "Who can take food from the fridge?",
+          "opts": [
+            "Only the volunteers",
+            "Anyone who is hungry",
+            "Only people who pay first"
+          ],
+          "a": 1
+        },
+        {
+          "q": "According to Marta, good food should feed ___.",
+          "opts": [
+            "only rich people",
+            "animals in the zoo",
+            "people, not landfills"
+          ],
+          "a": 2
+        }
+      ]
+    }
+  ]
+}
