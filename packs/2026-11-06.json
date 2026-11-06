@@ -1,0 +1,626 @@
+{
+  "bank": [
+    {
+      "id": "r20261106-001",
+      "topic": "Vocabulary: school",
+      "level": "Dasar",
+      "q": "I write with a ___ in my notebook.",
+      "opts": [
+        "pen",
+        "plate",
+        "spoon"
+      ],
+      "a": 0,
+      "why": "Menulis dengan pulpen (pen)."
+    },
+    {
+      "id": "r20261106-002",
+      "topic": "Vocabulary: colors",
+      "level": "Dasar",
+      "q": "A ripe banana is ___.",
+      "opts": [
+        "purple",
+        "yellow",
+        "black"
+      ],
+      "a": 1,
+      "why": "Pisang matang berwarna kuning (yellow)."
+    },
+    {
+      "id": "r20261106-003",
+      "topic": "Numbers",
+      "level": "Dasar",
+      "q": "Thirty plus twenty is ___.",
+      "opts": [
+        "forty",
+        "sixty",
+        "fifty"
+      ],
+      "a": 2,
+      "why": "30 + 20 = 50 (fifty)."
+    },
+    {
+      "id": "r20261106-004",
+      "topic": "Present simple negative",
+      "level": "Dasar",
+      "q": "He ___ like coffee. He always drinks tea.",
+      "opts": [
+        "doesn’t",
+        "don’t",
+        "isn’t"
+      ],
+      "a": 0,
+      "why": "Negatif untuk he: doesn’t + V1."
+    },
+    {
+      "id": "r20261106-005",
+      "topic": "Prepositions of time",
+      "level": "Dasar",
+      "q": "I eat breakfast ___ the morning.",
+      "opts": [
+        "at",
+        "on",
+        "in"
+      ],
+      "a": 2,
+      "why": "In the morning: in + bagian hari."
+    },
+    {
+      "id": "r20261106-006",
+      "topic": "There is/are",
+      "level": "Dasar",
+      "q": "There ___ a park near my house.",
+      "opts": [
+        "is",
+        "are",
+        "am"
+      ],
+      "a": 0,
+      "why": "A park tunggal: there is."
+    },
+    {
+      "id": "r20261106-007",
+      "topic": "Vocabulary: clothes",
+      "level": "Dasar",
+      "q": "When it is hot, I wear a ___.",
+      "opts": [
+        "jacket",
+        "T-shirt",
+        "scarf"
+      ],
+      "a": 1,
+      "why": "Saat panas pakai kaus (T-shirt)."
+    },
+    {
+      "id": "r20261106-008",
+      "topic": "Questions",
+      "level": "Dasar",
+      "q": "___ old are you? - Twelve.",
+      "opts": [
+        "What",
+        "When",
+        "How"
+      ],
+      "a": 2,
+      "why": "Menanyakan umur: how old."
+    },
+    {
+      "id": "r20261106-009",
+      "topic": "Verbs",
+      "level": "Dasar",
+      "q": "Birds ___ in the sky.",
+      "opts": [
+        "swim",
+        "fly",
+        "walk"
+      ],
+      "a": 1,
+      "why": "Burung terbang (fly) di langit."
+    },
+    {
+      "id": "r20261106-010",
+      "topic": "Possessive pronouns",
+      "level": "Dasar",
+      "q": "This is my book. That one is ___.",
+      "opts": [
+        "your",
+        "you",
+        "yours"
+      ],
+      "a": 2,
+      "why": "Milikmu: yours (tanpa noun)."
+    },
+    {
+      "id": "r20261106-011",
+      "topic": "Past simple",
+      "level": "Menengah",
+      "q": "She ___ me a long email yesterday.",
+      "opts": [
+        "sent",
+        "send",
+        "sends"
+      ],
+      "a": 0,
+      "why": "Yesterday = lampau: sent."
+    },
+    {
+      "id": "r20261106-012",
+      "topic": "Present perfect",
+      "level": "Menengah",
+      "q": "We ___ this movie twice. It’s great.",
+      "opts": [
+        "see",
+        "have seen",
+        "are seeing"
+      ],
+      "a": 1,
+      "why": "Pengalaman (twice): present perfect have seen."
+    },
+    {
+      "id": "r20261106-013",
+      "topic": "Future predictions",
+      "level": "Menengah",
+      "q": "I think it ___ sunny tomorrow.",
+      "opts": [
+        "will be",
+        "is being",
+        "was"
+      ],
+      "a": 0,
+      "why": "Prediksi: will be."
+    },
+    {
+      "id": "r20261106-014",
+      "topic": "Past ability",
+      "level": "Menengah",
+      "q": "When I was five, I ___ not swim.",
+      "opts": [
+        "can",
+        "could",
+        "will"
+      ],
+      "a": 1,
+      "why": "Kemampuan lampau: could."
+    },
+    {
+      "id": "r20261106-015",
+      "topic": "Comparatives",
+      "level": "Menengah",
+      "q": "This exercise is ___ than the last one. I need help.",
+      "opts": [
+        "hard",
+        "hardest",
+        "harder"
+      ],
+      "a": 2,
+      "why": "Perbandingan: harder than."
+    },
+    {
+      "id": "r20261106-016",
+      "topic": "Infinitives",
+      "level": "Menengah",
+      "q": "They decided ___ a new house in the city.",
+      "opts": [
+        "to buy",
+        "buying",
+        "bought"
+      ],
+      "a": 0,
+      "why": "Decide + to-infinitive."
+    },
+    {
+      "id": "r20261106-017",
+      "topic": "Quantifiers",
+      "level": "Menengah",
+      "q": "There are ___ cars on the road today. I’m going to be late.",
+      "opts": [
+        "too much",
+        "much",
+        "too many"
+      ],
+      "a": 2,
+      "why": "Cars terhitung: too many."
+    },
+    {
+      "id": "r20261106-018",
+      "topic": "Since/for",
+      "level": "Menengah",
+      "q": "She has studied English ___ three years.",
+      "opts": [
+        "for",
+        "since",
+        "at"
+      ],
+      "a": 0,
+      "why": "Durasi (three years): for."
+    },
+    {
+      "id": "r20261106-019",
+      "topic": "Past questions",
+      "level": "Menengah",
+      "q": "Did you ___ the football match last night?",
+      "opts": [
+        "watched",
+        "watch",
+        "watching"
+      ],
+      "a": 1,
+      "why": "Did + V1: watch."
+    },
+    {
+      "id": "r20261106-020",
+      "topic": "Adverbs",
+      "level": "Menengah",
+      "q": "Please drive ___. The road is wet.",
+      "opts": [
+        "careful",
+        "care",
+        "carefully"
+      ],
+      "a": 2,
+      "why": "Adverb untuk kata kerja drive: carefully."
+    },
+    {
+      "id": "r20261106-021",
+      "topic": "Second conditional",
+      "level": "Menengah atas",
+      "q": "If they ___ the bus, they would arrive on time.",
+      "opts": [
+        "catch",
+        "caught",
+        "will catch"
+      ],
+      "a": 1,
+      "why": "Pengandaian: past simple caught."
+    },
+    {
+      "id": "r20261106-022",
+      "topic": "Passive voice",
+      "level": "Menengah atas",
+      "q": "English ___ in many countries around the world.",
+      "opts": [
+        "speaks",
+        "is speaking",
+        "is spoken"
+      ],
+      "a": 2,
+      "why": "Pasif present: is + V3."
+    },
+    {
+      "id": "r20261106-023",
+      "topic": "Past perfect",
+      "level": "Menengah atas",
+      "q": "The film had already started when we ___ the cinema.",
+      "opts": [
+        "reached",
+        "had reached",
+        "reach"
+      ],
+      "a": 0,
+      "why": "Kejadian kedua: past simple reached."
+    },
+    {
+      "id": "r20261106-024",
+      "topic": "Relative clauses",
+      "level": "Menengah atas",
+      "q": "The book ___ you gave me is very interesting.",
+      "opts": [
+        "who",
+        "which",
+        "whom"
+      ],
+      "a": 1,
+      "why": "Benda: which."
+    },
+    {
+      "id": "r20261106-025",
+      "topic": "Present perfect continuous",
+      "level": "Menengah atas",
+      "q": "They ___ for the bus for twenty minutes now.",
+      "opts": [
+        "have been waiting",
+        "wait",
+        "waited"
+      ],
+      "a": 0,
+      "why": "Durasi berlanjut: have been waiting."
+    },
+    {
+      "id": "r20261106-026",
+      "topic": "Question tags",
+      "level": "Menengah atas",
+      "q": "She didn’t call you, ___?",
+      "opts": [
+        "didn’t she",
+        "did she",
+        "does she"
+      ],
+      "a": 1,
+      "why": "Tag untuk didn’t (negatif): did she."
+    },
+    {
+      "id": "r20261106-027",
+      "topic": "Gerunds",
+      "level": "Menengah atas",
+      "q": "Thank you for ___ me with my project.",
+      "opts": [
+        "help",
+        "helped",
+        "helping"
+      ],
+      "a": 2,
+      "why": "For + V-ing."
+    },
+    {
+      "id": "r20261106-028",
+      "topic": "Deductions",
+      "level": "Menengah atas",
+      "q": "The streets are all wet. It ___ during the night.",
+      "opts": [
+        "must have rained",
+        "must rain",
+        "rains"
+      ],
+      "a": 0,
+      "why": "Deduksi lampau: must have + V3."
+    },
+    {
+      "id": "r20261106-029",
+      "topic": "Both/neither",
+      "level": "Menengah atas",
+      "q": "___ of my parents are doctors. They work at the same hospital.",
+      "opts": [
+        "Neither",
+        "All",
+        "Both"
+      ],
+      "a": 2,
+      "why": "Keduanya (positif, dua orang): both."
+    },
+    {
+      "id": "r20261106-030",
+      "topic": "Concession",
+      "level": "Menengah atas",
+      "q": "___ it was late, we continued the meeting.",
+      "opts": [
+        "Although",
+        "Despite",
+        "Because"
+      ],
+      "a": 0,
+      "why": "Although + klausa; despite + noun."
+    },
+    {
+      "id": "r20261106-031",
+      "topic": "Inversion",
+      "level": "Menuju lancar",
+      "q": "Not until midnight ___ the news.",
+      "opts": [
+        "we heard",
+        "did we hear",
+        "we did hear"
+      ],
+      "a": 1,
+      "why": "Not until di awal: inversi did we hear."
+    },
+    {
+      "id": "r20261106-032",
+      "topic": "Mixed conditional",
+      "level": "Menuju lancar",
+      "q": "If she had saved more money, she ___ traveling now.",
+      "opts": [
+        "would have been",
+        "will be",
+        "would be"
+      ],
+      "a": 2,
+      "why": "Lampau berbeda, hasil sekarang: would be."
+    },
+    {
+      "id": "r20261106-033",
+      "topic": "Causative",
+      "level": "Menuju lancar",
+      "q": "I got my phone ___ at the mall yesterday.",
+      "opts": [
+        "repair",
+        "repaired",
+        "repairing"
+      ],
+      "a": 1,
+      "why": "Get + object + V3."
+    },
+    {
+      "id": "r20261106-034",
+      "topic": "Phrasal verbs",
+      "level": "Menuju lancar",
+      "q": "The match was ___ because of the storm.",
+      "opts": [
+        "called on",
+        "called up",
+        "called off"
+      ],
+      "a": 2,
+      "why": "Call off = membatalkan."
+    },
+    {
+      "id": "r20261106-035",
+      "topic": "Subjunctive",
+      "level": "Menuju lancar",
+      "q": "It is essential that every member ___ present at the meeting.",
+      "opts": [
+        "be",
+        "is",
+        "was"
+      ],
+      "a": 0,
+      "why": "Essential + that + base verb (subjunctive)."
+    },
+    {
+      "id": "r20261106-036",
+      "topic": "Inversion",
+      "level": "Menuju lancar",
+      "q": "No sooner had we sat down ___ the show began.",
+      "opts": [
+        "when",
+        "than",
+        "then"
+      ],
+      "a": 1,
+      "why": "No sooner ... than ..."
+    },
+    {
+      "id": "r20261106-037",
+      "topic": "Vocabulary",
+      "level": "Menuju lancar",
+      "q": "The manager gave a ___ speech that made everyone feel motivated.",
+      "opts": [
+        "compelling",
+        "compelled",
+        "compel"
+      ],
+      "a": 0,
+      "why": "Adjective: compelling (meyakinkan/menggerakkan)."
+    },
+    {
+      "id": "r20261106-038",
+      "topic": "Wish",
+      "level": "Menuju lancar",
+      "q": "I wish I ___ the concert tickets earlier. They are sold out now.",
+      "opts": [
+        "bought",
+        "had bought",
+        "buy"
+      ],
+      "a": 1,
+      "why": "Penyesalan lampau: wish + past perfect."
+    },
+    {
+      "id": "r20261106-039",
+      "topic": "Would prefer",
+      "level": "Menuju lancar",
+      "q": "I would prefer ___ the meeting online this week.",
+      "opts": [
+        "having",
+        "have",
+        "to have"
+      ],
+      "a": 2,
+      "why": "Would prefer + to-infinitive."
+    },
+    {
+      "id": "r20261106-040",
+      "topic": "Inversion",
+      "level": "Menuju lancar",
+      "q": "Only if you study regularly ___ pass the exam.",
+      "opts": [
+        "will you",
+        "you will",
+        "you would"
+      ],
+      "a": 0,
+      "why": "Only if di awal: inversi will you."
+    }
+  ],
+  "articles": [
+    {
+      "id": "r20261106-a01",
+      "title": "The Broken Kite",
+      "level": "Dasar",
+      "min": 2,
+      "body": [
+        "Andi loved his red kite. His father made it for him from bamboo and old newspaper. Every afternoon, Andi flew it in the field behind his house.",
+        "One windy day, the string broke. The kite flew far away and fell into a tall tree. Andi was very sad. His neighbor, old Mr. Salim, saw everything from his porch. He brought a long ladder and helped Andi take the kite down.",
+        "The kite had a small tear. Mr. Salim showed Andi how to fix it with tape and a thin stick. \"Broken things can fly again,\" he said with a smile. The next afternoon, the red kite danced in the sky once more."
+      ],
+      "gloss": {
+        "kite": "layang-layang",
+        "bamboo": "bambu",
+        "string": "tali",
+        "broke": "putus",
+        "porch": "teras",
+        "ladder": "tangga",
+        "tear": "sobekan",
+        "fix": "memperbaiki"
+      },
+      "qs": [
+        {
+          "q": "Who made the red kite?",
+          "opts": [
+            "Andi’s neighbor",
+            "Andi’s teacher",
+            "Andi’s father"
+          ],
+          "a": 2
+        },
+        {
+          "q": "Where did the kite fall?",
+          "opts": [
+            "Into a tall tree",
+            "Into the river",
+            "Onto the roof"
+          ],
+          "a": 0
+        },
+        {
+          "q": "How did they fix the kite?",
+          "opts": [
+            "With glue and paper",
+            "With tape and a thin stick",
+            "With string and bamboo"
+          ],
+          "a": 1
+        }
+      ]
+    },
+    {
+      "id": "r20261106-a02",
+      "title": "Libraries That Lend More Than Books",
+      "level": "Menengah",
+      "min": 3,
+      "body": [
+        "When you think of a library, you probably imagine shelves of books. But in many cities, libraries now lend much more than that. You can borrow a drill, a sewing machine, a guitar, or even a packet of seeds for your garden.",
+        "The idea started from a simple question: why should every family buy things they only use once or twice a year? A drill, for example, is used for about fifteen minutes in its whole life. Sharing tools saves money and reduces waste. Members pay a small yearly fee, or sometimes nothing at all.",
+        "These new libraries also teach skills. Volunteers show people how to use the tools safely. \"We are not just lending things,\" says one librarian. \"We are building a community that shares.\""
+      ],
+      "gloss": {
+        "lend": "meminjamkan",
+        "borrow": "meminjam",
+        "drill": "bor",
+        "sewing machine": "mesin jahit",
+        "seeds": "biji/benih",
+        "waste": "limbah",
+        "fee": "biaya",
+        "safely": "dengan aman"
+      },
+      "qs": [
+        {
+          "q": "What can people borrow from these libraries besides books?",
+          "opts": [
+            "Cars and motorbikes",
+            "Food and drinks",
+            "Tools, instruments, and seeds"
+          ],
+          "a": 2
+        },
+        {
+          "q": "According to the text, how long is a drill usually used in its whole life?",
+          "opts": [
+            "About fifteen hours",
+            "About fifteen minutes",
+            "About fifteen days"
+          ],
+          "a": 1
+        },
+        {
+          "q": "What is the main idea of these libraries?",
+          "opts": [
+            "Making money from members",
+            "Replacing all book libraries",
+            "Building a community that shares"
+          ],
+          "a": 2
+        }
+      ]
+    }
+  ]
+}
