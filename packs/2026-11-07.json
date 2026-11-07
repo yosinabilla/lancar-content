@@ -1,0 +1,626 @@
+{
+  "bank": [
+    {
+      "id": "r20261107-001",
+      "topic": "Vocabulary: food",
+      "level": "Dasar",
+      "q": "For breakfast, I eat bread with ___.",
+      "opts": [
+        "jam",
+        "soap",
+        "chalk"
+      ],
+      "a": 0,
+      "why": "Roti dengan selai (jam)."
+    },
+    {
+      "id": "r20261107-002",
+      "topic": "Subject pronouns",
+      "level": "Dasar",
+      "q": "My dog is cute. ___ likes to run in the park.",
+      "opts": [
+        "He",
+        "It",
+        "She"
+      ],
+      "a": 1,
+      "why": "Hewan: it."
+    },
+    {
+      "id": "r20261107-003",
+      "topic": "Verb to be",
+      "level": "Dasar",
+      "q": "I ___ a student at SMPN 2.",
+      "opts": [
+        "is",
+        "are",
+        "am"
+      ],
+      "a": 2,
+      "why": "I + am."
+    },
+    {
+      "id": "r20261107-004",
+      "topic": "Plural nouns",
+      "level": "Dasar",
+      "q": "She has three ___.",
+      "opts": [
+        "children",
+        "childs",
+        "child"
+      ],
+      "a": 0,
+      "why": "Jamak tak beraturan: children."
+    },
+    {
+      "id": "r20261107-005",
+      "topic": "Prepositions of time",
+      "level": "Dasar",
+      "q": "The movie starts ___ seven thirty.",
+      "opts": [
+        "in",
+        "on",
+        "at"
+      ],
+      "a": 2,
+      "why": "Jam: at."
+    },
+    {
+      "id": "r20261107-006",
+      "topic": "Vocabulary: transport",
+      "level": "Dasar",
+      "q": "A ___ flies in the sky and carries many people.",
+      "opts": [
+        "plane",
+        "train",
+        "boat"
+      ],
+      "a": 0,
+      "why": "Terbang di langit: pesawat (plane)."
+    },
+    {
+      "id": "r20261107-007",
+      "topic": "Present simple",
+      "level": "Dasar",
+      "q": "They ___ to school by bus every day.",
+      "opts": [
+        "goes",
+        "go",
+        "going"
+      ],
+      "a": 1,
+      "why": "They + V1: go."
+    },
+    {
+      "id": "r20261107-008",
+      "topic": "Vocabulary: weather",
+      "level": "Dasar",
+      "q": "It is very ___ today. Let’s go swimming!",
+      "opts": [
+        "cold",
+        "snowy",
+        "hot"
+      ],
+      "a": 2,
+      "why": "Berenang saat panas (hot)."
+    },
+    {
+      "id": "r20261107-009",
+      "topic": "Prepositions",
+      "level": "Dasar",
+      "q": "The shoes are ___ the bed.",
+      "opts": [
+        "between",
+        "under",
+        "across"
+      ],
+      "a": 1,
+      "why": "Di bawah tempat tidur: under."
+    },
+    {
+      "id": "r20261107-010",
+      "topic": "Articles",
+      "level": "Dasar",
+      "q": "I eat ___ apple every morning.",
+      "opts": [
+        "a",
+        "the",
+        "an"
+      ],
+      "a": 2,
+      "why": "Apple diawali vokal: an."
+    },
+    {
+      "id": "r20261107-011",
+      "topic": "Past simple",
+      "level": "Menengah",
+      "q": "They ___ a new car two months ago.",
+      "opts": [
+        "bought",
+        "buy",
+        "buys"
+      ],
+      "a": 0,
+      "why": "Ago = lampau: bought."
+    },
+    {
+      "id": "r20261107-012",
+      "topic": "Present perfect",
+      "level": "Menengah",
+      "q": "I have never ___ to Japan, but I want to go someday.",
+      "opts": [
+        "went",
+        "been",
+        "go"
+      ],
+      "a": 1,
+      "why": "Present perfect: have been to."
+    },
+    {
+      "id": "r20261107-013",
+      "topic": "Future",
+      "level": "Menengah",
+      "q": "Look at those dark clouds. It ___ rain soon.",
+      "opts": [
+        "is going to",
+        "is go to",
+        "going to"
+      ],
+      "a": 0,
+      "why": "Tanda-tanda nyata: be going to."
+    },
+    {
+      "id": "r20261107-014",
+      "topic": "Modals",
+      "level": "Menengah",
+      "q": "You ___ wear a helmet when you ride a motorbike. It’s the law.",
+      "opts": [
+        "might",
+        "must",
+        "could"
+      ],
+      "a": 1,
+      "why": "Kewajiban hukum: must."
+    },
+    {
+      "id": "r20261107-015",
+      "topic": "Gerunds",
+      "level": "Menengah",
+      "q": "Would you mind ___ the window? It’s very hot.",
+      "opts": [
+        "open",
+        "to open",
+        "opening"
+      ],
+      "a": 2,
+      "why": "Would you mind + V-ing."
+    },
+    {
+      "id": "r20261107-016",
+      "topic": "Quantifiers",
+      "level": "Menengah",
+      "q": "Don’t spend ___ time on your phone before bed.",
+      "opts": [
+        "too much",
+        "too many",
+        "enough"
+      ],
+      "a": 0,
+      "why": "Time tak terhitung: too much."
+    },
+    {
+      "id": "r20261107-017",
+      "topic": "Will",
+      "level": "Menengah",
+      "q": "Don’t worry about the mess. I ___ clean it up later.",
+      "opts": [
+        "would",
+        "am",
+        "will"
+      ],
+      "a": 2,
+      "why": "Janji spontan: will."
+    },
+    {
+      "id": "r20261107-018",
+      "topic": "Since/for",
+      "level": "Menengah",
+      "q": "He has worked at the bank ___ March.",
+      "opts": [
+        "since",
+        "for",
+        "in"
+      ],
+      "a": 0,
+      "why": "Titik waktu (March): since."
+    },
+    {
+      "id": "r20261107-019",
+      "topic": "Past continuous",
+      "level": "Menengah",
+      "q": "She broke her leg while she ___ football.",
+      "opts": [
+        "plays",
+        "was playing",
+        "is playing"
+      ],
+      "a": 1,
+      "why": "Sedang berlangsung di lampau: was playing."
+    },
+    {
+      "id": "r20261107-020",
+      "topic": "Adverbs of frequency",
+      "level": "Menengah",
+      "q": "He is ___ late. He always arrives before ten.",
+      "opts": [
+        "always",
+        "usually",
+        "never"
+      ],
+      "a": 2,
+      "why": "Kontras dengan always: never."
+    },
+    {
+      "id": "r20261107-021",
+      "topic": "Second conditional",
+      "level": "Menengah atas",
+      "q": "If we ___ a bigger house, we would have a garden.",
+      "opts": [
+        "have",
+        "had",
+        "will have"
+      ],
+      "a": 1,
+      "why": "Pengandaian: past simple had."
+    },
+    {
+      "id": "r20261107-022",
+      "topic": "Passive voice",
+      "level": "Menengah atas",
+      "q": "The letter ___ two days ago.",
+      "opts": [
+        "sent",
+        "is sent",
+        "was sent"
+      ],
+      "a": 2,
+      "why": "Pasif lampau: was sent."
+    },
+    {
+      "id": "r20261107-023",
+      "topic": "Reported speech",
+      "level": "Menengah atas",
+      "q": "He told me that he ___ the movie already.",
+      "opts": [
+        "had seen",
+        "has seen",
+        "sees"
+      ],
+      "a": 0,
+      "why": "Reported speech: past perfect had seen."
+    },
+    {
+      "id": "r20261107-024",
+      "topic": "Past perfect",
+      "level": "Menengah atas",
+      "q": "I couldn’t enter the house because I ___ my keys inside.",
+      "opts": [
+        "have left",
+        "had left",
+        "leave"
+      ],
+      "a": 1,
+      "why": "Kejadian lebih dulu: had left."
+    },
+    {
+      "id": "r20261107-025",
+      "topic": "Relative clauses",
+      "level": "Menengah atas",
+      "q": "That’s the man ___ dog bit my shoe.",
+      "opts": [
+        "whose",
+        "who’s",
+        "which"
+      ],
+      "a": 0,
+      "why": "Kepemilikan: whose."
+    },
+    {
+      "id": "r20261107-026",
+      "topic": "Wish",
+      "level": "Menengah atas",
+      "q": "I wish I ___ play the guitar as well as you.",
+      "opts": [
+        "can",
+        "could",
+        "will"
+      ],
+      "a": 1,
+      "why": "Wish + could untuk kemampuan."
+    },
+    {
+      "id": "r20261107-027",
+      "topic": "Present perfect continuous",
+      "level": "Menengah atas",
+      "q": "She ___ piano for six years. She’s amazing.",
+      "opts": [
+        "plays",
+        "played",
+        "has been playing"
+      ],
+      "a": 2,
+      "why": "Durasi sampai sekarang: has been playing."
+    },
+    {
+      "id": "r20261107-028",
+      "topic": "Too/enough",
+      "level": "Menengah atas",
+      "q": "It’s ___ late to call him now. Call him tomorrow.",
+      "opts": [
+        "too",
+        "very",
+        "enough"
+      ],
+      "a": 0,
+      "why": "Terlalu ... untuk: too."
+    },
+    {
+      "id": "r20261107-029",
+      "topic": "Question tags",
+      "level": "Menengah atas",
+      "q": "They can swim very well, ___?",
+      "opts": [
+        "can they",
+        "don’t they",
+        "can’t they"
+      ],
+      "a": 2,
+      "why": "Tag untuk can (positif): can’t they."
+    },
+    {
+      "id": "r20261107-030",
+      "topic": "Used to",
+      "level": "Menengah atas",
+      "q": "I ___ drink coffee every day, but now I prefer tea.",
+      "opts": [
+        "used to",
+        "use to",
+        "am used to"
+      ],
+      "a": 0,
+      "why": "Kebiasaan lampau: used to."
+    },
+    {
+      "id": "r20261107-031",
+      "topic": "Inversion",
+      "level": "Menuju lancar",
+      "q": "Under no circumstances ___ open this door.",
+      "opts": [
+        "you should",
+        "should you",
+        "should"
+      ],
+      "a": 1,
+      "why": "Frasa negatif di awal: inversi should you."
+    },
+    {
+      "id": "r20261107-032",
+      "topic": "Mixed conditional",
+      "level": "Menuju lancar",
+      "q": "If we had left ten minutes earlier, we ___ at the airport by now.",
+      "opts": [
+        "would have been",
+        "will be",
+        "would be"
+      ],
+      "a": 2,
+      "why": "Hasil sekarang: would be."
+    },
+    {
+      "id": "r20261107-033",
+      "topic": "Causative",
+      "level": "Menuju lancar",
+      "q": "She is having her hair ___ at the salon.",
+      "opts": [
+        "cutting",
+        "cut",
+        "cuts"
+      ],
+      "a": 1,
+      "why": "Have + object + V3 (cut)."
+    },
+    {
+      "id": "r20261107-034",
+      "topic": "Phrasal verbs",
+      "level": "Menuju lancar",
+      "q": "I can’t ___ how much this costs. The price is confusing.",
+      "opts": [
+        "figure in",
+        "figure on",
+        "figure out"
+      ],
+      "a": 2,
+      "why": "Figure out = memahami."
+    },
+    {
+      "id": "r20261107-035",
+      "topic": "Subjunctive",
+      "level": "Menuju lancar",
+      "q": "The doctor recommended that she ___ less sugar.",
+      "opts": [
+        "eat",
+        "eats",
+        "ate"
+      ],
+      "a": 0,
+      "why": "Recommend + that + base verb."
+    },
+    {
+      "id": "r20261107-036",
+      "topic": "Inversion",
+      "level": "Menuju lancar",
+      "q": "Barely had she finished her speech ___ the audience stood up and cheered.",
+      "opts": [
+        "than",
+        "when",
+        "then"
+      ],
+      "a": 1,
+      "why": "Barely ... when ..."
+    },
+    {
+      "id": "r20261107-037",
+      "topic": "Vocabulary",
+      "level": "Menuju lancar",
+      "q": "The scientist made a ___ discovery that changed medicine forever.",
+      "opts": [
+        "groundbreaking",
+        "groundbreak",
+        "groundbroken"
+      ],
+      "a": 0,
+      "why": "Adjective: groundbreaking (sangat inovatif)."
+    },
+    {
+      "id": "r20261107-038",
+      "topic": "Wish",
+      "level": "Menuju lancar",
+      "q": "I wish we ___ a taxi. Now we’ve missed the train.",
+      "opts": [
+        "took",
+        "had taken",
+        "take"
+      ],
+      "a": 1,
+      "why": "Penyesalan lampau: wish + past perfect."
+    },
+    {
+      "id": "r20261107-039",
+      "topic": "Would rather",
+      "level": "Menuju lancar",
+      "q": "I’d rather you ___ smoke in here, please.",
+      "opts": [
+        "don’t",
+        "won’t",
+        "didn’t"
+      ],
+      "a": 2,
+      "why": "Would rather + past simple untuk orang lain."
+    },
+    {
+      "id": "r20261107-040",
+      "topic": "Preference",
+      "level": "Menuju lancar",
+      "q": "He would rather walk ___ take a crowded bus.",
+      "opts": [
+        "than",
+        "then",
+        "to"
+      ],
+      "a": 0,
+      "why": "Would rather X than Y."
+    }
+  ],
+  "articles": [
+    {
+      "id": "r20261107-a01",
+      "title": "The First Fish",
+      "level": "Dasar",
+      "min": 2,
+      "body": [
+        "On Saturday morning, Bimo went fishing with his grandfather. They sat by the lake with two old fishing rods. Grandfather told Bimo to be quiet and patient.",
+        "For one hour, nothing happened. Bimo wanted to go home, but his grandfather smiled and said, \"Fish can hear impatience.\" So Bimo stayed and watched the water.",
+        "Suddenly, Bimo’s rod moved! He pulled hard and caught a small silver fish. It was his first fish ever. Bimo looked at it for a long moment, then put it back into the lake. \"Grow bigger,\" he whispered. \"I will catch you again next year.\""
+      ],
+      "gloss": {
+        "fishing rods": "joran pancing",
+        "lake": "danau",
+        "patient": "sabar",
+        "impatience": "ketidaksabaran",
+        "suddenly": "tiba-tiba",
+        "pulled": "menarik",
+        "silver": "perak",
+        "whispered": "berbisik"
+      },
+      "qs": [
+        {
+          "q": "Who did Bimo go fishing with?",
+          "opts": [
+            "His father",
+            "His uncle",
+            "His grandfather"
+          ],
+          "a": 2
+        },
+        {
+          "q": "Why did Bimo want to go home?",
+          "opts": [
+            "Nothing happened for one hour",
+            "It started to rain",
+            "He forgot his lunch"
+          ],
+          "a": 0
+        },
+        {
+          "q": "What did Bimo do with the fish?",
+          "opts": [
+            "He took it home",
+            "He put it back into the lake",
+            "He gave it to his grandfather"
+          ],
+          "a": 1
+        }
+      ]
+    },
+    {
+      "id": "r20261107-a02",
+      "title": "The App That Reads to the Blind",
+      "level": "Menengah",
+      "min": 3,
+      "body": [
+        "For many blind people, reading a restaurant menu or a street sign is impossible without help. A free smartphone app is changing that. With one tap, it connects a blind user to a sighted volunteer anywhere in the world.",
+        "The volunteer sees the user’s camera and reads whatever is in front of it: the expiry date on a milk carton, the number of an arriving bus, or a letter from the bank. Calls usually last less than two minutes, but they make a big difference.",
+        "There are now over six million volunteers and only about five hundred thousand blind users, so help almost always comes within seconds. \"I feel independent again,\" says Rini, a user from Bandung. \"I don’t have to wait for my family to read things for me.\""
+      ],
+      "gloss": {
+        "blind": "tunanetra",
+        "sign": "rambu/papan",
+        "tap": "ketukan layar",
+        "sighted": "dapat melihat",
+        "volunteer": "relawan",
+        "expiry date": "tanggal kedaluwarsa",
+        "difference": "dampak besar",
+        "independent": "mandiri"
+      },
+      "qs": [
+        {
+          "q": "What does the app do with one tap?",
+          "opts": [
+            "It translates books into Braille",
+            "It calls an ambulance",
+            "It connects a blind user to a sighted volunteer"
+          ],
+          "a": 2
+        },
+        {
+          "q": "How long do the calls usually last?",
+          "opts": [
+            "About twenty minutes",
+            "Less than two minutes",
+            "More than an hour"
+          ],
+          "a": 1
+        },
+        {
+          "q": "Why does help almost always come within seconds?",
+          "opts": [
+            "The app is very expensive",
+            "The calls are very long",
+            "There are far more volunteers than users"
+          ],
+          "a": 2
+        }
+      ]
+    }
+  ]
+}
