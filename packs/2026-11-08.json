@@ -1,0 +1,625 @@
+{
+  "bank": [
+    {
+      "id": "r20261108-001",
+      "topic": "Vocabulary: fruit",
+      "level": "Dasar",
+      "q": "An ___ is round and red or green. Snow White ate one.",
+      "opts": [
+        "apple",
+        "orange",
+        "grape"
+      ],
+      "a": 0,
+      "why": "Apel (apple) seperti di cerita Snow White."
+    },
+    {
+      "id": "r20261108-002",
+      "topic": "Vocabulary: house",
+      "level": "Dasar",
+      "q": "We wash our hands in the ___.",
+      "opts": [
+        "bedroom",
+        "bathroom",
+        "garden"
+      ],
+      "a": 1,
+      "why": "Cuci tangan di kamar mandi (bathroom)."
+    },
+    {
+      "id": "r20261108-003",
+      "topic": "Demonstratives",
+      "level": "Dasar",
+      "q": "___ are my shoes. They are right here.",
+      "opts": [
+        "This",
+        "That",
+        "These"
+      ],
+      "a": 2,
+      "why": "Jamak dan dekat: these."
+    },
+    {
+      "id": "r20261108-004",
+      "topic": "Verb to be",
+      "level": "Dasar",
+      "q": "My brother ___ a doctor. He is a teacher.",
+      "opts": [
+        "is not",
+        "are not",
+        "am not"
+      ],
+      "a": 0,
+      "why": "He + is not."
+    },
+    {
+      "id": "r20261108-005",
+      "topic": "Plural nouns",
+      "level": "Dasar",
+      "q": "I see five ___ in the tree.",
+      "opts": [
+        "bird",
+        "birdes",
+        "birds"
+      ],
+      "a": 2,
+      "why": "Lima = jamak: birds."
+    },
+    {
+      "id": "r20261108-006",
+      "topic": "Prepositions of time",
+      "level": "Dasar",
+      "q": "We go to school ___ Monday.",
+      "opts": [
+        "on",
+        "in",
+        "at"
+      ],
+      "a": 0,
+      "why": "Hari: on."
+    },
+    {
+      "id": "r20261108-007",
+      "topic": "Vocabulary: animals",
+      "level": "Dasar",
+      "q": "A ___ gives us milk.",
+      "opts": [
+        "tiger",
+        "cow",
+        "snake"
+      ],
+      "a": 1,
+      "why": "Sapi (cow) memberi susu."
+    },
+    {
+      "id": "r20261108-008",
+      "topic": "Question words",
+      "level": "Dasar",
+      "q": "___ is your favorite color? - Blue.",
+      "opts": [
+        "Where",
+        "Who",
+        "What"
+      ],
+      "a": 2,
+      "why": "Menanyakan benda/hal: what."
+    },
+    {
+      "id": "r20261108-009",
+      "topic": "Present simple",
+      "level": "Dasar",
+      "q": "My sister ___ English very well.",
+      "opts": [
+        "speak",
+        "speaks",
+        "speaking"
+      ],
+      "a": 1,
+      "why": "Subjek she: speaks."
+    },
+    {
+      "id": "r20261108-010",
+      "topic": "Vocabulary: body",
+      "level": "Dasar",
+      "q": "We kick a ball with our ___.",
+      "opts": [
+        "hands",
+        "ears",
+        "feet"
+      ],
+      "a": 2,
+      "why": "Menendang dengan kaki (feet)."
+    },
+    {
+      "id": "r20261108-011",
+      "topic": "Past simple",
+      "level": "Menengah",
+      "q": "I ___ my old friend at the mall yesterday.",
+      "opts": [
+        "met",
+        "meet",
+        "meets"
+      ],
+      "a": 0,
+      "why": "Yesterday: met."
+    },
+    {
+      "id": "r20261108-012",
+      "topic": "Present perfect",
+      "level": "Menengah",
+      "q": "She ___ her homework, so she can watch TV now.",
+      "opts": [
+        "finishes",
+        "has finished",
+        "is finishing"
+      ],
+      "a": 1,
+      "why": "Baru selesai, dampak sekarang: has finished."
+    },
+    {
+      "id": "r20261108-013",
+      "topic": "Future",
+      "level": "Menengah",
+      "q": "Don’t worry, I promise I ___ be late.",
+      "opts": [
+        "won’t",
+        "don’t",
+        "am not"
+      ],
+      "a": 0,
+      "why": "Janji: won’t (will not)."
+    },
+    {
+      "id": "r20261108-014",
+      "topic": "Modals",
+      "level": "Menengah",
+      "q": "You look tired. You ___ go to bed early tonight.",
+      "opts": [
+        "must not",
+        "should",
+        "can’t"
+      ],
+      "a": 1,
+      "why": "Saran: should."
+    },
+    {
+      "id": "r20261108-015",
+      "topic": "Comparatives",
+      "level": "Menengah",
+      "q": "A motorbike is ___ than a bicycle.",
+      "opts": [
+        "fast",
+        "fastest",
+        "faster"
+      ],
+      "a": 2,
+      "why": "Perbandingan: faster than."
+    },
+    {
+      "id": "r20261108-016",
+      "topic": "Gerunds",
+      "level": "Menengah",
+      "q": "My father stopped ___ five years ago. His health is better now.",
+      "opts": [
+        "smoking",
+        "smoke",
+        "to smoke"
+      ],
+      "a": 0,
+      "why": "Stop + V-ing (berhenti melakukan)."
+    },
+    {
+      "id": "r20261108-017",
+      "topic": "Quantifiers",
+      "level": "Menengah",
+      "q": "I can’t hear you. There are ___ people talking at once.",
+      "opts": [
+        "too much",
+        "much",
+        "too many"
+      ],
+      "a": 2,
+      "why": "People terhitung: too many."
+    },
+    {
+      "id": "r20261108-018",
+      "topic": "Will",
+      "level": "Menengah",
+      "q": "A: I am hungry. B: I ___ make you a sandwich.",
+      "opts": [
+        "will",
+        "would",
+        "am"
+      ],
+      "a": 0,
+      "why": "Keputusan spontan: will."
+    },
+    {
+      "id": "r20261108-019",
+      "topic": "Since/for",
+      "level": "Menengah",
+      "q": "We have known each other ___ ten years.",
+      "opts": [
+        "since",
+        "for",
+        "from"
+      ],
+      "a": 1,
+      "why": "Durasi: for."
+    },
+    {
+      "id": "r20261108-020",
+      "topic": "Past continuous",
+      "level": "Menengah",
+      "q": "What ___ at eight o’clock last night?",
+      "opts": [
+        "you were doing",
+        "did you doing",
+        "were you doing"
+      ],
+      "a": 2,
+      "why": "Pertanyaan past continuous: were you doing."
+    },
+    {
+      "id": "r20261108-021",
+      "topic": "Passive voice",
+      "level": "Menengah atas",
+      "q": "These shoes ___ in Vietnam.",
+      "opts": [
+        "made",
+        "were made",
+        "are making"
+      ],
+      "a": 1,
+      "why": "Pasif: were made."
+    },
+    {
+      "id": "r20261108-022",
+      "topic": "Reported speech",
+      "level": "Menengah atas",
+      "q": "She said that she ___ me the next day.",
+      "opts": [
+        "will call",
+        "calls",
+        "would call"
+      ],
+      "a": 2,
+      "why": "Reported speech: will jadi would."
+    },
+    {
+      "id": "r20261108-023",
+      "topic": "Past perfect",
+      "level": "Menengah atas",
+      "q": "By the time the police arrived, the thief ___.",
+      "opts": [
+        "had escaped",
+        "has escaped",
+        "escapes"
+      ],
+      "a": 0,
+      "why": "Lebih dulu terjadi: had escaped."
+    },
+    {
+      "id": "r20261108-024",
+      "topic": "Relative clauses",
+      "level": "Menengah atas",
+      "q": "The restaurant ___ we had dinner last night was excellent.",
+      "opts": [
+        "which",
+        "where",
+        "who"
+      ],
+      "a": 1,
+      "why": "Tempat: where."
+    },
+    {
+      "id": "r20261108-025",
+      "topic": "Wish",
+      "level": "Menengah atas",
+      "q": "I wish I ___ taller. I can’t reach the top shelf.",
+      "opts": [
+        "were",
+        "am",
+        "will be"
+      ],
+      "a": 0,
+      "why": "Wish + past simple: were."
+    },
+    {
+      "id": "r20261108-026",
+      "topic": "Present perfect continuous",
+      "level": "Menengah atas",
+      "q": "How long ___ English?",
+      "opts": [
+        "you have been learning",
+        "have you been learning",
+        "do you learning"
+      ],
+      "a": 1,
+      "why": "Durasi sampai sekarang: have you been learning."
+    },
+    {
+      "id": "r20261108-027",
+      "topic": "Enough",
+      "level": "Menengah atas",
+      "q": "The box isn’t light ___ for me to carry alone.",
+      "opts": [
+        "too",
+        "very",
+        "enough"
+      ],
+      "a": 2,
+      "why": "Adj + enough."
+    },
+    {
+      "id": "r20261108-028",
+      "topic": "Question tags",
+      "level": "Menengah atas",
+      "q": "You weren’t at school yesterday, ___?",
+      "opts": [
+        "were you",
+        "weren’t you",
+        "did you"
+      ],
+      "a": 0,
+      "why": "Tag untuk weren’t (negatif): were you."
+    },
+    {
+      "id": "r20261108-029",
+      "topic": "Gerunds",
+      "level": "Menengah atas",
+      "q": "Before ___ to bed, she always brushes her teeth.",
+      "opts": [
+        "go",
+        "goes",
+        "going"
+      ],
+      "a": 2,
+      "why": "Before + V-ing."
+    },
+    {
+      "id": "r20261108-030",
+      "topic": "Passive voice",
+      "level": "Menengah atas",
+      "q": "The road ___ right now. Expect delays.",
+      "opts": [
+        "is being repaired",
+        "is repairing",
+        "repairs"
+      ],
+      "a": 0,
+      "why": "Pasif sedang berlangsung: is being repaired."
+    },
+    {
+      "id": "r20261108-031",
+      "topic": "Mixed conditional",
+      "level": "Menuju lancar",
+      "q": "If you had listened to my advice, you ___ in trouble now.",
+      "opts": [
+        "wouldn’t have been",
+        "wouldn’t be",
+        "won’t be"
+      ],
+      "a": 1,
+      "why": "Hasil sekarang: wouldn’t be."
+    },
+    {
+      "id": "r20261108-032",
+      "topic": "Causative",
+      "level": "Menuju lancar",
+      "q": "I need to get my eyes ___ before I buy new glasses.",
+      "opts": [
+        "test",
+        "testing",
+        "tested"
+      ],
+      "a": 2,
+      "why": "Get + object + V3."
+    },
+    {
+      "id": "r20261108-033",
+      "topic": "Phrasal verbs",
+      "level": "Menuju lancar",
+      "q": "The children were ___ by their grandparents while their parents worked abroad.",
+      "opts": [
+        "grown up",
+        "brought up",
+        "raised up"
+      ],
+      "a": 1,
+      "why": "Bring up = membesarkan (pasif: brought up)."
+    },
+    {
+      "id": "r20261108-034",
+      "topic": "Subjunctive",
+      "level": "Menuju lancar",
+      "q": "We suggest that the meeting ___ postponed until Friday.",
+      "opts": [
+        "is",
+        "was",
+        "be"
+      ],
+      "a": 2,
+      "why": "Suggest + that + base verb (pasif: be postponed)."
+    },
+    {
+      "id": "r20261108-035",
+      "topic": "Word forms",
+      "level": "Menuju lancar",
+      "q": "Her explanation was so ___ that everyone understood immediately.",
+      "opts": [
+        "clear",
+        "clearly",
+        "clarity"
+      ],
+      "a": 0,
+      "why": "Butuh adjective setelah was: clear."
+    },
+    {
+      "id": "r20261108-036",
+      "topic": "Wish",
+      "level": "Menuju lancar",
+      "q": "I wish the neighbors ___ their music so loud every night.",
+      "opts": [
+        "won’t play",
+        "wouldn’t play",
+        "don’t play"
+      ],
+      "a": 1,
+      "why": "Wish + would untuk keluhan."
+    },
+    {
+      "id": "r20261108-037",
+      "topic": "Would rather",
+      "level": "Menuju lancar",
+      "q": "I’d rather you ___ me the truth from the beginning.",
+      "opts": [
+        "had told",
+        "tell",
+        "will tell"
+      ],
+      "a": 0,
+      "why": "Would rather + past perfect untuk lampau."
+    },
+    {
+      "id": "r20261108-038",
+      "topic": "Should have",
+      "level": "Menuju lancar",
+      "q": "You ___ me you were coming. I would have cooked dinner!",
+      "opts": [
+        "should tell",
+        "should have told",
+        "must tell"
+      ],
+      "a": 1,
+      "why": "Kritik lampau: should have + V3."
+    },
+    {
+      "id": "r20261108-039",
+      "topic": "Inversion",
+      "level": "Menuju lancar",
+      "q": "Only after the storm ended ___ leave the house.",
+      "opts": [
+        "we did",
+        "we had",
+        "did we"
+      ],
+      "a": 2,
+      "why": "Only after di awal: inversi did we."
+    },
+    {
+      "id": "r20261108-040",
+      "topic": "Phrasal verbs",
+      "level": "Menuju lancar",
+      "q": "The project is too big for one person. Let’s divide the work ___.",
+      "opts": [
+        "up",
+        "down",
+        "off"
+      ],
+      "a": 0,
+      "why": "Divide up = membagi-bagi."
+    }
+  ],
+  "articles": [
+    {
+      "id": "r20261108-a01",
+      "title": "The Yellow Raincoat",
+      "level": "Dasar",
+      "min": 2,
+      "body": [
+        "Nadia wanted only one thing for her seventh birthday: a yellow raincoat. Her friends thought it was a strange gift, but Nadia had a plan.",
+        "When the rain came on Monday morning, Nadia put on her new raincoat and her red boots. She walked to school slowly and jumped in every puddle on the way. Her uniform stayed dry, and her smile was wide.",
+        "At school, the other children watched her from the window. The next day, five children came to school in raincoats of many colors. Nadia’s rainy Monday had started something new."
+      ],
+      "gloss": {
+        "raincoat": "jas hujan",
+        "strange": "aneh",
+        "plan": "rencana",
+        "puddle": "genangan air",
+        "boots": "sepatu bot",
+        "dry": "kering",
+        "wide": "lebar"
+      },
+      "qs": [
+        {
+          "q": "What gift did Nadia want?",
+          "opts": [
+            "A red bicycle",
+            "A new umbrella",
+            "A yellow raincoat"
+          ],
+          "a": 2
+        },
+        {
+          "q": "Why did Nadia walk slowly to school?",
+          "opts": [
+            "She jumped in every puddle",
+            "She was very tired",
+            "The rain was too heavy"
+          ],
+          "a": 0
+        },
+        {
+          "q": "What happened the next day?",
+          "opts": [
+            "All the children stayed home",
+            "Five children came in raincoats of many colors",
+            "Nadia lost her raincoat"
+          ],
+          "a": 1
+        }
+      ]
+    },
+    {
+      "id": "r20261108-a02",
+      "title": "Why More People Are Learning Sign Language",
+      "level": "Menengah",
+      "min": 3,
+      "body": [
+        "In many countries, sign language classes are filling up fast, and most of the students are not deaf. Parents learn to sign with their babies. Nurses learn to help their patients. Baristas learn to take orders from deaf customers.",
+        "There are good reasons for this trend. Sign language is a real language with its own grammar, not just hand movements for English words. Learning it opens a door to the deaf community, a group with its own rich culture, jokes, and poetry.",
+        "Teachers say the best reason is the simplest one. \"When more people can sign, fewer people are left out,\" says one instructor in Surabaya. \"A short conversation in sign language can turn a lonely day into a friendly one.\""
+      ],
+      "gloss": {
+        "sign language": "bahasa isyarat",
+        "deaf": "tuli",
+        "filling up": "cepat penuh",
+        "patients": "pasien",
+        "customers": "pelanggan",
+        "trend": "tren",
+        "left out": "dikucilkan",
+        "instructor": "instruktur"
+      },
+      "qs": [
+        {
+          "q": "Who is taking sign language classes these days?",
+          "opts": [
+            "Only deaf children",
+            "Only doctors and nurses",
+            "Mostly people who are not deaf"
+          ],
+          "a": 2
+        },
+        {
+          "q": "What does the text say about sign language?",
+          "opts": [
+            "It is just hand movements for English words",
+            "It is a real language with its own grammar",
+            "It is the same in every country"
+          ],
+          "a": 1
+        },
+        {
+          "q": "According to the instructor, what happens when more people can sign?",
+          "opts": [
+            "Classes become more expensive",
+            "Deaf people learn to speak",
+            "Fewer people are left out"
+          ],
+          "a": 2
+        }
+      ]
+    }
+  ]
+}
