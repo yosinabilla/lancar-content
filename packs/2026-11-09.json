@@ -1,0 +1,624 @@
+{
+  "bank": [
+    {
+      "id": "r20261109-001",
+      "topic": "Vocabulary: animals",
+      "level": "Dasar",
+      "q": "The ___ is the king of the jungle.",
+      "opts": [
+        "lion",
+        "mouse",
+        "rabbit"
+      ],
+      "a": 0,
+      "why": "Raja hutan: singa (lion)."
+    },
+    {
+      "id": "r20261109-002",
+      "topic": "Plural nouns",
+      "level": "Dasar",
+      "q": "I brush my ___ every morning.",
+      "opts": [
+        "tooth",
+        "teeth",
+        "toothes"
+      ],
+      "a": 1,
+      "why": "Jamak tak beraturan: teeth."
+    },
+    {
+      "id": "r20261109-003",
+      "topic": "Vocabulary: fruit",
+      "level": "Dasar",
+      "q": "A ___ is yellow and sour. We make lemonade from it.",
+      "opts": [
+        "mango",
+        "banana",
+        "lemon"
+      ],
+      "a": 2,
+      "why": "Kuning dan asam: lemon."
+    },
+    {
+      "id": "r20261109-004",
+      "topic": "Present simple",
+      "level": "Dasar",
+      "q": "We ___ TV in the living room every night.",
+      "opts": [
+        "watch",
+        "watches",
+        "watching"
+      ],
+      "a": 0,
+      "why": "We + V1: watch."
+    },
+    {
+      "id": "r20261109-005",
+      "topic": "Numbers",
+      "level": "Dasar",
+      "q": "Twelve months make one ___.",
+      "opts": [
+        "week",
+        "hour",
+        "year"
+      ],
+      "a": 2,
+      "why": "12 bulan = satu tahun (year)."
+    },
+    {
+      "id": "r20261109-006",
+      "topic": "Vocabulary: clothes",
+      "level": "Dasar",
+      "q": "It is raining hard. Wear your ___!",
+      "opts": [
+        "raincoat",
+        "pajamas",
+        "swimsuit"
+      ],
+      "a": 0,
+      "why": "Saat hujan: jas hujan (raincoat)."
+    },
+    {
+      "id": "r20261109-007",
+      "topic": "Adjectives",
+      "level": "Dasar",
+      "q": "An elephant is big, but an ant is ___.",
+      "opts": [
+        "tall",
+        "small",
+        "long"
+      ],
+      "a": 1,
+      "why": "Semut kecil (small)."
+    },
+    {
+      "id": "r20261109-008",
+      "topic": "Days",
+      "level": "Dasar",
+      "q": "We do not go to school on ___.",
+      "opts": [
+        "Monday",
+        "Tuesday",
+        "Sunday"
+      ],
+      "a": 2,
+      "why": "Hari libur sekolah: Minggu (Sunday)."
+    },
+    {
+      "id": "r20261109-009",
+      "topic": "There is/are",
+      "level": "Dasar",
+      "q": "___ a book on the table.",
+      "opts": [
+        "There are",
+        "There is",
+        "These are"
+      ],
+      "a": 1,
+      "why": "A book tunggal: there is."
+    },
+    {
+      "id": "r20261109-010",
+      "topic": "Possessives",
+      "level": "Dasar",
+      "q": "I have a cat. ___ name is Momo.",
+      "opts": [
+        "It’s",
+        "It",
+        "Its"
+      ],
+      "a": 2,
+      "why": "Milik (nama-nya): its."
+    },
+    {
+      "id": "r20261109-011",
+      "topic": "Past simple",
+      "level": "Menengah",
+      "q": "We ___ a great time at the party last night.",
+      "opts": [
+        "had",
+        "have",
+        "has"
+      ],
+      "a": 0,
+      "why": "Last night: had."
+    },
+    {
+      "id": "r20261109-012",
+      "topic": "Present perfect",
+      "level": "Menengah",
+      "q": "He ___ three books this month.",
+      "opts": [
+        "reads",
+        "has read",
+        "is reading"
+      ],
+      "a": 1,
+      "why": "This month belum selesai: has read."
+    },
+    {
+      "id": "r20261109-013",
+      "topic": "Future predictions",
+      "level": "Menengah",
+      "q": "I think robots ___ our homework in the future.",
+      "opts": [
+        "will do",
+        "do",
+        "did"
+      ],
+      "a": 0,
+      "why": "Prediksi: will do."
+    },
+    {
+      "id": "r20261109-014",
+      "topic": "Modals",
+      "level": "Menengah",
+      "q": "You ___ be quiet in the library.",
+      "opts": [
+        "can",
+        "must",
+        "might"
+      ],
+      "a": 1,
+      "why": "Aturan: must."
+    },
+    {
+      "id": "r20261109-015",
+      "topic": "Comparatives",
+      "level": "Menengah",
+      "q": "This bag is too small. I need a ___ one.",
+      "opts": [
+        "big",
+        "biggest",
+        "bigger"
+      ],
+      "a": 2,
+      "why": "Perbandingan: bigger."
+    },
+    {
+      "id": "r20261109-016",
+      "topic": "Gerunds",
+      "level": "Menengah",
+      "q": "She is good at ___ pictures of animals.",
+      "opts": [
+        "drawing",
+        "draw",
+        "to draw"
+      ],
+      "a": 0,
+      "why": "At + V-ing."
+    },
+    {
+      "id": "r20261109-017",
+      "topic": "Much/many",
+      "level": "Menengah",
+      "q": "How ___ money do you have in your pocket?",
+      "opts": [
+        "many",
+        "some",
+        "much"
+      ],
+      "a": 2,
+      "why": "Money tak terhitung: much."
+    },
+    {
+      "id": "r20261109-018",
+      "topic": "Offers",
+      "level": "Menengah",
+      "q": "Shall I ___ the door for you?",
+      "opts": [
+        "open",
+        "opened",
+        "opening"
+      ],
+      "a": 0,
+      "why": "Shall I + V1."
+    },
+    {
+      "id": "r20261109-019",
+      "topic": "Since/for",
+      "level": "Menengah",
+      "q": "They have been married ___ 2010.",
+      "opts": [
+        "for",
+        "since",
+        "from"
+      ],
+      "a": 1,
+      "why": "Titik waktu: since."
+    },
+    {
+      "id": "r20261109-020",
+      "topic": "Past continuous",
+      "level": "Menengah",
+      "q": "The sun ___ when we left the house this morning.",
+      "opts": [
+        "shines",
+        "is shining",
+        "was shining"
+      ],
+      "a": 2,
+      "why": "Latar lampau: was shining."
+    },
+    {
+      "id": "r20261109-021",
+      "topic": "Second conditional",
+      "level": "Menengah atas",
+      "q": "If I ___ a millionaire, I would travel around the world.",
+      "opts": [
+        "am",
+        "were",
+        "will be"
+      ],
+      "a": 1,
+      "why": "Pengandaian tak nyata: were."
+    },
+    {
+      "id": "r20261109-022",
+      "topic": "Reported speech",
+      "level": "Menengah atas",
+      "q": "He asked me ___ I liked spicy food.",
+      "opts": [
+        "that",
+        "what",
+        "if"
+      ],
+      "a": 2,
+      "why": "Yes/no question dalam reported speech: if."
+    },
+    {
+      "id": "r20261109-023",
+      "topic": "Past perfect",
+      "level": "Menengah atas",
+      "q": "She was very hungry because she ___ breakfast.",
+      "opts": [
+        "hadn’t eaten",
+        "hasn’t eaten",
+        "doesn’t eat"
+      ],
+      "a": 0,
+      "why": "Lebih dulu: past perfect negatif."
+    },
+    {
+      "id": "r20261109-024",
+      "topic": "Relative clauses",
+      "level": "Menengah atas",
+      "q": "Do you know the girl ___ is talking to our teacher?",
+      "opts": [
+        "which",
+        "who",
+        "whose"
+      ],
+      "a": 1,
+      "why": "Orang sebagai subjek: who."
+    },
+    {
+      "id": "r20261109-025",
+      "topic": "Wish",
+      "level": "Menengah atas",
+      "q": "I wish I ___ speak Japanese. The anime subtitles are too fast.",
+      "opts": [
+        "could",
+        "can",
+        "will"
+      ],
+      "a": 0,
+      "why": "Wish + could."
+    },
+    {
+      "id": "r20261109-026",
+      "topic": "Present perfect continuous",
+      "level": "Menengah atas",
+      "q": "I ___ all morning. Now I need a rest.",
+      "opts": [
+        "study",
+        "have been studying",
+        "studied"
+      ],
+      "a": 1,
+      "why": "Durasi sampai sekarang: have been studying."
+    },
+    {
+      "id": "r20261109-027",
+      "topic": "Too/enough",
+      "level": "Menengah atas",
+      "q": "This suitcase is ___ heavy for me to lift.",
+      "opts": [
+        "very",
+        "enough",
+        "too"
+      ],
+      "a": 2,
+      "why": "Terlalu berat untuk: too."
+    },
+    {
+      "id": "r20261109-028",
+      "topic": "Question tags",
+      "level": "Menengah atas",
+      "q": "He plays tennis every weekend, ___?",
+      "opts": [
+        "doesn’t he",
+        "does he",
+        "isn’t he"
+      ],
+      "a": 0,
+      "why": "Tag untuk plays (positif): doesn’t he."
+    },
+    {
+      "id": "r20261109-029",
+      "topic": "Gerunds",
+      "level": "Menengah atas",
+      "q": "After ___ his homework, he watched a movie.",
+      "opts": [
+        "finish",
+        "finished",
+        "finishing"
+      ],
+      "a": 2,
+      "why": "After + V-ing."
+    },
+    {
+      "id": "r20261109-030",
+      "topic": "Modals",
+      "level": "Menengah atas",
+      "q": "You ___ bring your own lunch. The school provides it for free.",
+      "opts": [
+        "don’t have to",
+        "mustn’t",
+        "can’t"
+      ],
+      "a": 0,
+      "why": "Tidak wajib: don’t have to."
+    },
+    {
+      "id": "r20261109-031",
+      "topic": "Mixed conditional",
+      "level": "Menuju lancar",
+      "q": "If the government had built the bridge earlier, the village ___ so isolated today.",
+      "opts": [
+        "wouldn’t have been",
+        "wouldn’t be",
+        "won’t be"
+      ],
+      "a": 1,
+      "why": "Hasil sekarang: wouldn’t be."
+    },
+    {
+      "id": "r20261109-032",
+      "topic": "Causative",
+      "level": "Menuju lancar",
+      "q": "We had our house ___ white last month.",
+      "opts": [
+        "paint",
+        "painting",
+        "painted"
+      ],
+      "a": 2,
+      "why": "Have + object + V3."
+    },
+    {
+      "id": "r20261109-033",
+      "topic": "Phrasal verbs",
+      "level": "Menuju lancar",
+      "q": "She takes ___ her mother; they are both very kind and patient.",
+      "opts": [
+        "over",
+        "after",
+        "off"
+      ],
+      "a": 1,
+      "why": "Take after = mirip dengan."
+    },
+    {
+      "id": "r20261109-034",
+      "topic": "Subjunctive",
+      "level": "Menuju lancar",
+      "q": "It is important that he ___ the truth.",
+      "opts": [
+        "tells",
+        "told",
+        "tell"
+      ],
+      "a": 2,
+      "why": "Important + that + base verb."
+    },
+    {
+      "id": "r20261109-035",
+      "topic": "Inversion",
+      "level": "Menuju lancar",
+      "q": "No sooner had she closed her eyes ___ the phone rang.",
+      "opts": [
+        "than",
+        "when",
+        "then"
+      ],
+      "a": 0,
+      "why": "No sooner ... than ..."
+    },
+    {
+      "id": "r20261109-036",
+      "topic": "Vocabulary",
+      "level": "Menuju lancar",
+      "q": "The twin brothers are so ___ that even their parents sometimes mix them up.",
+      "opts": [
+        "identity",
+        "identical",
+        "identically"
+      ],
+      "a": 1,
+      "why": "Adjective: identical (persis sama)."
+    },
+    {
+      "id": "r20261109-037",
+      "topic": "Wish",
+      "level": "Menuju lancar",
+      "q": "I wish I ___ harder for the exam. My score is terrible.",
+      "opts": [
+        "had studied",
+        "studied",
+        "study"
+      ],
+      "a": 0,
+      "why": "Penyesalan lampau: wish + past perfect."
+    },
+    {
+      "id": "r20261109-038",
+      "topic": "Had better",
+      "level": "Menuju lancar",
+      "q": "It’s getting late. We’d better ___ now.",
+      "opts": [
+        "to leave",
+        "leave",
+        "leaving"
+      ],
+      "a": 1,
+      "why": "Had better + V1."
+    },
+    {
+      "id": "r20261109-039",
+      "topic": "Should have",
+      "level": "Menuju lancar",
+      "q": "You ___ at the red light. That was very dangerous!",
+      "opts": [
+        "should stop",
+        "must stop",
+        "should have stopped"
+      ],
+      "a": 2,
+      "why": "Kritik lampau: should have + V3."
+    },
+    {
+      "id": "r20261109-040",
+      "topic": "Inversion",
+      "level": "Menuju lancar",
+      "q": "Only when the rain stopped ___ continue our journey.",
+      "opts": [
+        "could we",
+        "we could",
+        "we had"
+      ],
+      "a": 0,
+      "why": "Only when di awal: inversi could we."
+    }
+  ],
+  "articles": [
+    {
+      "id": "r20261109-a01",
+      "title": "The School Concert",
+      "level": "Dasar",
+      "min": 2,
+      "body": [
+        "Raka could sing beautifully at home. But when his teacher chose him to sing alone at the school concert, his legs started to shake.",
+        "\"Practice every day,\" said his best friend, Salsa. So Raka practiced in front of Salsa, then in front of his family, and then in front of his whole class.",
+        "On the night of the concert, Raka walked onto the stage. The hall was full of people. He saw Salsa smiling in the first row. He opened his mouth and sang every word perfectly. The applause was loud, but Raka’s smile was louder."
+      ],
+      "gloss": {
+        "alone": "sendiri",
+        "shake": "bergetar",
+        "stage": "panggung",
+        "hall": "aula",
+        "row": "baris",
+        "perfectly": "dengan sempurna",
+        "applause": "tepuk tangan"
+      },
+      "qs": [
+        {
+          "q": "What could Raka do well at home?",
+          "opts": [
+            "Dance beautifully",
+            "Play the guitar",
+            "Sing beautifully"
+          ],
+          "a": 2
+        },
+        {
+          "q": "Who helped Raka practice?",
+          "opts": [
+            "His best friend Salsa",
+            "His music teacher",
+            "His little brother"
+          ],
+          "a": 0
+        },
+        {
+          "q": "How did Raka sing at the concert?",
+          "opts": [
+            "He forgot the words",
+            "Every word perfectly",
+            "Only the first verse"
+          ],
+          "a": 1
+        }
+      ]
+    },
+    {
+      "id": "r20261109-a02",
+      "title": "Why More Students Are Taking a Gap Year",
+      "level": "Menengah",
+      "min": 3,
+      "body": [
+        "After high school, most students go straight to university. But a growing number are choosing something different: a gap year, a break of twelve months before they continue their studies.",
+        "During a gap year, students might work, travel, or volunteer. A student who teaches English in a village, for example, learns patience and leadership that no classroom can give. Many return to university with clearer goals and more maturity.",
+        "Some parents worry that a gap year is just a long holiday. Research suggests otherwise: students who take a structured gap year often get better grades than those who do not. The key is having a plan, not just free time."
+      ],
+      "gloss": {
+        "gap year": "tahun jeda",
+        "straight": "langsung",
+        "volunteer": "menjadi relawan",
+        "patience": "kesabaran",
+        "maturity": "kedewasaan",
+        "worry": "khawatir",
+        "structured": "terencana"
+      },
+      "qs": [
+        {
+          "q": "What is a gap year?",
+          "opts": [
+            "A year of studying abroad",
+            "A year of military service",
+            "A twelve-month break before university"
+          ],
+          "a": 2
+        },
+        {
+          "q": "What do many students gain after a gap year?",
+          "opts": [
+            "Cheaper tuition fees",
+            "Clearer goals and more maturity",
+            "Easier exams"
+          ],
+          "a": 1
+        },
+        {
+          "q": "According to the text, what is the key to a good gap year?",
+          "opts": [
+            "Having a lot of money",
+            "Traveling far from home",
+            "Having a plan"
+          ],
+          "a": 2
+        }
+      ]
+    }
+  ]
+}
