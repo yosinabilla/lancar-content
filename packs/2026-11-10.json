@@ -1,0 +1,624 @@
+{
+  "bank": [
+    {
+      "id": "r20261110-001",
+      "topic": "Vocabulary: animals",
+      "level": "Dasar",
+      "q": "A ___ is black and white and looks like a horse.",
+      "opts": [
+        "zebra",
+        "panda",
+        "tiger"
+      ],
+      "a": 0,
+      "why": "Belang hitam putih seperti kuda: zebra."
+    },
+    {
+      "id": "r20261110-002",
+      "topic": "Vocabulary: food",
+      "level": "Dasar",
+      "q": "We drink ___ from a cow. It is white.",
+      "opts": [
+        "juice",
+        "milk",
+        "coffee"
+      ],
+      "a": 1,
+      "why": "Minuman putih dari sapi: susu (milk)."
+    },
+    {
+      "id": "r20261110-003",
+      "topic": "Plural nouns",
+      "level": "Dasar",
+      "q": "Two ___ are playing in the yard.",
+      "opts": [
+        "boy",
+        "boies",
+        "boys"
+      ],
+      "a": 2,
+      "why": "Dua = jamak: boys."
+    },
+    {
+      "id": "r20261110-004",
+      "topic": "Prepositions",
+      "level": "Dasar",
+      "q": "My house is ___ the post office and the bank.",
+      "opts": [
+        "between",
+        "under",
+        "behind"
+      ],
+      "a": 0,
+      "why": "Di antara dua tempat: between ... and."
+    },
+    {
+      "id": "r20261110-005",
+      "topic": "Vocabulary: weather",
+      "level": "Dasar",
+      "q": "When it is ___, we make a snowman.",
+      "opts": [
+        "sunny",
+        "windy",
+        "snowy"
+      ],
+      "a": 2,
+      "why": "Manusia salju dibuat saat bersalju (snowy)."
+    },
+    {
+      "id": "r20261110-006",
+      "topic": "Question words",
+      "level": "Dasar",
+      "q": "___ do you go to bed? - At nine.",
+      "opts": [
+        "When",
+        "Where",
+        "Who"
+      ],
+      "a": 0,
+      "why": "Jawaban waktu: when."
+    },
+    {
+      "id": "r20261110-007",
+      "topic": "Present simple",
+      "level": "Dasar",
+      "q": "It ___ a lot in January here.",
+      "opts": [
+        "rain",
+        "rains",
+        "raining"
+      ],
+      "a": 1,
+      "why": "Subjek it: rains."
+    },
+    {
+      "id": "r20261110-008",
+      "topic": "Numbers",
+      "level": "Dasar",
+      "q": "Seven days make one ___.",
+      "opts": [
+        "month",
+        "year",
+        "week"
+      ],
+      "a": 2,
+      "why": "7 hari = satu minggu (week)."
+    },
+    {
+      "id": "r20261110-009",
+      "topic": "Vocabulary: school",
+      "level": "Dasar",
+      "q": "We eat lunch in the school ___.",
+      "opts": [
+        "library",
+        "canteen",
+        "classroom"
+      ],
+      "a": 1,
+      "why": "Makan siang di kantin (canteen)."
+    },
+    {
+      "id": "r20261110-010",
+      "topic": "Adjectives",
+      "level": "Dasar",
+      "q": "The turtle is slow, but the rabbit is ___.",
+      "opts": [
+        "big",
+        "small",
+        "fast"
+      ],
+      "a": 2,
+      "why": "Kelinci cepat (fast)."
+    },
+    {
+      "id": "r20261110-011",
+      "topic": "Past simple",
+      "level": "Menengah",
+      "q": "She ___ very well in the English test last week.",
+      "opts": [
+        "did",
+        "does",
+        "done"
+      ],
+      "a": 0,
+      "why": "Last week: did."
+    },
+    {
+      "id": "r20261110-012",
+      "topic": "Present perfect",
+      "level": "Menengah",
+      "q": "They ___ to Bali three times.",
+      "opts": [
+        "go",
+        "have been",
+        "are going"
+      ],
+      "a": 1,
+      "why": "Pengalaman: have been to."
+    },
+    {
+      "id": "r20261110-013",
+      "topic": "Future arrangements",
+      "level": "Menengah",
+      "q": "We have tickets. We ___ the concert tomorrow night.",
+      "opts": [
+        "are seeing",
+        "see",
+        "saw"
+      ],
+      "a": 0,
+      "why": "Rencana pasti: present continuous."
+    },
+    {
+      "id": "r20261110-014",
+      "topic": "Modals",
+      "level": "Menengah",
+      "q": "You ___ touch the paintings in a museum. It is not allowed.",
+      "opts": [
+        "don’t have to",
+        "must not",
+        "might not"
+      ],
+      "a": 1,
+      "why": "Larangan: must not."
+    },
+    {
+      "id": "r20261110-015",
+      "topic": "Gerunds",
+      "level": "Menengah",
+      "q": "I am looking forward to ___ you again.",
+      "opts": [
+        "see",
+        "saw",
+        "seeing"
+      ],
+      "a": 2,
+      "why": "Look forward to + V-ing."
+    },
+    {
+      "id": "r20261110-016",
+      "topic": "Quantifiers",
+      "level": "Menengah",
+      "q": "I can’t drink this coffee. It has ___ sugar.",
+      "opts": [
+        "too much",
+        "too many",
+        "many"
+      ],
+      "a": 0,
+      "why": "Sugar tak terhitung: too much."
+    },
+    {
+      "id": "r20261110-017",
+      "topic": "Future predictions",
+      "level": "Menengah",
+      "q": "I think our team ___ the match tonight.",
+      "opts": [
+        "wins",
+        "won",
+        "will win"
+      ],
+      "a": 2,
+      "why": "Prediksi: will win."
+    },
+    {
+      "id": "r20261110-018",
+      "topic": "Since/for",
+      "level": "Menengah",
+      "q": "She has played badminton ___ she was eight years old.",
+      "opts": [
+        "since",
+        "for",
+        "when"
+      ],
+      "a": 0,
+      "why": "Since + klausa (she was eight)."
+    },
+    {
+      "id": "r20261110-019",
+      "topic": "Past continuous",
+      "level": "Menengah",
+      "q": "He fell asleep while he ___ TV.",
+      "opts": [
+        "watches",
+        "was watching",
+        "is watching"
+      ],
+      "a": 1,
+      "why": "Sedang berlangsung: was watching."
+    },
+    {
+      "id": "r20261110-020",
+      "topic": "Just/yet",
+      "level": "Menengah",
+      "q": "I have ___ finished my lunch, so I’m not hungry.",
+      "opts": [
+        "yet",
+        "ever",
+        "just"
+      ],
+      "a": 2,
+      "why": "Baru saja: just."
+    },
+    {
+      "id": "r20261110-021",
+      "topic": "Second conditional",
+      "level": "Menengah atas",
+      "q": "If she ___ harder, she would pass the exam easily.",
+      "opts": [
+        "studies",
+        "studied",
+        "will study"
+      ],
+      "a": 1,
+      "why": "Pengandaian: past simple studied."
+    },
+    {
+      "id": "r20261110-022",
+      "topic": "Reported speech",
+      "level": "Menengah atas",
+      "q": "He told me that he ___ very busy the week before.",
+      "opts": [
+        "has been",
+        "is",
+        "had been"
+      ],
+      "a": 2,
+      "why": "Reported speech: past perfect had been."
+    },
+    {
+      "id": "r20261110-023",
+      "topic": "Past perfect",
+      "level": "Menengah atas",
+      "q": "When we got home, the children ___ to bed.",
+      "opts": [
+        "had gone",
+        "have gone",
+        "go"
+      ],
+      "a": 0,
+      "why": "Lebih dulu: had gone."
+    },
+    {
+      "id": "r20261110-024",
+      "topic": "Relative clauses",
+      "level": "Menengah atas",
+      "q": "The hotel ___ we stayed was right next to the beach.",
+      "opts": [
+        "which",
+        "where",
+        "who"
+      ],
+      "a": 1,
+      "why": "Tempat: where."
+    },
+    {
+      "id": "r20261110-025",
+      "topic": "Wish",
+      "level": "Menengah atas",
+      "q": "I wish it ___ Sunday tomorrow. I hate Mondays.",
+      "opts": [
+        "were",
+        "is",
+        "will be"
+      ],
+      "a": 0,
+      "why": "Wish + past simple: were."
+    },
+    {
+      "id": "r20261110-026",
+      "topic": "Present perfect continuous",
+      "level": "Menengah atas",
+      "q": "She ___ for this company since 2019.",
+      "opts": [
+        "works",
+        "has been working",
+        "worked"
+      ],
+      "a": 1,
+      "why": "Since + durasi: has been working."
+    },
+    {
+      "id": "r20261110-027",
+      "topic": "Enough",
+      "level": "Menengah atas",
+      "q": "Are you warm ___, or should I close the window?",
+      "opts": [
+        "too",
+        "very",
+        "enough"
+      ],
+      "a": 2,
+      "why": "Adj + enough."
+    },
+    {
+      "id": "r20261110-028",
+      "topic": "Question tags",
+      "level": "Menengah atas",
+      "q": "Let’s eat out tonight, ___?",
+      "opts": [
+        "shall we",
+        "do we",
+        "don’t we"
+      ],
+      "a": 0,
+      "why": "Tag untuk let’s: shall we."
+    },
+    {
+      "id": "r20261110-029",
+      "topic": "Gerunds",
+      "level": "Menengah atas",
+      "q": "He left the room without ___ goodbye.",
+      "opts": [
+        "say",
+        "said",
+        "saying"
+      ],
+      "a": 2,
+      "why": "Without + V-ing."
+    },
+    {
+      "id": "r20261110-030",
+      "topic": "Passive voice",
+      "level": "Menengah atas",
+      "q": "My bicycle ___! I can’t find it anywhere.",
+      "opts": [
+        "has been stolen",
+        "steals",
+        "is stealing"
+      ],
+      "a": 0,
+      "why": "Pasif present perfect: has been stolen."
+    },
+    {
+      "id": "r20261110-031",
+      "topic": "Inversion",
+      "level": "Menuju lancar",
+      "q": "So loud ___ the music that I couldn’t hear you at all.",
+      "opts": [
+        "the music was",
+        "was",
+        "it was"
+      ],
+      "a": 1,
+      "why": "So + adj di awal: inversi was the music."
+    },
+    {
+      "id": "r20261110-032",
+      "topic": "Mixed conditional",
+      "level": "Menuju lancar",
+      "q": "If I hadn’t missed the bus, I ___ late for the interview now.",
+      "opts": [
+        "wouldn’t have been",
+        "won’t be",
+        "wouldn’t be"
+      ],
+      "a": 2,
+      "why": "Hasil sekarang: wouldn’t be."
+    },
+    {
+      "id": "r20261110-033",
+      "topic": "Causative",
+      "level": "Menuju lancar",
+      "q": "He is going to have a bad tooth ___ tomorrow.",
+      "opts": [
+        "pull out",
+        "pulled out",
+        "pulling out"
+      ],
+      "a": 1,
+      "why": "Have + object + V3 (pulled out)."
+    },
+    {
+      "id": "r20261110-034",
+      "topic": "Phrasal verbs",
+      "level": "Menuju lancar",
+      "q": "Could you ___ the children for an hour? I have a meeting.",
+      "opts": [
+        "look up",
+        "look over",
+        "look after"
+      ],
+      "a": 2,
+      "why": "Look after = menjaga."
+    },
+    {
+      "id": "r20261110-035",
+      "topic": "Subjunctive",
+      "level": "Menuju lancar",
+      "q": "The law requires that every rider ___ a helmet.",
+      "opts": [
+        "wear",
+        "wears",
+        "wore"
+      ],
+      "a": 0,
+      "why": "Require + that + base verb."
+    },
+    {
+      "id": "r20261110-036",
+      "topic": "Inversion",
+      "level": "Menuju lancar",
+      "q": "Scarcely had I stepped outside ___ it started to pour.",
+      "opts": [
+        "than",
+        "when",
+        "then"
+      ],
+      "a": 1,
+      "why": "Scarcely ... when ..."
+    },
+    {
+      "id": "r20261110-037",
+      "topic": "Word forms",
+      "level": "Menuju lancar",
+      "q": "The instructions were so ___ that nobody could follow them.",
+      "opts": [
+        "confusing",
+        "confuse",
+        "confused"
+      ],
+      "a": 0,
+      "why": "Benda yang membingungkan: confusing."
+    },
+    {
+      "id": "r20261110-038",
+      "topic": "Wish",
+      "level": "Menuju lancar",
+      "q": "I wish you ___ me about the change of plan earlier.",
+      "opts": [
+        "told",
+        "had told",
+        "tell"
+      ],
+      "a": 1,
+      "why": "Penyesalan lampau: wish + past perfect."
+    },
+    {
+      "id": "r20261110-039",
+      "topic": "Would rather",
+      "level": "Menuju lancar",
+      "q": "I would rather ___ alone than with people I don’t like.",
+      "opts": [
+        "to travel",
+        "traveling",
+        "travel"
+      ],
+      "a": 2,
+      "why": "Would rather + V1."
+    },
+    {
+      "id": "r20261110-040",
+      "topic": "Should have",
+      "level": "Menuju lancar",
+      "q": "You ___ the milk in the fridge. Now it smells bad.",
+      "opts": [
+        "should have kept",
+        "should keep",
+        "must keep"
+      ],
+      "a": 0,
+      "why": "Kritik lampau: should have + V3."
+    }
+  ],
+  "articles": [
+    {
+      "id": "r20261110-a01",
+      "title": "The Red Balloon",
+      "level": "Dasar",
+      "min": 2,
+      "body": [
+        "For her birthday, Sari got a big red balloon. She held the string tightly as she walked with her mother to the park.",
+        "Suddenly, a strong wind blew. The string slipped from Sari’s fingers. The red balloon flew up, up, up, over the trees. Sari cried all the way home.",
+        "That afternoon, there was a knock at the door. A boy from the next street stood there, holding the red balloon. \"It fell into our garden,\" he said. Sari smiled and said thank you a hundred times. That evening, she tied the balloon to her chair very, very carefully."
+      ],
+      "gloss": {
+        "balloon": "balon",
+        "tightly": "erat-erat",
+        "blew": "bertiup",
+        "slipped": "terlepas",
+        "knock": "ketukan",
+        "tied": "mengikat",
+        "carefully": "dengan hati-hati"
+      },
+      "qs": [
+        {
+          "q": "What did Sari get for her birthday?",
+          "opts": [
+            "A big red bicycle",
+            "A big red kite",
+            "A big red balloon"
+          ],
+          "a": 2
+        },
+        {
+          "q": "Why did Sari cry?",
+          "opts": [
+            "The wind took her balloon",
+            "She fell in the park",
+            "Her mother was angry"
+          ],
+          "a": 0
+        },
+        {
+          "q": "Who brought the balloon back?",
+          "opts": [
+            "Her father",
+            "A boy from the next street",
+            "A policeman"
+          ],
+          "a": 1
+        }
+      ]
+    },
+    {
+      "id": "r20261110-a02",
+      "title": "The Rise of the Four-Day Week",
+      "level": "Menengah",
+      "min": 3,
+      "body": [
+        "Imagine working from Monday to Thursday and having a three-day weekend every week. This is not a dream. Companies in several countries have tried a four-day working week, and many never went back.",
+        "In most trials, workers keep their full salary but work one day less. The results surprised many managers: productivity stayed the same or even rose. Workers were less tired, took fewer sick days, and stayed at their jobs longer.",
+        "The four-day week does not fit every job, of course. Hospitals and restaurants still need people every day. But for office workers, the idea is spreading fast. \"I use my Fridays for my family,\" says one worker. \"I am happier, and strangely, I finish more work.\""
+      ],
+      "gloss": {
+        "trials": "uji coba",
+        "salary": "gaji",
+        "productivity": "produktivitas",
+        "sick days": "hari sakit",
+        "fit": "cocok",
+        "spreading": "menyebar",
+        "strangely": "anehnya"
+      },
+      "qs": [
+        {
+          "q": "What happened to productivity in most four-day week trials?",
+          "opts": [
+            "It fell sharply",
+            "It was not measured",
+            "It stayed the same or rose"
+          ],
+          "a": 2
+        },
+        {
+          "q": "What happened to the workers in the trials?",
+          "opts": [
+            "They worked more hours",
+            "They took fewer sick days",
+            "They asked for lower salaries"
+          ],
+          "a": 1
+        },
+        {
+          "q": "Why doesn’t the four-day week fit every job?",
+          "opts": [
+            "Workers dislike long weekends",
+            "It is against the law",
+            "Some places need people every day"
+          ],
+          "a": 2
+        }
+      ]
+    }
+  ]
+}
