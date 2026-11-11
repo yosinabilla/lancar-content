@@ -1,0 +1,623 @@
+{
+  "bank": [
+    {
+      "id": "r20261111-001",
+      "topic": "Vocabulary: animals",
+      "level": "Dasar",
+      "q": "The ___ has a very long nose called a trunk.",
+      "opts": [
+        "elephant",
+        "giraffe",
+        "monkey"
+      ],
+      "a": 0,
+      "why": "Belalai (trunk) milik gajah (elephant)."
+    },
+    {
+      "id": "r20261111-002",
+      "topic": "Vocabulary: food",
+      "level": "Dasar",
+      "q": "___ is made from milk. We put it on bread or pizza.",
+      "opts": [
+        "Rice",
+        "Cheese",
+        "Soup"
+      ],
+      "a": 1,
+      "why": "Keju (cheese) terbuat dari susu."
+    },
+    {
+      "id": "r20261111-003",
+      "topic": "Verb to be",
+      "level": "Dasar",
+      "q": "She ___ from Yogyakarta.",
+      "opts": [
+        "are",
+        "am",
+        "is"
+      ],
+      "a": 2,
+      "why": "She + is."
+    },
+    {
+      "id": "r20261111-004",
+      "topic": "Plural nouns",
+      "level": "Dasar",
+      "q": "How many ___ can you see at the terminal? - Three.",
+      "opts": [
+        "buses",
+        "bus",
+        "busses"
+      ],
+      "a": 0,
+      "why": "Jamak bus: buses."
+    },
+    {
+      "id": "r20261111-005",
+      "topic": "Prepositions",
+      "level": "Dasar",
+      "q": "The clock is ___ the door.",
+      "opts": [
+        "between",
+        "across",
+        "above"
+      ],
+      "a": 2,
+      "why": "Di atas pintu: above."
+    },
+    {
+      "id": "r20261111-006",
+      "topic": "Vocabulary: weather",
+      "level": "Dasar",
+      "q": "It is ___ today. The sky is blue and the sun is bright.",
+      "opts": [
+        "sunny",
+        "rainy",
+        "cloudy"
+      ],
+      "a": 0,
+      "why": "Langit biru dan matahari cerah: sunny."
+    },
+    {
+      "id": "r20261111-007",
+      "topic": "Present simple",
+      "level": "Dasar",
+      "q": "My little brother ___ cartoons every afternoon.",
+      "opts": [
+        "watch",
+        "watches",
+        "watching"
+      ],
+      "a": 1,
+      "why": "Subjek he: watches."
+    },
+    {
+      "id": "r20261111-008",
+      "topic": "Numbers",
+      "level": "Dasar",
+      "q": "Ten plus ten is ___.",
+      "opts": [
+        "twelve",
+        "thirty",
+        "twenty"
+      ],
+      "a": 2,
+      "why": "10 + 10 = 20 (twenty)."
+    },
+    {
+      "id": "r20261111-009",
+      "topic": "Vocabulary: school",
+      "level": "Dasar",
+      "q": "The teacher writes on the ___ with a marker.",
+      "opts": [
+        "window",
+        "whiteboard",
+        "floor"
+      ],
+      "a": 1,
+      "why": "Menulis dengan spidol di papan tulis (whiteboard)."
+    },
+    {
+      "id": "r20261111-010",
+      "topic": "Adjectives",
+      "level": "Dasar",
+      "q": "Ice is cold, but soup is ___.",
+      "opts": [
+        "big",
+        "sweet",
+        "hot"
+      ],
+      "a": 2,
+      "why": "Sup panas (hot)."
+    },
+    {
+      "id": "r20261111-011",
+      "topic": "Past simple",
+      "level": "Menengah",
+      "q": "He ___ his wallet on the bus this morning.",
+      "opts": [
+        "lost",
+        "loses",
+        "lose"
+      ],
+      "a": 0,
+      "why": "This morning (selesai): lost."
+    },
+    {
+      "id": "r20261111-012",
+      "topic": "Future",
+      "level": "Menengah",
+      "q": "Be careful with that glass! You ___ it.",
+      "opts": [
+        "drop",
+        "are going to drop",
+        "dropped"
+      ],
+      "a": 1,
+      "why": "Tanda nyata: be going to."
+    },
+    {
+      "id": "r20261111-013",
+      "topic": "Modals",
+      "level": "Menengah",
+      "q": "Students ___ bring a dictionary to the English exam. It is allowed.",
+      "opts": [
+        "may",
+        "mustn’t",
+        "can’t"
+      ],
+      "a": 0,
+      "why": "Diizinkan: may."
+    },
+    {
+      "id": "r20261111-014",
+      "topic": "Comparatives",
+      "level": "Menengah",
+      "q": "December is usually ___ than July in my city.",
+      "opts": [
+        "wet",
+        "wetter",
+        "wettest"
+      ],
+      "a": 1,
+      "why": "Perbandingan: wetter than."
+    },
+    {
+      "id": "r20261111-015",
+      "topic": "Gerunds",
+      "level": "Menengah",
+      "q": "He keeps ___ the same mistake again and again.",
+      "opts": [
+        "make",
+        "to make",
+        "making"
+      ],
+      "a": 2,
+      "why": "Keep + V-ing."
+    },
+    {
+      "id": "r20261111-016",
+      "topic": "Quantifiers",
+      "level": "Menengah",
+      "q": "There were ___ questions on the test. I couldn’t finish in time.",
+      "opts": [
+        "too many",
+        "too much",
+        "much"
+      ],
+      "a": 0,
+      "why": "Questions terhitung: too many."
+    },
+    {
+      "id": "r20261111-017",
+      "topic": "Will",
+      "level": "Menengah",
+      "q": "If you need help, I ___ you my notes.",
+      "opts": [
+        "lend",
+        "lent",
+        "will lend"
+      ],
+      "a": 2,
+      "why": "Tawaran: will lend."
+    },
+    {
+      "id": "r20261111-018",
+      "topic": "Since/for",
+      "level": "Menengah",
+      "q": "I haven’t seen her ___ the party last month.",
+      "opts": [
+        "since",
+        "for",
+        "from"
+      ],
+      "a": 0,
+      "why": "Titik waktu: since."
+    },
+    {
+      "id": "r20261111-019",
+      "topic": "Past continuous",
+      "level": "Menengah",
+      "q": "We ___ dinner when the lights went out.",
+      "opts": [
+        "have",
+        "were having",
+        "are having"
+      ],
+      "a": 1,
+      "why": "Sedang berlangsung: were having."
+    },
+    {
+      "id": "r20261111-020",
+      "topic": "Already",
+      "level": "Menengah",
+      "q": "You don’t need to wake me up. I have ___ woken up.",
+      "opts": [
+        "yet",
+        "still",
+        "already"
+      ],
+      "a": 2,
+      "why": "Sudah: already."
+    },
+    {
+      "id": "r20261111-021",
+      "topic": "Second conditional",
+      "level": "Menengah atas",
+      "q": "If we ___ now, we would be there by noon.",
+      "opts": [
+        "leave",
+        "left",
+        "will leave"
+      ],
+      "a": 1,
+      "why": "Pengandaian: past simple left."
+    },
+    {
+      "id": "r20261111-022",
+      "topic": "Passive voice",
+      "level": "Menengah atas",
+      "q": "The windows in this office ___ every Friday.",
+      "opts": [
+        "clean",
+        "are cleaning",
+        "are cleaned"
+      ],
+      "a": 2,
+      "why": "Pasif present: are cleaned."
+    },
+    {
+      "id": "r20261111-023",
+      "topic": "Reported speech",
+      "level": "Menengah atas",
+      "q": "She asked me ___ my homework was finished.",
+      "opts": [
+        "whether",
+        "that",
+        "what"
+      ],
+      "a": 0,
+      "why": "Yes/no reported question: whether."
+    },
+    {
+      "id": "r20261111-024",
+      "topic": "Past perfect",
+      "level": "Menengah atas",
+      "q": "He ___ the movie before, so he already knew the ending.",
+      "opts": [
+        "has seen",
+        "had seen",
+        "sees"
+      ],
+      "a": 1,
+      "why": "Lebih dulu: had seen."
+    },
+    {
+      "id": "r20261111-025",
+      "topic": "Relative clauses",
+      "level": "Menengah atas",
+      "q": "The girl ___ bag was stolen reported it to the police.",
+      "opts": [
+        "whose",
+        "who",
+        "which"
+      ],
+      "a": 0,
+      "why": "Kepemilikan: whose."
+    },
+    {
+      "id": "r20261111-026",
+      "topic": "Wish",
+      "level": "Menengah atas",
+      "q": "I wish we ___ a car. Taking the bus with these bags is hard.",
+      "opts": [
+        "have",
+        "had",
+        "will have"
+      ],
+      "a": 1,
+      "why": "Wish + past simple untuk sekarang."
+    },
+    {
+      "id": "r20261111-027",
+      "topic": "Present perfect continuous",
+      "level": "Menengah atas",
+      "q": "It ___ since five this morning. Will it ever stop?",
+      "opts": [
+        "rains",
+        "rained",
+        "has been raining"
+      ],
+      "a": 2,
+      "why": "Durasi: has been raining."
+    },
+    {
+      "id": "r20261111-028",
+      "topic": "Too/enough",
+      "level": "Menengah atas",
+      "q": "The box is ___ big to fit in my bag.",
+      "opts": [
+        "too",
+        "very",
+        "enough"
+      ],
+      "a": 0,
+      "why": "Terlalu besar untuk: too."
+    },
+    {
+      "id": "r20261111-029",
+      "topic": "Question tags",
+      "level": "Menengah atas",
+      "q": "There is a problem with the computer, ___?",
+      "opts": [
+        "is there",
+        "doesn’t there",
+        "isn’t there"
+      ],
+      "a": 2,
+      "why": "Tag untuk there is: isn’t there."
+    },
+    {
+      "id": "r20261111-030",
+      "topic": "Prepositions",
+      "level": "Menengah atas",
+      "q": "Are you interested ___ joining our hiking club?",
+      "opts": [
+        "in",
+        "on",
+        "at"
+      ],
+      "a": 0,
+      "why": "Interested in."
+    },
+    {
+      "id": "r20261111-031",
+      "topic": "Inversion",
+      "level": "Menuju lancar",
+      "q": "Only then ___ understand what she really meant.",
+      "opts": [
+        "I did",
+        "did I",
+        "I had"
+      ],
+      "a": 1,
+      "why": "Only then di awal: inversi did I."
+    },
+    {
+      "id": "r20261111-032",
+      "topic": "Mixed conditional",
+      "level": "Menuju lancar",
+      "q": "If they had won that final match, they ___ champions now.",
+      "opts": [
+        "would have been",
+        "will be",
+        "would be"
+      ],
+      "a": 2,
+      "why": "Hasil sekarang: would be."
+    },
+    {
+      "id": "r20261111-033",
+      "topic": "Causative",
+      "level": "Menuju lancar",
+      "q": "She always gets her nails ___ at that small salon.",
+      "opts": [
+        "do",
+        "done",
+        "doing"
+      ],
+      "a": 1,
+      "why": "Get + object + V3 (done)."
+    },
+    {
+      "id": "r20261111-034",
+      "topic": "Phrasal verbs",
+      "level": "Menuju lancar",
+      "q": "The old building will be torn ___ next month.",
+      "opts": [
+        "up",
+        "off",
+        "down"
+      ],
+      "a": 2,
+      "why": "Tear down = merobohkan."
+    },
+    {
+      "id": "r20261111-035",
+      "topic": "Subjunctive",
+      "level": "Menuju lancar",
+      "q": "I suggest that she ___ a doctor about that cough.",
+      "opts": [
+        "see",
+        "sees",
+        "saw"
+      ],
+      "a": 0,
+      "why": "Suggest + that + base verb."
+    },
+    {
+      "id": "r20261111-036",
+      "topic": "Inversion",
+      "level": "Menuju lancar",
+      "q": "Only once ___ such a strange animal in my life.",
+      "opts": [
+        "I have seen",
+        "have I seen",
+        "I saw"
+      ],
+      "a": 1,
+      "why": "Only once di awal: inversi have I seen."
+    },
+    {
+      "id": "r20261111-037",
+      "topic": "Word forms",
+      "level": "Menuju lancar",
+      "q": "His excuse was so ___ that nobody believed a word of it.",
+      "opts": [
+        "unconvincing",
+        "unconvince",
+        "unconvinced"
+      ],
+      "a": 0,
+      "why": "Adjective (tidak meyakinkan): unconvincing."
+    },
+    {
+      "id": "r20261111-038",
+      "topic": "Wish",
+      "level": "Menuju lancar",
+      "q": "I wish the traffic ___ so bad in the mornings.",
+      "opts": [
+        "isn’t",
+        "weren’t",
+        "won’t be"
+      ],
+      "a": 1,
+      "why": "Wish + past simple: weren’t."
+    },
+    {
+      "id": "r20261111-039",
+      "topic": "Would prefer",
+      "level": "Menuju lancar",
+      "q": "Would you prefer ___ now or later?",
+      "opts": [
+        "paying",
+        "pay",
+        "to pay"
+      ],
+      "a": 2,
+      "why": "Would prefer + to-infinitive."
+    },
+    {
+      "id": "r20261111-040",
+      "topic": "Should have",
+      "level": "Menuju lancar",
+      "q": "We ___ a map. Now we are completely lost.",
+      "opts": [
+        "should have brought",
+        "should bring",
+        "must bring"
+      ],
+      "a": 0,
+      "why": "Kritik lampau: should have + V3."
+    }
+  ],
+  "articles": [
+    {
+      "id": "r20261111-a01",
+      "title": "The Big Family Photo",
+      "level": "Dasar",
+      "min": 2,
+      "body": [
+        "Every five years, the Wijaya family takes a big family photo. This year, twenty people came to Grandmother’s house in Solo.",
+        "The photographer put the tall people at the back and the children at the front. But where was Great-Grandmother? Everyone looked for her. She was in the kitchen, making her famous fried bananas!",
+        "\"The photo can wait. The bananas cannot,\" she said with a laugh. So the whole family ate warm fried bananas first. Then, with happy faces and sweet fingers, they took the best family photo ever."
+      ],
+      "gloss": {
+        "photographer": "juru foto",
+        "back": "belakang",
+        "front": "depan",
+        "looked for": "mencari",
+        "famous": "terkenal",
+        "fingers": "jari"
+      },
+      "qs": [
+        {
+          "q": "How often does the family take a big photo?",
+          "opts": [
+            "Every year",
+            "Every month",
+            "Every five years"
+          ],
+          "a": 2
+        },
+        {
+          "q": "Where was Great-Grandmother?",
+          "opts": [
+            "In the kitchen",
+            "In the garden",
+            "In her bedroom"
+          ],
+          "a": 0
+        },
+        {
+          "q": "What did the family do before the photo?",
+          "opts": [
+            "They sang a song",
+            "They ate warm fried bananas",
+            "They washed the car"
+          ],
+          "a": 1
+        }
+      ]
+    },
+    {
+      "id": "r20261111-a02",
+      "title": "The Rise of Second-Hand Shopping",
+      "level": "Menengah",
+      "min": 3,
+      "body": [
+        "Ten years ago, buying second-hand clothes was something people hid. Today, it is a trend. Thrift shops are opening in every city, and online markets for used goods are growing fast.",
+        "The reasons are practical. Second-hand items cost half the price or less. But many young shoppers also talk about the environment. Every used jacket that finds a new owner is one less jacket in a landfill, and one less that a factory needs to make.",
+        "The trend has even changed how people see gifts. A vintage bag with a story can be more special than a new one. \"Fast fashion made us buy without thinking,\" says one shop owner. \"Second-hand shopping makes every piece mean something.\""
+      ],
+      "gloss": {
+        "second-hand": "bekas",
+        "thrift shops": "toko barang bekas",
+        "used": "bekas",
+        "environment": "lingkungan",
+        "landfill": "tempat pembuangan akhir",
+        "vintage": "barang kuno berkualitas",
+        "mean": "berarti"
+      },
+      "qs": [
+        {
+          "q": "How do people see second-hand shopping today, compared to ten years ago?",
+          "opts": [
+            "It is still something people hide",
+            "It is now illegal",
+            "It is now a trend"
+          ],
+          "a": 2
+        },
+        {
+          "q": "What environmental benefit does the text mention?",
+          "opts": [
+            "Cheaper factories",
+            "Fewer items in landfills",
+            "Cleaner rivers"
+          ],
+          "a": 1
+        },
+        {
+          "q": "According to the shop owner, what does second-hand shopping do?",
+          "opts": [
+            "It makes people buy faster",
+            "It makes gifts more expensive",
+            "It makes every piece mean something"
+          ],
+          "a": 2
+        }
+      ]
+    }
+  ]
+}
