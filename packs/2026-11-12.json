@@ -1,0 +1,622 @@
+{
+  "bank": [
+    {
+      "id": "r20261112-001",
+      "topic": "Vocabulary: animals",
+      "level": "Dasar",
+      "q": "A ___ says “meow” and likes to sleep in warm places.",
+      "opts": [
+        "cat",
+        "dog",
+        "duck"
+      ],
+      "a": 0,
+      "why": "Bunyi meow: kucing (cat)."
+    },
+    {
+      "id": "r20261112-002",
+      "topic": "Vocabulary: food",
+      "level": "Dasar",
+      "q": "We eat ___ with chopsticks. They are long and thin.",
+      "opts": [
+        "rice",
+        "noodles",
+        "bread"
+      ],
+      "a": 1,
+      "why": "Panjang dan tipis, dimakan dengan sumpit: mie (noodles)."
+    },
+    {
+      "id": "r20261112-003",
+      "topic": "Verb to be",
+      "level": "Dasar",
+      "q": "We ___ very happy today.",
+      "opts": [
+        "is",
+        "am",
+        "are"
+      ],
+      "a": 2,
+      "why": "We + are."
+    },
+    {
+      "id": "r20261112-004",
+      "topic": "Plural nouns",
+      "level": "Dasar",
+      "q": "I see three ___ flying south for the winter.",
+      "opts": [
+        "geese",
+        "gooses",
+        "goose"
+      ],
+      "a": 0,
+      "why": "Jamak tak beraturan: geese."
+    },
+    {
+      "id": "r20261112-005",
+      "topic": "Prepositions",
+      "level": "Dasar",
+      "q": "The lamp is ___ the desk.",
+      "opts": [
+        "in",
+        "between",
+        "on"
+      ],
+      "a": 2,
+      "why": "Di atas meja: on."
+    },
+    {
+      "id": "r20261112-006",
+      "topic": "Question words",
+      "level": "Dasar",
+      "q": "___ is your birthday? - In May.",
+      "opts": [
+        "When",
+        "Where",
+        "What"
+      ],
+      "a": 0,
+      "why": "Menanyakan waktu: when."
+    },
+    {
+      "id": "r20261112-007",
+      "topic": "Present simple",
+      "level": "Dasar",
+      "q": "The bus ___ at six every morning.",
+      "opts": [
+        "leave",
+        "leaves",
+        "leaving"
+      ],
+      "a": 1,
+      "why": "Subjek the bus (it): leaves."
+    },
+    {
+      "id": "r20261112-008",
+      "topic": "Numbers",
+      "level": "Dasar",
+      "q": "Twenty minus five is ___.",
+      "opts": [
+        "ten",
+        "twenty-five",
+        "fifteen"
+      ],
+      "a": 2,
+      "why": "20 - 5 = 15 (fifteen)."
+    },
+    {
+      "id": "r20261112-009",
+      "topic": "Vocabulary: jobs",
+      "level": "Dasar",
+      "q": "A ___ flies a plane.",
+      "opts": [
+        "doctor",
+        "pilot",
+        "farmer"
+      ],
+      "a": 1,
+      "why": "Menerbangkan pesawat: pilot."
+    },
+    {
+      "id": "r20261112-010",
+      "topic": "Adjectives",
+      "level": "Dasar",
+      "q": "An ice cube is cold, but fire is ___.",
+      "opts": [
+        "wet",
+        "soft",
+        "hot"
+      ],
+      "a": 2,
+      "why": "Api panas (hot)."
+    },
+    {
+      "id": "r20261112-011",
+      "topic": "Past simple",
+      "level": "Menengah",
+      "q": "I ___ an interesting documentary last night.",
+      "opts": [
+        "watched",
+        "watch",
+        "watches"
+      ],
+      "a": 0,
+      "why": "Last night: watched."
+    },
+    {
+      "id": "r20261112-012",
+      "topic": "Present perfect",
+      "level": "Menengah",
+      "q": "I ___ my lunch, so I am not hungry now.",
+      "opts": [
+        "eat",
+        "have eaten",
+        "am eating"
+      ],
+      "a": 1,
+      "why": "Sudah makan: have eaten."
+    },
+    {
+      "id": "r20261112-013",
+      "topic": "Future",
+      "level": "Menengah",
+      "q": "Don’t worry about the bill. I ___ for dinner tonight.",
+      "opts": [
+        "will pay",
+        "pay",
+        "paid"
+      ],
+      "a": 0,
+      "why": "Keputusan spontan: will pay."
+    },
+    {
+      "id": "r20261112-014",
+      "topic": "Modals",
+      "level": "Menengah",
+      "q": "You ___ take photos during the film. It is forbidden.",
+      "opts": [
+        "don’t have to",
+        "must not",
+        "wouldn’t"
+      ],
+      "a": 1,
+      "why": "Larangan: must not."
+    },
+    {
+      "id": "r20261112-015",
+      "topic": "Comparatives",
+      "level": "Menengah",
+      "q": "Gold is ___ than silver.",
+      "opts": [
+        "expensiver",
+        "most expensive",
+        "more expensive"
+      ],
+      "a": 2,
+      "why": "Perbandingan kata panjang: more expensive."
+    },
+    {
+      "id": "r20261112-016",
+      "topic": "Gerunds",
+      "level": "Menengah",
+      "q": "She is afraid of ___ alone in the dark.",
+      "opts": [
+        "being",
+        "be",
+        "to be"
+      ],
+      "a": 0,
+      "why": "Of + V-ing."
+    },
+    {
+      "id": "r20261112-017",
+      "topic": "Much/many",
+      "level": "Menengah",
+      "q": "How ___ brothers and sisters do you have?",
+      "opts": [
+        "much",
+        "any",
+        "many"
+      ],
+      "a": 2,
+      "why": "Terhitung: many."
+    },
+    {
+      "id": "r20261112-018",
+      "topic": "Offers",
+      "level": "Menengah",
+      "q": "Your hands are full. I ___ the door for you.",
+      "opts": [
+        "will open",
+        "open",
+        "opened"
+      ],
+      "a": 0,
+      "why": "Tawaran: will open."
+    },
+    {
+      "id": "r20261112-019",
+      "topic": "Since/for",
+      "level": "Menengah",
+      "q": "He has lived in Medan ___ he was born.",
+      "opts": [
+        "for",
+        "since",
+        "from"
+      ],
+      "a": 1,
+      "why": "Since + klausa."
+    },
+    {
+      "id": "r20261112-020",
+      "topic": "Just/yet",
+      "level": "Menengah",
+      "q": "Be quiet! The movie has ___ started.",
+      "opts": [
+        "yet",
+        "ever",
+        "just"
+      ],
+      "a": 2,
+      "why": "Baru saja: just."
+    },
+    {
+      "id": "r20261112-021",
+      "topic": "Second conditional",
+      "level": "Menengah atas",
+      "q": "If it ___ not raining, we would play outside.",
+      "opts": [
+        "is",
+        "were",
+        "will be"
+      ],
+      "a": 1,
+      "why": "Pengandaian: were."
+    },
+    {
+      "id": "r20261112-022",
+      "topic": "Passive voice",
+      "level": "Menengah atas",
+      "q": "The cake ___ by my mother yesterday afternoon.",
+      "opts": [
+        "made",
+        "is making",
+        "was made"
+      ],
+      "a": 2,
+      "why": "Pasif lampau: was made."
+    },
+    {
+      "id": "r20261112-023",
+      "topic": "Reported speech",
+      "level": "Menengah atas",
+      "q": "He said he ___ to the dentist the day before.",
+      "opts": [
+        "had gone",
+        "has gone",
+        "goes"
+      ],
+      "a": 0,
+      "why": "Reported speech: past perfect."
+    },
+    {
+      "id": "r20261112-024",
+      "topic": "Past perfect",
+      "level": "Menengah atas",
+      "q": "By six o’clock, we ___ all the invitations.",
+      "opts": [
+        "have sent",
+        "had sent",
+        "send"
+      ],
+      "a": 1,
+      "why": "By + waktu lampau: had sent."
+    },
+    {
+      "id": "r20261112-025",
+      "topic": "Relative clauses",
+      "level": "Menengah atas",
+      "q": "The computer ___ he bought last month was very expensive.",
+      "opts": [
+        "which",
+        "who",
+        "whom"
+      ],
+      "a": 0,
+      "why": "Benda: which."
+    },
+    {
+      "id": "r20261112-026",
+      "topic": "Wish",
+      "level": "Menengah atas",
+      "q": "I wish the exam ___ tomorrow. I need more time to study.",
+      "opts": [
+        "isn’t",
+        "weren’t",
+        "won’t be"
+      ],
+      "a": 1,
+      "why": "Wish + past simple: weren’t."
+    },
+    {
+      "id": "r20261112-027",
+      "topic": "Present perfect continuous",
+      "level": "Menengah atas",
+      "q": "We ___ for you for over an hour! Where were you?",
+      "opts": [
+        "wait",
+        "waited",
+        "have been waiting"
+      ],
+      "a": 2,
+      "why": "Durasi: have been waiting."
+    },
+    {
+      "id": "r20261112-028",
+      "topic": "Enough",
+      "level": "Menengah atas",
+      "q": "He didn’t run fast ___ to catch the bus.",
+      "opts": [
+        "enough",
+        "too",
+        "very"
+      ],
+      "a": 0,
+      "why": "Adverb + enough."
+    },
+    {
+      "id": "r20261112-029",
+      "topic": "Question tags",
+      "level": "Menengah atas",
+      "q": "She has lived here for years, ___?",
+      "opts": [
+        "has she",
+        "didn’t she",
+        "hasn’t she"
+      ],
+      "a": 2,
+      "why": "Tag untuk has (positif): hasn’t she."
+    },
+    {
+      "id": "r20261112-030",
+      "topic": "Gerunds",
+      "level": "Menengah atas",
+      "q": "Always wash your hands before ___.",
+      "opts": [
+        "eating",
+        "eat",
+        "eaten"
+      ],
+      "a": 0,
+      "why": "Before + V-ing."
+    },
+    {
+      "id": "r20261112-031",
+      "topic": "Inversion",
+      "level": "Menuju lancar",
+      "q": "Rarely ___ a chance to relax these days.",
+      "opts": [
+        "I get",
+        "do I get",
+        "I do get"
+      ],
+      "a": 1,
+      "why": "Rarely di awal: inversi do I get."
+    },
+    {
+      "id": "r20261112-032",
+      "topic": "Mixed conditional",
+      "level": "Menuju lancar",
+      "q": "If she hadn’t missed the flight, she ___ here with us tonight.",
+      "opts": [
+        "would have been",
+        "will be",
+        "would be"
+      ],
+      "a": 2,
+      "why": "Hasil sekarang: would be."
+    },
+    {
+      "id": "r20261112-033",
+      "topic": "Causative",
+      "level": "Menuju lancar",
+      "q": "I must have my watch ___. It stopped working last week.",
+      "opts": [
+        "fix",
+        "fixed",
+        "fixing"
+      ],
+      "a": 1,
+      "why": "Have + object + V3."
+    },
+    {
+      "id": "r20261112-034",
+      "topic": "Phrasal verbs",
+      "level": "Menuju lancar",
+      "q": "He gave ___ smoking two years ago and feels much healthier.",
+      "opts": [
+        "off",
+        "out",
+        "up"
+      ],
+      "a": 2,
+      "why": "Give up = berhenti (kebiasaan)."
+    },
+    {
+      "id": "r20261112-035",
+      "topic": "Subjunctive",
+      "level": "Menuju lancar",
+      "q": "The committee insists that the rules ___ changed immediately.",
+      "opts": [
+        "be",
+        "are",
+        "were"
+      ],
+      "a": 0,
+      "why": "Insist + that + base verb (pasif: be changed)."
+    },
+    {
+      "id": "r20261112-036",
+      "topic": "Inversion",
+      "level": "Menuju lancar",
+      "q": "Not only ___ the food, but he also paid for everyone.",
+      "opts": [
+        "he cooked",
+        "did he cook",
+        "he did cook"
+      ],
+      "a": 1,
+      "why": "Not only di awal: inversi did he cook."
+    },
+    {
+      "id": "r20261112-037",
+      "topic": "Vocabulary",
+      "level": "Menuju lancar",
+      "q": "The view from the mountain top was absolutely ___.",
+      "opts": [
+        "breathtaking",
+        "breath",
+        "breathed"
+      ],
+      "a": 0,
+      "why": "Adjective: breathtaking (menakjubkan)."
+    },
+    {
+      "id": "r20261112-038",
+      "topic": "Wish",
+      "level": "Menuju lancar",
+      "q": "I wish I ___ to the party last night. Everyone says it was amazing.",
+      "opts": [
+        "went",
+        "had gone",
+        "go"
+      ],
+      "a": 1,
+      "why": "Penyesalan lampau: wish + past perfect."
+    },
+    {
+      "id": "r20261112-039",
+      "topic": "Had better",
+      "level": "Menuju lancar",
+      "q": "We ___ not miss the last train, or we’ll have to walk home.",
+      "opts": [
+        "would rather",
+        "should have",
+        "had better"
+      ],
+      "a": 2,
+      "why": "Peringatan: had better not."
+    },
+    {
+      "id": "r20261112-040",
+      "topic": "Should have",
+      "level": "Menuju lancar",
+      "q": "He ___ the instructions before using the machine.",
+      "opts": [
+        "should have read",
+        "should read",
+        "must read"
+      ],
+      "a": 0,
+      "why": "Kritik lampau: should have + V3."
+    }
+  ],
+  "articles": [
+    {
+      "id": "r20261112-a01",
+      "title": "The Paper Crown",
+      "level": "Dasar",
+      "min": 2,
+      "body": [
+        "On Friday, the kindergarten teacher gave every child paper, scissors, and glue. \"Make something for someone you love,\" she said.",
+        "Little Dita made a paper crown. She colored it purple and put shiny stars on every point. \"This is for Mama,\" she whispered, \"because Mama is a queen.\"",
+        "At home, Mama put on the paper crown and wore it all evening. She wore it while she cooked dinner, and she wore it in the family photo that night. The crown was only paper, but to Mama it was treasure."
+      ],
+      "gloss": {
+        "scissors": "gunting",
+        "glue": "lem",
+        "crown": "mahkota",
+        "shiny": "berkilau",
+        "whispered": "berbisik",
+        "treasure": "harta karun"
+      },
+      "qs": [
+        {
+          "q": "What did the teacher ask the children to do?",
+          "opts": [
+            "Draw their families",
+            "Clean the classroom",
+            "Make something for someone they love"
+          ],
+          "a": 2
+        },
+        {
+          "q": "Who was the crown for?",
+          "opts": [
+            "Dita’s mother",
+            "Dita’s teacher",
+            "Dita herself"
+          ],
+          "a": 0
+        },
+        {
+          "q": "What did Mama do with the crown?",
+          "opts": [
+            "She put it in a drawer",
+            "She wore it all evening",
+            "She threw it away"
+          ],
+          "a": 1
+        }
+      ]
+    },
+    {
+      "id": "r20261112-a02",
+      "title": "Why Cities Are Turning Down Their Lights",
+      "level": "Menengah",
+      "min": 3,
+      "body": [
+        "On a clear night in a big city, you might count ten stars. In the countryside, you could count thousands. The difference is light pollution, and some cities have decided to fight it.",
+        "Several towns now dim their streetlights after midnight and ask shops to turn off bright signs. The results surprise everyone: people sleep better, migrating birds stop crashing into buildings, and the night sky slowly returns.",
+        "The movement is not only about beauty. Too much light at night confuses animals and wastes energy. \"We forgot the stars were ours too,\" says one astronomer. \"Now we are turning down the lights to get them back.\""
+      ],
+      "gloss": {
+        "clear": "cerah",
+        "pollution": "polusi",
+        "dim": "meredupkan",
+        "signs": "papan reklame",
+        "migrating": "bermigrasi",
+        "astronomer": "astronom"
+      },
+      "qs": [
+        {
+          "q": "Why can people see more stars in the countryside?",
+          "opts": [
+            "The air is colder",
+            "The stars are closer",
+            "There is less light pollution"
+          ],
+          "a": 2
+        },
+        {
+          "q": "What happened when towns dimmed their lights?",
+          "opts": [
+            "People complained about the dark",
+            "Birds stopped crashing into buildings",
+            "Shops closed earlier"
+          ],
+          "a": 1
+        },
+        {
+          "q": "According to the text, what else does too much light do?",
+          "opts": [
+            "It makes cities too hot",
+            "It damages streetlights",
+            "It confuses animals and wastes energy"
+          ],
+          "a": 2
+        }
+      ]
+    }
+  ]
+}
