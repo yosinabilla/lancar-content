@@ -1,0 +1,624 @@
+{
+  "bank": [
+    {
+      "id": "r20261113-001",
+      "topic": "Vocabulary: animals",
+      "level": "Dasar",
+      "q": "An ___ has eight arms and lives in the sea.",
+      "opts": [
+        "octopus",
+        "shark",
+        "whale"
+      ],
+      "a": 0,
+      "why": "Lengan delapan: gurita (octopus)."
+    },
+    {
+      "id": "r20261113-002",
+      "topic": "Vocabulary: food",
+      "level": "Dasar",
+      "q": "Monkeys like to eat ___.",
+      "opts": [
+        "stones",
+        "bananas",
+        "shoes"
+      ],
+      "a": 1,
+      "why": "Monyet makan pisang (bananas)."
+    },
+    {
+      "id": "r20261113-003",
+      "topic": "Verb to be",
+      "level": "Dasar",
+      "q": "My name ___ Sinta.",
+      "opts": [
+        "are",
+        "am",
+        "is"
+      ],
+      "a": 2,
+      "why": "My name (it) + is."
+    },
+    {
+      "id": "r20261113-004",
+      "topic": "Plural nouns",
+      "level": "Dasar",
+      "q": "There are two ___ in the field.",
+      "opts": [
+        "sheep",
+        "sheeps",
+        "sheepes"
+      ],
+      "a": 0,
+      "why": "Sheep jamaknya tetap sheep."
+    },
+    {
+      "id": "r20261113-005",
+      "topic": "Prepositions",
+      "level": "Dasar",
+      "q": "The dog is sitting ___ me. He is my best friend.",
+      "opts": [
+        "between",
+        "across",
+        "next to"
+      ],
+      "a": 2,
+      "why": "Di samping: next to."
+    },
+    {
+      "id": "r20261113-006",
+      "topic": "Vocabulary: weather",
+      "level": "Dasar",
+      "q": "Don’t forget your umbrella. It is ___ outside.",
+      "opts": [
+        "raining",
+        "sunny",
+        "snowing"
+      ],
+      "a": 0,
+      "why": "Bawa payung karena sedang hujan (raining)."
+    },
+    {
+      "id": "r20261113-007",
+      "topic": "Question words",
+      "level": "Dasar",
+      "q": "___ is your English teacher? - Mrs. Ratna.",
+      "opts": [
+        "What",
+        "Who",
+        "Where"
+      ],
+      "a": 1,
+      "why": "Menanyakan orang: who."
+    },
+    {
+      "id": "r20261113-008",
+      "topic": "Present simple",
+      "level": "Dasar",
+      "q": "My mother ___ delicious fried rice.",
+      "opts": [
+        "cook",
+        "cooking",
+        "cooks"
+      ],
+      "a": 2,
+      "why": "Subjek she: cooks."
+    },
+    {
+      "id": "r20261113-009",
+      "topic": "Numbers",
+      "level": "Dasar",
+      "q": "Eight plus seven is ___.",
+      "opts": [
+        "thirteen",
+        "fifteen",
+        "seventeen"
+      ],
+      "a": 1,
+      "why": "8 + 7 = 15 (fifteen)."
+    },
+    {
+      "id": "r20261113-010",
+      "topic": "Vocabulary: school",
+      "level": "Dasar",
+      "q": "We read books in the school ___.",
+      "opts": [
+        "canteen",
+        "gym",
+        "library"
+      ],
+      "a": 2,
+      "why": "Membaca buku di perpustakaan (library)."
+    },
+    {
+      "id": "r20261113-011",
+      "topic": "Past simple",
+      "level": "Menengah",
+      "q": "She ___ a beautiful song at the concert last week.",
+      "opts": [
+        "sang",
+        "sings",
+        "sung"
+      ],
+      "a": 0,
+      "why": "Last week: sang."
+    },
+    {
+      "id": "r20261113-012",
+      "topic": "Present perfect",
+      "level": "Menengah",
+      "q": "They ___ their new house. It looks great!",
+      "opts": [
+        "paint",
+        "have painted",
+        "are painting"
+      ],
+      "a": 1,
+      "why": "Hasil terlihat sekarang: have painted."
+    },
+    {
+      "id": "r20261113-013",
+      "topic": "Future",
+      "level": "Menengah",
+      "q": "Look! The baby ___ off the bed!",
+      "opts": [
+        "is going to fall",
+        "falls",
+        "fell"
+      ],
+      "a": 0,
+      "why": "Tanda nyata: be going to."
+    },
+    {
+      "id": "r20261113-014",
+      "topic": "Modals",
+      "level": "Menengah",
+      "q": "You ___ eat in the classroom. It’s against the rules.",
+      "opts": [
+        "don’t have to",
+        "must not",
+        "might not"
+      ],
+      "a": 1,
+      "why": "Larangan: must not."
+    },
+    {
+      "id": "r20261113-015",
+      "topic": "Comparatives",
+      "level": "Menengah",
+      "q": "This restaurant is ___ than the one near my office.",
+      "opts": [
+        "gooder",
+        "best",
+        "better"
+      ],
+      "a": 2,
+      "why": "Perbandingan good: better."
+    },
+    {
+      "id": "r20261113-016",
+      "topic": "Gerunds",
+      "level": "Menengah",
+      "q": "They finished ___ the project two days early.",
+      "opts": [
+        "building",
+        "build",
+        "to build"
+      ],
+      "a": 0,
+      "why": "Finish + V-ing."
+    },
+    {
+      "id": "r20261113-017",
+      "topic": "Much/many",
+      "level": "Menengah",
+      "q": "How ___ time do we have before the movie starts?",
+      "opts": [
+        "many",
+        "some",
+        "much"
+      ],
+      "a": 2,
+      "why": "Time tak terhitung: much."
+    },
+    {
+      "id": "r20261113-018",
+      "topic": "Will",
+      "level": "Menengah",
+      "q": "The phone is ringing. I ___ it.",
+      "opts": [
+        "will get",
+        "get",
+        "got"
+      ],
+      "a": 0,
+      "why": "Keputusan spontan: I’ll get it."
+    },
+    {
+      "id": "r20261113-019",
+      "topic": "Since/for",
+      "level": "Menengah",
+      "q": "They have been friends ___ childhood.",
+      "opts": [
+        "for",
+        "since",
+        "from"
+      ],
+      "a": 1,
+      "why": "Titik waktu (childhood): since."
+    },
+    {
+      "id": "r20261113-020",
+      "topic": "Past continuous",
+      "level": "Menengah",
+      "q": "The children ___ in the pool when it started to thunder.",
+      "opts": [
+        "swim",
+        "are swimming",
+        "were swimming"
+      ],
+      "a": 2,
+      "why": "Sedang berlangsung: were swimming."
+    },
+    {
+      "id": "r20261113-021",
+      "topic": "Second conditional",
+      "level": "Menengah atas",
+      "q": "If I ___ the answer, I would tell you.",
+      "opts": [
+        "know",
+        "knew",
+        "will know"
+      ],
+      "a": 1,
+      "why": "Pengandaian: past simple knew."
+    },
+    {
+      "id": "r20261113-022",
+      "topic": "Passive voice",
+      "level": "Menengah atas",
+      "q": "The roads in this area ___ every rainy season.",
+      "opts": [
+        "flood",
+        "are flooding",
+        "are flooded"
+      ],
+      "a": 2,
+      "why": "Pasif: are flooded."
+    },
+    {
+      "id": "r20261113-023",
+      "topic": "Reported speech",
+      "level": "Menengah atas",
+      "q": "She asked me ___ I was doing that weekend.",
+      "opts": [
+        "what",
+        "that",
+        "if"
+      ],
+      "a": 0,
+      "why": "Wh-question reported: what."
+    },
+    {
+      "id": "r20261113-024",
+      "topic": "Past perfect",
+      "level": "Menengah atas",
+      "q": "The museum ___ by the time we got there, so we went home.",
+      "opts": [
+        "has closed",
+        "had closed",
+        "closes"
+      ],
+      "a": 1,
+      "why": "Lebih dulu: had closed."
+    },
+    {
+      "id": "r20261113-025",
+      "topic": "Relative clauses",
+      "level": "Menengah atas",
+      "q": "The people ___ live upstairs are very noisy.",
+      "opts": [
+        "who",
+        "which",
+        "whose"
+      ],
+      "a": 0,
+      "why": "Orang: who."
+    },
+    {
+      "id": "r20261113-026",
+      "topic": "Wish",
+      "level": "Menengah atas",
+      "q": "I wish I ___ play the piano. Maybe I will take lessons.",
+      "opts": [
+        "can",
+        "could",
+        "will"
+      ],
+      "a": 1,
+      "why": "Wish + could."
+    },
+    {
+      "id": "r20261113-027",
+      "topic": "Present perfect continuous",
+      "level": "Menengah atas",
+      "q": "He ___ that same book for weeks. He reads very slowly.",
+      "opts": [
+        "reads",
+        "read",
+        "has been reading"
+      ],
+      "a": 2,
+      "why": "Durasi: has been reading."
+    },
+    {
+      "id": "r20261113-028",
+      "topic": "Too/enough",
+      "level": "Menengah atas",
+      "q": "The water was ___ cold to swim in.",
+      "opts": [
+        "too",
+        "very",
+        "enough"
+      ],
+      "a": 0,
+      "why": "Terlalu dingin: too."
+    },
+    {
+      "id": "r20261113-029",
+      "topic": "Question tags",
+      "level": "Menengah atas",
+      "q": "We will meet again soon, ___?",
+      "opts": [
+        "will we",
+        "don’t we",
+        "won’t we"
+      ],
+      "a": 2,
+      "why": "Tag untuk will (positif): won’t we."
+    },
+    {
+      "id": "r20261113-030",
+      "topic": "Gerunds",
+      "level": "Menengah atas",
+      "q": "She called her mother after ___ the good news.",
+      "opts": [
+        "hearing",
+        "hear",
+        "heard"
+      ],
+      "a": 0,
+      "why": "After + V-ing."
+    },
+    {
+      "id": "r20261113-031",
+      "topic": "Inversion",
+      "level": "Menuju lancar",
+      "q": "At no time ___ that the files would be deleted.",
+      "opts": [
+        "we were told",
+        "were we told",
+        "we told"
+      ],
+      "a": 1,
+      "why": "Frasa negatif di awal: inversi were we told."
+    },
+    {
+      "id": "r20261113-032",
+      "topic": "Mixed conditional",
+      "level": "Menuju lancar",
+      "q": "If you had watered the plants, they ___ alive now.",
+      "opts": [
+        "would have been",
+        "will be",
+        "would be"
+      ],
+      "a": 2,
+      "why": "Hasil sekarang: would be."
+    },
+    {
+      "id": "r20261113-033",
+      "topic": "Causative",
+      "level": "Menuju lancar",
+      "q": "We need to have the air conditioner ___ before summer.",
+      "opts": [
+        "service",
+        "serviced",
+        "servicing"
+      ],
+      "a": 1,
+      "why": "Have + object + V3."
+    },
+    {
+      "id": "r20261113-034",
+      "topic": "Phrasal verbs",
+      "level": "Menuju lancar",
+      "q": "The plane took ___ twenty minutes late because of the fog.",
+      "opts": [
+        "up",
+        "on",
+        "off"
+      ],
+      "a": 2,
+      "why": "Take off = lepas landas."
+    },
+    {
+      "id": "r20261113-035",
+      "topic": "Subjunctive",
+      "level": "Menuju lancar",
+      "q": "The principal demanded that the students ___ earlier.",
+      "opts": [
+        "arrive",
+        "arrives",
+        "arrived"
+      ],
+      "a": 0,
+      "why": "Demand + that + base verb."
+    },
+    {
+      "id": "r20261113-036",
+      "topic": "Inversion",
+      "level": "Menuju lancar",
+      "q": "Scarcely had the meeting ended ___ everyone started complaining.",
+      "opts": [
+        "than",
+        "when",
+        "then"
+      ],
+      "a": 1,
+      "why": "Scarcely ... when ..."
+    },
+    {
+      "id": "r20261113-037",
+      "topic": "Word forms",
+      "level": "Menuju lancar",
+      "q": "The documentary gave a very ___ picture of life in the Arctic.",
+      "opts": [
+        "vivid",
+        "vividness",
+        "vividly"
+      ],
+      "a": 0,
+      "why": "Adjective: vivid (jelas/nyata)."
+    },
+    {
+      "id": "r20261113-038",
+      "topic": "Wish",
+      "level": "Menuju lancar",
+      "q": "I wish we ___ longer holidays. Two weeks is not enough.",
+      "opts": [
+        "have",
+        "had",
+        "will have"
+      ],
+      "a": 1,
+      "why": "Wish + past simple: had."
+    },
+    {
+      "id": "r20261113-039",
+      "topic": "Would rather",
+      "level": "Menuju lancar",
+      "q": "She would rather ___ the bus than drive in this traffic.",
+      "opts": [
+        "to take",
+        "taking",
+        "take"
+      ],
+      "a": 2,
+      "why": "Would rather + V1."
+    },
+    {
+      "id": "r20261113-040",
+      "topic": "Should have",
+      "level": "Menuju lancar",
+      "q": "You ___ the invitation earlier. The event was last night.",
+      "opts": [
+        "should have sent",
+        "should send",
+        "must send"
+      ],
+      "a": 0,
+      "why": "Kritik lampau: should have + V3."
+    }
+  ],
+  "articles": [
+    {
+      "id": "r20261113-a01",
+      "title": "A New Friend at the Park",
+      "level": "Dasar",
+      "min": 2,
+      "body": [
+        "Bimo was new in town. On Sunday afternoon, he sat alone on a bench in the park. He had some bread in his bag, so he fed the ducks in the small pond.",
+        "A boy about his age watched him from the swings. \"Can I help?\" he asked. Bimo gave him half of the bread. Soon they were both laughing as the ducks fought over every piece.",
+        "The boy’s name was Gilang. He knew all the best places in the park: the tall slide, the shady tree, the pond where the big fish hid. When Bimo’s mother called him, the two boys made a plan to meet again next Sunday. New places feel warmer with a new friend."
+      ],
+      "gloss": {
+        "bench": "bangku",
+        "fed": "memberi makan",
+        "pond": "kolam",
+        "swings": "ayunan",
+        "fought over": "memperebutkan",
+        "shady": "rindang",
+        "hid": "bersembunyi"
+      },
+      "qs": [
+        {
+          "q": "Why was Bimo alone at the park?",
+          "opts": [
+            "He lost his ball",
+            "His friends were sick",
+            "He was new in town"
+          ],
+          "a": 2
+        },
+        {
+          "q": "What did the boys do together?",
+          "opts": [
+            "Fed the ducks",
+            "Played football",
+            "Flew a kite"
+          ],
+          "a": 0
+        },
+        {
+          "q": "What did the boys plan at the end?",
+          "opts": [
+            "To go to school together",
+            "To meet again next Sunday",
+            "To buy new bread"
+          ],
+          "a": 1
+        }
+      ]
+    },
+    {
+      "id": "r20261113-a02",
+      "title": "The Rise of Plant-Based Meat",
+      "level": "Menengah",
+      "min": 3,
+      "body": [
+        "A burger that \"bleeds\" but has no meat? Welcome to the world of plant-based meat. Made from soy, peas, or mushrooms, these products look, cook, and taste like real meat.",
+        "The market is exploding for two reasons. First, many people want to eat less meat for their health. Second, producing beef creates far more greenhouse gases than producing plants. A plant-based burger can cut that footprint by ninety percent.",
+        "Not everyone is convinced. Some say the products are too processed and too expensive. But prices are falling every year, and the taste keeps improving. \"Five years ago, my customers laughed at the idea,\" says one restaurant owner. \"Now the plant burger is our best seller.\""
+      ],
+      "gloss": {
+        "plant-based": "berbahan dasar tumbuhan",
+        "soy": "kedelai",
+        "peas": "kacang polong",
+        "footprint": "jejak (karbon)",
+        "processed": "olahan",
+        "convinced": "yakin",
+        "improving": "membaik"
+      },
+      "qs": [
+        {
+          "q": "What is plant-based meat made from?",
+          "opts": [
+            "Real beef and chicken",
+            "Only rice and corn",
+            "Soy, peas, or mushrooms"
+          ],
+          "a": 2
+        },
+        {
+          "q": "According to the text, why do many people choose plant-based meat?",
+          "opts": [
+            "Because it is always cheaper",
+            "For health and the environment",
+            "Because doctors require it"
+          ],
+          "a": 1
+        },
+        {
+          "q": "What happened to the restaurant owner’s plant burger?",
+          "opts": [
+            "Customers still laugh at it",
+            "It was removed from the menu",
+            "It became the best seller"
+          ],
+          "a": 2
+        }
+      ]
+    }
+  ]
+}
