@@ -1,0 +1,627 @@
+{
+  "bank": [
+    {
+      "id": "r20261114-001",
+      "topic": "Vocabulary: weather",
+      "level": "Dasar",
+      "q": "Look at the dark clouds. It is going to ___.",
+      "opts": [
+        "rain",
+        "sunny",
+        "windy"
+      ],
+      "a": 0,
+      "why": "going to + kata kerja dasar; rain = hujan."
+    },
+    {
+      "id": "r20261114-002",
+      "topic": "Vocabulary: body",
+      "level": "Dasar",
+      "q": "You have two ___ on your face.",
+      "opts": [
+        "eye",
+        "eyes",
+        "noses"
+      ],
+      "a": 1,
+      "why": "Dua mata: bentuk jamak eyes."
+    },
+    {
+      "id": "r20261114-003",
+      "topic": "There is/are",
+      "level": "Dasar",
+      "q": "There ___ a cat under the table.",
+      "opts": [
+        "are",
+        "am",
+        "is"
+      ],
+      "a": 2,
+      "why": "Satu kucing (tunggal): is."
+    },
+    {
+      "id": "r20261114-004",
+      "topic": "Plural nouns",
+      "level": "Dasar",
+      "q": "I see three ___ in the garden.",
+      "opts": [
+        "birds",
+        "bird",
+        "birdes"
+      ],
+      "a": 0,
+      "why": "Jamak dari bird: birds."
+    },
+    {
+      "id": "r20261114-005",
+      "topic": "Question words",
+      "level": "Dasar",
+      "q": "___ is your name? - My name is Sari.",
+      "opts": [
+        "Who",
+        "Where",
+        "What"
+      ],
+      "a": 2,
+      "why": "Menanyakan nama: what."
+    },
+    {
+      "id": "r20261114-006",
+      "topic": "Prepositions",
+      "level": "Dasar",
+      "q": "The school is ___ to the mosque.",
+      "opts": [
+        "next",
+        "under",
+        "between"
+      ],
+      "a": 0,
+      "why": "next to = di sebelah."
+    },
+    {
+      "id": "r20261114-007",
+      "topic": "Simple present",
+      "level": "Dasar",
+      "q": "She ___ to school every day.",
+      "opts": [
+        "go",
+        "goes",
+        "going"
+      ],
+      "a": 1,
+      "why": "Orang ketiga tunggal: go menjadi goes."
+    },
+    {
+      "id": "r20261114-008",
+      "topic": "Vocabulary: colors",
+      "level": "Dasar",
+      "q": "Mix blue and yellow to get ___.",
+      "opts": [
+        "purple",
+        "orange",
+        "green"
+      ],
+      "a": 2,
+      "why": "Biru + kuning = hijau."
+    },
+    {
+      "id": "r20261114-009",
+      "topic": "Prepositions of time",
+      "level": "Dasar",
+      "q": "The class starts ___ eight o'clock.",
+      "opts": [
+        "in",
+        "at",
+        "on"
+      ],
+      "a": 1,
+      "why": "Jam tertentu memakai at."
+    },
+    {
+      "id": "r20261114-010",
+      "topic": "Have/has",
+      "level": "Dasar",
+      "q": "They ___ a big house near the river.",
+      "opts": [
+        "has",
+        "having",
+        "have"
+      ],
+      "a": 2,
+      "why": "They (jamak): have."
+    },
+    {
+      "id": "r20261114-011",
+      "topic": "Past tense",
+      "level": "Menengah",
+      "q": "We ___ a traditional dance at the festival last week.",
+      "opts": [
+        "watched",
+        "watch",
+        "watches"
+      ],
+      "a": 0,
+      "why": "last week = lampau: watched."
+    },
+    {
+      "id": "r20261114-012",
+      "topic": "Comparatives",
+      "level": "Menengah",
+      "q": "A train is ___ than a bus.",
+      "opts": [
+        "fastest",
+        "faster",
+        "more fast"
+      ],
+      "a": 1,
+      "why": "Perbandingan: fast menjadi faster."
+    },
+    {
+      "id": "r20261114-013",
+      "topic": "Prepositions of time",
+      "level": "Menengah",
+      "q": "The meeting is ___ Monday afternoon.",
+      "opts": [
+        "on",
+        "in",
+        "at"
+      ],
+      "a": 0,
+      "why": "Hari tertentu memakai on."
+    },
+    {
+      "id": "r20261114-014",
+      "topic": "Modals: prohibition",
+      "level": "Menengah",
+      "q": "You ___ park here. It is for ambulances only.",
+      "opts": [
+        "must",
+        "mustn't",
+        "don't have to"
+      ],
+      "a": 1,
+      "why": "Larangan: mustn't (tidak boleh)."
+    },
+    {
+      "id": "r20261114-015",
+      "topic": "Be going to",
+      "level": "Menengah",
+      "q": "I ___ visit my grandmother next Sunday.",
+      "opts": [
+        "will going to",
+        "going to",
+        "am going to"
+      ],
+      "a": 2,
+      "why": "Rencana: am going to + V1."
+    },
+    {
+      "id": "r20261114-016",
+      "topic": "Adverbs",
+      "level": "Menengah",
+      "q": "She speaks English very ___.",
+      "opts": [
+        "well",
+        "good",
+        "best"
+      ],
+      "a": 0,
+      "why": "Keterangan cara untuk kata kerja: well."
+    },
+    {
+      "id": "r20261114-017",
+      "topic": "Conjunctions",
+      "level": "Menengah",
+      "q": "I stayed home ___ I was sick.",
+      "opts": [
+        "so",
+        "but",
+        "because"
+      ],
+      "a": 2,
+      "why": "Alasan: because."
+    },
+    {
+      "id": "r20261114-018",
+      "topic": "Past continuous",
+      "level": "Menengah",
+      "q": "While I ___ dinner, the phone rang.",
+      "opts": [
+        "was cooking",
+        "am cooking",
+        "cook"
+      ],
+      "a": 0,
+      "why": "Sedang berlangsung di lampau: was cooking."
+    },
+    {
+      "id": "r20261114-019",
+      "topic": "Question tags",
+      "level": "Menengah",
+      "q": "You like spicy food, ___?",
+      "opts": [
+        "do you",
+        "don't you",
+        "aren't you"
+      ],
+      "a": 1,
+      "why": "Tag untuk kalimat positif (like): don't you."
+    },
+    {
+      "id": "r20261114-020",
+      "topic": "Superlatives",
+      "level": "Menengah",
+      "q": "Rinjani is one of ___ mountains in Indonesia.",
+      "opts": [
+        "higher",
+        "the most high",
+        "the highest"
+      ],
+      "a": 2,
+      "why": "Superlatif high: the highest."
+    },
+    {
+      "id": "r20261114-021",
+      "topic": "Present perfect",
+      "level": "Menengah atas",
+      "q": "I ___ this book twice.",
+      "opts": [
+        "read",
+        "have read",
+        "had read"
+      ],
+      "a": 1,
+      "why": "Pengalaman (twice) tanpa waktu pasti: present perfect."
+    },
+    {
+      "id": "r20261114-022",
+      "topic": "Relative clauses",
+      "level": "Menengah atas",
+      "q": "The woman ___ lives next door is a doctor.",
+      "opts": [
+        "which",
+        "whose",
+        "who"
+      ],
+      "a": 2,
+      "why": "Kata hubung untuk orang: who."
+    },
+    {
+      "id": "r20261114-023",
+      "topic": "Present perfect continuous",
+      "level": "Menengah atas",
+      "q": "She ___ for the company since 2019.",
+      "opts": [
+        "has been working",
+        "works",
+        "is working"
+      ],
+      "a": 0,
+      "why": "since 2019 sampai sekarang: has been working."
+    },
+    {
+      "id": "r20261114-024",
+      "topic": "Despite",
+      "level": "Menengah atas",
+      "q": "___ the rain, they continued the match.",
+      "opts": [
+        "Although",
+        "Despite",
+        "Because"
+      ],
+      "a": 1,
+      "why": "Despite + noun; although butuh klausa."
+    },
+    {
+      "id": "r20261114-025",
+      "topic": "Used to",
+      "level": "Menengah atas",
+      "q": "When I was young, I ___ swim in this river.",
+      "opts": [
+        "used to",
+        "use to",
+        "was used to"
+      ],
+      "a": 0,
+      "why": "Kebiasaan lampau: used to + V1."
+    },
+    {
+      "id": "r20261114-026",
+      "topic": "Past perfect",
+      "level": "Menengah atas",
+      "q": "The train ___ before we arrived at the station.",
+      "opts": [
+        "has left",
+        "had left",
+        "leaves"
+      ],
+      "a": 1,
+      "why": "Terjadi sebelum arrived: past perfect."
+    },
+    {
+      "id": "r20261114-027",
+      "topic": "Present perfect result",
+      "level": "Menengah atas",
+      "q": "I ___ my keys. Can you help me find them?",
+      "opts": [
+        "lost",
+        "had lost",
+        "have lost"
+      ],
+      "a": 2,
+      "why": "Hasilnya terasa sekarang: present perfect."
+    },
+    {
+      "id": "r20261114-028",
+      "topic": "Future perfect",
+      "level": "Menengah atas",
+      "q": "By 2030, they ___ the new bridge.",
+      "opts": [
+        "will have finished",
+        "will finish",
+        "finish"
+      ],
+      "a": 0,
+      "why": "Selesai sebelum titik masa depan: will have + V3."
+    },
+    {
+      "id": "r20261114-029",
+      "topic": "So/such",
+      "level": "Menengah atas",
+      "q": "The movie was ___ interesting that I watched it twice.",
+      "opts": [
+        "such",
+        "too",
+        "so"
+      ],
+      "a": 2,
+      "why": "so + adjective + that."
+    },
+    {
+      "id": "r20261114-030",
+      "topic": "Prefer",
+      "level": "Menengah atas",
+      "q": "I prefer tea ___ coffee.",
+      "opts": [
+        "to",
+        "than",
+        "from"
+      ],
+      "a": 0,
+      "why": "prefer X to Y."
+    },
+    {
+      "id": "r20261114-031",
+      "topic": "Third conditional",
+      "level": "Menuju lancar",
+      "q": "If they had left earlier, they ___ the ferry.",
+      "opts": [
+        "would catch",
+        "would have caught",
+        "will catch"
+      ],
+      "a": 1,
+      "why": "Tipe 3: would have + V3."
+    },
+    {
+      "id": "r20261114-032",
+      "topic": "Idioms",
+      "level": "Menuju lancar",
+      "q": "When Sinta got the scholarship, she was over the ___.",
+      "opts": [
+        "hill",
+        "cloud",
+        "moon"
+      ],
+      "a": 2,
+      "why": "over the moon = sangat gembira."
+    },
+    {
+      "id": "r20261114-033",
+      "topic": "Academic verbs",
+      "level": "Menuju lancar",
+      "q": "Recent studies ___ that sleep affects memory.",
+      "opts": [
+        "suggests",
+        "suggest",
+        "suggesting"
+      ],
+      "a": 1,
+      "why": "Subjek jamak (studies): suggest."
+    },
+    {
+      "id": "r20261114-034",
+      "topic": "Modal perfect",
+      "level": "Menuju lancar",
+      "q": "He looks exhausted. He ___ all night.",
+      "opts": [
+        "must work",
+        "should work",
+        "must have worked"
+      ],
+      "a": 2,
+      "why": "Simpulan tentang lampau: must have + V3."
+    },
+    {
+      "id": "r20261114-035",
+      "topic": "Subjunctive",
+      "level": "Menuju lancar",
+      "q": "It is essential that every applicant ___ the form completely.",
+      "opts": [
+        "fill out",
+        "fills out",
+        "filled out"
+      ],
+      "a": 0,
+      "why": "Subjungtif: bentuk dasar tanpa -s."
+    },
+    {
+      "id": "r20261114-036",
+      "topic": "Not only inversion",
+      "level": "Menuju lancar",
+      "q": "Not only ___ the exam, but she also got the highest score.",
+      "opts": [
+        "she passed",
+        "did she pass",
+        "she passes"
+      ],
+      "a": 1,
+      "why": "Not only di awal: inversi did she pass."
+    },
+    {
+      "id": "r20261114-037",
+      "topic": "Collocations",
+      "level": "Menuju lancar",
+      "q": "The company decided to ___ a new branch in Surabaya.",
+      "opts": [
+        "set up",
+        "set off",
+        "set in"
+      ],
+      "a": 0,
+      "why": "set up = mendirikan/membuka."
+    },
+    {
+      "id": "r20261114-038",
+      "topic": "Concession",
+      "level": "Menuju lancar",
+      "q": "___ being the youngest, she led the team well.",
+      "opts": [
+        "Although",
+        "Despite",
+        "However"
+      ],
+      "a": 1,
+      "why": "Despite + V-ing/kata benda."
+    },
+    {
+      "id": "r20261114-039",
+      "topic": "Participles",
+      "level": "Menuju lancar",
+      "q": "___ by the news, he called his family immediately.",
+      "opts": [
+        "Exciting",
+        "Excite",
+        "Excited"
+      ],
+      "a": 2,
+      "why": "Dia yang merasa gembira: excited."
+    },
+    {
+      "id": "r20261114-040",
+      "topic": "Would rather",
+      "level": "Menuju lancar",
+      "q": "I would rather you ___ me the truth yesterday.",
+      "opts": [
+        "had told",
+        "told",
+        "tell"
+      ],
+      "a": 0,
+      "why": "Penyesalan lampau: would rather + past perfect."
+    }
+  ],
+  "articles": [
+    {
+      "id": "r20261114-a01",
+      "title": "Grandma's Kitchen",
+      "level": "Dasar",
+      "min": 2,
+      "body": [
+        "Every Saturday, Nia goes to her grandmother's house. Her grandmother loves to cook, and her kitchen always smells wonderful. Today they are making klepon, small green rice cakes with sweet palm sugar inside.",
+        "First, Grandma shows Nia how to mix rice flour with water and pandan juice. Nia rolls the dough into little balls and puts a piece of palm sugar in each one. Then they boil the balls in hot water. When the klepon float to the top, they are ready.",
+        "Grandma rolls the klepon in fresh coconut. Nia takes her first bite, and warm sugar fills her mouth. \"Practice makes perfect,\" Grandma says with a smile. Nia already wants to come back next Saturday."
+      ],
+      "gloss": {
+        "grandmother": "nenek",
+        "smells": "berbau",
+        "rice flour": "tepung beras",
+        "palm sugar": "gula aren",
+        "dough": "adonan",
+        "boil": "merebus",
+        "float to the top": "mengapung ke atas",
+        "coconut": "kelapa",
+        "bite": "gigitan"
+      },
+      "qs": [
+        {
+          "q": "What do Nia and her grandmother make?",
+          "opts": [
+            "Fried rice",
+            "Chicken soup",
+            "Klepon"
+          ],
+          "a": 2
+        },
+        {
+          "q": "How does Nia know the klepon are ready?",
+          "opts": [
+            "They float to the top of the water",
+            "They turn bright red",
+            "They smell like coconut"
+          ],
+          "a": 0
+        },
+        {
+          "q": "What does Grandma mean by \"practice makes perfect\"?",
+          "opts": [
+            "Nia is already a perfect cook",
+            "Nia will get better the more she cooks",
+            "Cooking is too hard to learn"
+          ],
+          "a": 1
+        }
+      ]
+    },
+    {
+      "id": "r20261114-a02",
+      "title": "Slow Travel: Enjoying the Journey",
+      "level": "Menengah",
+      "min": 3,
+      "body": [
+        "For many travelers, a holiday used to mean visiting ten cities in seven days. They rushed from one famous place to another, took a quick photo, and moved on. Today, more and more people are choosing a different style: slow travel.",
+        "Slow travel means spending more time in fewer places. Instead of changing hotels every night, a slow traveler might stay two weeks in a small town. They shop at the local market, learn a few words of the language, and find a favorite cafe. The goal is not to see everything, but to understand something.",
+        "This way of traveling is often cheaper and less stressful. It is also kinder to the environment, because fewer flights and car rides mean less pollution. Most importantly, many slow travelers say their memories feel deeper and more personal. When you slow down, a place stops being a photo and becomes a story."
+      ],
+      "gloss": {
+        "rushed": "bergegas",
+        "instead of": "alih-alih",
+        "goal": "tujuan",
+        "cheaper": "lebih murah",
+        "stressful": "membuat stres",
+        "environment": "lingkungan",
+        "pollution": "polusi",
+        "deeper": "lebih mendalam"
+      },
+      "qs": [
+        {
+          "q": "What is the main idea of slow travel?",
+          "opts": [
+            "Visiting as many cities as possible",
+            "Traveling only by car",
+            "Spending more time in fewer places"
+          ],
+          "a": 2
+        },
+        {
+          "q": "Why is slow travel better for the environment?",
+          "opts": [
+            "Hotels use less water",
+            "Fewer flights and car rides mean less pollution",
+            "Tourists take fewer photos"
+          ],
+          "a": 1
+        },
+        {
+          "q": "What do slow travelers say about their memories?",
+          "opts": [
+            "They forget them quickly",
+            "They are mostly about food",
+            "They feel deeper and more personal"
+          ],
+          "a": 2
+        }
+      ]
+    }
+  ]
+}
