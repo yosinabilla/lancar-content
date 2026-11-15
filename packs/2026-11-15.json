@@ -1,0 +1,626 @@
+{
+  "bank": [
+    {
+      "id": "r20261115-001",
+      "topic": "Vocabulary: school",
+      "level": "Dasar",
+      "q": "You write with a ___.",
+      "opts": [
+        "pencil",
+        "pillow",
+        "spoon"
+      ],
+      "a": 0,
+      "why": "Menulis memakai pensil (pencil)."
+    },
+    {
+      "id": "r20261115-002",
+      "topic": "To be",
+      "level": "Dasar",
+      "q": "I ___ a student.",
+      "opts": [
+        "is",
+        "am",
+        "are"
+      ],
+      "a": 1,
+      "why": "I selalu dengan am."
+    },
+    {
+      "id": "r20261115-003",
+      "topic": "Vocabulary: animals",
+      "level": "Dasar",
+      "q": "The ___ is the biggest animal on land.",
+      "opts": [
+        "tiger",
+        "giraffe",
+        "elephant"
+      ],
+      "a": 2,
+      "why": "Hewan darat terbesar: gajah (elephant)."
+    },
+    {
+      "id": "r20261115-004",
+      "topic": "Demonstratives",
+      "level": "Dasar",
+      "q": "Look! ___ bird in the tree is beautiful.",
+      "opts": [
+        "That",
+        "Those",
+        "These"
+      ],
+      "a": 0,
+      "why": "Tunggal dan jauh: that."
+    },
+    {
+      "id": "r20261115-005",
+      "topic": "Simple present negative",
+      "level": "Dasar",
+      "q": "He ___ not like coffee.",
+      "opts": [
+        "do",
+        "is",
+        "does"
+      ],
+      "a": 2,
+      "why": "Orang ketiga tunggal: does not."
+    },
+    {
+      "id": "r20261115-006",
+      "topic": "Irregular plurals",
+      "level": "Dasar",
+      "q": "The ___ are playing in the yard.",
+      "opts": [
+        "children",
+        "childs",
+        "childrens"
+      ],
+      "a": 0,
+      "why": "Jamak dari child: children."
+    },
+    {
+      "id": "r20261115-007",
+      "topic": "Question words",
+      "level": "Dasar",
+      "q": "___ old are you? - I am ten.",
+      "opts": [
+        "What",
+        "How",
+        "When"
+      ],
+      "a": 1,
+      "why": "Menanyakan umur: how old."
+    },
+    {
+      "id": "r20261115-008",
+      "topic": "Prepositions",
+      "level": "Dasar",
+      "q": "The ball rolled ___ the chair. Now we cannot see it.",
+      "opts": [
+        "on",
+        "next",
+        "under"
+      ],
+      "a": 2,
+      "why": "Tidak terlihat: di bawah (under)."
+    },
+    {
+      "id": "r20261115-009",
+      "topic": "Vocabulary: drinks",
+      "level": "Dasar",
+      "q": "We drink ___ when we are thirsty.",
+      "opts": [
+        "bread",
+        "water",
+        "rice"
+      ],
+      "a": 1,
+      "why": "Yang diminum: air (water)."
+    },
+    {
+      "id": "r20261115-010",
+      "topic": "Days",
+      "level": "Dasar",
+      "q": "Today is Friday. Tomorrow is ___.",
+      "opts": [
+        "Thursday",
+        "Sunday",
+        "Saturday"
+      ],
+      "a": 2,
+      "why": "Setelah Jumat: Sabtu (Saturday)."
+    },
+    {
+      "id": "r20261115-011",
+      "topic": "Past tense",
+      "level": "Menengah",
+      "q": "She ___ a letter to her pen pal two days ago.",
+      "opts": [
+        "wrote",
+        "writes",
+        "written"
+      ],
+      "a": 0,
+      "why": "Lampau dari write: wrote."
+    },
+    {
+      "id": "r20261115-012",
+      "topic": "Comparatives",
+      "level": "Menengah",
+      "q": "My house is ___ than yours.",
+      "opts": [
+        "biggest",
+        "bigger",
+        "more big"
+      ],
+      "a": 1,
+      "why": "Perbandingan: big menjadi bigger."
+    },
+    {
+      "id": "r20261115-013",
+      "topic": "Present continuous as future",
+      "level": "Menengah",
+      "q": "We ___ to Bali next week.",
+      "opts": [
+        "are flying",
+        "fly",
+        "flew"
+      ],
+      "a": 0,
+      "why": "Rencana pasti masa depan: present continuous."
+    },
+    {
+      "id": "r20261115-014",
+      "topic": "Modals: obligation",
+      "level": "Menengah",
+      "q": "Students ___ wear uniforms at my school.",
+      "opts": [
+        "mustn't",
+        "must",
+        "don't have to"
+      ],
+      "a": 1,
+      "why": "Kewajiban: must."
+    },
+    {
+      "id": "r20261115-015",
+      "topic": "Irregular past",
+      "level": "Menengah",
+      "q": "They ___ breakfast at 7 this morning.",
+      "opts": [
+        "eaten",
+        "eat",
+        "ate"
+      ],
+      "a": 2,
+      "why": "Lampau dari eat: ate."
+    },
+    {
+      "id": "r20261115-016",
+      "topic": "Frequency adverbs",
+      "level": "Menengah",
+      "q": "She ___ arrives late. She is very punctual.",
+      "opts": [
+        "never",
+        "always",
+        "often"
+      ],
+      "a": 0,
+      "why": "Tepat waktu = tidak pernah (never) terlambat."
+    },
+    {
+      "id": "r20261115-017",
+      "topic": "Whose",
+      "level": "Menengah",
+      "q": "___ bag is this? Is it yours?",
+      "opts": [
+        "Who's",
+        "Who",
+        "Whose"
+      ],
+      "a": 2,
+      "why": "Menanyakan pemilik: whose."
+    },
+    {
+      "id": "r20261115-018",
+      "topic": "Too/enough",
+      "level": "Menengah",
+      "q": "The soup is too ___ to eat now. Wait a minute.",
+      "opts": [
+        "hot",
+        "hotter",
+        "hottest"
+      ],
+      "a": 0,
+      "why": "too + adjective dasar: hot."
+    },
+    {
+      "id": "r20261115-019",
+      "topic": "Past questions",
+      "level": "Menengah",
+      "q": "___ you watch the match last night?",
+      "opts": [
+        "Do",
+        "Did",
+        "Were"
+      ],
+      "a": 1,
+      "why": "Pertanyaan lampau: did + V1."
+    },
+    {
+      "id": "r20261115-020",
+      "topic": "-ed/-ing adjectives",
+      "level": "Menengah",
+      "q": "The lesson was ___. I almost fell asleep.",
+      "opts": [
+        "bored",
+        "bore",
+        "boring"
+      ],
+      "a": 2,
+      "why": "Pelajaran yang membosankan: boring."
+    },
+    {
+      "id": "r20261115-021",
+      "topic": "Present perfect",
+      "level": "Menengah atas",
+      "q": "They ___ married for ten years.",
+      "opts": [
+        "are",
+        "have been",
+        "were"
+      ],
+      "a": 1,
+      "why": "for ten years sampai sekarang: have been."
+    },
+    {
+      "id": "r20261115-022",
+      "topic": "Passive voice",
+      "level": "Menengah atas",
+      "q": "Rice ___ in many parts of Asia.",
+      "opts": [
+        "grows",
+        "is growing",
+        "is grown"
+      ],
+      "a": 2,
+      "why": "Pasif present: is + V3."
+    },
+    {
+      "id": "r20261115-023",
+      "topic": "Second conditional",
+      "level": "Menengah atas",
+      "q": "If he ___ harder, he would pass the exam.",
+      "opts": [
+        "worked",
+        "works",
+        "will work"
+      ],
+      "a": 0,
+      "why": "Tipe 2: if + past."
+    },
+    {
+      "id": "r20261115-024",
+      "topic": "Relative clauses",
+      "level": "Menengah atas",
+      "q": "This is the house ___ I grew up.",
+      "opts": [
+        "which",
+        "where",
+        "who"
+      ],
+      "a": 1,
+      "why": "Keterangan tempat: where."
+    },
+    {
+      "id": "r20261115-025",
+      "topic": "Already/yet",
+      "level": "Menengah atas",
+      "q": "I have ___ finished my homework. Can I go out?",
+      "opts": [
+        "already",
+        "yet",
+        "still"
+      ],
+      "a": 0,
+      "why": "Sudah (kalimat positif): already."
+    },
+    {
+      "id": "r20261115-026",
+      "topic": "Phrasal verbs",
+      "level": "Menengah atas",
+      "q": "Please ___ your shoes before entering the house.",
+      "opts": [
+        "take on",
+        "take off",
+        "take up"
+      ],
+      "a": 1,
+      "why": "take off = melepas."
+    },
+    {
+      "id": "r20261115-027",
+      "topic": "Vocabulary: health",
+      "level": "Menengah atas",
+      "q": "You should see a dentist if you have a ___.",
+      "opts": [
+        "backache",
+        "fever",
+        "toothache"
+      ],
+      "a": 2,
+      "why": "Ke dokter gigi: sakit gigi (toothache)."
+    },
+    {
+      "id": "r20261115-028",
+      "topic": "During/while",
+      "level": "Menengah atas",
+      "q": "___ the meeting, please keep your phones silent.",
+      "opts": [
+        "During",
+        "While",
+        "Between"
+      ],
+      "a": 0,
+      "why": "During + noun; while + klausa."
+    },
+    {
+      "id": "r20261115-029",
+      "topic": "As ... as",
+      "level": "Menengah atas",
+      "q": "Jakarta is not as expensive ___ Singapore.",
+      "opts": [
+        "than",
+        "like",
+        "as"
+      ],
+      "a": 2,
+      "why": "Pola not as ... as."
+    },
+    {
+      "id": "r20261115-030",
+      "topic": "Past perfect",
+      "level": "Menengah atas",
+      "q": "When I got home, my family ___ dinner.",
+      "opts": [
+        "had finished",
+        "has finished",
+        "finish"
+      ],
+      "a": 0,
+      "why": "Selesai sebelum got home: past perfect."
+    },
+    {
+      "id": "r20261115-031",
+      "topic": "Mixed conditional",
+      "level": "Menuju lancar",
+      "q": "If you had saved your money, you ___ able to buy it now.",
+      "opts": [
+        "would have been",
+        "would be",
+        "will be"
+      ],
+      "a": 1,
+      "why": "Lampau ke sekarang: would be."
+    },
+    {
+      "id": "r20261115-032",
+      "topic": "Phrasal verbs",
+      "level": "Menuju lancar",
+      "q": "They decided to ___ the old system and replace it.",
+      "opts": [
+        "do up",
+        "do over",
+        "do away with"
+      ],
+      "a": 2,
+      "why": "do away with = menghapuskan."
+    },
+    {
+      "id": "r20261115-033",
+      "topic": "Wish: past",
+      "level": "Menuju lancar",
+      "q": "I wish I ___ that job when I had the chance.",
+      "opts": [
+        "took",
+        "had taken",
+        "would take"
+      ],
+      "a": 1,
+      "why": "Penyesalan lampau: wish + past perfect."
+    },
+    {
+      "id": "r20261115-034",
+      "topic": "Vocabulary: formal",
+      "level": "Menuju lancar",
+      "q": "The two companies reached an ___ after long negotiations.",
+      "opts": [
+        "argument",
+        "appointment",
+        "agreement"
+      ],
+      "a": 2,
+      "why": "agreement = kesepakatan."
+    },
+    {
+      "id": "r20261115-035",
+      "topic": "Passive: past",
+      "level": "Menuju lancar",
+      "q": "The stolen painting ___ by the police last week.",
+      "opts": [
+        "was recovered",
+        "is recovered",
+        "has recovered"
+      ],
+      "a": 0,
+      "why": "Pasif lampau: was + V3."
+    },
+    {
+      "id": "r20261115-036",
+      "topic": "Causative have",
+      "level": "Menuju lancar",
+      "q": "I need to ___ my laptop repaired.",
+      "opts": [
+        "do",
+        "have",
+        "make"
+      ],
+      "a": 1,
+      "why": "Kausatif: have + object + V3."
+    },
+    {
+      "id": "r20261115-037",
+      "topic": "Such",
+      "level": "Menuju lancar",
+      "q": "It's ___ a shame that you missed the concert.",
+      "opts": [
+        "such",
+        "so",
+        "very"
+      ],
+      "a": 0,
+      "why": "such a + noun: such a shame."
+    },
+    {
+      "id": "r20261115-038",
+      "topic": "Idioms: money",
+      "level": "Menuju lancar",
+      "q": "The new stadium cost an arm and a ___.",
+      "opts": [
+        "hand",
+        "leg",
+        "foot"
+      ],
+      "a": 1,
+      "why": "an arm and a leg = sangat mahal."
+    },
+    {
+      "id": "r20261115-039",
+      "topic": "Purpose",
+      "level": "Menuju lancar",
+      "q": "She whispered ___ wake the baby.",
+      "opts": [
+        "so that",
+        "in order to",
+        "so as not to"
+      ],
+      "a": 2,
+      "why": "Tujuan negatif: so as not to."
+    },
+    {
+      "id": "r20261115-040",
+      "topic": "Participle clauses",
+      "level": "Menuju lancar",
+      "q": "___ his homework, he went out to play.",
+      "opts": [
+        "Having finished",
+        "Finished",
+        "Being finished"
+      ],
+      "a": 0,
+      "why": "Selesai lebih dulu: having + V3."
+    }
+  ],
+  "articles": [
+    {
+      "id": "r20261115-a01",
+      "title": "Dika's New Bicycle",
+      "level": "Dasar",
+      "min": 2,
+      "body": [
+        "Dika got a new bicycle for his birthday. It is red, with a small bell on the handlebar. His father gave it to him on Saturday morning.",
+        "At first, Dika was afraid. The bicycle looked too tall. His father held the back of the seat and ran beside him. \"Keep your eyes forward,\" his father said. After an hour, Dika could ride alone to the end of the street.",
+        "Now Dika rides his bicycle every afternoon. He rides to the small shop to buy bread for his mother, and he always rings his bell when he passes his friends. His father smiles every time he sees him."
+      ],
+      "gloss": {
+        "birthday": "ulang tahun",
+        "bell": "bel",
+        "handlebar": "setang",
+        "afraid": "takut",
+        "held": "memegang",
+        "forward": "ke depan",
+        "street": "jalan",
+        "rings": "membunyikan"
+      },
+      "qs": [
+        {
+          "q": "What color is Dika's new bicycle?",
+          "opts": [
+            "Blue",
+            "Green",
+            "Red"
+          ],
+          "a": 2
+        },
+        {
+          "q": "Who helped Dika learn to ride?",
+          "opts": [
+            "His father",
+            "His mother",
+            "His friend"
+          ],
+          "a": 0
+        },
+        {
+          "q": "What does Dika buy for his mother?",
+          "opts": [
+            "Milk",
+            "Bread",
+            "Rice"
+          ],
+          "a": 1
+        }
+      ]
+    },
+    {
+      "id": "r20261115-a02",
+      "title": "Urban Farming: Food from the City",
+      "level": "Menengah",
+      "min": 3,
+      "body": [
+        "In many big cities, fresh vegetables travel hundreds of kilometers before they reach your plate. Some city people are now trying a different idea: growing food where they live. This is called urban farming.",
+        "Urban farms can be very small. A family might grow chilies and tomatoes in pots on a balcony. Neighbors sometimes turn an empty piece of land into a shared garden. Some companies even grow vegetables inside buildings, using special lights instead of sunlight.",
+        "Urban farming brings real benefits. The food is fresh and does not need long truck rides, so it is better for the environment. Gardening is also good exercise and a way to meet neighbors. A few pots of vegetables will not feed a whole city, but they can change how people think about their food."
+      ],
+      "gloss": {
+        "reach": "mencapai",
+        "balcony": "balkon",
+        "empty": "kosong",
+        "shared": "bersama",
+        "sunlight": "sinar matahari",
+        "benefits": "manfaat",
+        "truck rides": "perjalanan truk",
+        "exercise": "olahraga"
+      },
+      "qs": [
+        {
+          "q": "What does the text call urban farming?",
+          "opts": [
+            "Selling food at night markets",
+            "Cooking food for neighbors",
+            "Growing food in the city"
+          ],
+          "a": 2
+        },
+        {
+          "q": "Where might a family grow vegetables in an urban farm?",
+          "opts": [
+            "On a large rice field",
+            "In pots on a balcony",
+            "Inside a supermarket"
+          ],
+          "a": 1
+        },
+        {
+          "q": "Why is urban farm food better for the environment?",
+          "opts": [
+            "It uses more water",
+            "It needs special lights",
+            "It does not need long truck rides"
+          ],
+          "a": 2
+        }
+      ]
+    }
+  ]
+}
