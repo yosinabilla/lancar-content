@@ -1,0 +1,626 @@
+{
+  "bank": [
+    {
+      "id": "r20261116-001",
+      "topic": "Vocabulary: verbs",
+      "level": "Dasar",
+      "q": "Birds can ___ in the sky.",
+      "opts": [
+        "fly",
+        "swim",
+        "run"
+      ],
+      "a": 0,
+      "why": "Burung terbang (fly)."
+    },
+    {
+      "id": "r20261116-002",
+      "topic": "Questions",
+      "level": "Dasar",
+      "q": "___ are you? - I am fine, thanks.",
+      "opts": [
+        "What",
+        "How",
+        "Who"
+      ],
+      "a": 1,
+      "why": "Menanyakan kabar: how are you."
+    },
+    {
+      "id": "r20261116-003",
+      "topic": "Simple present",
+      "level": "Dasar",
+      "q": "My father ___ TV at night.",
+      "opts": [
+        "watch",
+        "watching",
+        "watches"
+      ],
+      "a": 2,
+      "why": "Orang ketiga tunggal: watches."
+    },
+    {
+      "id": "r20261116-004",
+      "topic": "Plurals -es",
+      "level": "Dasar",
+      "q": "I wash the ___ after dinner.",
+      "opts": [
+        "dishes",
+        "dishs",
+        "dish"
+      ],
+      "a": 0,
+      "why": "Jamak dari dish: dishes."
+    },
+    {
+      "id": "r20261116-005",
+      "topic": "Vocabulary: feelings",
+      "level": "Dasar",
+      "q": "She is ___ because it is her birthday.",
+      "opts": [
+        "angry",
+        "bored",
+        "happy"
+      ],
+      "a": 2,
+      "why": "Ulang tahun membuat senang (happy)."
+    },
+    {
+      "id": "r20261116-006",
+      "topic": "Numbers",
+      "level": "Dasar",
+      "q": "Twelve minus five is ___.",
+      "opts": [
+        "seven",
+        "six",
+        "eight"
+      ],
+      "a": 0,
+      "why": "12 - 5 = 7 (seven)."
+    },
+    {
+      "id": "r20261116-007",
+      "topic": "There is/are",
+      "level": "Dasar",
+      "q": "There ___ two dogs in the yard.",
+      "opts": [
+        "is",
+        "are",
+        "am"
+      ],
+      "a": 1,
+      "why": "Jamak: are."
+    },
+    {
+      "id": "r20261116-008",
+      "topic": "Prepositions of time",
+      "level": "Dasar",
+      "q": "We eat breakfast ___ the morning.",
+      "opts": [
+        "at",
+        "on",
+        "in"
+      ],
+      "a": 2,
+      "why": "in the morning."
+    },
+    {
+      "id": "r20261116-009",
+      "topic": "Can",
+      "level": "Dasar",
+      "q": "Fish ___ swim, but they cannot fly.",
+      "opts": [
+        "cannot",
+        "can",
+        "must"
+      ],
+      "a": 1,
+      "why": "Ikan bisa (can) berenang."
+    },
+    {
+      "id": "r20261116-010",
+      "topic": "Pronouns",
+      "level": "Dasar",
+      "q": "Rina is my friend. ___ is very kind.",
+      "opts": [
+        "He",
+        "It",
+        "She"
+      ],
+      "a": 2,
+      "why": "Rina perempuan: she."
+    },
+    {
+      "id": "r20261116-011",
+      "topic": "Past tense",
+      "level": "Menengah",
+      "q": "They ___ to the beach last holiday.",
+      "opts": [
+        "went",
+        "go",
+        "gone"
+      ],
+      "a": 0,
+      "why": "Lampau dari go: went."
+    },
+    {
+      "id": "r20261116-012",
+      "topic": "Irregular comparatives",
+      "level": "Menengah",
+      "q": "Her English is ___ than mine.",
+      "opts": [
+        "gooder",
+        "better",
+        "best"
+      ],
+      "a": 1,
+      "why": "Perbandingan good: better."
+    },
+    {
+      "id": "r20261116-013",
+      "topic": "Will",
+      "level": "Menengah",
+      "q": "I think it ___ be sunny tomorrow.",
+      "opts": [
+        "will",
+        "would",
+        "shall not"
+      ],
+      "a": 0,
+      "why": "Prediksi: will + V1."
+    },
+    {
+      "id": "r20261116-014",
+      "topic": "A few/a little",
+      "level": "Menengah",
+      "q": "There are a ___ eggs in the basket, maybe five.",
+      "opts": [
+        "little",
+        "few",
+        "much"
+      ],
+      "a": 1,
+      "why": "Eggs terhitung: a few."
+    },
+    {
+      "id": "r20261116-015",
+      "topic": "Past of can",
+      "level": "Menengah",
+      "q": "When I was five, I ___ not read yet.",
+      "opts": [
+        "can",
+        "won't",
+        "could"
+      ],
+      "a": 2,
+      "why": "Lampau dari can: could."
+    },
+    {
+      "id": "r20261116-016",
+      "topic": "Prepositions",
+      "level": "Menengah",
+      "q": "We arrived ___ the airport at 9 pm.",
+      "opts": [
+        "at",
+        "in",
+        "on"
+      ],
+      "a": 0,
+      "why": "arrive at + tempat."
+    },
+    {
+      "id": "r20261116-017",
+      "topic": "Adverbs of frequency",
+      "level": "Menengah",
+      "q": "He ___ eats vegetables. He hates them.",
+      "opts": [
+        "always",
+        "usually",
+        "never"
+      ],
+      "a": 2,
+      "why": "Benci = tidak pernah (never) makan."
+    },
+    {
+      "id": "r20261116-018",
+      "topic": "Question words",
+      "level": "Menengah",
+      "q": "___ does the bus leave? - At 7:30.",
+      "opts": [
+        "What time",
+        "Who",
+        "How many"
+      ],
+      "a": 0,
+      "why": "Menanyakan jam: what time."
+    },
+    {
+      "id": "r20261116-019",
+      "topic": "Conjunctions",
+      "level": "Menengah",
+      "q": "I wanted to go out, ___ it was raining.",
+      "opts": [
+        "so",
+        "but",
+        "because"
+      ],
+      "a": 1,
+      "why": "Pertentangan: but."
+    },
+    {
+      "id": "r20261116-020",
+      "topic": "Object pronouns",
+      "level": "Menengah",
+      "q": "I see Rina at school. I talk to ___ every day.",
+      "opts": [
+        "she",
+        "hers",
+        "her"
+      ],
+      "a": 2,
+      "why": "Objek untuk perempuan: her."
+    },
+    {
+      "id": "r20261116-021",
+      "topic": "Present perfect: yet",
+      "level": "Menengah atas",
+      "q": "Have you finished your report ___?",
+      "opts": [
+        "already",
+        "yet",
+        "still"
+      ],
+      "a": 1,
+      "why": "Di akhir pertanyaan: yet."
+    },
+    {
+      "id": "r20261116-022",
+      "topic": "Passive: past",
+      "level": "Menengah atas",
+      "q": "The bridge ___ in 1995.",
+      "opts": [
+        "is built",
+        "built",
+        "was built"
+      ],
+      "a": 2,
+      "why": "Pasif lampau: was + V3."
+    },
+    {
+      "id": "r20261116-023",
+      "topic": "First conditional",
+      "level": "Menengah atas",
+      "q": "If you study hard, you ___ the test.",
+      "opts": [
+        "will pass",
+        "would pass",
+        "passed"
+      ],
+      "a": 0,
+      "why": "Tipe 1: will + V1."
+    },
+    {
+      "id": "r20261116-024",
+      "topic": "Relative clauses",
+      "level": "Menengah atas",
+      "q": "The boy ___ father is a pilot wants to fly too.",
+      "opts": [
+        "who",
+        "whose",
+        "which"
+      ],
+      "a": 1,
+      "why": "Kepemilikan: whose."
+    },
+    {
+      "id": "r20261116-025",
+      "topic": "Reported speech",
+      "level": "Menengah atas",
+      "q": "She said she ___ the movie already.",
+      "opts": [
+        "had seen",
+        "has seen",
+        "sees"
+      ],
+      "a": 0,
+      "why": "Backshift: has seen menjadi had seen."
+    },
+    {
+      "id": "r20261116-026",
+      "topic": "For/since",
+      "level": "Menengah atas",
+      "q": "I have lived here ___ 2015.",
+      "opts": [
+        "for",
+        "since",
+        "from"
+      ],
+      "a": 1,
+      "why": "Titik waktu: since."
+    },
+    {
+      "id": "r20261116-027",
+      "topic": "Enough",
+      "level": "Menengah atas",
+      "q": "He is old ___ to drive a car.",
+      "opts": [
+        "too",
+        "very",
+        "enough"
+      ],
+      "a": 2,
+      "why": "adjective + enough: cukup."
+    },
+    {
+      "id": "r20261116-028",
+      "topic": "Vocabulary: environment",
+      "level": "Menengah atas",
+      "q": "We should ___ plastic bottles instead of throwing them away.",
+      "opts": [
+        "recycle",
+        "replace",
+        "remove"
+      ],
+      "a": 0,
+      "why": "recycle = mendaur ulang."
+    },
+    {
+      "id": "r20261116-029",
+      "topic": "Gerund subject",
+      "level": "Menengah atas",
+      "q": "___ is a good way to relax.",
+      "opts": [
+        "Read",
+        "Reads",
+        "Reading"
+      ],
+      "a": 2,
+      "why": "Kata kerja sebagai subjek: V-ing."
+    },
+    {
+      "id": "r20261116-030",
+      "topic": "Had to",
+      "level": "Menengah atas",
+      "q": "I ___ to finish the project yesterday.",
+      "opts": [
+        "had",
+        "must",
+        "have"
+      ],
+      "a": 0,
+      "why": "Lampau dari have to: had to."
+    },
+    {
+      "id": "r20261116-031",
+      "topic": "Third conditional",
+      "level": "Menuju lancar",
+      "q": "If you had told me, I ___ helped you.",
+      "opts": [
+        "would",
+        "would have",
+        "will"
+      ],
+      "a": 1,
+      "why": "Tipe 3: would have + V3."
+    },
+    {
+      "id": "r20261116-032",
+      "topic": "Idioms",
+      "level": "Menuju lancar",
+      "q": "I finally passed the test. It was a piece of ___.",
+      "opts": [
+        "bread",
+        "candy",
+        "cake"
+      ],
+      "a": 2,
+      "why": "a piece of cake = sangat mudah."
+    },
+    {
+      "id": "r20261116-033",
+      "topic": "Phrasal verbs",
+      "level": "Menuju lancar",
+      "q": "I can't ___ how much the prices have risen.",
+      "opts": [
+        "get away",
+        "get over",
+        "get by"
+      ],
+      "a": 1,
+      "why": "get over = melupakan/menerima kenyataan."
+    },
+    {
+      "id": "r20261116-034",
+      "topic": "Reported commands",
+      "level": "Menuju lancar",
+      "q": "The teacher told us ___ any noise.",
+      "opts": [
+        "to not make",
+        "don't make",
+        "not to make"
+      ],
+      "a": 2,
+      "why": "Larangan tidak langsung: not to + V1."
+    },
+    {
+      "id": "r20261116-035",
+      "topic": "Vocabulary: academic",
+      "level": "Menuju lancar",
+      "q": "The doctor will ___ the patient tomorrow morning.",
+      "opts": [
+        "examine",
+        "inspect",
+        "investigate"
+      ],
+      "a": 0,
+      "why": "examine = memeriksa (pasien)."
+    },
+    {
+      "id": "r20261116-036",
+      "topic": "Unless",
+      "level": "Menuju lancar",
+      "q": "You will fail the test ___ you study harder.",
+      "opts": [
+        "if",
+        "unless",
+        "when"
+      ],
+      "a": 1,
+      "why": "unless = kecuali jika."
+    },
+    {
+      "id": "r20261116-037",
+      "topic": "By the time",
+      "level": "Menuju lancar",
+      "q": "By the time we arrived, the show ___.",
+      "opts": [
+        "had started",
+        "has started",
+        "starts"
+      ],
+      "a": 0,
+      "why": "Lebih dulu dari arrived: past perfect."
+    },
+    {
+      "id": "r20261116-038",
+      "topic": "Would prefer",
+      "level": "Menuju lancar",
+      "q": "I would prefer ___ at home tonight.",
+      "opts": [
+        "staying",
+        "to stay",
+        "stay"
+      ],
+      "a": 1,
+      "why": "would prefer + to-infinitive."
+    },
+    {
+      "id": "r20261116-039",
+      "topic": "Vocabulary: character",
+      "level": "Menuju lancar",
+      "q": "A ___ person always tells the truth.",
+      "opts": [
+        "dishonest",
+        "jealous",
+        "honest"
+      ],
+      "a": 2,
+      "why": "Selalu jujur: honest."
+    },
+    {
+      "id": "r20261116-040",
+      "topic": "Concession",
+      "level": "Menuju lancar",
+      "q": "___ she was tired, she finished the marathon.",
+      "opts": [
+        "Although",
+        "Despite",
+        "Because"
+      ],
+      "a": 0,
+      "why": "Although + klausa; despite + noun."
+    }
+  ],
+  "articles": [
+    {
+      "id": "r20261116-a01",
+      "title": "Lina and the Lost Kitten",
+      "level": "Dasar",
+      "min": 2,
+      "body": [
+        "Lina walked home from school on a wet afternoon. Near the big tree, she heard a small sound: meow, meow. A little kitten sat under a bench. It was wet and cold.",
+        "Lina picked it up and put it in her jacket. At home, her mother dried the kitten with a towel. They gave it warm milk in a small bowl. \"Can we keep it?\" Lina asked. Her mother smiled. \"First, we must ask the neighbors.\"",
+        "Nobody came for the kitten. After three days, it became part of the family. Lina named it Uci. Now Uci sleeps at the foot of her bed every night."
+      ],
+      "gloss": {
+        "wet": "basah",
+        "heard": "mendengar",
+        "picked it up": "mengambilnya",
+        "towel": "handuk",
+        "bowl": "mangkuk",
+        "keep": "memelihara",
+        "neighbors": "tetangga",
+        "foot of her bed": "ujung tempat tidurnya"
+      },
+      "qs": [
+        {
+          "q": "Where did Lina find the kitten?",
+          "opts": [
+            "In a tree",
+            "At school",
+            "Under a bench"
+          ],
+          "a": 2
+        },
+        {
+          "q": "What did Lina and her mother give the kitten?",
+          "opts": [
+            "Warm milk",
+            "Cold water",
+            "A fish"
+          ],
+          "a": 0
+        },
+        {
+          "q": "What did Lina name the kitten?",
+          "opts": [
+            "Bimo",
+            "Uci",
+            "Sari"
+          ],
+          "a": 1
+        }
+      ]
+    },
+    {
+      "id": "r20261116-a02",
+      "title": "Digital Detox: Taking a Break from Screens",
+      "level": "Menengah",
+      "min": 3,
+      "body": [
+        "How many hours did you spend on your phone yesterday? For many people, the answer is more than six. Some of them are now trying a digital detox: a planned break from screens.",
+        "A digital detox can last one evening or a whole weekend. During this time, people turn off notifications and keep their phones in another room. They read paper books, cook, walk, or simply talk with family and friends.",
+        "People who try it often say they sleep better and feel less worried. Scientists agree that too much screen time, especially before bed, can hurt sleep. You do not have to throw your phone away. Just start small: one screen-free hour every day can already make a difference."
+      ],
+      "gloss": {
+        "spend": "menghabiskan",
+        "notifications": "notifikasi",
+        "another room": "ruangan lain",
+        "worried": "cemas",
+        "screen time": "waktu di depan layar",
+        "hurt": "mengganggu",
+        "throw away": "membuang",
+        "difference": "perbedaan"
+      },
+      "qs": [
+        {
+          "q": "What is a digital detox?",
+          "opts": [
+            "A new phone application",
+            "A kind of computer game",
+            "A planned break from screens"
+          ],
+          "a": 2
+        },
+        {
+          "q": "What do people often do during a digital detox?",
+          "opts": [
+            "Watch more movies",
+            "Read paper books and meet people",
+            "Work longer hours"
+          ],
+          "a": 1
+        },
+        {
+          "q": "What can too much screen time before bed hurt?",
+          "opts": [
+            "Hearing",
+            "Memory",
+            "Sleep"
+          ],
+          "a": 2
+        }
+      ]
+    }
+  ]
+}
