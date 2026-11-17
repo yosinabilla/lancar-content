@@ -1,0 +1,626 @@
+{
+  "bank": [
+    {
+      "id": "r20261117-001",
+      "topic": "Vocabulary: food",
+      "level": "Dasar",
+      "q": "Rendang is made from ___.",
+      "opts": [
+        "beef",
+        "paper",
+        "glass"
+      ],
+      "a": 0,
+      "why": "Rendang terbuat dari daging sapi (beef)."
+    },
+    {
+      "id": "r20261117-002",
+      "topic": "To be",
+      "level": "Dasar",
+      "q": "My friends ___ at the library now.",
+      "opts": [
+        "is",
+        "are",
+        "am"
+      ],
+      "a": 1,
+      "why": "Subjek jamak: are."
+    },
+    {
+      "id": "r20261117-003",
+      "topic": "Question words",
+      "level": "Dasar",
+      "q": "___ is your birthday? - In March.",
+      "opts": [
+        "Where",
+        "Why",
+        "When"
+      ],
+      "a": 2,
+      "why": "Menanyakan waktu: when."
+    },
+    {
+      "id": "r20261117-004",
+      "topic": "Simple present",
+      "level": "Dasar",
+      "q": "The sun ___ in the east.",
+      "opts": [
+        "rises",
+        "rise",
+        "rising"
+      ],
+      "a": 0,
+      "why": "Orang ketiga tunggal: rises."
+    },
+    {
+      "id": "r20261117-005",
+      "topic": "Prepositions",
+      "level": "Dasar",
+      "q": "The milk is ___ the fridge.",
+      "opts": [
+        "on",
+        "between",
+        "in"
+      ],
+      "a": 2,
+      "why": "Di dalam kulkas: in."
+    },
+    {
+      "id": "r20261117-006",
+      "topic": "Plural nouns",
+      "level": "Dasar",
+      "q": "I brush my ___ twice a day.",
+      "opts": [
+        "teeth",
+        "tooths",
+        "toot"
+      ],
+      "a": 0,
+      "why": "Jamak dari tooth: teeth."
+    },
+    {
+      "id": "r20261117-007",
+      "topic": "Vocabulary: weather",
+      "level": "Dasar",
+      "q": "When it is ___, we can make a snowman.",
+      "opts": [
+        "rainy",
+        "snowy",
+        "windy"
+      ],
+      "a": 1,
+      "why": "Manusia salju dibuat saat bersalju (snowy)."
+    },
+    {
+      "id": "r20261117-008",
+      "topic": "Numbers",
+      "level": "Dasar",
+      "q": "Three times four is ___.",
+      "opts": [
+        "eleven",
+        "thirteen",
+        "twelve"
+      ],
+      "a": 2,
+      "why": "3 x 4 = 12 (twelve)."
+    },
+    {
+      "id": "r20261117-009",
+      "topic": "Imperatives",
+      "level": "Dasar",
+      "q": "___ your hands before eating.",
+      "opts": [
+        "Washes",
+        "Wash",
+        "Washing"
+      ],
+      "a": 1,
+      "why": "Kalimat perintah: bentuk dasar wash."
+    },
+    {
+      "id": "r20261117-010",
+      "topic": "Vocabulary: sports",
+      "level": "Dasar",
+      "q": "In badminton, you hit a ___.",
+      "opts": [
+        "basketball",
+        "bat",
+        "shuttlecock"
+      ],
+      "a": 2,
+      "why": "Yang dipukul dalam bulu tangkis: kok (shuttlecock)."
+    },
+    {
+      "id": "r20261117-011",
+      "topic": "Past tense",
+      "level": "Menengah",
+      "q": "She ___ a beautiful song at the concert last night.",
+      "opts": [
+        "sang",
+        "singed",
+        "sung"
+      ],
+      "a": 0,
+      "why": "Lampau dari sing: sang."
+    },
+    {
+      "id": "r20261117-012",
+      "topic": "Present continuous",
+      "level": "Menengah",
+      "q": "Look! The children ___ in the pool.",
+      "opts": [
+        "swim",
+        "are swimming",
+        "swam"
+      ],
+      "a": 1,
+      "why": "Look! = sedang terjadi: are swimming."
+    },
+    {
+      "id": "r20261117-013",
+      "topic": "Much/many",
+      "level": "Menengah",
+      "q": "How ___ brothers do you have?",
+      "opts": [
+        "many",
+        "much",
+        "long"
+      ],
+      "a": 0,
+      "why": "Brothers terhitung: many."
+    },
+    {
+      "id": "r20261117-014",
+      "topic": "Irregular past",
+      "level": "Menengah",
+      "q": "We ___ a lot of photos on our trip.",
+      "opts": [
+        "taked",
+        "took",
+        "taken"
+      ],
+      "a": 1,
+      "why": "Lampau dari take: took."
+    },
+    {
+      "id": "r20261117-015",
+      "topic": "Prepositions of place",
+      "level": "Menengah",
+      "q": "The pharmacy is ___ the hospital, about 100 meters away.",
+      "opts": [
+        "between",
+        "inside",
+        "near"
+      ],
+      "a": 2,
+      "why": "Dekat: near."
+    },
+    {
+      "id": "r20261117-016",
+      "topic": "Adverbs",
+      "level": "Menengah",
+      "q": "Please listen ___ to the announcement.",
+      "opts": [
+        "carefully",
+        "careful",
+        "careless"
+      ],
+      "a": 0,
+      "why": "Keterangan cara: carefully."
+    },
+    {
+      "id": "r20261117-017",
+      "topic": "Conjunctions",
+      "level": "Menengah",
+      "q": "She was hungry, ___ she made some noodles.",
+      "opts": [
+        "but",
+        "because",
+        "so"
+      ],
+      "a": 2,
+      "why": "Akibat: so."
+    },
+    {
+      "id": "r20261117-018",
+      "topic": "Past continuous",
+      "level": "Menengah",
+      "q": "They ___ football when it started to rain.",
+      "opts": [
+        "were playing",
+        "are playing",
+        "play"
+      ],
+      "a": 0,
+      "why": "Sedang berlangsung di lampau: were playing."
+    },
+    {
+      "id": "r20261117-019",
+      "topic": "Question tags",
+      "level": "Menengah",
+      "q": "He can swim, ___?",
+      "opts": [
+        "can he",
+        "can't he",
+        "doesn't he"
+      ],
+      "a": 1,
+      "why": "Tag untuk can positif: can't he."
+    },
+    {
+      "id": "r20261117-020",
+      "topic": "Superlatives",
+      "level": "Menengah",
+      "q": "Monday is the ___ day of the week for me.",
+      "opts": [
+        "busier",
+        "most busy",
+        "busiest"
+      ],
+      "a": 2,
+      "why": "Superlatif: the busiest."
+    },
+    {
+      "id": "r20261117-021",
+      "topic": "Present perfect",
+      "level": "Menengah atas",
+      "q": "She ___ three novels this year.",
+      "opts": [
+        "writes",
+        "has written",
+        "wrote"
+      ],
+      "a": 1,
+      "why": "this year sampai sekarang: present perfect."
+    },
+    {
+      "id": "r20261117-022",
+      "topic": "Second conditional",
+      "level": "Menengah atas",
+      "q": "If I ___ a car, I would drive to the beach.",
+      "opts": [
+        "have",
+        "will have",
+        "had"
+      ],
+      "a": 2,
+      "why": "Tipe 2: if + past."
+    },
+    {
+      "id": "r20261117-023",
+      "topic": "Relative clauses",
+      "level": "Menengah atas",
+      "q": "The movie ___ we watched last night was amazing.",
+      "opts": [
+        "that",
+        "who",
+        "whose"
+      ],
+      "a": 0,
+      "why": "Kata hubung untuk benda: that."
+    },
+    {
+      "id": "r20261117-024",
+      "topic": "Reported speech",
+      "level": "Menengah atas",
+      "q": "He said he ___ come to the party.",
+      "opts": [
+        "will",
+        "would",
+        "shall"
+      ],
+      "a": 1,
+      "why": "Backshift: will menjadi would."
+    },
+    {
+      "id": "r20261117-025",
+      "topic": "Ever/never",
+      "level": "Menengah atas",
+      "q": "Have you ___ been to Japan?",
+      "opts": [
+        "ever",
+        "never",
+        "yet"
+      ],
+      "a": 0,
+      "why": "Pertanyaan pengalaman: ever."
+    },
+    {
+      "id": "r20261117-026",
+      "topic": "Too",
+      "level": "Menengah atas",
+      "q": "The box is ___ heavy for me to lift.",
+      "opts": [
+        "enough",
+        "too",
+        "very"
+      ],
+      "a": 1,
+      "why": "Terlalu: too + adjective."
+    },
+    {
+      "id": "r20261117-027",
+      "topic": "Vocabulary: work",
+      "level": "Menengah atas",
+      "q": "She got a ___ after two years of hard work. Now she leads her team.",
+      "opts": [
+        "pension",
+        "permission",
+        "promotion"
+      ],
+      "a": 2,
+      "why": "promotion = kenaikan jabatan."
+    },
+    {
+      "id": "r20261117-028",
+      "topic": "Should have",
+      "level": "Menengah atas",
+      "q": "You ___ told me about the problem earlier.",
+      "opts": [
+        "should have",
+        "should",
+        "must"
+      ],
+      "a": 0,
+      "why": "Kritik lampau: should have + V3."
+    },
+    {
+      "id": "r20261117-029",
+      "topic": "Prefer",
+      "level": "Menengah atas",
+      "q": "I prefer walking ___ driving in the city.",
+      "opts": [
+        "than",
+        "from",
+        "to"
+      ],
+      "a": 2,
+      "why": "prefer V-ing to V-ing."
+    },
+    {
+      "id": "r20261117-030",
+      "topic": "Past perfect",
+      "level": "Menengah atas",
+      "q": "She ___ the letter before she left the office.",
+      "opts": [
+        "had posted",
+        "has posted",
+        "posts"
+      ],
+      "a": 0,
+      "why": "Sebelum left: past perfect."
+    },
+    {
+      "id": "r20261117-031",
+      "topic": "Third conditional",
+      "level": "Menuju lancar",
+      "q": "If she had woken up earlier, she ___ the bus.",
+      "opts": [
+        "would catch",
+        "would have caught",
+        "will catch"
+      ],
+      "a": 1,
+      "why": "Tipe 3: would have + V3."
+    },
+    {
+      "id": "r20261117-032",
+      "topic": "Idioms",
+      "level": "Menuju lancar",
+      "q": "After arguing for hours, they finally saw eye to ___ on the plan.",
+      "opts": [
+        "hand",
+        "mind",
+        "eye"
+      ],
+      "a": 2,
+      "why": "see eye to eye = sepakat."
+    },
+    {
+      "id": "r20261117-033",
+      "topic": "Phrasal verbs",
+      "level": "Menuju lancar",
+      "q": "Please ___ the form and sign it at the bottom.",
+      "opts": [
+        "fill up",
+        "fill in",
+        "fill on"
+      ],
+      "a": 1,
+      "why": "fill in = mengisi (formulir)."
+    },
+    {
+      "id": "r20261117-034",
+      "topic": "Inversion",
+      "level": "Menuju lancar",
+      "q": "Seldom ___ such an interesting lecture.",
+      "opts": [
+        "I have heard",
+        "I heard",
+        "have I heard"
+      ],
+      "a": 2,
+      "why": "Seldom di awal: inversi have I heard."
+    },
+    {
+      "id": "r20261117-035",
+      "topic": "Modal perfect",
+      "level": "Menuju lancar",
+      "q": "She ___ the message; her phone was off all day.",
+      "opts": [
+        "can't have seen",
+        "mustn't see",
+        "couldn't see"
+      ],
+      "a": 0,
+      "why": "Ketidakmungkinan lampau: can't have + V3."
+    },
+    {
+      "id": "r20261117-036",
+      "topic": "Vocabulary: formal",
+      "level": "Menuju lancar",
+      "q": "The government plans to ___ a new law to protect forests.",
+      "opts": [
+        "invent",
+        "introduce",
+        "invite"
+      ],
+      "a": 1,
+      "why": "introduce a law = memperkenalkan/mengajukan undang-undang."
+    },
+    {
+      "id": "r20261117-037",
+      "topic": "Passive: future",
+      "level": "Menuju lancar",
+      "q": "The new stadium ___ before the championship starts.",
+      "opts": [
+        "will be completed",
+        "will complete",
+        "completes"
+      ],
+      "a": 0,
+      "why": "Pasif masa depan: will be + V3."
+    },
+    {
+      "id": "r20261117-038",
+      "topic": "Participle clauses",
+      "level": "Menuju lancar",
+      "q": "___ the window, she saw a rainbow.",
+      "opts": [
+        "Opened",
+        "Opening",
+        "Having opened"
+      ],
+      "a": 1,
+      "why": "Dua aksi hampir bersamaan oleh subjek sama: opening."
+    },
+    {
+      "id": "r20261117-039",
+      "topic": "Vocabulary: personality",
+      "level": "Menuju lancar",
+      "q": "He is very ___; he always keeps his promises.",
+      "opts": [
+        "available",
+        "flexible",
+        "reliable"
+      ],
+      "a": 2,
+      "why": "reliable = dapat diandalkan."
+    },
+    {
+      "id": "r20261117-040",
+      "topic": "Conjunction",
+      "level": "Menuju lancar",
+      "q": "Take an umbrella ___ it rains this afternoon.",
+      "opts": [
+        "in case",
+        "unless",
+        "until"
+      ],
+      "a": 0,
+      "why": "in case = untuk berjaga-jaga."
+    }
+  ],
+  "articles": [
+    {
+      "id": "r20261117-a01",
+      "title": "The Boy Who Planted Trees",
+      "level": "Dasar",
+      "min": 2,
+      "body": [
+        "Andi lives in a small village on a dry hill. Last year, his teacher gave every student three small trees. \"Plant them, water them, and watch them grow,\" she said.",
+        "Andi planted his trees behind his house. Every morning before school, he carried water from the well in two old bottles. His little sister helped him pull out the weeds. The sun was hot, and the ground was hard, but Andi did not stop.",
+        "One year later, the trees are taller than Andi. Birds sit in their branches, and the family eats lunch in their shade. Next month, Andi's class will plant thirty more trees behind the school."
+      ],
+      "gloss": {
+        "village": "desa",
+        "hill": "bukit",
+        "well": "sumur",
+        "weeds": "rumput liar",
+        "ground": "tanah",
+        "branches": "cabang",
+        "shade": "tempat teduh",
+        "grow": "tumbuh"
+      },
+      "qs": [
+        {
+          "q": "Who gave Andi the small trees?",
+          "opts": [
+            "His father",
+            "His sister",
+            "His teacher"
+          ],
+          "a": 2
+        },
+        {
+          "q": "Where did Andi get the water?",
+          "opts": [
+            "From a well",
+            "From a river",
+            "From the rain"
+          ],
+          "a": 0
+        },
+        {
+          "q": "What will the class do next month?",
+          "opts": [
+            "Build a new school",
+            "Plant thirty more trees",
+            "Have a picnic"
+          ],
+          "a": 1
+        }
+      ]
+    },
+    {
+      "id": "r20261117-a02",
+      "title": "The Rise of Electric Buses",
+      "level": "Menengah",
+      "min": 3,
+      "body": [
+        "For decades, city buses have run on diesel fuel. They are noisy and fill the streets with smoke. Now, many cities are replacing them with electric buses, and passengers are noticing the difference.",
+        "Electric buses are much quieter and produce no exhaust. This matters in crowded cities, where dirty air causes health problems. The buses are also cheaper to run: electricity costs less than diesel, and electric motors need fewer repairs.",
+        "There are still problems to solve. Electric buses cost more to buy, and cities must build charging stations. On long routes, a bus may need to charge during the day. Even so, experts believe most city buses will be electric within twenty years."
+      ],
+      "gloss": {
+        "decades": "dekade",
+        "fuel": "bahan bakar",
+        "smoke": "asap",
+        "exhaust": "gas buang",
+        "crowded": "padat",
+        "repairs": "perbaikan",
+        "charging stations": "stasiun pengisian daya",
+        "routes": "rute"
+      },
+      "qs": [
+        {
+          "q": "What fuel have city buses used for decades?",
+          "opts": [
+            "Electricity",
+            "Gasoline",
+            "Diesel"
+          ],
+          "a": 2
+        },
+        {
+          "q": "Why are electric buses cheaper to run?",
+          "opts": [
+            "They never break",
+            "Electricity costs less than diesel",
+            "They carry more passengers"
+          ],
+          "a": 1
+        },
+        {
+          "q": "What is one problem with electric buses?",
+          "opts": [
+            "They are too quiet",
+            "They are slower than diesel buses",
+            "They cost more to buy"
+          ],
+          "a": 2
+        }
+      ]
+    }
+  ]
+}
