@@ -1,0 +1,626 @@
+{
+  "bank": [
+    {
+      "id": "r20261118-001",
+      "topic": "Vocabulary: body",
+      "level": "Dasar",
+      "q": "You smell flowers with your ___.",
+      "opts": [
+        "nose",
+        "ear",
+        "knee"
+      ],
+      "a": 0,
+      "why": "Mencium bunga dengan hidung (nose)."
+    },
+    {
+      "id": "r20261118-002",
+      "topic": "To be",
+      "level": "Dasar",
+      "q": "The soup ___ very hot.",
+      "opts": [
+        "are",
+        "is",
+        "am"
+      ],
+      "a": 1,
+      "why": "Subjek tunggal: is."
+    },
+    {
+      "id": "r20261118-003",
+      "topic": "Vocabulary: fruit",
+      "level": "Dasar",
+      "q": "A ___ is yellow and long. Monkeys love it.",
+      "opts": [
+        "grape",
+        "coconut",
+        "banana"
+      ],
+      "a": 2,
+      "why": "Kuning, panjang, disukai monyet: pisang (banana)."
+    },
+    {
+      "id": "r20261118-004",
+      "topic": "Question words",
+      "level": "Dasar",
+      "q": "___ is that woman? - She is my aunt.",
+      "opts": [
+        "Who",
+        "What",
+        "Where"
+      ],
+      "a": 0,
+      "why": "Menanyakan orang: who."
+    },
+    {
+      "id": "r20261118-005",
+      "topic": "Simple present",
+      "level": "Dasar",
+      "q": "My mother ___ delicious cakes.",
+      "opts": [
+        "make",
+        "making",
+        "makes"
+      ],
+      "a": 2,
+      "why": "Orang ketiga tunggal: makes."
+    },
+    {
+      "id": "r20261118-006",
+      "topic": "Plural nouns",
+      "level": "Dasar",
+      "q": "The farmer has five ___ in his field.",
+      "opts": [
+        "cows",
+        "cow",
+        "cowes"
+      ],
+      "a": 0,
+      "why": "Jamak dari cow: cows."
+    },
+    {
+      "id": "r20261118-007",
+      "topic": "Vocabulary: classroom",
+      "level": "Dasar",
+      "q": "The teacher writes on the ___.",
+      "opts": [
+        "window",
+        "whiteboard",
+        "floor"
+      ],
+      "a": 1,
+      "why": "Guru menulis di papan tulis (whiteboard)."
+    },
+    {
+      "id": "r20261118-008",
+      "topic": "Numbers",
+      "level": "Dasar",
+      "q": "Twenty minus six is ___.",
+      "opts": [
+        "thirteen",
+        "fifteen",
+        "fourteen"
+      ],
+      "a": 2,
+      "why": "20 - 6 = 14 (fourteen)."
+    },
+    {
+      "id": "r20261118-009",
+      "topic": "Present tense",
+      "level": "Dasar",
+      "q": "Listen! The birds ___ in the garden.",
+      "opts": [
+        "sings",
+        "are singing",
+        "sing"
+      ],
+      "a": 1,
+      "why": "Listen! = sedang terjadi: are singing."
+    },
+    {
+      "id": "r20261118-010",
+      "topic": "Vocabulary: colors",
+      "level": "Dasar",
+      "q": "The leaves of a healthy tree are ___.",
+      "opts": [
+        "blue",
+        "gray",
+        "green"
+      ],
+      "a": 2,
+      "why": "Daun sehat berwarna hijau (green)."
+    },
+    {
+      "id": "r20261118-011",
+      "topic": "Past tense",
+      "level": "Menengah",
+      "q": "He ___ his old bicycle and bought a new one.",
+      "opts": [
+        "sold",
+        "selled",
+        "sell"
+      ],
+      "a": 0,
+      "why": "Lampau dari sell: sold."
+    },
+    {
+      "id": "r20261118-012",
+      "topic": "Comparatives",
+      "level": "Menengah",
+      "q": "My phone is ___ than my old one.",
+      "opts": [
+        "expensiver",
+        "more expensive",
+        "most expensive"
+      ],
+      "a": 1,
+      "why": "Perbandingan kata panjang: more expensive."
+    },
+    {
+      "id": "r20261118-013",
+      "topic": "Present continuous",
+      "level": "Menengah",
+      "q": "I ___ a book about volcanoes at the moment.",
+      "opts": [
+        "am reading",
+        "read",
+        "reads"
+      ],
+      "a": 0,
+      "why": "Sedang berlangsung: am reading."
+    },
+    {
+      "id": "r20261118-014",
+      "topic": "Modals: advice",
+      "level": "Menengah",
+      "q": "You have a fever. You ___ see a doctor.",
+      "opts": [
+        "might not",
+        "should",
+        "don't have to"
+      ],
+      "a": 1,
+      "why": "Saran: should."
+    },
+    {
+      "id": "r20261118-015",
+      "topic": "Some/any",
+      "level": "Menengah",
+      "q": "Do you have ___ questions about the homework?",
+      "opts": [
+        "some",
+        "much",
+        "any"
+      ],
+      "a": 2,
+      "why": "Pertanyaan biasanya memakai any."
+    },
+    {
+      "id": "r20261118-016",
+      "topic": "Irregular past",
+      "level": "Menengah",
+      "q": "The little boy ___ his ice cream on the floor.",
+      "opts": [
+        "dropped",
+        "dropt",
+        "droped"
+      ],
+      "a": 0,
+      "why": "Lampau dari drop: dropped."
+    },
+    {
+      "id": "r20261118-017",
+      "topic": "Prepositions of time",
+      "level": "Menengah",
+      "q": "The store closes ___ 10 pm.",
+      "opts": [
+        "in",
+        "on",
+        "at"
+      ],
+      "a": 2,
+      "why": "Jam tertentu: at."
+    },
+    {
+      "id": "r20261118-018",
+      "topic": "Adverbs",
+      "level": "Menengah",
+      "q": "The turtle walks very ___.",
+      "opts": [
+        "slowly",
+        "slow",
+        "slower"
+      ],
+      "a": 0,
+      "why": "Keterangan cara: slowly."
+    },
+    {
+      "id": "r20261118-019",
+      "topic": "Future: going to",
+      "level": "Menengah",
+      "q": "We ___ a picnic tomorrow. The food is ready.",
+      "opts": [
+        "will to have",
+        "are going to have",
+        "going have"
+      ],
+      "a": 1,
+      "why": "Rencana: are going to + V1."
+    },
+    {
+      "id": "r20261118-020",
+      "topic": "Conjunctions",
+      "level": "Menengah",
+      "q": "He studied hard, ___ he passed the exam easily.",
+      "opts": [
+        "but",
+        "although",
+        "so"
+      ],
+      "a": 2,
+      "why": "Akibat: so."
+    },
+    {
+      "id": "r20261118-021",
+      "topic": "Present perfect",
+      "level": "Menengah atas",
+      "q": "I ___ my umbrella. I cannot find it anywhere.",
+      "opts": [
+        "lost",
+        "have lost",
+        "had lost"
+      ],
+      "a": 1,
+      "why": "Dampak sekarang: present perfect."
+    },
+    {
+      "id": "r20261118-022",
+      "topic": "Passive voice",
+      "level": "Menengah atas",
+      "q": "The homework ___ by the students yesterday.",
+      "opts": [
+        "is finished",
+        "finished",
+        "was finished"
+      ],
+      "a": 2,
+      "why": "Pasif lampau: was + V3."
+    },
+    {
+      "id": "r20261118-023",
+      "topic": "Second conditional",
+      "level": "Menengah atas",
+      "q": "If she ___ more time, she would learn Japanese.",
+      "opts": [
+        "had",
+        "has",
+        "will have"
+      ],
+      "a": 0,
+      "why": "Tipe 2: if + past."
+    },
+    {
+      "id": "r20261118-024",
+      "topic": "Relative clauses",
+      "level": "Menengah atas",
+      "q": "The man ___ car was stolen reported it to the police.",
+      "opts": [
+        "who",
+        "whose",
+        "which"
+      ],
+      "a": 1,
+      "why": "Kepemilikan: whose."
+    },
+    {
+      "id": "r20261118-025",
+      "topic": "Reported speech",
+      "level": "Menengah atas",
+      "q": "She said she ___ busy that day.",
+      "opts": [
+        "was",
+        "is",
+        "be"
+      ],
+      "a": 0,
+      "why": "Backshift: is menjadi was."
+    },
+    {
+      "id": "r20261118-026",
+      "topic": "Just",
+      "level": "Menengah atas",
+      "q": "I have ___ eaten lunch, so I am not hungry.",
+      "opts": [
+        "yet",
+        "just",
+        "ever"
+      ],
+      "a": 1,
+      "why": "Baru saja: just."
+    },
+    {
+      "id": "r20261118-027",
+      "topic": "Vocabulary: travel",
+      "level": "Menengah atas",
+      "q": "Before boarding, you must show your ___ at the gate.",
+      "opts": [
+        "passport photo",
+        "receipt",
+        "boarding pass"
+      ],
+      "a": 2,
+      "why": "boarding pass = kartu naik pesawat."
+    },
+    {
+      "id": "r20261118-028",
+      "topic": "Would rather",
+      "level": "Menengah atas",
+      "q": "I would rather ___ tea than coffee.",
+      "opts": [
+        "have",
+        "to have",
+        "having"
+      ],
+      "a": 0,
+      "why": "would rather + V1."
+    },
+    {
+      "id": "r20261118-029",
+      "topic": "Articles",
+      "level": "Menengah atas",
+      "q": "___ rice we bought yesterday is from Cianjur.",
+      "opts": [
+        "A",
+        "An",
+        "The"
+      ],
+      "a": 2,
+      "why": "Beras tertentu (yang dibeli kemarin): the."
+    },
+    {
+      "id": "r20261118-030",
+      "topic": "Conditionals",
+      "level": "Menengah atas",
+      "q": "Water boils if you ___ it to 100 degrees.",
+      "opts": [
+        "heat",
+        "will heat",
+        "would heat"
+      ],
+      "a": 0,
+      "why": "Zero conditional: present + present."
+    },
+    {
+      "id": "r20261118-031",
+      "topic": "Third conditional",
+      "level": "Menuju lancar",
+      "q": "If we had booked earlier, we ___ cheaper tickets.",
+      "opts": [
+        "would get",
+        "would have got",
+        "will get"
+      ],
+      "a": 1,
+      "why": "Tipe 3: would have + V3."
+    },
+    {
+      "id": "r20261118-032",
+      "topic": "Idioms",
+      "level": "Menuju lancar",
+      "q": "The exam was easy; I passed it with flying ___.",
+      "opts": [
+        "flags",
+        "wings",
+        "colors"
+      ],
+      "a": 2,
+      "why": "with flying colors = dengan hasil cemerlang."
+    },
+    {
+      "id": "r20261118-033",
+      "topic": "Phrasal verbs",
+      "level": "Menuju lancar",
+      "q": "The old theater was ___ to make room for a mall.",
+      "opts": [
+        "pulled up",
+        "pulled down",
+        "pulled in"
+      ],
+      "a": 1,
+      "why": "pull down = merobohkan."
+    },
+    {
+      "id": "r20261118-034",
+      "topic": "Inversion",
+      "level": "Menuju lancar",
+      "q": "Under no circumstances ___ the door unlocked.",
+      "opts": [
+        "you should leave",
+        "you leave",
+        "should you leave"
+      ],
+      "a": 2,
+      "why": "Frasa negatif di awal: inversi."
+    },
+    {
+      "id": "r20261118-035",
+      "topic": "Wish",
+      "level": "Menuju lancar",
+      "q": "I wish the train ___ on time. We are going to be late.",
+      "opts": [
+        "were",
+        "is",
+        "will be"
+      ],
+      "a": 0,
+      "why": "Harapan berlawanan dengan kenyataan: wish + past."
+    },
+    {
+      "id": "r20261118-036",
+      "topic": "Vocabulary: academic",
+      "level": "Menuju lancar",
+      "q": "The researcher collected ___ from 500 respondents.",
+      "opts": [
+        "dates",
+        "data",
+        "donations"
+      ],
+      "a": 1,
+      "why": "data = data (kumpulan fakta penelitian)."
+    },
+    {
+      "id": "r20261118-037",
+      "topic": "Passive: present perfect",
+      "level": "Menuju lancar",
+      "q": "The results ___ just ___ on the website.",
+      "opts": [
+        "have ... been posted",
+        "have ... posted",
+        "are ... posting"
+      ],
+      "a": 0,
+      "why": "Pasif present perfect: have been + V3."
+    },
+    {
+      "id": "r20261118-038",
+      "topic": "Causative",
+      "level": "Menuju lancar",
+      "q": "She ___ her car serviced every six months.",
+      "opts": [
+        "does",
+        "has",
+        "takes"
+      ],
+      "a": 1,
+      "why": "Kausatif: have + object + V3."
+    },
+    {
+      "id": "r20261118-039",
+      "topic": "Vocabulary: weather",
+      "level": "Menuju lancar",
+      "q": "After the storm, the sky was completely ___.",
+      "opts": [
+        "empty",
+        "bare",
+        "clear"
+      ],
+      "a": 2,
+      "why": "clear = cerah/tanpa awan."
+    },
+    {
+      "id": "r20261118-040",
+      "topic": "Despite",
+      "level": "Menuju lancar",
+      "q": "___ the warnings, many people still swim at that beach.",
+      "opts": [
+        "Despite",
+        "Although",
+        "Because"
+      ],
+      "a": 0,
+      "why": "Despite + noun; although butuh klausa."
+    }
+  ],
+  "articles": [
+    {
+      "id": "r20261118-a01",
+      "title": "Saturday Night at the Market",
+      "level": "Dasar",
+      "min": 2,
+      "body": [
+        "Every Saturday night, the street near Tania's house becomes a night market. Colorful lights hang above the road, and the air smells like grilled corn and satay.",
+        "Tania goes there with her grandmother. First, they buy a bag of sweet mangoes. Then Tania watches a man make candy from melted sugar. He shapes it like butterflies and dragons. \"Can I have the dragon?\" Tania asks. It costs five thousand rupiah.",
+        "At the end of the night, grandmother buys warm ginger tea for both of them. They walk home slowly, full and happy. \"Same time next week?\" her grandmother says. Tania nods and smiles."
+      ],
+      "gloss": {
+        "night market": "pasar malam",
+        "hang": "tergantung",
+        "grilled": "dibakar",
+        "candy": "permen",
+        "melted": "dilelehkan",
+        "shapes": "membentuk",
+        "ginger tea": "teh jahe",
+        "nods": "mengangguk"
+      },
+      "qs": [
+        {
+          "q": "When is the street near Tania's house a night market?",
+          "opts": [
+            "Every morning",
+            "Every Sunday afternoon",
+            "Every Saturday night"
+          ],
+          "a": 2
+        },
+        {
+          "q": "What does the man make from melted sugar?",
+          "opts": [
+            "Candy",
+            "Bread",
+            "Ice cream"
+          ],
+          "a": 0
+        },
+        {
+          "q": "What do Tania and her grandmother drink at the end?",
+          "opts": [
+            "Orange juice",
+            "Ginger tea",
+            "Coffee"
+          ],
+          "a": 1
+        }
+      ]
+    },
+    {
+      "id": "r20261118-a02",
+      "title": "The Secret Life of Honeybees",
+      "level": "Menengah",
+      "min": 3,
+      "body": [
+        "A honeybee lives only about six weeks, but it works every single day. In that short life, one bee makes just a twelfth of a teaspoon of honey. A full jar of honey needs the work of hundreds of bees.",
+        "Bees are also amazing communicators. When a bee finds flowers, it flies home and does a special dance. The angle of the dance tells the other bees which direction to fly, and its speed tells them how far to go.",
+        "Sadly, bee numbers are falling around the world. Chemicals on farms hurt them, and cities leave fewer wild flowers. This is a problem for us too: about a third of our food depends on bees. Planting flowers on balconies and in gardens is a small way to help."
+      ],
+      "gloss": {
+        "teaspoon": "sendok teh",
+        "jar": "toples",
+        "communicators": "penyampai pesan",
+        "dance": "tarian",
+        "direction": "arah",
+        "falling": "menurun",
+        "chemicals": "bahan kimia",
+        "depends on": "bergantung pada"
+      },
+      "qs": [
+        {
+          "q": "How much honey does one bee make in its life?",
+          "opts": [
+            "About one jar",
+            "About one cup",
+            "About a twelfth of a teaspoon"
+          ],
+          "a": 2
+        },
+        {
+          "q": "How does a bee tell others where the flowers are?",
+          "opts": [
+            "By making a loud sound",
+            "By doing a special dance",
+            "By leaving a smell"
+          ],
+          "a": 1
+        },
+        {
+          "q": "Why are falling bee numbers a problem for humans?",
+          "opts": [
+            "Bees eat our garbage",
+            "Bees keep birds away",
+            "Much of our food depends on bees"
+          ],
+          "a": 2
+        }
+      ]
+    }
+  ]
+}
