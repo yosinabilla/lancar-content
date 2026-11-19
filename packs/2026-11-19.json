@@ -1,0 +1,626 @@
+{
+  "bank": [
+    {
+      "id": "r20261119-001",
+      "topic": "Vocabulary: house",
+      "level": "Dasar",
+      "q": "You cook rice in the ___.",
+      "opts": [
+        "kitchen",
+        "bathroom",
+        "bedroom"
+      ],
+      "a": 0,
+      "why": "Memasak di dapur (kitchen)."
+    },
+    {
+      "id": "r20261119-002",
+      "topic": "To be",
+      "level": "Dasar",
+      "q": "The children ___ at school today.",
+      "opts": [
+        "is",
+        "are",
+        "am"
+      ],
+      "a": 1,
+      "why": "Jamak: are."
+    },
+    {
+      "id": "r20261119-003",
+      "topic": "Vocabulary: animals",
+      "level": "Dasar",
+      "q": "A ___ hops and eats carrots.",
+      "opts": [
+        "snake",
+        "eagle",
+        "rabbit"
+      ],
+      "a": 2,
+      "why": "Melompat dan makan wortel: kelinci (rabbit)."
+    },
+    {
+      "id": "r20261119-004",
+      "topic": "Question words",
+      "level": "Dasar",
+      "q": "___ do you live? - In Bandung.",
+      "opts": [
+        "Where",
+        "When",
+        "Who"
+      ],
+      "a": 0,
+      "why": "Menanyakan tempat: where."
+    },
+    {
+      "id": "r20261119-005",
+      "topic": "Simple present",
+      "level": "Dasar",
+      "q": "She ___ her teeth every morning.",
+      "opts": [
+        "brush",
+        "brushing",
+        "brushes"
+      ],
+      "a": 2,
+      "why": "Orang ketiga tunggal: brushes."
+    },
+    {
+      "id": "r20261119-006",
+      "topic": "Prepositions",
+      "level": "Dasar",
+      "q": "The cat sleeps ___ the sofa.",
+      "opts": [
+        "on",
+        "in",
+        "between"
+      ],
+      "a": 0,
+      "why": "Di atas sofa: on."
+    },
+    {
+      "id": "r20261119-007",
+      "topic": "Plural nouns",
+      "level": "Dasar",
+      "q": "I have two ___ in my pencil case.",
+      "opts": [
+        "pen",
+        "pens",
+        "penes"
+      ],
+      "a": 1,
+      "why": "Jamak dari pen: pens."
+    },
+    {
+      "id": "r20261119-008",
+      "topic": "Vocabulary: nature",
+      "level": "Dasar",
+      "q": "The ___ gives us light during the day.",
+      "opts": [
+        "moon",
+        "star",
+        "sun"
+      ],
+      "a": 2,
+      "why": "Siang hari: matahari (sun)."
+    },
+    {
+      "id": "r20261119-009",
+      "topic": "Numbers",
+      "level": "Dasar",
+      "q": "Nine plus six is ___.",
+      "opts": [
+        "fourteen",
+        "fifteen",
+        "sixteen"
+      ],
+      "a": 1,
+      "why": "9 + 6 = 15 (fifteen)."
+    },
+    {
+      "id": "r20261119-010",
+      "topic": "Vocabulary: family",
+      "level": "Dasar",
+      "q": "Your father's father is your ___.",
+      "opts": [
+        "uncle",
+        "brother",
+        "grandfather"
+      ],
+      "a": 2,
+      "why": "Ayah dari ayah: kakek (grandfather)."
+    },
+    {
+      "id": "r20261119-011",
+      "topic": "Past tense",
+      "level": "Menengah",
+      "q": "They ___ a new house near the river last year.",
+      "opts": [
+        "built",
+        "builded",
+        "build"
+      ],
+      "a": 0,
+      "why": "Lampau dari build: built."
+    },
+    {
+      "id": "r20261119-012",
+      "topic": "Comparatives",
+      "level": "Menengah",
+      "q": "My village is ___ than the city.",
+      "opts": [
+        "quietest",
+        "quieter",
+        "more quiet"
+      ],
+      "a": 1,
+      "why": "Perbandingan: quiet menjadi quieter."
+    },
+    {
+      "id": "r20261119-013",
+      "topic": "Present continuous",
+      "level": "Menengah",
+      "q": "She ___ for the exam right now, so do not disturb her.",
+      "opts": [
+        "is studying",
+        "studies",
+        "studied"
+      ],
+      "a": 0,
+      "why": "Sedang berlangsung: is studying."
+    },
+    {
+      "id": "r20261119-014",
+      "topic": "Modals: ability",
+      "level": "Menengah",
+      "q": "My little sister ___ read yet. She is only three.",
+      "opts": [
+        "can",
+        "can't",
+        "could"
+      ],
+      "a": 1,
+      "why": "Belum bisa: can't."
+    },
+    {
+      "id": "r20261119-015",
+      "topic": "Much/many",
+      "level": "Menengah",
+      "q": "There is too ___ sugar in this tea.",
+      "opts": [
+        "many",
+        "few",
+        "much"
+      ],
+      "a": 2,
+      "why": "Sugar tak terhitung: much."
+    },
+    {
+      "id": "r20261119-016",
+      "topic": "Irregular past",
+      "level": "Menengah",
+      "q": "The teacher ___ us a story yesterday.",
+      "opts": [
+        "told",
+        "telled",
+        "tolded"
+      ],
+      "a": 0,
+      "why": "Lampau dari tell: told."
+    },
+    {
+      "id": "r20261119-017",
+      "topic": "Prepositions",
+      "level": "Menengah",
+      "q": "The museum is ___ my house, so I always walk there.",
+      "opts": [
+        "far from",
+        "between",
+        "near"
+      ],
+      "a": 2,
+      "why": "Bisa jalan kaki: dekat (near)."
+    },
+    {
+      "id": "r20261119-018",
+      "topic": "Adverbs",
+      "level": "Menengah",
+      "q": "He finished the test ___ and went home early.",
+      "opts": [
+        "quickly",
+        "quick",
+        "quicker"
+      ],
+      "a": 0,
+      "why": "Keterangan cara: quickly."
+    },
+    {
+      "id": "r20261119-019",
+      "topic": "Future: will",
+      "level": "Menengah",
+      "q": "I am sure you ___ the exam if you study every day.",
+      "opts": [
+        "pass",
+        "will pass",
+        "passed"
+      ],
+      "a": 1,
+      "why": "Prediksi: will + V1."
+    },
+    {
+      "id": "r20261119-020",
+      "topic": "Conjunctions",
+      "level": "Menengah",
+      "q": "I wanted to buy the shoes, ___ they were too expensive.",
+      "opts": [
+        "so",
+        "because",
+        "but"
+      ],
+      "a": 2,
+      "why": "Pertentangan: but."
+    },
+    {
+      "id": "r20261119-021",
+      "topic": "Passive voice",
+      "level": "Menengah atas",
+      "q": "The cake ___ by my aunt every Sunday.",
+      "opts": [
+        "makes",
+        "is made",
+        "is making"
+      ],
+      "a": 1,
+      "why": "Pasif present: is + V3."
+    },
+    {
+      "id": "r20261119-022",
+      "topic": "Second conditional",
+      "level": "Menengah atas",
+      "q": "If we ___ in Japan, we would eat sushi every day.",
+      "opts": [
+        "live",
+        "will live",
+        "lived"
+      ],
+      "a": 2,
+      "why": "Tipe 2: if + past."
+    },
+    {
+      "id": "r20261119-023",
+      "topic": "Relative clauses",
+      "level": "Menengah atas",
+      "q": "The girl ___ won the race trains every day.",
+      "opts": [
+        "who",
+        "which",
+        "whose"
+      ],
+      "a": 0,
+      "why": "Kata hubung untuk orang: who."
+    },
+    {
+      "id": "r20261119-024",
+      "topic": "Reported speech",
+      "level": "Menengah atas",
+      "q": "He told me that he ___ the answer.",
+      "opts": [
+        "knows",
+        "knew",
+        "know"
+      ],
+      "a": 1,
+      "why": "Backshift: knows menjadi knew."
+    },
+    {
+      "id": "r20261119-025",
+      "topic": "Since/for",
+      "level": "Menengah atas",
+      "q": "They have been friends ___ ten years.",
+      "opts": [
+        "for",
+        "since",
+        "from"
+      ],
+      "a": 0,
+      "why": "Durasi: for."
+    },
+    {
+      "id": "r20261119-026",
+      "topic": "Enough",
+      "level": "Menengah atas",
+      "q": "This room is big ___ for twenty people.",
+      "opts": [
+        "too",
+        "enough",
+        "so"
+      ],
+      "a": 1,
+      "why": "adjective + enough."
+    },
+    {
+      "id": "r20261119-027",
+      "topic": "Vocabulary: school",
+      "level": "Menengah atas",
+      "q": "You must ___ the exam again if you fail it.",
+      "opts": [
+        "review",
+        "rewrite",
+        "retake"
+      ],
+      "a": 2,
+      "why": "retake = mengambil ulang (ujian)."
+    },
+    {
+      "id": "r20261119-028",
+      "topic": "Might",
+      "level": "Menengah atas",
+      "q": "Take a jacket. It ___ be cold at night.",
+      "opts": [
+        "might",
+        "must",
+        "should"
+      ],
+      "a": 0,
+      "why": "Kemungkinan: might."
+    },
+    {
+      "id": "r20261119-029",
+      "topic": "Used to",
+      "level": "Menengah atas",
+      "q": "We ___ play marbles after school when we were kids.",
+      "opts": [
+        "use to",
+        "would to",
+        "used to"
+      ],
+      "a": 2,
+      "why": "Kebiasaan lampau: used to + V1."
+    },
+    {
+      "id": "r20261119-030",
+      "topic": "Past perfect",
+      "level": "Menengah atas",
+      "q": "I ___ never ___ snow before I went to Japan.",
+      "opts": [
+        "had ... seen",
+        "have ... seen",
+        "had ... saw"
+      ],
+      "a": 0,
+      "why": "Sebelum pengalaman lampau lain: past perfect."
+    },
+    {
+      "id": "r20261119-031",
+      "topic": "Third conditional",
+      "level": "Menuju lancar",
+      "q": "If the weather had been better, we ___ hiking.",
+      "opts": [
+        "would go",
+        "would have gone",
+        "will go"
+      ],
+      "a": 1,
+      "why": "Tipe 3: would have + V3."
+    },
+    {
+      "id": "r20261119-032",
+      "topic": "Idioms",
+      "level": "Menuju lancar",
+      "q": "I am all ___ - tell me what happened at the meeting.",
+      "opts": [
+        "eyes",
+        "hands",
+        "ears"
+      ],
+      "a": 2,
+      "why": "all ears = siap mendengarkan sepenuhnya."
+    },
+    {
+      "id": "r20261119-033",
+      "topic": "Phrasal verbs",
+      "level": "Menuju lancar",
+      "q": "The teacher asked us to ___ our essays by Friday.",
+      "opts": [
+        "hand out",
+        "hand in",
+        "hand over"
+      ],
+      "a": 1,
+      "why": "hand in = mengumpulkan."
+    },
+    {
+      "id": "r20261119-034",
+      "topic": "Inversion",
+      "level": "Menuju lancar",
+      "q": "Not until midnight ___ the guests leave.",
+      "opts": [
+        "had",
+        "were",
+        "did"
+      ],
+      "a": 2,
+      "why": "Not until di awal: inversi did + subjek."
+    },
+    {
+      "id": "r20261119-035",
+      "topic": "Modal perfect",
+      "level": "Menuju lancar",
+      "q": "You ___ told her the secret; now everyone knows.",
+      "opts": [
+        "shouldn't have",
+        "mustn't have",
+        "can't have"
+      ],
+      "a": 0,
+      "why": "Penyesalan lampau: shouldn't have + V3."
+    },
+    {
+      "id": "r20261119-036",
+      "topic": "Vocabulary: formal",
+      "level": "Menuju lancar",
+      "q": "The company decided to ___ 200 workers because of falling sales.",
+      "opts": [
+        "take on",
+        "lay off",
+        "put up"
+      ],
+      "a": 1,
+      "why": "lay off = memberhentikan (karyawan)."
+    },
+    {
+      "id": "r20261119-037",
+      "topic": "Passive: modal",
+      "level": "Menuju lancar",
+      "q": "The rules must ___ by everyone, including visitors.",
+      "opts": [
+        "be obeyed",
+        "obey",
+        "be obeying"
+      ],
+      "a": 0,
+      "why": "Pasif modal: must be + V3."
+    },
+    {
+      "id": "r20261119-038",
+      "topic": "Participle clauses",
+      "level": "Menuju lancar",
+      "q": "___ English for ten years, she speaks it fluently.",
+      "opts": [
+        "Studied",
+        "Having studied",
+        "Being studied"
+      ],
+      "a": 1,
+      "why": "Selesai lebih dulu dan berlanjut: having + V3."
+    },
+    {
+      "id": "r20261119-039",
+      "topic": "Vocabulary: qualities",
+      "level": "Menuju lancar",
+      "q": "A good leader must be ___ and accept other people's ideas.",
+      "opts": [
+        "narrow-minded",
+        "absent-minded",
+        "open-minded"
+      ],
+      "a": 2,
+      "why": "open-minded = berpikiran terbuka."
+    },
+    {
+      "id": "r20261119-040",
+      "topic": "Linking words",
+      "level": "Menuju lancar",
+      "q": "The flight was delayed ___ the heavy fog.",
+      "opts": [
+        "due to",
+        "because",
+        "although"
+      ],
+      "a": 0,
+      "why": "due to + noun; because butuh klausa."
+    }
+  ],
+  "articles": [
+    {
+      "id": "r20261119-a01",
+      "title": "Raka and the Old Radio",
+      "level": "Dasar",
+      "min": 2,
+      "body": [
+        "Raka found an old radio in his grandfather's garage. It was brown and heavy, with two round buttons in front. \"Does it still work?\" he asked. Grandfather smiled. \"Let's find out.\"",
+        "They cleaned the radio with a dry cloth and put in new batteries. Raka turned the first button slowly. At first there was only noise. Then, suddenly, music filled the garage - an old song from the 1970s.",
+        "Grandfather began to dance, and Raka laughed. Now, every Sunday afternoon, they sit together in the garage and listen to old songs. The radio is old, but for Raka it is the best thing in the house."
+      ],
+      "gloss": {
+        "found": "menemukan",
+        "garage": "garasi",
+        "buttons": "tombol",
+        "dry cloth": "kain kering",
+        "batteries": "baterai",
+        "suddenly": "tiba-tiba",
+        "filled": "memenuhi",
+        "laughed": "tertawa"
+      },
+      "qs": [
+        {
+          "q": "Where did Raka find the old radio?",
+          "opts": [
+            "In his bedroom",
+            "At a shop",
+            "In his grandfather's garage"
+          ],
+          "a": 2
+        },
+        {
+          "q": "What happened after they put in new batteries?",
+          "opts": [
+            "The radio played music",
+            "The radio broke",
+            "Nothing happened"
+          ],
+          "a": 0
+        },
+        {
+          "q": "What do Raka and his grandfather do every Sunday?",
+          "opts": [
+            "Fix old radios",
+            "Listen to old songs together",
+            "Dance at a party"
+          ],
+          "a": 1
+        }
+      ]
+    },
+    {
+      "id": "r20261119-a02",
+      "title": "Learning a Language with Music",
+      "level": "Menengah",
+      "min": 3,
+      "body": [
+        "Many students find grammar books boring, so they try a more fun method: songs. Teachers say music can be a powerful tool for learning a language, and science agrees.",
+        "Songs help in several ways. A good melody makes words easier to remember - that is why you still remember songs from your childhood. Singing also trains your mouth to make new sounds, and listening teaches you how native speakers connect words together.",
+        "Of course, songs cannot teach you everything. Lyrics are sometimes strange or ungrammatical because the words must fit the music. The best plan is to mix: use songs for vocabulary and pronunciation, and books or classes for grammar. Then your English will improve, and you will enjoy the journey."
+      ],
+      "gloss": {
+        "boring": "membosankan",
+        "method": "metode",
+        "powerful tool": "alat yang ampuh",
+        "melody": "melodi",
+        "childhood": "masa kecil",
+        "lyrics": "lirik",
+        "ungrammatical": "tidak gramatikal",
+        "improve": "meningkat"
+      },
+      "qs": [
+        {
+          "q": "Why do songs make words easier to remember?",
+          "opts": [
+            "Songs are always short",
+            "Lyrics are always simple",
+            "A good melody helps memory"
+          ],
+          "a": 2
+        },
+        {
+          "q": "What is one weakness of learning from songs?",
+          "opts": [
+            "Songs are too expensive",
+            "Lyrics can be ungrammatical",
+            "Singers speak too slowly"
+          ],
+          "a": 1
+        },
+        {
+          "q": "What is the best plan for learning, according to the text?",
+          "opts": [
+            "Use only songs",
+            "Use only grammar books",
+            "Mix songs with books or classes"
+          ],
+          "a": 2
+        }
+      ]
+    }
+  ]
+}
