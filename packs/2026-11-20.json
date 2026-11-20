@@ -1,0 +1,626 @@
+{
+  "bank": [
+    {
+      "id": "r20261120-001",
+      "topic": "Vocabulary: body",
+      "level": "Dasar",
+      "q": "You kick a ball with your ___.",
+      "opts": [
+        "foot",
+        "hand",
+        "head"
+      ],
+      "a": 0,
+      "why": "Menendang dengan kaki (foot)."
+    },
+    {
+      "id": "r20261120-002",
+      "topic": "To be",
+      "level": "Dasar",
+      "q": "My bag ___ heavy today.",
+      "opts": [
+        "are",
+        "is",
+        "am"
+      ],
+      "a": 1,
+      "why": "Tunggal: is."
+    },
+    {
+      "id": "r20261120-003",
+      "topic": "Vocabulary: drinks",
+      "level": "Dasar",
+      "q": "A baby drinks ___ from a bottle.",
+      "opts": [
+        "rice",
+        "bread",
+        "milk"
+      ],
+      "a": 2,
+      "why": "Bayi minum susu (milk)."
+    },
+    {
+      "id": "r20261120-004",
+      "topic": "Simple present",
+      "level": "Dasar",
+      "q": "They ___ to the mosque every Friday.",
+      "opts": [
+        "go",
+        "goes",
+        "going"
+      ],
+      "a": 0,
+      "why": "Jamak: go."
+    },
+    {
+      "id": "r20261120-005",
+      "topic": "Prepositions",
+      "level": "Dasar",
+      "q": "The bird is ___ the cage.",
+      "opts": [
+        "on",
+        "under",
+        "in"
+      ],
+      "a": 2,
+      "why": "Di dalam sangkar: in."
+    },
+    {
+      "id": "r20261120-006",
+      "topic": "Plural nouns",
+      "level": "Dasar",
+      "q": "There are three ___ on the plate.",
+      "opts": [
+        "oranges",
+        "orange",
+        "orangeses"
+      ],
+      "a": 0,
+      "why": "Jamak dari orange: oranges."
+    },
+    {
+      "id": "r20261120-007",
+      "topic": "Vocabulary: clothes",
+      "level": "Dasar",
+      "q": "When it rains, I wear a ___.",
+      "opts": [
+        "swimsuit",
+        "raincoat",
+        "pajama"
+      ],
+      "a": 1,
+      "why": "Saat hujan: jas hujan (raincoat)."
+    },
+    {
+      "id": "r20261120-008",
+      "topic": "Numbers",
+      "level": "Dasar",
+      "q": "Five times three is ___.",
+      "opts": [
+        "twelve",
+        "eighteen",
+        "fifteen"
+      ],
+      "a": 2,
+      "why": "5 x 3 = 15 (fifteen)."
+    },
+    {
+      "id": "r20261120-009",
+      "topic": "Present tense",
+      "level": "Dasar",
+      "q": "The baby ___ every night at 8.",
+      "opts": [
+        "sleep",
+        "sleeps",
+        "sleeping"
+      ],
+      "a": 1,
+      "why": "Orang ketiga tunggal: sleeps."
+    },
+    {
+      "id": "r20261120-010",
+      "topic": "This/that",
+      "level": "Dasar",
+      "q": "___ is a mountain far away.",
+      "opts": [
+        "This",
+        "These",
+        "That"
+      ],
+      "a": 2,
+      "why": "Jauh dan tunggal: that."
+    },
+    {
+      "id": "r20261120-011",
+      "topic": "Past tense",
+      "level": "Menengah",
+      "q": "I ___ my grandmother in the village last month.",
+      "opts": [
+        "visited",
+        "visit",
+        "visiting"
+      ],
+      "a": 0,
+      "why": "last month = lampau: visited."
+    },
+    {
+      "id": "r20261120-012",
+      "topic": "Present continuous",
+      "level": "Menengah",
+      "q": "Be quiet! I ___ to the teacher.",
+      "opts": [
+        "listen",
+        "am listening",
+        "listened"
+      ],
+      "a": 1,
+      "why": "Sedang berlangsung: am listening."
+    },
+    {
+      "id": "r20261120-013",
+      "topic": "Modals: rules",
+      "level": "Menengah",
+      "q": "You ___ smoke in the hospital.",
+      "opts": [
+        "mustn't",
+        "must",
+        "should"
+      ],
+      "a": 0,
+      "why": "Larangan: mustn't."
+    },
+    {
+      "id": "r20261120-014",
+      "topic": "How much",
+      "level": "Menengah",
+      "q": "How ___ does this shirt cost?",
+      "opts": [
+        "many",
+        "much",
+        "long"
+      ],
+      "a": 1,
+      "why": "Menanyakan harga: how much."
+    },
+    {
+      "id": "r20261120-015",
+      "topic": "Irregular past",
+      "level": "Menengah",
+      "q": "She ___ her keys on the table this morning.",
+      "opts": [
+        "leaved",
+        "leave",
+        "left"
+      ],
+      "a": 2,
+      "why": "Lampau dari leave: left."
+    },
+    {
+      "id": "r20261120-016",
+      "topic": "Prepositions",
+      "level": "Menengah",
+      "q": "The supermarket is open ___ 8 am to 10 pm.",
+      "opts": [
+        "from",
+        "since",
+        "at"
+      ],
+      "a": 0,
+      "why": "from ... to: dari ... sampai."
+    },
+    {
+      "id": "r20261120-017",
+      "topic": "Future: will",
+      "level": "Menengah",
+      "q": "I promise I ___ your secret.",
+      "opts": [
+        "don't tell",
+        "didn't tell",
+        "won't tell"
+      ],
+      "a": 2,
+      "why": "Janji: won't (will not)."
+    },
+    {
+      "id": "r20261120-018",
+      "topic": "Conjunctions",
+      "level": "Menengah",
+      "q": "He is rich, ___ he is not happy.",
+      "opts": [
+        "but",
+        "so",
+        "because"
+      ],
+      "a": 0,
+      "why": "Pertentangan: but."
+    },
+    {
+      "id": "r20261120-019",
+      "topic": "Past continuous",
+      "level": "Menengah",
+      "q": "She ___ TV when I called her.",
+      "opts": [
+        "is watching",
+        "was watching",
+        "watches"
+      ],
+      "a": 1,
+      "why": "Sedang berlangsung di lampau: was watching."
+    },
+    {
+      "id": "r20261120-020",
+      "topic": "Question tags",
+      "level": "Menengah",
+      "q": "It isn't raining now, ___?",
+      "opts": [
+        "isn't it",
+        "does it",
+        "is it"
+      ],
+      "a": 2,
+      "why": "Tag untuk negatif: is it."
+    },
+    {
+      "id": "r20261120-021",
+      "topic": "Present perfect",
+      "level": "Menengah atas",
+      "q": "He ___ in this company since 2018.",
+      "opts": [
+        "works",
+        "has worked",
+        "worked"
+      ],
+      "a": 1,
+      "why": "since 2018: present perfect."
+    },
+    {
+      "id": "r20261120-022",
+      "topic": "Passive voice",
+      "level": "Menengah atas",
+      "q": "The tickets ___ online yesterday.",
+      "opts": [
+        "are sold",
+        "sold",
+        "were sold"
+      ],
+      "a": 2,
+      "why": "Pasif lampau jamak: were + V3."
+    },
+    {
+      "id": "r20261120-023",
+      "topic": "First conditional",
+      "level": "Menengah atas",
+      "q": "If you hurry, you ___ the bus.",
+      "opts": [
+        "will catch",
+        "would catch",
+        "caught"
+      ],
+      "a": 0,
+      "why": "Tipe 1: will + V1."
+    },
+    {
+      "id": "r20261120-024",
+      "topic": "Relative clauses",
+      "level": "Menengah atas",
+      "q": "The book ___ is on the table belongs to me.",
+      "opts": [
+        "who",
+        "that",
+        "whose"
+      ],
+      "a": 1,
+      "why": "Kata hubung untuk benda: that."
+    },
+    {
+      "id": "r20261120-025",
+      "topic": "Reported speech",
+      "level": "Menengah atas",
+      "q": "She said that she ___ the answer the day before.",
+      "opts": [
+        "had found",
+        "has found",
+        "finds"
+      ],
+      "a": 0,
+      "why": "Backshift: found menjadi had found."
+    },
+    {
+      "id": "r20261120-026",
+      "topic": "Already",
+      "level": "Menengah atas",
+      "q": "The train has ___ left. We missed it.",
+      "opts": [
+        "yet",
+        "already",
+        "ever"
+      ],
+      "a": 1,
+      "why": "Sudah: already."
+    },
+    {
+      "id": "r20261120-027",
+      "topic": "Too",
+      "level": "Menengah atas",
+      "q": "The coffee is ___ hot to drink.",
+      "opts": [
+        "enough",
+        "so",
+        "too"
+      ],
+      "a": 2,
+      "why": "Terlalu: too."
+    },
+    {
+      "id": "r20261120-028",
+      "topic": "Vocabulary: airport",
+      "level": "Menengah atas",
+      "q": "You pick up your suitcases at the ___.",
+      "opts": [
+        "baggage claim",
+        "check-in desk",
+        "gate"
+      ],
+      "a": 0,
+      "why": "baggage claim = tempat pengambilan bagasi."
+    },
+    {
+      "id": "r20261120-029",
+      "topic": "Can have",
+      "level": "Menengah atas",
+      "q": "He ___ arrived by now; he left six hours ago.",
+      "opts": [
+        "can",
+        "should",
+        "must have"
+      ],
+      "a": 2,
+      "why": "Simpulan: must have + V3."
+    },
+    {
+      "id": "r20261120-030",
+      "topic": "Look forward",
+      "level": "Menengah atas",
+      "q": "We look forward to ___ you again soon.",
+      "opts": [
+        "seeing",
+        "see",
+        "saw"
+      ],
+      "a": 0,
+      "why": "look forward to + V-ing."
+    },
+    {
+      "id": "r20261120-031",
+      "topic": "Third conditional",
+      "level": "Menuju lancar",
+      "q": "If you had studied harder, you ___ the scholarship.",
+      "opts": [
+        "would win",
+        "would have won",
+        "will win"
+      ],
+      "a": 1,
+      "why": "Tipe 3: would have + V3."
+    },
+    {
+      "id": "r20261120-032",
+      "topic": "Idioms",
+      "level": "Menuju lancar",
+      "q": "He finally spilled the ___ and told us everything.",
+      "opts": [
+        "water",
+        "milk",
+        "beans"
+      ],
+      "a": 2,
+      "why": "spill the beans = membocorkan rahasia."
+    },
+    {
+      "id": "r20261120-033",
+      "topic": "Phrasal verbs",
+      "level": "Menuju lancar",
+      "q": "Can you ___ the volume? The music is too loud.",
+      "opts": [
+        "turn up",
+        "turn down",
+        "turn on"
+      ],
+      "a": 1,
+      "why": "turn down = mengecilkan."
+    },
+    {
+      "id": "r20261120-034",
+      "topic": "Needn't have",
+      "level": "Menuju lancar",
+      "q": "You ___ brought an umbrella; it never rained.",
+      "opts": [
+        "didn't need to have",
+        "mustn't have",
+        "needn't have"
+      ],
+      "a": 2,
+      "why": "Tidak perlu tapi dilakukan: needn't have + V3."
+    },
+    {
+      "id": "r20261120-035",
+      "topic": "Vocabulary: law",
+      "level": "Menuju lancar",
+      "q": "The witness told the court what she had ___ that night.",
+      "opts": [
+        "seen",
+        "saw",
+        "see"
+      ],
+      "a": 0,
+      "why": "had + V3: seen."
+    },
+    {
+      "id": "r20261120-036",
+      "topic": "Passive: past continuous",
+      "level": "Menuju lancar",
+      "q": "The bridge was being ___ when the accident happened.",
+      "opts": [
+        "repair",
+        "repaired",
+        "repairing"
+      ],
+      "a": 1,
+      "why": "Pasif past continuous: was being + V3."
+    },
+    {
+      "id": "r20261120-037",
+      "topic": "Despite",
+      "level": "Menuju lancar",
+      "q": "___ feeling tired, she continued working.",
+      "opts": [
+        "Despite",
+        "Although",
+        "Because"
+      ],
+      "a": 0,
+      "why": "Despite + V-ing."
+    },
+    {
+      "id": "r20261120-038",
+      "topic": "Vocabulary: education",
+      "level": "Menuju lancar",
+      "q": "Plagiarism can get a student ___ from the university.",
+      "opts": [
+        "expired",
+        "expelled",
+        "exported"
+      ],
+      "a": 1,
+      "why": "expelled = dikeluarkan."
+    },
+    {
+      "id": "r20261120-039",
+      "topic": "Linking",
+      "level": "Menuju lancar",
+      "q": "He failed the test ___ studying all night.",
+      "opts": [
+        "because of",
+        "thanks to",
+        "in spite of"
+      ],
+      "a": 2,
+      "why": "in spite of + V-ing/noun: meskipun."
+    },
+    {
+      "id": "r20261120-040",
+      "topic": "Vocabulary: personality",
+      "level": "Menuju lancar",
+      "q": "She is so ___ that she remembers everyone's birthday.",
+      "opts": [
+        "thoughtful",
+        "careless",
+        "selfish"
+      ],
+      "a": 0,
+      "why": "thoughtful = penuh perhatian."
+    }
+  ],
+  "articles": [
+    {
+      "id": "r20261120-a01",
+      "title": "Mia Helps at Home",
+      "level": "Dasar",
+      "min": 2,
+      "body": [
+        "Mia is ten years old. Every day after school, she helps her mother at home. On Monday, she sweeps the floor. On Tuesday, she washes the dishes. Her little brother Rio helps too, but he is only five.",
+        "Rio's job is to feed the cat. He gives it food and fresh water every morning. Sometimes he forgets, and the cat follows him around the house until he remembers. Mia always laughs when that happens.",
+        "On Sunday, there are no jobs. The whole family cooks lunch together and eats in the garden. \"You two are great helpers,\" says Mother. Mia and Rio smile at each other."
+      ],
+      "gloss": {
+        "sweeps": "menyapu",
+        "floor": "lantai",
+        "dishes": "piring",
+        "feed": "memberi makan",
+        "forgets": "lupa",
+        "follows": "mengikuti",
+        "remembers": "ingat",
+        "helpers": "pembantu"
+      },
+      "qs": [
+        {
+          "q": "What does Mia do on Monday?",
+          "opts": [
+            "She washes the dishes",
+            "She feeds the cat",
+            "She sweeps the floor"
+          ],
+          "a": 2
+        },
+        {
+          "q": "What is Rio's job?",
+          "opts": [
+            "Feeding the cat",
+            "Sweeping the floor",
+            "Cooking lunch"
+          ],
+          "a": 0
+        },
+        {
+          "q": "What does the family do on Sunday?",
+          "opts": [
+            "They clean the house",
+            "They cook and eat in the garden",
+            "They visit grandmother"
+          ],
+          "a": 1
+        }
+      ]
+    },
+    {
+      "id": "r20261120-a02",
+      "title": "The History of Instant Noodles",
+      "level": "Menengah",
+      "min": 3,
+      "body": [
+        "Instant noodles were invented in Japan in 1958 by a man named Momofuku Ando. After the war, food was scarce, and he wanted to make something cheap, tasty, and easy to store. His first flavor was chicken.",
+        "The idea spread quickly. In 1971, Ando's company put noodles in a cup, so people only needed hot water. Today, people around the world eat about 100 billion servings of instant noodles every year. Indonesia is one of the biggest markets, with flavors like rendang and soto.",
+        "Instant noodles are convenient, but doctors warn that they should not replace real meals. They are high in salt and low in vitamins. The healthiest way to enjoy them is simple: add an egg, some vegetables, and use only half the seasoning."
+      ],
+      "gloss": {
+        "invented": "ditemukan",
+        "scarce": "langka",
+        "easy to store": "mudah disimpan",
+        "flavor": "rasa",
+        "spread": "menyebar",
+        "servings": "porsi",
+        "convenient": "praktis",
+        "seasoning": "bumbu"
+      },
+      "qs": [
+        {
+          "q": "Who invented instant noodles?",
+          "opts": [
+            "A Chinese chef",
+            "An Indonesian company",
+            "Momofuku Ando"
+          ],
+          "a": 2
+        },
+        {
+          "q": "What changed in 1971?",
+          "opts": [
+            "Noodles became cheaper",
+            "Noodles were put in a cup",
+            "Noodles were sold in Europe first"
+          ],
+          "a": 1
+        },
+        {
+          "q": "What do doctors suggest when eating instant noodles?",
+          "opts": [
+            "Eat them every day",
+            "Use all the seasoning",
+            "Add egg and vegetables"
+          ],
+          "a": 2
+        }
+      ]
+    }
+  ]
+}
