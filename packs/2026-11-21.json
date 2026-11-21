@@ -1,0 +1,626 @@
+{
+  "bank": [
+    {
+      "id": "r20261121-001",
+      "topic": "Vocabulary: house",
+      "level": "Dasar",
+      "q": "You wash your face in the ___.",
+      "opts": [
+        "bathroom",
+        "kitchen",
+        "living room"
+      ],
+      "a": 0,
+      "why": "Mencuci muka di kamar mandi (bathroom)."
+    },
+    {
+      "id": "r20261121-002",
+      "topic": "To be",
+      "level": "Dasar",
+      "q": "It ___ a beautiful day.",
+      "opts": [
+        "are",
+        "is",
+        "am"
+      ],
+      "a": 1,
+      "why": "It tunggal: is."
+    },
+    {
+      "id": "r20261121-003",
+      "topic": "Vocabulary: vegetables",
+      "level": "Dasar",
+      "q": "A ___ is long and orange. Rabbits love it.",
+      "opts": [
+        "potato",
+        "cabbage",
+        "carrot"
+      ],
+      "a": 2,
+      "why": "Panjang, oranye, disukai kelinci: wortel (carrot)."
+    },
+    {
+      "id": "r20261121-004",
+      "topic": "Question words",
+      "level": "Dasar",
+      "q": "___ many students are in your class? - Thirty.",
+      "opts": [
+        "How",
+        "What",
+        "Which"
+      ],
+      "a": 0,
+      "why": "Menanyakan jumlah: how many."
+    },
+    {
+      "id": "r20261121-005",
+      "topic": "Simple present",
+      "level": "Dasar",
+      "q": "He ___ breakfast at 6 every morning.",
+      "opts": [
+        "have",
+        "having",
+        "has"
+      ],
+      "a": 2,
+      "why": "Orang ketiga tunggal: has."
+    },
+    {
+      "id": "r20261121-006",
+      "topic": "Plural nouns",
+      "level": "Dasar",
+      "q": "The box is full of old ___.",
+      "opts": [
+        "toys",
+        "toy",
+        "toies"
+      ],
+      "a": 0,
+      "why": "Jamak dari toy: toys."
+    },
+    {
+      "id": "r20261121-007",
+      "topic": "Vocabulary: weather",
+      "level": "Dasar",
+      "q": "When it is hot, we turn on the ___.",
+      "opts": [
+        "blanket",
+        "fan",
+        "heater"
+      ],
+      "a": 1,
+      "why": "Saat panas: kipas (fan)."
+    },
+    {
+      "id": "r20261121-008",
+      "topic": "Numbers",
+      "level": "Dasar",
+      "q": "Sixteen minus seven is ___.",
+      "opts": [
+        "eight",
+        "ten",
+        "nine"
+      ],
+      "a": 2,
+      "why": "16 - 7 = 9 (nine)."
+    },
+    {
+      "id": "r20261121-009",
+      "topic": "Present tense",
+      "level": "Dasar",
+      "q": "My dog ___ very fast.",
+      "opts": [
+        "run",
+        "runs",
+        "running"
+      ],
+      "a": 1,
+      "why": "Orang ketiga tunggal: runs."
+    },
+    {
+      "id": "r20261121-010",
+      "topic": "Vocabulary: jobs",
+      "level": "Dasar",
+      "q": "A ___ puts out fires.",
+      "opts": [
+        "postman",
+        "chef",
+        "firefighter"
+      ],
+      "a": 2,
+      "why": "Memadamkan api: pemadam kebakaran (firefighter)."
+    },
+    {
+      "id": "r20261121-011",
+      "topic": "Past tense",
+      "level": "Menengah",
+      "q": "We ___ a wonderful time at the festival.",
+      "opts": [
+        "had",
+        "have",
+        "has"
+      ],
+      "a": 0,
+      "why": "Lampau: had."
+    },
+    {
+      "id": "r20261121-012",
+      "topic": "Comparatives",
+      "level": "Menengah",
+      "q": "Her drawing is ___ than mine.",
+      "opts": [
+        "beautifuller",
+        "more beautiful",
+        "most beautiful"
+      ],
+      "a": 1,
+      "why": "Kata panjang: more beautiful."
+    },
+    {
+      "id": "r20261121-013",
+      "topic": "Present continuous",
+      "level": "Menengah",
+      "q": "Right now, the students ___ a test.",
+      "opts": [
+        "are taking",
+        "take",
+        "took"
+      ],
+      "a": 0,
+      "why": "Sedang berlangsung: are taking."
+    },
+    {
+      "id": "r20261121-014",
+      "topic": "Any/some",
+      "level": "Menengah",
+      "q": "I need ___ help with this heavy box.",
+      "opts": [
+        "any",
+        "some",
+        "few"
+      ],
+      "a": 1,
+      "why": "Kalimat positif: some."
+    },
+    {
+      "id": "r20261121-015",
+      "topic": "Irregular past",
+      "level": "Menengah",
+      "q": "The baby ___ all night and would not sleep.",
+      "opts": [
+        "cryed",
+        "craied",
+        "cried"
+      ],
+      "a": 2,
+      "why": "Lampau dari cry: cried."
+    },
+    {
+      "id": "r20261121-016",
+      "topic": "Prepositions",
+      "level": "Menengah",
+      "q": "The post office is ___ the bank and the clinic.",
+      "opts": [
+        "between",
+        "among",
+        "near"
+      ],
+      "a": 0,
+      "why": "Di antara dua: between."
+    },
+    {
+      "id": "r20261121-017",
+      "topic": "Adverbs",
+      "level": "Menengah",
+      "q": "She sings more ___ than her sister.",
+      "opts": [
+        "beautiful",
+        "beauty",
+        "beautifully"
+      ],
+      "a": 2,
+      "why": "Keterangan cara: beautifully."
+    },
+    {
+      "id": "r20261121-018",
+      "topic": "Conjunctions",
+      "level": "Menengah",
+      "q": "Take a jacket ___ you feel cold later.",
+      "opts": [
+        "because",
+        "so",
+        "but"
+      ],
+      "a": 0,
+      "why": "Alasan: because."
+    },
+    {
+      "id": "r20261121-019",
+      "topic": "Past continuous",
+      "level": "Menengah",
+      "q": "While we ___ in the river, it started to rain.",
+      "opts": [
+        "are swimming",
+        "were swimming",
+        "swim"
+      ],
+      "a": 1,
+      "why": "Sedang berlangsung di lampau: were swimming."
+    },
+    {
+      "id": "r20261121-020",
+      "topic": "Question tags",
+      "level": "Menengah",
+      "q": "She plays the piano well, ___?",
+      "opts": [
+        "does she",
+        "isn't she",
+        "doesn't she"
+      ],
+      "a": 2,
+      "why": "Tag untuk present positif: doesn't she."
+    },
+    {
+      "id": "r20261121-021",
+      "topic": "Present perfect",
+      "level": "Menengah atas",
+      "q": "I ___ to Bali twice this year.",
+      "opts": [
+        "was",
+        "have been",
+        "go"
+      ],
+      "a": 1,
+      "why": "this year: present perfect."
+    },
+    {
+      "id": "r20261121-022",
+      "topic": "Passive voice",
+      "level": "Menengah atas",
+      "q": "The letters ___ by the postman every morning.",
+      "opts": [
+        "deliver",
+        "are delivering",
+        "are delivered"
+      ],
+      "a": 2,
+      "why": "Pasif present jamak: are + V3."
+    },
+    {
+      "id": "r20261121-023",
+      "topic": "Second conditional",
+      "level": "Menengah atas",
+      "q": "If I ___ the lottery, I would buy a house.",
+      "opts": [
+        "won",
+        "win",
+        "will win"
+      ],
+      "a": 0,
+      "why": "Tipe 2: if + past."
+    },
+    {
+      "id": "r20261121-024",
+      "topic": "Relative clauses",
+      "level": "Menengah atas",
+      "q": "The hotel ___ we stayed at was near the beach.",
+      "opts": [
+        "who",
+        "that",
+        "whose"
+      ],
+      "a": 1,
+      "why": "Kata hubung untuk tempat/benda: that."
+    },
+    {
+      "id": "r20261121-025",
+      "topic": "Reported speech",
+      "level": "Menengah atas",
+      "q": "He said that he ___ me the next day.",
+      "opts": [
+        "would call",
+        "will call",
+        "calls"
+      ],
+      "a": 0,
+      "why": "Backshift: will menjadi would."
+    },
+    {
+      "id": "r20261121-026",
+      "topic": "Yet",
+      "level": "Menengah atas",
+      "q": "I have not finished the report ___.",
+      "opts": [
+        "already",
+        "yet",
+        "just"
+      ],
+      "a": 1,
+      "why": "Negatif + di akhir: yet."
+    },
+    {
+      "id": "r20261121-027",
+      "topic": "Comparatives",
+      "level": "Menengah atas",
+      "q": "The weather is getting ___ and ___ every day.",
+      "opts": [
+        "coldest ... coldest",
+        "more cold ... more cold",
+        "colder ... colder"
+      ],
+      "a": 2,
+      "why": "Pola semakin: comparative + and + comparative."
+    },
+    {
+      "id": "r20261121-028",
+      "topic": "Vocabulary: school",
+      "level": "Menengah atas",
+      "q": "Cheating in an exam is strictly ___.",
+      "opts": [
+        "forbidden",
+        "allowed",
+        "encouraged"
+      ],
+      "a": 0,
+      "why": "forbidden = dilarang."
+    },
+    {
+      "id": "r20261121-029",
+      "topic": "Had better",
+      "level": "Menengah atas",
+      "q": "You ___ hurry, or you will miss the train.",
+      "opts": [
+        "would rather",
+        "should have",
+        "had better"
+      ],
+      "a": 2,
+      "why": "had better = sebaiknya."
+    },
+    {
+      "id": "r20261121-030",
+      "topic": "Stop",
+      "level": "Menengah atas",
+      "q": "It stopped raining, so we ___ for a walk.",
+      "opts": [
+        "went",
+        "go",
+        "going"
+      ],
+      "a": 0,
+      "why": "Lampau setelah stopped: went."
+    },
+    {
+      "id": "r20261121-031",
+      "topic": "Mixed conditional",
+      "level": "Menuju lancar",
+      "q": "If I had listened to her advice, I ___ in trouble now.",
+      "opts": [
+        "wouldn't have been",
+        "wouldn't be",
+        "won't be"
+      ],
+      "a": 1,
+      "why": "Lampau ke sekarang: would + V1."
+    },
+    {
+      "id": "r20261121-032",
+      "topic": "Idioms",
+      "level": "Menuju lancar",
+      "q": "When he lost his job, his family helped him get back on his ___.",
+      "opts": [
+        "knees",
+        "hands",
+        "feet"
+      ],
+      "a": 2,
+      "why": "back on his feet = pulih kembali."
+    },
+    {
+      "id": "r20261121-033",
+      "topic": "Phrasal verbs",
+      "level": "Menuju lancar",
+      "q": "I will ___ the children from school at 3 pm.",
+      "opts": [
+        "pick on",
+        "pick up",
+        "pick out"
+      ],
+      "a": 1,
+      "why": "pick up = menjemput."
+    },
+    {
+      "id": "r20261121-034",
+      "topic": "Inversion",
+      "level": "Menuju lancar",
+      "q": "At no time ___ the safety rules be ignored.",
+      "opts": [
+        "would",
+        "did",
+        "should"
+      ],
+      "a": 2,
+      "why": "At no time + inversi modal: should."
+    },
+    {
+      "id": "r20261121-035",
+      "topic": "Could have",
+      "level": "Menuju lancar",
+      "q": "You ___ told me you were coming; I would have cooked more.",
+      "opts": [
+        "could have",
+        "must have",
+        "should"
+      ],
+      "a": 0,
+      "why": "Kemungkinan tidak dilakukan: could have + V3."
+    },
+    {
+      "id": "r20261121-036",
+      "topic": "Vocabulary: environment",
+      "level": "Menuju lancar",
+      "q": "The river was so ___ that no fish could live in it.",
+      "opts": [
+        "pure",
+        "polluted",
+        "shallow"
+      ],
+      "a": 1,
+      "why": "polluted = tercemar."
+    },
+    {
+      "id": "r20261121-037",
+      "topic": "Passive: present perfect",
+      "level": "Menuju lancar",
+      "q": "A new hospital ___ in our town this year.",
+      "opts": [
+        "has been built",
+        "has built",
+        "is building"
+      ],
+      "a": 0,
+      "why": "Pasif present perfect: has been + V3."
+    },
+    {
+      "id": "r20261121-038",
+      "topic": "Causative",
+      "level": "Menuju lancar",
+      "q": "We ___ our house painted last month.",
+      "opts": [
+        "made",
+        "had",
+        "did"
+      ],
+      "a": 1,
+      "why": "Kausatif: have/had + object + V3."
+    },
+    {
+      "id": "r20261121-039",
+      "topic": "Vocabulary: abstract",
+      "level": "Menuju lancar",
+      "q": "Honesty and hard work are the keys to ___.",
+      "opts": [
+        "successful",
+        "succeed",
+        "success"
+      ],
+      "a": 2,
+      "why": "to + noun: success."
+    },
+    {
+      "id": "r20261121-040",
+      "topic": "Concession",
+      "level": "Menuju lancar",
+      "q": "___ his age, he still runs five kilometers every day.",
+      "opts": [
+        "Despite",
+        "Although",
+        "Because"
+      ],
+      "a": 0,
+      "why": "Despite + noun."
+    }
+  ],
+  "articles": [
+    {
+      "id": "r20261121-a01",
+      "title": "A Rainy Morning",
+      "level": "Dasar",
+      "min": 2,
+      "body": [
+        "On Monday morning, Putri woke up and heard the rain. It was heavy, and the street in front of her house was already full of water. \"How will I get to school?\" she asked her father.",
+        "Father smiled and opened the closet. He took out her yellow raincoat and her small red umbrella. \"The rain will not stop you today,\" he said. They walked to school together, and Putri jumped over every puddle on the way.",
+        "At the school gate, her teacher was waiting with a towel. \"Come in and dry your feet,\" she said. Putri was wet, cold, and very happy. Rainy mornings were her favorite."
+      ],
+      "gloss": {
+        "woke up": "bangun",
+        "heavy": "deras",
+        "closet": "lemari",
+        "raincoat": "jas hujan",
+        "umbrella": "payung",
+        "puddle": "genangan air",
+        "gate": "gerbang",
+        "dry your feet": "keringkan kakimu"
+      },
+      "qs": [
+        {
+          "q": "What was the weather like on Monday morning?",
+          "opts": [
+            "It was sunny",
+            "It snowed",
+            "It rained heavily"
+          ],
+          "a": 2
+        },
+        {
+          "q": "What color is Putri's umbrella?",
+          "opts": [
+            "Red",
+            "Yellow",
+            "Blue"
+          ],
+          "a": 0
+        },
+        {
+          "q": "Who waited at the school gate with a towel?",
+          "opts": [
+            "Her father",
+            "Her teacher",
+            "Her friend"
+          ],
+          "a": 1
+        }
+      ]
+    },
+    {
+      "id": "r20261121-a02",
+      "title": "Why Jakarta Is Sinking",
+      "level": "Menengah",
+      "min": 3,
+      "body": [
+        "Jakarta is one of the fastest-sinking cities in the world. In some northern districts, the land goes down by up to 25 centimeters a year. Scientists say the sea could cover large parts of North Jakarta by 2050 if nothing changes.",
+        "The main reason is underground water. Millions of people pump water from the ground because piped water is expensive or unavailable. As the water leaves the ground, the land above it slowly sinks, like a cushion losing air.",
+        "The government is acting: it is building sea walls, planting mangroves, and moving the capital city to Kalimantan. But experts say the key step is simpler: give people clean piped water so they stop pumping. Saving the city will take decades, but every year matters."
+      ],
+      "gloss": {
+        "sinking": "tenggelam",
+        "districts": "distrik/wilayah",
+        "pump": "memompa",
+        "piped water": "air ledeng",
+        "cushion": "bantal",
+        "sea walls": "tanggul laut",
+        "mangroves": "bakau",
+        "decades": "dekade"
+      },
+      "qs": [
+        {
+          "q": "Why is the land in Jakarta sinking?",
+          "opts": [
+            "The buildings are too tall",
+            "The rivers are too small",
+            "People pump too much underground water"
+          ],
+          "a": 2
+        },
+        {
+          "q": "What is the government planting to help protect the coast?",
+          "opts": [
+            "Rice",
+            "Mangroves",
+            "Rubber trees"
+          ],
+          "a": 1
+        },
+        {
+          "q": "What do experts say is the key step?",
+          "opts": [
+            "Build taller sea walls",
+            "Move all people to Kalimantan",
+            "Give people clean piped water"
+          ],
+          "a": 2
+        }
+      ]
+    }
+  ]
+}
