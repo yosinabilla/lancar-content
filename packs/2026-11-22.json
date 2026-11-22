@@ -1,0 +1,626 @@
+{
+  "bank": [
+    {
+      "id": "r20261122-001",
+      "topic": "To be",
+      "level": "Dasar",
+      "q": "The students ___ in the classroom.",
+      "opts": [
+        "are",
+        "is",
+        "am"
+      ],
+      "a": 0,
+      "why": "Jamak: are."
+    },
+    {
+      "id": "r20261122-002",
+      "topic": "Vocabulary: school",
+      "level": "Dasar",
+      "q": "You draw straight lines with a ___.",
+      "opts": [
+        "crayon",
+        "ruler",
+        "glue"
+      ],
+      "a": 1,
+      "why": "Garis lurus dengan penggaris (ruler)."
+    },
+    {
+      "id": "r20261122-003",
+      "topic": "Question words",
+      "level": "Dasar",
+      "q": "___ book is this? - It is mine.",
+      "opts": [
+        "Who",
+        "What",
+        "Whose"
+      ],
+      "a": 2,
+      "why": "Menanyakan pemilik: whose."
+    },
+    {
+      "id": "r20261122-004",
+      "topic": "Simple present",
+      "level": "Dasar",
+      "q": "Water ___ at 100 degrees.",
+      "opts": [
+        "boils",
+        "boil",
+        "boiling"
+      ],
+      "a": 0,
+      "why": "Fakta umum, tunggal: boils."
+    },
+    {
+      "id": "r20261122-005",
+      "topic": "Prepositions",
+      "level": "Dasar",
+      "q": "The lamp hangs ___ the table.",
+      "opts": [
+        "under",
+        "between",
+        "above"
+      ],
+      "a": 2,
+      "why": "Di atas (menggantung): above."
+    },
+    {
+      "id": "r20261122-006",
+      "topic": "Plural nouns",
+      "level": "Dasar",
+      "q": "I see two ___ in the sky.",
+      "opts": [
+        "clouds",
+        "cloud",
+        "cloudes"
+      ],
+      "a": 0,
+      "why": "Jamak dari cloud: clouds."
+    },
+    {
+      "id": "r20261122-007",
+      "topic": "Numbers",
+      "level": "Dasar",
+      "q": "Eleven plus nine is ___.",
+      "opts": [
+        "nineteen",
+        "twenty",
+        "twenty-one"
+      ],
+      "a": 1,
+      "why": "11 + 9 = 20 (twenty)."
+    },
+    {
+      "id": "r20261122-008",
+      "topic": "Present tense",
+      "level": "Dasar",
+      "q": "The train ___ at 9 every night.",
+      "opts": [
+        "arrive",
+        "arriving",
+        "arrives"
+      ],
+      "a": 2,
+      "why": "Orang ketiga tunggal: arrives."
+    },
+    {
+      "id": "r20261122-009",
+      "topic": "Vocabulary: family",
+      "level": "Dasar",
+      "q": "Your brother's son is your ___.",
+      "opts": [
+        "niece",
+        "nephew",
+        "cousin"
+      ],
+      "a": 1,
+      "why": "Anak laki-laki dari saudara: keponakan (nephew)."
+    },
+    {
+      "id": "r20261122-010",
+      "topic": "Demonstratives",
+      "level": "Dasar",
+      "q": "___ is my favorite pen. (holding it)",
+      "opts": [
+        "That",
+        "Those",
+        "This"
+      ],
+      "a": 2,
+      "why": "Dekat dan tunggal: this."
+    },
+    {
+      "id": "r20261122-011",
+      "topic": "Past tense",
+      "level": "Menengah",
+      "q": "She ___ the door because she heard a strange noise.",
+      "opts": [
+        "locked",
+        "lock",
+        "locking"
+      ],
+      "a": 0,
+      "why": "Lampau: locked."
+    },
+    {
+      "id": "r20261122-012",
+      "topic": "Comparatives",
+      "level": "Menengah",
+      "q": "This restaurant is ___ than the one near my house.",
+      "opts": [
+        "gooder",
+        "better",
+        "best"
+      ],
+      "a": 1,
+      "why": "Perbandingan good: better."
+    },
+    {
+      "id": "r20261122-013",
+      "topic": "Present continuous",
+      "level": "Menengah",
+      "q": "Shh! The movie ___.",
+      "opts": [
+        "is starting",
+        "starts",
+        "started"
+      ],
+      "a": 0,
+      "why": "Sedang berlangsung: is starting."
+    },
+    {
+      "id": "r20261122-014",
+      "topic": "Modals",
+      "level": "Menengah",
+      "q": "You ___ use your phone during the exam.",
+      "opts": [
+        "must",
+        "mustn't",
+        "needn't"
+      ],
+      "a": 1,
+      "why": "Dilarang: mustn't."
+    },
+    {
+      "id": "r20261122-015",
+      "topic": "How many",
+      "level": "Menengah",
+      "q": "How ___ times have you been to the museum?",
+      "opts": [
+        "much",
+        "long",
+        "many"
+      ],
+      "a": 2,
+      "why": "Times terhitung: many."
+    },
+    {
+      "id": "r20261122-016",
+      "topic": "Irregular past",
+      "level": "Menengah",
+      "q": "He ___ a strange dream last night.",
+      "opts": [
+        "had",
+        "haved",
+        "has"
+      ],
+      "a": 0,
+      "why": "Lampau dari have: had."
+    },
+    {
+      "id": "r20261122-017",
+      "topic": "Prepositions",
+      "level": "Menengah",
+      "q": "The hospital is ___ to the park.",
+      "opts": [
+        "between",
+        "among",
+        "next"
+      ],
+      "a": 2,
+      "why": "next to = di sebelah."
+    },
+    {
+      "id": "r20261122-018",
+      "topic": "Adverbs",
+      "level": "Menengah",
+      "q": "He answered the questions ___. He knew everything.",
+      "opts": [
+        "easily",
+        "easy",
+        "easier"
+      ],
+      "a": 0,
+      "why": "Keterangan cara: easily."
+    },
+    {
+      "id": "r20261122-019",
+      "topic": "Future: will",
+      "level": "Menengah",
+      "q": "In 2050, cars ___ fly, scientists say.",
+      "opts": [
+        "are",
+        "will",
+        "did"
+      ],
+      "a": 1,
+      "why": "Prediksi masa depan: will."
+    },
+    {
+      "id": "r20261122-020",
+      "topic": "Past continuous",
+      "level": "Menengah",
+      "q": "The phone rang while she ___ a shower.",
+      "opts": [
+        "is taking",
+        "takes",
+        "was taking"
+      ],
+      "a": 2,
+      "why": "Sedang berlangsung di lampau: was taking."
+    },
+    {
+      "id": "r20261122-021",
+      "topic": "Passive voice",
+      "level": "Menengah atas",
+      "q": "These shoes ___ in Italy.",
+      "opts": [
+        "are make",
+        "were made",
+        "made"
+      ],
+      "a": 1,
+      "why": "Pasif lampau: were + V3."
+    },
+    {
+      "id": "r20261122-022",
+      "topic": "Second conditional",
+      "level": "Menengah atas",
+      "q": "If he ___ taller, he would be a basketball player.",
+      "opts": [
+        "is",
+        "will be",
+        "were"
+      ],
+      "a": 2,
+      "why": "Tipe 2: were untuk semua subjek."
+    },
+    {
+      "id": "r20261122-023",
+      "topic": "Relative clauses",
+      "level": "Menengah atas",
+      "q": "Do you know the man ___ lives next door?",
+      "opts": [
+        "who",
+        "which",
+        "whose"
+      ],
+      "a": 0,
+      "why": "Kata hubung untuk orang: who."
+    },
+    {
+      "id": "r20261122-024",
+      "topic": "Reported speech",
+      "level": "Menengah atas",
+      "q": "She asked if I ___ her brother.",
+      "opts": [
+        "know",
+        "knew",
+        "am knowing"
+      ],
+      "a": 1,
+      "why": "Backshift: know menjadi knew."
+    },
+    {
+      "id": "r20261122-025",
+      "topic": "For/since",
+      "level": "Menengah atas",
+      "q": "He has worked here ___ five years.",
+      "opts": [
+        "for",
+        "since",
+        "from"
+      ],
+      "a": 0,
+      "why": "Durasi: for."
+    },
+    {
+      "id": "r20261122-026",
+      "topic": "Enough",
+      "level": "Menengah atas",
+      "q": "Is the water warm ___ to swim in?",
+      "opts": [
+        "too",
+        "enough",
+        "very"
+      ],
+      "a": 1,
+      "why": "adjective + enough."
+    },
+    {
+      "id": "r20261122-027",
+      "topic": "Vocabulary: travel",
+      "level": "Menengah atas",
+      "q": "The flight was cancelled ___ to bad weather.",
+      "opts": [
+        "because",
+        "since",
+        "due"
+      ],
+      "a": 2,
+      "why": "due to = karena (diikuti noun)."
+    },
+    {
+      "id": "r20261122-028",
+      "topic": "Might",
+      "level": "Menengah atas",
+      "q": "I am not sure, but she ___ come to the party.",
+      "opts": [
+        "might",
+        "must",
+        "should"
+      ],
+      "a": 0,
+      "why": "Kemungkinan kecil: might."
+    },
+    {
+      "id": "r20261122-029",
+      "topic": "Be going to",
+      "level": "Menengah atas",
+      "q": "I ___ visit my uncle this weekend. I already bought the ticket.",
+      "opts": [
+        "will to",
+        "go",
+        "am going to"
+      ],
+      "a": 2,
+      "why": "Rencana pasti: am going to."
+    },
+    {
+      "id": "r20261122-030",
+      "topic": "Past perfect",
+      "level": "Menengah atas",
+      "q": "He ___ the news before I told him.",
+      "opts": [
+        "had heard",
+        "has heard",
+        "hears"
+      ],
+      "a": 0,
+      "why": "Lebih dulu dari told: past perfect."
+    },
+    {
+      "id": "r20261122-031",
+      "topic": "Third conditional",
+      "level": "Menuju lancar",
+      "q": "If they had invited me, I ___ to their wedding.",
+      "opts": [
+        "would go",
+        "would have gone",
+        "will go"
+      ],
+      "a": 1,
+      "why": "Tipe 3: would have + V3."
+    },
+    {
+      "id": "r20261122-032",
+      "topic": "Idioms",
+      "level": "Menuju lancar",
+      "q": "The manager is in hot ___ after losing the money.",
+      "opts": [
+        "soup",
+        "fire",
+        "water"
+      ],
+      "a": 2,
+      "why": "in hot water = dalam masalah."
+    },
+    {
+      "id": "r20261122-033",
+      "topic": "Phrasal verbs",
+      "level": "Menuju lancar",
+      "q": "The fire was so big that firefighters could not ___ it ___.",
+      "opts": [
+        "put ... off",
+        "put ... out",
+        "put ... away"
+      ],
+      "a": 1,
+      "why": "put out = memadamkan."
+    },
+    {
+      "id": "r20261122-034",
+      "topic": "Inversion",
+      "level": "Menuju lancar",
+      "q": "Never before ___ such a talented singer.",
+      "opts": [
+        "I have seen",
+        "I saw",
+        "have I seen"
+      ],
+      "a": 2,
+      "why": "Never before di awal: inversi."
+    },
+    {
+      "id": "r20261122-035",
+      "topic": "Shouldn't have",
+      "level": "Menuju lancar",
+      "q": "You ___ spent all your money on that game.",
+      "opts": [
+        "shouldn't have",
+        "couldn't have",
+        "mustn't have"
+      ],
+      "a": 0,
+      "why": "Penyesalan lampau: shouldn't have + V3."
+    },
+    {
+      "id": "r20261122-036",
+      "topic": "Vocabulary: science",
+      "level": "Menuju lancar",
+      "q": "The medicine was tested on ___ before humans.",
+      "opts": [
+        "plants",
+        "animals",
+        "rocks"
+      ],
+      "a": 1,
+      "why": "Uji coba awal pada hewan (animals)."
+    },
+    {
+      "id": "r20261122-037",
+      "topic": "Passive: future",
+      "level": "Menuju lancar",
+      "q": "The results ___ announced tomorrow morning.",
+      "opts": [
+        "will be",
+        "will have",
+        "are being"
+      ],
+      "a": 0,
+      "why": "Pasif masa depan: will be + V3."
+    },
+    {
+      "id": "r20261122-038",
+      "topic": "Would rather",
+      "level": "Menuju lancar",
+      "q": "I would rather you ___ here alone at night.",
+      "opts": [
+        "don't walk",
+        "didn't walk",
+        "won't walk"
+      ],
+      "a": 1,
+      "why": "would rather + subjek + past (present meaning)."
+    },
+    {
+      "id": "r20261122-039",
+      "topic": "Vocabulary: character",
+      "level": "Menuju lancar",
+      "q": "A ___ person thinks only about themselves.",
+      "opts": [
+        "generous",
+        "humble",
+        "selfish"
+      ],
+      "a": 2,
+      "why": "selfish = egois."
+    },
+    {
+      "id": "r20261122-040",
+      "topic": "Linking",
+      "level": "Menuju lancar",
+      "q": "The concert was cancelled ___ the storm.",
+      "opts": [
+        "because of",
+        "because",
+        "although"
+      ],
+      "a": 0,
+      "why": "because of + noun."
+    }
+  ],
+  "articles": [
+    {
+      "id": "r20261122-a01",
+      "title": "Bimo and the School Garden",
+      "level": "Dasar",
+      "min": 2,
+      "body": [
+        "Behind Bimo's school, there is a small garden. Every class has its own square of land. This year, Bimo's class is growing tomatoes and long beans.",
+        "Every morning before class, two students water the plants. Today it is Bimo's turn with Sinta. They fill two green watering cans at the tap and carry them carefully. \"Look!\" says Sinta. \"Our first tomato!\" It is small and green, but in two weeks it will be red.",
+        "When the vegetables are ready, the class sells them to the teachers. The money buys new books for the class library. Bimo thinks the tomatoes taste better because they grew them themselves."
+      ],
+      "gloss": {
+        "garden": "kebun",
+        "long beans": "kacang panjang",
+        "water": "menyiram",
+        "watering cans": "gembor",
+        "tap": "keran",
+        "carefully": "hati-hati",
+        "sells": "menjual",
+        "taste better": "terasa lebih enak"
+      },
+      "qs": [
+        {
+          "q": "What is Bimo's class growing this year?",
+          "opts": [
+            "Rice and corn",
+            "Chilies and onions",
+            "Tomatoes and long beans"
+          ],
+          "a": 2
+        },
+        {
+          "q": "What color is the first tomato now?",
+          "opts": [
+            "Green",
+            "Red",
+            "Yellow"
+          ],
+          "a": 0
+        },
+        {
+          "q": "What does the class buy with the money?",
+          "opts": [
+            "New uniforms",
+            "New books",
+            "A new watering can"
+          ],
+          "a": 1
+        }
+      ]
+    },
+    {
+      "id": "r20261122-a02",
+      "title": "The Day the Internet Stopped",
+      "level": "Menengah",
+      "min": 3,
+      "body": [
+        "Last October, a damaged cable under the sea cut the internet for a whole island. For three days, nobody could send messages, watch videos, or pay with their phones. Life suddenly became very quiet.",
+        "At first, people felt lost. Shops could only take cash, students could not send their homework, and nobody knew the news. But then something surprising happened: people started talking to each other. Neighbors sat outside in the evening, children played in the street, and the library was full for the first time in years.",
+        "When the internet returned, many people were relieved, but some felt a little sad. The three quiet days taught them something: the internet is a wonderful tool, but it should not be the only one we have."
+      ],
+      "gloss": {
+        "damaged": "rusak",
+        "cable": "kabel",
+        "cut": "memutuskan",
+        "cash": "uang tunai",
+        "surprising": "mengejutkan",
+        "neighbors": "tetangga",
+        "relieved": "lega",
+        "tool": "alat"
+      },
+      "qs": [
+        {
+          "q": "What caused the internet to stop?",
+          "opts": [
+            "A big storm",
+            "A computer virus",
+            "A damaged cable under the sea"
+          ],
+          "a": 2
+        },
+        {
+          "q": "What could shops only take during those days?",
+          "opts": [
+            "Credit cards",
+            "Cash",
+            "Phone payments"
+          ],
+          "a": 1
+        },
+        {
+          "q": "What happened in the evenings without internet?",
+          "opts": [
+            "Everyone stayed at home",
+            "People went to the cinema",
+            "Neighbors sat outside and talked"
+          ],
+          "a": 2
+        }
+      ]
+    }
+  ]
+}
