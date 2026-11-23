@@ -1,0 +1,625 @@
+{
+  "date": "2026-11-23",
+  "bank": [
+    {
+      "id": "r20261123-001",
+      "level": "Dasar",
+      "topic": "grammar",
+      "q": "The cat ___ on the sofa every afternoon.",
+      "opts": [
+        "sleeps",
+        "sleep",
+        "sleeping"
+      ],
+      "a": 0,
+      "why": "Kata kerja present tense, subjek tunggal 'the cat' butuh akhiran -s."
+    },
+    {
+      "id": "r20261123-002",
+      "level": "Dasar",
+      "topic": "grammar",
+      "q": "We eat lunch at one ___.",
+      "opts": [
+        "hour",
+        "o'clock",
+        "time"
+      ],
+      "a": 1,
+      "why": "Menyebut jam tepat memakai o'clock."
+    },
+    {
+      "id": "r20261123-003",
+      "level": "Dasar",
+      "topic": "grammar",
+      "q": "She ___ TV in the evening.",
+      "opts": [
+        "watch",
+        "watching",
+        "watches"
+      ],
+      "a": 2,
+      "why": "Present tense, she + verb-es (watch -> watches)."
+    },
+    {
+      "id": "r20261123-004",
+      "level": "Dasar",
+      "topic": "grammar",
+      "q": "A ___ is a place where you buy bread.",
+      "opts": [
+        "bakery",
+        "bank",
+        "library"
+      ],
+      "a": 0,
+      "why": "Toko roti dalam bahasa Inggris adalah bakery."
+    },
+    {
+      "id": "r20261123-005",
+      "level": "Dasar",
+      "topic": "grammar",
+      "q": "___ you like spicy food? - Yes, I do.",
+      "opts": [
+        "Does",
+        "Is",
+        "Do"
+      ],
+      "a": 2,
+      "why": "Pertanyaan yes/no untuk 'you' memakai Do."
+    },
+    {
+      "id": "r20261123-006",
+      "level": "Dasar",
+      "topic": "grammar",
+      "q": "My mother ___ fried rice every Friday.",
+      "opts": [
+        "cooks",
+        "cook",
+        "cooking"
+      ],
+      "a": 0,
+      "why": "Present tense, subjek tunggal memakai cooks."
+    },
+    {
+      "id": "r20261123-007",
+      "level": "Dasar",
+      "topic": "grammar",
+      "q": "The opposite of 'expensive' is ___.",
+      "opts": [
+        "rich",
+        "cheap",
+        "big"
+      ],
+      "a": 1,
+      "why": "Lawan kata mahal (expensive) adalah murah (cheap)."
+    },
+    {
+      "id": "r20261123-008",
+      "level": "Dasar",
+      "topic": "grammar",
+      "q": "I go to school ___ bicycle.",
+      "opts": [
+        "with",
+        "on",
+        "by"
+      ],
+      "a": 2,
+      "why": "Alat transportasi memakai by: by bicycle, by bus."
+    },
+    {
+      "id": "r20261123-009",
+      "level": "Dasar",
+      "topic": "grammar",
+      "q": "___ is between Tuesday and Thursday.",
+      "opts": [
+        "Monday",
+        "Wednesday",
+        "Friday"
+      ],
+      "a": 1,
+      "why": "Hari di antara Selasa dan Kamis adalah Rabu."
+    },
+    {
+      "id": "r20261123-010",
+      "level": "Dasar",
+      "topic": "grammar",
+      "q": "The baby is crying because he is ___.",
+      "opts": [
+        "full",
+        "sleepy",
+        "hungry"
+      ],
+      "a": 2,
+      "why": "Bayi menangis karena lapar (hungry)."
+    },
+    {
+      "id": "r20261123-011",
+      "level": "Menengah",
+      "topic": "grammar",
+      "q": "They ___ to Bali twice this year.",
+      "opts": [
+        "have been",
+        "was",
+        "go"
+      ],
+      "a": 0,
+      "why": "Present perfect untuk pengalaman tahun ini: have been to."
+    },
+    {
+      "id": "r20261123-012",
+      "level": "Menengah",
+      "topic": "grammar",
+      "q": "The movie was so ___ that I fell asleep.",
+      "opts": [
+        "bored",
+        "boring",
+        "exciting"
+      ],
+      "a": 1,
+      "why": "Filmnya membosankan (boring); bored untuk perasaan orang."
+    },
+    {
+      "id": "r20261123-013",
+      "level": "Menengah",
+      "topic": "grammar",
+      "q": "You look tired. You ___ go to bed earlier.",
+      "opts": [
+        "should",
+        "mustn't",
+        "can't"
+      ],
+      "a": 0,
+      "why": "Saran memakai should (sebaiknya)."
+    },
+    {
+      "id": "r20261123-014",
+      "level": "Menengah",
+      "topic": "grammar",
+      "q": "I ___ him since we were children.",
+      "opts": [
+        "know",
+        "have known",
+        "am knowing"
+      ],
+      "a": 1,
+      "why": "Since + present perfect: have known."
+    },
+    {
+      "id": "r20261123-015",
+      "level": "Menengah",
+      "topic": "grammar",
+      "q": "She was cooking dinner when the phone ___.",
+      "opts": [
+        "rings",
+        "is ringing",
+        "rang"
+      ],
+      "a": 2,
+      "why": "Past continuous dipotong simple past: when the phone rang."
+    },
+    {
+      "id": "r20261123-016",
+      "level": "Menengah",
+      "topic": "grammar",
+      "q": "This bag is not ___ heavy as that one.",
+      "opts": [
+        "as",
+        "so",
+        "more"
+      ],
+      "a": 0,
+      "why": "Pola perbandingan not as ... as."
+    },
+    {
+      "id": "r20261123-017",
+      "level": "Menengah",
+      "topic": "grammar",
+      "q": "We have lived in this city ___ 2019.",
+      "opts": [
+        "for",
+        "from",
+        "since"
+      ],
+      "a": 2,
+      "why": "Since untuk titik waktu (2019), for untuk durasi."
+    },
+    {
+      "id": "r20261123-018",
+      "level": "Menengah",
+      "topic": "grammar",
+      "q": "He drives ___ than his brother.",
+      "opts": [
+        "more carefully",
+        "carefuller",
+        "most careful"
+      ],
+      "a": 0,
+      "why": "Perbandingan adverbia: more carefully than."
+    },
+    {
+      "id": "r20261123-019",
+      "level": "Menengah",
+      "topic": "grammar",
+      "q": "The meeting starts ___ 2 p.m. Don't be late.",
+      "opts": [
+        "in",
+        "at",
+        "on"
+      ],
+      "a": 1,
+      "why": "Jam memakai at: at 2 p.m."
+    },
+    {
+      "id": "r20261123-020",
+      "level": "Menengah",
+      "topic": "grammar",
+      "q": "If it rains tomorrow, we ___ stay at home.",
+      "opts": [
+        "would",
+        "are",
+        "will"
+      ],
+      "a": 2,
+      "why": "First conditional: if + present, will + verb."
+    },
+    {
+      "id": "r20261123-021",
+      "level": "Menengah atas",
+      "topic": "grammar",
+      "q": "The report ___ by the team last week.",
+      "opts": [
+        "is written",
+        "was written",
+        "wrote"
+      ],
+      "a": 1,
+      "why": "Pasif simple past: was written (last week)."
+    },
+    {
+      "id": "r20261123-022",
+      "level": "Menengah atas",
+      "topic": "grammar",
+      "q": "She told me that she ___ the movie already.",
+      "opts": [
+        "has seen",
+        "sees",
+        "had seen"
+      ],
+      "a": 2,
+      "why": "Reported speech mundur satu tenses: had seen."
+    },
+    {
+      "id": "r20261123-023",
+      "level": "Menengah atas",
+      "topic": "grammar",
+      "q": "Visitors ___ smoke inside the hospital. It is forbidden.",
+      "opts": [
+        "mustn't",
+        "don't have to",
+        "might"
+      ],
+      "a": 0,
+      "why": "Larangan keras memakai mustn't."
+    },
+    {
+      "id": "r20261123-024",
+      "level": "Menengah atas",
+      "topic": "grammar",
+      "q": "I am looking forward ___ you again.",
+      "opts": [
+        "to see",
+        "to seeing",
+        "for seeing"
+      ],
+      "a": 1,
+      "why": "Look forward to + V-ing."
+    },
+    {
+      "id": "r20261123-025",
+      "level": "Menengah atas",
+      "topic": "grammar",
+      "q": "The room is too small ___ all these people.",
+      "opts": [
+        "for",
+        "to",
+        "at"
+      ],
+      "a": 0,
+      "why": "Too + adjective + for = terlalu ... untuk."
+    },
+    {
+      "id": "r20261123-026",
+      "level": "Menengah atas",
+      "topic": "grammar",
+      "q": "Neither the teacher nor the students ___ in the room.",
+      "opts": [
+        "was",
+        "were",
+        "is"
+      ],
+      "a": 1,
+      "why": "Neither/nor: kata kerja mengikuti subjek terdekat (students)."
+    },
+    {
+      "id": "r20261123-027",
+      "level": "Menengah atas",
+      "topic": "grammar",
+      "q": "My aunt has been teaching ___ she was twenty.",
+      "opts": [
+        "for",
+        "when",
+        "since"
+      ],
+      "a": 2,
+      "why": "Since untuk titik awal waktu (sejak umur dua puluh)."
+    },
+    {
+      "id": "r20261123-028",
+      "level": "Menengah atas",
+      "topic": "grammar",
+      "q": "The problem was ___ difficult that nobody solved it.",
+      "opts": [
+        "so",
+        "too",
+        "very"
+      ],
+      "a": 0,
+      "why": "Pola so ... that: sangat ... sehingga."
+    },
+    {
+      "id": "r20261123-029",
+      "level": "Menengah atas",
+      "topic": "grammar",
+      "q": "She prefers tea ___ coffee.",
+      "opts": [
+        "than",
+        "from",
+        "to"
+      ],
+      "a": 2,
+      "why": "Prefer A to B = lebih suka A daripada B."
+    },
+    {
+      "id": "r20261123-030",
+      "level": "Menengah atas",
+      "topic": "grammar",
+      "q": "He is used ___ up early now.",
+      "opts": [
+        "to getting",
+        "to get",
+        "get"
+      ],
+      "a": 0,
+      "why": "Be used to + V-ing = terbiasa."
+    },
+    {
+      "id": "r20261123-031",
+      "level": "Menuju lancar",
+      "topic": "grammar",
+      "q": "She speaks five languages ___.",
+      "opts": [
+        "fluent",
+        "fluently",
+        "fluency"
+      ],
+      "a": 1,
+      "why": "Butuh adverbia: fluently (dengan lancar)."
+    },
+    {
+      "id": "r20261123-032",
+      "level": "Menuju lancar",
+      "topic": "grammar",
+      "q": "Their travel plans fell ___ because of the cost.",
+      "opts": [
+        "down",
+        "off",
+        "through"
+      ],
+      "a": 2,
+      "why": "Idiom fall through = gagal terlaksana."
+    },
+    {
+      "id": "r20261123-033",
+      "level": "Menuju lancar",
+      "topic": "grammar",
+      "q": "It is high time we ___ action on this issue.",
+      "opts": [
+        "take",
+        "took",
+        "will take"
+      ],
+      "a": 1,
+      "why": "It's high time + past tense (makna: sudah saatnya)."
+    },
+    {
+      "id": "r20261123-034",
+      "level": "Menuju lancar",
+      "topic": "grammar",
+      "q": "The new law will come ___ effect next month.",
+      "opts": [
+        "in",
+        "to",
+        "into"
+      ],
+      "a": 2,
+      "why": "Ungkapan tetap: come into effect = mulai berlaku."
+    },
+    {
+      "id": "r20261123-035",
+      "level": "Menuju lancar",
+      "topic": "grammar",
+      "q": "He was accused ___ stealing company data.",
+      "opts": [
+        "of",
+        "for",
+        "with"
+      ],
+      "a": 0,
+      "why": "Accused of + V-ing = dituduh melakukan."
+    },
+    {
+      "id": "r20261123-036",
+      "level": "Menuju lancar",
+      "topic": "grammar",
+      "q": "___ the rain, the concert continued.",
+      "opts": [
+        "Although",
+        "Despite",
+        "Because"
+      ],
+      "a": 1,
+      "why": "Despite + noun; although diikuti klausa."
+    },
+    {
+      "id": "r20261123-037",
+      "level": "Menuju lancar",
+      "topic": "grammar",
+      "q": "The committee reached a unanimous ___.",
+      "opts": [
+        "decision",
+        "decide",
+        "decisive"
+      ],
+      "a": 0,
+      "why": "Butuh kata benda: decision (keputusan)."
+    },
+    {
+      "id": "r20261123-038",
+      "level": "Menuju lancar",
+      "topic": "grammar",
+      "q": "The company aims to ___ its market share next year.",
+      "opts": [
+        "expansion",
+        "expand",
+        "expanded"
+      ],
+      "a": 1,
+      "why": "Aim to + verb dasar: expand (memperluas)."
+    },
+    {
+      "id": "r20261123-039",
+      "level": "Menuju lancar",
+      "topic": "grammar",
+      "q": "She has a ___ for languages; she learns them easily.",
+      "opts": [
+        "knock",
+        "knife",
+        "knack"
+      ],
+      "a": 2,
+      "why": "Idiom a knack for = bakat alami untuk."
+    },
+    {
+      "id": "r20261123-040",
+      "level": "Menuju lancar",
+      "topic": "grammar",
+      "q": "The suspect was released ___ to new evidence.",
+      "opts": [
+        "owing",
+        "because",
+        "since"
+      ],
+      "a": 0,
+      "why": "Owing to = karena (diikuti noun phrase)."
+    }
+  ],
+  "articles": [
+    {
+      "id": "r20261123-a01",
+      "level": "Dasar",
+      "title": "Rina and the Rainy Morning",
+      "body": [
+        "It is seven o'clock on Monday morning. Rina looks out of her window. The sky is grey, and it is raining hard. She does not want to be late for school, so she puts on her blue raincoat and takes her umbrella.",
+        "On the way to school, Rina meets her friend Dina. Dina has no umbrella, and her shirt is getting wet. Rina smiles and says, 'Come under my umbrella!' The two friends walk together and jump over the big puddles on the road.",
+        "They arrive at school at seven thirty. Their shoes are a little wet, but their clothes are dry. 'Thank you, Rina,' says Dina. Rina laughs. 'That is what friends are for.'"
+      ],
+      "gloss": {
+        "rainy": "hujan",
+        "hard": "deras",
+        "raincoat": "jas hujan",
+        "umbrella": "payung",
+        "puddle": "genangan air",
+        "arrive": "tiba",
+        "share": "berbagi",
+        "dry": "kering"
+      },
+      "qs": [
+        {
+          "q": "Why does Rina wear her raincoat?",
+          "opts": [
+            "Because it is very cold",
+            "Because it is new",
+            "Because it is raining hard"
+          ],
+          "a": 2
+        },
+        {
+          "q": "What does Rina share with Dina?",
+          "opts": [
+            "Her umbrella",
+            "Her raincoat",
+            "Her shoes"
+          ],
+          "a": 0
+        },
+        {
+          "q": "How do their clothes look at school?",
+          "opts": [
+            "They are very wet",
+            "They are dry",
+            "They are dirty"
+          ],
+          "a": 1
+        }
+      ]
+    },
+    {
+      "id": "r20261123-a02",
+      "level": "Menengah",
+      "title": "Grandpa's Old Radio",
+      "body": [
+        "In the corner of our living room, there is an old wooden radio. It belonged to my grandpa. He bought it in 1975, and for many years it was the center of our house. Every evening, the whole family sat around it and listened to the news and old songs.",
+        "When I was small, I often helped Grandpa clean the radio with a soft cloth. Sometimes the sound was full of static, and Grandpa had to move the antenna slowly until the voices became clear. He always said, 'Be patient. Good things need a little work.'",
+        "Grandpa passed away two years ago, but the radio is still here. Last month, my uncle repaired it, and now it works again. When I turn it on, I feel like Grandpa is sitting next to me. That is why I will never sell it."
+      ],
+      "gloss": {
+        "wooden": "dari kayu",
+        "belonged": "milik (dulu)",
+        "cloth": "kain",
+        "static": "desis (gangguan suara)",
+        "antenna": "antena",
+        "patient": "sabar",
+        "passed away": "meninggal",
+        "repaired": "memperbaiki"
+      },
+      "qs": [
+        {
+          "q": "Where is the old radio now?",
+          "opts": [
+            "In the bedroom",
+            "At the repair shop",
+            "In the living room"
+          ],
+          "a": 2
+        },
+        {
+          "q": "What did the family do every evening?",
+          "opts": [
+            "They watched television",
+            "They listened to the radio together",
+            "They played cards"
+          ],
+          "a": 1
+        },
+        {
+          "q": "Why will Andi never sell the radio?",
+          "opts": [
+            "It is very expensive",
+            "It is a new model",
+            "It reminds him of his grandpa"
+          ],
+          "a": 2
+        }
+      ]
+    }
+  ]
+}
