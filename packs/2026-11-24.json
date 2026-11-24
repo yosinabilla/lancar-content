@@ -1,0 +1,624 @@
+{
+  "date": "2026-11-24",
+  "bank": [
+    {
+      "id": "r20261124-001",
+      "level": "Dasar",
+      "topic": "grammar",
+      "q": "My father ___ a newspaper every morning.",
+      "opts": [
+        "reads",
+        "read",
+        "reading"
+      ],
+      "a": 0,
+      "why": "Present tense, subjek tunggal memakai reads."
+    },
+    {
+      "id": "r20261124-002",
+      "level": "Dasar",
+      "topic": "grammar",
+      "q": "She has two ___: a son and a daughter.",
+      "opts": [
+        "childs",
+        "children",
+        "childes"
+      ],
+      "a": 1,
+      "why": "Bentuk jamak dari child adalah children."
+    },
+    {
+      "id": "r20261124-003",
+      "level": "Dasar",
+      "topic": "grammar",
+      "q": "We ___ football every Sunday.",
+      "opts": [
+        "plays",
+        "playing",
+        "play"
+      ],
+      "a": 2,
+      "why": "Subjek 'we' memakai kata kerja dasar: play."
+    },
+    {
+      "id": "r20261124-004",
+      "level": "Dasar",
+      "topic": "grammar",
+      "q": "A ___ takes care of sick people in a hospital.",
+      "opts": [
+        "nurse",
+        "farmer",
+        "pilot"
+      ],
+      "a": 0,
+      "why": "Perawat di rumah sakit = nurse."
+    },
+    {
+      "id": "r20261124-005",
+      "level": "Dasar",
+      "topic": "grammar",
+      "q": "The opposite of 'old' is ___.",
+      "opts": [
+        "long",
+        "dark",
+        "new"
+      ],
+      "a": 2,
+      "why": "Lawan kata tua/lama (old) adalah baru (new)."
+    },
+    {
+      "id": "r20261124-006",
+      "level": "Dasar",
+      "topic": "grammar",
+      "q": "I drink a glass of ___ before bed.",
+      "opts": [
+        "milk",
+        "bread",
+        "rice"
+      ],
+      "a": 0,
+      "why": "Yang bisa diminum segelas adalah susu (milk)."
+    },
+    {
+      "id": "r20261124-007",
+      "level": "Dasar",
+      "topic": "grammar",
+      "q": "There are seven ___ in a week.",
+      "opts": [
+        "months",
+        "days",
+        "years"
+      ],
+      "a": 1,
+      "why": "Satu minggu ada tujuh hari."
+    },
+    {
+      "id": "r20261124-008",
+      "level": "Dasar",
+      "topic": "grammar",
+      "q": "The bus stops ___ front of the school.",
+      "opts": [
+        "on",
+        "at",
+        "in"
+      ],
+      "a": 2,
+      "why": "Ungkapan tetap: in front of = di depan."
+    },
+    {
+      "id": "r20261124-009",
+      "level": "Dasar",
+      "topic": "grammar",
+      "q": "She is ___ a letter to her friend.",
+      "opts": [
+        "write",
+        "writing",
+        "writes"
+      ],
+      "a": 1,
+      "why": "Present continuous: is + V-ing (writing)."
+    },
+    {
+      "id": "r20261124-010",
+      "level": "Dasar",
+      "topic": "grammar",
+      "q": "Five plus eight is ___.",
+      "opts": [
+        "twelve",
+        "fifteen",
+        "thirteen"
+      ],
+      "a": 2,
+      "why": "Lima tambah delapan sama dengan tiga belas."
+    },
+    {
+      "id": "r20261124-011",
+      "level": "Menengah",
+      "topic": "grammar",
+      "q": "She ___ her keys yesterday and could not get in.",
+      "opts": [
+        "lost",
+        "loses",
+        "is losing"
+      ],
+      "a": 0,
+      "why": "Simple past dari lose adalah lost."
+    },
+    {
+      "id": "r20261124-012",
+      "level": "Menengah",
+      "topic": "grammar",
+      "q": "This exercise is ___ difficult than the last one.",
+      "opts": [
+        "most",
+        "more",
+        "much"
+      ],
+      "a": 1,
+      "why": "Perbandingan memakai more ... than."
+    },
+    {
+      "id": "r20261124-013",
+      "level": "Menengah",
+      "topic": "grammar",
+      "q": "They ___ dinner when we arrived.",
+      "opts": [
+        "were having",
+        "have",
+        "are having"
+      ],
+      "a": 0,
+      "why": "Past continuous untuk aksi yang sedang berlangsung saat aksi lain terjadi."
+    },
+    {
+      "id": "r20261124-014",
+      "level": "Menengah",
+      "topic": "grammar",
+      "q": "You ___ wear a helmet when riding a motorcycle.",
+      "opts": [
+        "might",
+        "must",
+        "could"
+      ],
+      "a": 1,
+      "why": "Kewajiban memakai must."
+    },
+    {
+      "id": "r20261124-015",
+      "level": "Menengah",
+      "topic": "grammar",
+      "q": "How ___ does the bus ticket cost?",
+      "opts": [
+        "many",
+        "long",
+        "much"
+      ],
+      "a": 2,
+      "why": "Menanyakan harga: How much ... cost?"
+    },
+    {
+      "id": "r20261124-016",
+      "level": "Menengah",
+      "topic": "grammar",
+      "q": "We are going to visit our grandparents ___ Sunday.",
+      "opts": [
+        "on",
+        "in",
+        "at"
+      ],
+      "a": 0,
+      "why": "Hari memakai on: on Sunday."
+    },
+    {
+      "id": "r20261124-017",
+      "level": "Menengah",
+      "topic": "grammar",
+      "q": "She sings ___ than anyone in her class.",
+      "opts": [
+        "gooder",
+        "best",
+        "better"
+      ],
+      "a": 2,
+      "why": "Bentuk perbandingan dari well adalah better."
+    },
+    {
+      "id": "r20261124-018",
+      "level": "Menengah",
+      "topic": "grammar",
+      "q": "I ___ my homework before dinner yesterday.",
+      "opts": [
+        "finished",
+        "finish",
+        "am finishing"
+      ],
+      "a": 0,
+      "why": "Simple past karena ada yesterday: finished."
+    },
+    {
+      "id": "r20261124-019",
+      "level": "Menengah",
+      "topic": "grammar",
+      "q": "The children ___ in the garden now.",
+      "opts": [
+        "play",
+        "are playing",
+        "played"
+      ],
+      "a": 1,
+      "why": "Kata 'now' menandai present continuous: are playing."
+    },
+    {
+      "id": "r20261124-020",
+      "level": "Menengah",
+      "topic": "grammar",
+      "q": "There are ___ students absent today, only two or three.",
+      "opts": [
+        "much",
+        "a little",
+        "a few"
+      ],
+      "a": 2,
+      "why": "Students terhitung, jumlah kecil memakai a few."
+    },
+    {
+      "id": "r20261124-021",
+      "level": "Menengah atas",
+      "topic": "grammar",
+      "q": "If it ___ tomorrow, the match will be cancelled.",
+      "opts": [
+        "will rain",
+        "rains",
+        "rained"
+      ],
+      "a": 1,
+      "why": "First conditional: if + simple present, will + verb."
+    },
+    {
+      "id": "r20261124-022",
+      "level": "Menengah atas",
+      "topic": "grammar",
+      "q": "This is the book ___ I told you about.",
+      "opts": [
+        "who",
+        "whose",
+        "that"
+      ],
+      "a": 2,
+      "why": "Relative pronoun untuk benda: that/which."
+    },
+    {
+      "id": "r20261124-023",
+      "level": "Menengah atas",
+      "topic": "grammar",
+      "q": "He said he ___ busy the next day.",
+      "opts": [
+        "would be",
+        "will be",
+        "is"
+      ],
+      "a": 0,
+      "why": "Reported speech: will mundur menjadi would."
+    },
+    {
+      "id": "r20261124-024",
+      "level": "Menengah atas",
+      "topic": "grammar",
+      "q": "You ___ have seen the sign; it was right in front of you.",
+      "opts": [
+        "can't",
+        "must",
+        "would"
+      ],
+      "a": 1,
+      "why": "Must have + V3 untuk kesimpulan logis tentang masa lalu."
+    },
+    {
+      "id": "r20261124-025",
+      "level": "Menengah atas",
+      "topic": "grammar",
+      "q": "She suggested ___ to the new restaurant.",
+      "opts": [
+        "going",
+        "to go",
+        "go"
+      ],
+      "a": 0,
+      "why": "Suggest diikuti V-ing: suggested going."
+    },
+    {
+      "id": "r20261124-026",
+      "level": "Menengah atas",
+      "topic": "grammar",
+      "q": "The invitation letter ___ yesterday afternoon.",
+      "opts": [
+        "sent",
+        "was sent",
+        "is sent"
+      ],
+      "a": 1,
+      "why": "Pasif simple past: was sent."
+    },
+    {
+      "id": "r20261124-027",
+      "level": "Menengah atas",
+      "topic": "grammar",
+      "q": "By next year, they ___ here for a decade.",
+      "opts": [
+        "will live",
+        "live",
+        "will have lived"
+      ],
+      "a": 2,
+      "why": "Future perfect: will have + V3 (sebelum titik waktu di masa depan)."
+    },
+    {
+      "id": "r20261124-028",
+      "level": "Menengah atas",
+      "topic": "grammar",
+      "q": "The harder you study, the ___ your results will be.",
+      "opts": [
+        "better",
+        "good",
+        "best"
+      ],
+      "a": 0,
+      "why": "Pola the + comparative, the + comparative."
+    },
+    {
+      "id": "r20261124-029",
+      "level": "Menengah atas",
+      "topic": "grammar",
+      "q": "She avoids ___ crowded places.",
+      "opts": [
+        "to visit",
+        "visit",
+        "visiting"
+      ],
+      "a": 2,
+      "why": "Avoid diikuti V-ing: avoids visiting."
+    },
+    {
+      "id": "r20261124-030",
+      "level": "Menengah atas",
+      "topic": "grammar",
+      "q": "It was ___ a cold day that nobody went outside.",
+      "opts": [
+        "such",
+        "so",
+        "too"
+      ],
+      "a": 0,
+      "why": "Such + a + adjective + noun; so + adjective."
+    },
+    {
+      "id": "r20261124-031",
+      "level": "Menuju lancar",
+      "topic": "grammar",
+      "q": "Rarely ___ a complaint about the service here.",
+      "opts": [
+        "we receive",
+        "do we receive",
+        "we do receive"
+      ],
+      "a": 1,
+      "why": "Inversi setelah adverb negatif rarely: do we receive."
+    },
+    {
+      "id": "r20261124-032",
+      "level": "Menuju lancar",
+      "topic": "grammar",
+      "q": "The project is behind ___; we need to hurry.",
+      "opts": [
+        "time",
+        "plan",
+        "schedule"
+      ],
+      "a": 2,
+      "why": "Ungkapan tetap: behind schedule = terlambat dari jadwal."
+    },
+    {
+      "id": "r20261124-033",
+      "level": "Menuju lancar",
+      "topic": "grammar",
+      "q": "She took ___ her mother in looks and character.",
+      "opts": [
+        "over",
+        "after",
+        "up"
+      ],
+      "a": 1,
+      "why": "Phrasal verb take after = mirip dengan (orang tua)."
+    },
+    {
+      "id": "r20261124-034",
+      "level": "Menuju lancar",
+      "topic": "grammar",
+      "q": "The outdoor concert was called ___ because of the storm.",
+      "opts": [
+        "out",
+        "up",
+        "off"
+      ],
+      "a": 2,
+      "why": "Phrasal verb call off = membatalkan."
+    },
+    {
+      "id": "r20261124-035",
+      "level": "Menuju lancar",
+      "topic": "grammar",
+      "q": "He spoke ___ behalf of the whole team.",
+      "opts": [
+        "on",
+        "in",
+        "for"
+      ],
+      "a": 0,
+      "why": "Ungkapan tetap: on behalf of = atas nama."
+    },
+    {
+      "id": "r20261124-036",
+      "level": "Menuju lancar",
+      "topic": "grammar",
+      "q": "Scarcely had she finished speaking ___ the lights went out.",
+      "opts": [
+        "than",
+        "when",
+        "then"
+      ],
+      "a": 1,
+      "why": "Pasangan tetap: Scarcely ... when."
+    },
+    {
+      "id": "r20261124-037",
+      "level": "Menuju lancar",
+      "topic": "grammar",
+      "q": "The company cut ___ on travel expenses this year.",
+      "opts": [
+        "back",
+        "down",
+        "off"
+      ],
+      "a": 0,
+      "why": "Phrasal verb cut back on = mengurangi pengeluaran."
+    },
+    {
+      "id": "r20261124-038",
+      "level": "Menuju lancar",
+      "topic": "grammar",
+      "q": "They ran ___ of milk, so I went to the store.",
+      "opts": [
+        "off",
+        "out",
+        "away"
+      ],
+      "a": 1,
+      "why": "Ungkapan run out of = kehabisan."
+    },
+    {
+      "id": "r20261124-039",
+      "level": "Menuju lancar",
+      "topic": "grammar",
+      "q": "Her explanation did not ___ up, so nobody believed her.",
+      "opts": [
+        "sum",
+        "count",
+        "add"
+      ],
+      "a": 2,
+      "why": "Idiom add up = masuk akal."
+    },
+    {
+      "id": "r20261124-040",
+      "level": "Menuju lancar",
+      "topic": "grammar",
+      "q": "The negotiations broke ___ over the price issue.",
+      "opts": [
+        "down",
+        "up",
+        "in"
+      ],
+      "a": 0,
+      "why": "Phrasal verb break down = gagal/terhenti (negosiasi)."
+    }
+  ],
+  "articles": [
+    {
+      "id": "r20261124-a01",
+      "level": "Dasar",
+      "title": "Sinta and the Lost Wallet",
+      "body": [
+        "On Friday afternoon, Sinta takes the bus home from school. The bus is not crowded, so she sits at the back. Next to her seat, she sees a small brown wallet. She opens it and finds some money and a school card with a boy's photo.",
+        "Sinta wants to be honest. She walks to the front of the bus and gives the wallet to the driver. 'A student lost this,' she says. The driver smiles and keeps it safe at the bus station.",
+        "That evening, the boy's mother calls the school. She thanks Sinta and gives her a small box of cookies. Sinta is happy. She knows that doing the right thing always feels good."
+      ],
+      "gloss": {
+        "wallet": "dompet",
+        "seat": "kursi",
+        "honest": "jujur",
+        "driver": "sopir",
+        "station": "terminal",
+        "thanks": "berterima kasih",
+        "cookies": "kue kering"
+      },
+      "qs": [
+        {
+          "q": "Where does Sinta find the wallet?",
+          "opts": [
+            "On the road",
+            "At the school gate",
+            "Next to her seat on the bus"
+          ],
+          "a": 2
+        },
+        {
+          "q": "What does Sinta do with the wallet?",
+          "opts": [
+            "She gives it to the bus driver",
+            "She keeps it at home",
+            "She gives it to her teacher"
+          ],
+          "a": 0
+        },
+        {
+          "q": "What does the boy's mother give Sinta?",
+          "opts": [
+            "Some money",
+            "A box of cookies",
+            "A new wallet"
+          ],
+          "a": 1
+        }
+      ]
+    },
+    {
+      "id": "r20261124-a02",
+      "level": "Menengah",
+      "title": "The Night Market on Malioboro Street",
+      "body": [
+        "Last Saturday, Bima and his family visited the night market on Malioboro Street in Yogyakarta. The stalls open at six in the evening, and by seven the street was already full of people. Colorful lamps hung above the road, and the smell of grilled food filled the air.",
+        "First, Bima tried chicken satay with sweet peanut sauce. His little sister, Nia, chose a portion of gudeg, a famous sweet jackfruit dish from the city. Their parents walked from stall to stall and looked at batik shirts and wooden toys.",
+        "Before they went home, Nia bought a handmade bracelet for her best friend. 'The night market is my favorite place now,' she said. Bima agreed and promised to come back next month."
+      ],
+      "gloss": {
+        "stall": "kios",
+        "crowded": "ramai",
+        "grilled": "dibakar",
+        "satay": "sate",
+        "jackfruit": "nangka",
+        "handmade": "buatan tangan",
+        "bracelet": "gelang",
+        "promised": "berjanji"
+      },
+      "qs": [
+        {
+          "q": "When do the stalls at the night market open?",
+          "opts": [
+            "At six in the morning",
+            "At midnight",
+            "At six in the evening"
+          ],
+          "a": 2
+        },
+        {
+          "q": "What food does Bima try first?",
+          "opts": [
+            "Gudeg",
+            "Chicken satay",
+            "Fried rice"
+          ],
+          "a": 1
+        },
+        {
+          "q": "What does Nia buy before going home?",
+          "opts": [
+            "A batik shirt",
+            "A wooden toy",
+            "A handmade bracelet"
+          ],
+          "a": 2
+        }
+      ]
+    }
+  ]
+}
