@@ -1,0 +1,625 @@
+{
+  "date": "2026-11-25",
+  "bank": [
+    {
+      "id": "r20261125-001",
+      "level": "Dasar",
+      "topic": "grammar",
+      "q": "The dog ___ loudly at strangers.",
+      "opts": [
+        "barks",
+        "bark",
+        "barking"
+      ],
+      "a": 0,
+      "why": "Present tense, subjek tunggal memakai barks."
+    },
+    {
+      "id": "r20261125-002",
+      "level": "Dasar",
+      "topic": "grammar",
+      "q": "My birthday is ___ March.",
+      "opts": [
+        "on",
+        "in",
+        "at"
+      ],
+      "a": 1,
+      "why": "Bulan memakai in: in March."
+    },
+    {
+      "id": "r20261125-003",
+      "level": "Dasar",
+      "topic": "grammar",
+      "q": "There are sixty ___ in one hour.",
+      "opts": [
+        "seconds",
+        "hours",
+        "minutes"
+      ],
+      "a": 2,
+      "why": "Satu jam ada enam puluh menit."
+    },
+    {
+      "id": "r20261125-004",
+      "level": "Dasar",
+      "topic": "grammar",
+      "q": "___ am happy today.",
+      "opts": [
+        "I",
+        "He",
+        "She"
+      ],
+      "a": 0,
+      "why": "Am hanya dipakai dengan I."
+    },
+    {
+      "id": "r20261125-005",
+      "level": "Dasar",
+      "topic": "grammar",
+      "q": "He ___ to music every night.",
+      "opts": [
+        "listen",
+        "listening",
+        "listens"
+      ],
+      "a": 2,
+      "why": "Listen to = mendengarkan; he + listens."
+    },
+    {
+      "id": "r20261125-006",
+      "level": "Dasar",
+      "topic": "grammar",
+      "q": "A ___ flies in the sky and carries people.",
+      "opts": [
+        "plane",
+        "train",
+        "ship"
+      ],
+      "a": 0,
+      "why": "Pesawat terbang (plane) terbang dan mengangkut orang."
+    },
+    {
+      "id": "r20261125-007",
+      "level": "Dasar",
+      "topic": "grammar",
+      "q": "Wash your hands ___ eating.",
+      "opts": [
+        "after",
+        "before",
+        "while"
+      ],
+      "a": 1,
+      "why": "Cuci tangan sebelum (before) makan."
+    },
+    {
+      "id": "r20261125-008",
+      "level": "Dasar",
+      "topic": "grammar",
+      "q": "Nine minus four is ___.",
+      "opts": [
+        "six",
+        "four",
+        "five"
+      ],
+      "a": 2,
+      "why": "Sembilan kurang empat sama dengan lima."
+    },
+    {
+      "id": "r20261125-009",
+      "level": "Dasar",
+      "topic": "grammar",
+      "q": "Your mother's mother is your ___.",
+      "opts": [
+        "aunt",
+        "grandmother",
+        "sister"
+      ],
+      "a": 1,
+      "why": "Ibu dari ibu adalah nenek (grandmother)."
+    },
+    {
+      "id": "r20261125-010",
+      "level": "Dasar",
+      "topic": "grammar",
+      "q": "The cat hides ___ the bed.",
+      "opts": [
+        "between",
+        "among",
+        "under"
+      ],
+      "a": 2,
+      "why": "Kucing bersembunyi di bawah (under) tempat tidur."
+    },
+    {
+      "id": "r20261125-011",
+      "level": "Menengah",
+      "topic": "grammar",
+      "q": "I ___ my grandmother next weekend.",
+      "opts": [
+        "am visiting",
+        "visit",
+        "visited"
+      ],
+      "a": 0,
+      "why": "Rencana dekat memakai present continuous: am visiting."
+    },
+    {
+      "id": "r20261125-012",
+      "level": "Menengah",
+      "topic": "grammar",
+      "q": "He didn't ___ the answer to the question.",
+      "opts": [
+        "knew",
+        "know",
+        "knows"
+      ],
+      "a": 1,
+      "why": "Setelah didn't memakai kata kerja dasar: know."
+    },
+    {
+      "id": "r20261125-013",
+      "level": "Menengah",
+      "topic": "grammar",
+      "q": "This test was ___ than I expected.",
+      "opts": [
+        "easier",
+        "easy",
+        "easiest"
+      ],
+      "a": 0,
+      "why": "Perbandingan dari easy adalah easier."
+    },
+    {
+      "id": "r20261125-014",
+      "level": "Menengah",
+      "topic": "grammar",
+      "q": "She has just ___ a letter from her pen pal.",
+      "opts": [
+        "receive",
+        "received",
+        "receives"
+      ],
+      "a": 1,
+      "why": "Present perfect: has + V3 (received)."
+    },
+    {
+      "id": "r20261125-015",
+      "level": "Menengah",
+      "topic": "grammar",
+      "q": "___ you ever tried durian?",
+      "opts": [
+        "Do",
+        "Did",
+        "Have"
+      ],
+      "a": 2,
+      "why": "Pengalaman (pernah) memakai present perfect: Have you ever ..."
+    },
+    {
+      "id": "r20261125-016",
+      "level": "Menengah",
+      "topic": "grammar",
+      "q": "We were watching TV ___ the lights went out.",
+      "opts": [
+        "when",
+        "while",
+        "during"
+      ],
+      "a": 0,
+      "why": "Past continuous + when + simple past."
+    },
+    {
+      "id": "r20261125-017",
+      "level": "Menengah",
+      "topic": "grammar",
+      "q": "There is ___ water in the bottle; it's empty.",
+      "opts": [
+        "many",
+        "a few",
+        "no"
+      ],
+      "a": 2,
+      "why": "Botolnya kosong, jadi tidak ada (no) air."
+    },
+    {
+      "id": "r20261125-018",
+      "level": "Menengah",
+      "topic": "grammar",
+      "q": "My bike is broken. I ___ it to the repair shop tomorrow.",
+      "opts": [
+        "am taking",
+        "take",
+        "took"
+      ],
+      "a": 0,
+      "why": "Rencana pasti (besok) memakai present continuous."
+    },
+    {
+      "id": "r20261125-019",
+      "level": "Menengah",
+      "topic": "grammar",
+      "q": "The teacher told us ___ quiet during the test.",
+      "opts": [
+        "be",
+        "to be",
+        "being"
+      ],
+      "a": 1,
+      "why": "Tell someone to do: told us to be quiet."
+    },
+    {
+      "id": "r20261125-020",
+      "level": "Menengah",
+      "topic": "grammar",
+      "q": "She arrived ___ than everyone else.",
+      "opts": [
+        "early",
+        "earliest",
+        "earlier"
+      ],
+      "a": 2,
+      "why": "Perbandingan dari early adalah earlier."
+    },
+    {
+      "id": "r20261125-021",
+      "level": "Menengah atas",
+      "topic": "grammar",
+      "q": "This song ___ by a famous singer in 2010.",
+      "opts": [
+        "recorded",
+        "was recorded",
+        "is recorded"
+      ],
+      "a": 1,
+      "why": "Pasif simple past: was recorded."
+    },
+    {
+      "id": "r20261125-022",
+      "level": "Menengah atas",
+      "topic": "grammar",
+      "q": "If she ___ harder, she would pass the exam.",
+      "opts": [
+        "studies",
+        "will study",
+        "studied"
+      ],
+      "a": 2,
+      "why": "Second conditional: if + past, would + verb."
+    },
+    {
+      "id": "r20261125-023",
+      "level": "Menengah atas",
+      "topic": "grammar",
+      "q": "The house ___ we bought last year is near the beach.",
+      "opts": [
+        "which",
+        "who",
+        "whose"
+      ],
+      "a": 0,
+      "why": "Relative pronoun untuk benda: which/that."
+    },
+    {
+      "id": "r20261125-024",
+      "level": "Menengah atas",
+      "topic": "grammar",
+      "q": "He told me that he ___ tired.",
+      "opts": [
+        "is",
+        "was",
+        "will be"
+      ],
+      "a": 1,
+      "why": "Reported speech: is mundur menjadi was."
+    },
+    {
+      "id": "r20261125-025",
+      "level": "Menengah atas",
+      "topic": "grammar",
+      "q": "You ___ to finish the project by Friday; it's the deadline.",
+      "opts": [
+        "have",
+        "would",
+        "might"
+      ],
+      "a": 0,
+      "why": "Have to = harus (keharusan dari luar)."
+    },
+    {
+      "id": "r20261125-026",
+      "level": "Menengah atas",
+      "topic": "grammar",
+      "q": "He isn't interested ___ politics.",
+      "opts": [
+        "on",
+        "in",
+        "at"
+      ],
+      "a": 1,
+      "why": "Ungkapan tetap: interested in."
+    },
+    {
+      "id": "r20261125-027",
+      "level": "Menengah atas",
+      "topic": "grammar",
+      "q": "The movie started ___ than we expected.",
+      "opts": [
+        "late",
+        "lately",
+        "later"
+      ],
+      "a": 2,
+      "why": "Perbandingan dari late adalah later."
+    },
+    {
+      "id": "r20261125-028",
+      "level": "Menengah atas",
+      "topic": "grammar",
+      "q": "They managed ___ the door although the key was stuck.",
+      "opts": [
+        "to open",
+        "opening",
+        "open"
+      ],
+      "a": 0,
+      "why": "Manage to do = berhasil melakukan."
+    },
+    {
+      "id": "r20261125-029",
+      "level": "Menengah atas",
+      "topic": "grammar",
+      "q": "I regret ___ him the secret.",
+      "opts": [
+        "to tell",
+        "tell",
+        "telling"
+      ],
+      "a": 2,
+      "why": "Regret + V-ing = menyesal telah melakukan."
+    },
+    {
+      "id": "r20261125-030",
+      "level": "Menengah atas",
+      "topic": "grammar",
+      "q": "Neither my friends ___ I knew about the surprise.",
+      "opts": [
+        "nor",
+        "or",
+        "and"
+      ],
+      "a": 0,
+      "why": "Pasangan tetap: neither ... nor."
+    },
+    {
+      "id": "r20261125-031",
+      "level": "Menuju lancar",
+      "topic": "grammar",
+      "q": "Little ___ he know what was waiting for him.",
+      "opts": [
+        "does",
+        "did",
+        "had"
+      ],
+      "a": 1,
+      "why": "Inversi setelah little: Little did he know."
+    },
+    {
+      "id": "r20261125-032",
+      "level": "Menuju lancar",
+      "topic": "grammar",
+      "q": "The two sisters look so alike that people often ___ them up.",
+      "opts": [
+        "put",
+        "tie",
+        "mix"
+      ],
+      "a": 2,
+      "why": "Phrasal verb mix up = tertukar."
+    },
+    {
+      "id": "r20261125-033",
+      "level": "Menuju lancar",
+      "topic": "grammar",
+      "q": "The project came ___ budget in the end.",
+      "opts": [
+        "below",
+        "under",
+        "beneath"
+      ],
+      "a": 1,
+      "why": "Ungkapan tetap: come under budget = di bawah anggaran."
+    },
+    {
+      "id": "r20261125-034",
+      "level": "Menuju lancar",
+      "topic": "grammar",
+      "q": "She's always blowing her own ___ about her achievements.",
+      "opts": [
+        "drum",
+        "whistle",
+        "trumpet"
+      ],
+      "a": 2,
+      "why": "Idiom blow your own trumpet = membanggakan diri."
+    },
+    {
+      "id": "r20261125-035",
+      "level": "Menuju lancar",
+      "topic": "grammar",
+      "q": "The business deal fell ___ at the last stage.",
+      "opts": [
+        "apart",
+        "away",
+        "behind"
+      ],
+      "a": 0,
+      "why": "Idiom fall apart = berantakan/gagal."
+    },
+    {
+      "id": "r20261125-036",
+      "level": "Menuju lancar",
+      "topic": "grammar",
+      "q": "He was let ___ with just a warning this time.",
+      "opts": [
+        "out",
+        "off",
+        "go"
+      ],
+      "a": 1,
+      "why": "Phrasal verb let off = membebaskan dari hukuman."
+    },
+    {
+      "id": "r20261125-037",
+      "level": "Menuju lancar",
+      "topic": "grammar",
+      "q": "We need to ___ this problem out before Friday.",
+      "opts": [
+        "sort",
+        "solve",
+        "fix"
+      ],
+      "a": 0,
+      "why": "Phrasal verb sort out = membereskan."
+    },
+    {
+      "id": "r20261125-038",
+      "level": "Menuju lancar",
+      "topic": "grammar",
+      "q": "Tired ___ she was, she finished the marathon.",
+      "opts": [
+        "like",
+        "as",
+        "if"
+      ],
+      "a": 1,
+      "why": "Inversi konsesif: Tired as she was = walaupun dia lelah."
+    },
+    {
+      "id": "r20261125-039",
+      "level": "Menuju lancar",
+      "topic": "grammar",
+      "q": "The old tradition has died ___ in most villages.",
+      "opts": [
+        "off",
+        "away",
+        "out"
+      ],
+      "a": 2,
+      "why": "Phrasal verb die out = punah/hilang."
+    },
+    {
+      "id": "r20261125-040",
+      "level": "Menuju lancar",
+      "topic": "grammar",
+      "q": "His rude comment was completely ___ of place.",
+      "opts": [
+        "out",
+        "off",
+        "away"
+      ],
+      "a": 0,
+      "why": "Idiom out of place = tidak pantas."
+    }
+  ],
+  "articles": [
+    {
+      "id": "r20261125-a01",
+      "level": "Dasar",
+      "title": "Pak Wayan's Rice Field",
+      "body": [
+        "Pak Wayan is a farmer in a small village in Bali. He wakes up at four in the morning, washes his face, and walks to his rice field. The air is cool, and he can hear the birds singing.",
+        "This season, Pak Wayan plants rice in his field. He works with two of his neighbors. They stand in the wet field and put the young plants into the soft mud, one by one.",
+        "At noon, his children bring him lunch and a bottle of cold tea. They eat together under a big tree. Pak Wayan is tired but happy. 'A good field gives a good life,' he says with a smile."
+      ],
+      "gloss": {
+        "farmer": "petani",
+        "village": "desa",
+        "field": "sawah",
+        "season": "musim",
+        "neighbors": "tetangga",
+        "mud": "lumpur",
+        "harvest": "panen",
+        "tired": "lelah"
+      },
+      "qs": [
+        {
+          "q": "What time does Pak Wayan wake up?",
+          "opts": [
+            "At six in the morning",
+            "At noon",
+            "At four in the morning"
+          ],
+          "a": 2
+        },
+        {
+          "q": "What does Pak Wayan plant this season?",
+          "opts": [
+            "Rice",
+            "Corn",
+            "Vegetables"
+          ],
+          "a": 0
+        },
+        {
+          "q": "What do his children bring at noon?",
+          "opts": [
+            "A new hat",
+            "Lunch and cold tea",
+            "Water and bread"
+          ],
+          "a": 1
+        }
+      ]
+    },
+    {
+      "id": "r20261125-a02",
+      "level": "Menengah",
+      "title": "A Trip to the City Library",
+      "body": [
+        "Dita loves reading more than anything. Every Saturday morning, she rides her bicycle to the city library. The building is old and quiet, and it smells like paper and wood.",
+        "Last Saturday, Dita asked the librarian for books about the ocean. The librarian, Mrs. Rani, showed her a shelf full of books about whales, coral reefs, and famous sea explorers. Dita chose three of them and sat by the window to read.",
+        "Before going home, Dita borrowed the three books with her library card. She must return them in two weeks. 'I will finish them in one,' she told Mrs. Rani with a grin."
+      ],
+      "gloss": {
+        "library": "perpustakaan",
+        "librarian": "pustakawan",
+        "shelf": "rak",
+        "borrow": "meminjam",
+        "return": "mengembalikan",
+        "coral": "karang",
+        "explorers": "penjelajah",
+        "grin": "seringai"
+      },
+      "qs": [
+        {
+          "q": "How often does Dita visit the library?",
+          "opts": [
+            "Every day",
+            "Once a month",
+            "Every Saturday"
+          ],
+          "a": 2
+        },
+        {
+          "q": "What kind of books does Dita look for?",
+          "opts": [
+            "Books about cooking",
+            "Books about the ocean",
+            "Books about history"
+          ],
+          "a": 1
+        },
+        {
+          "q": "When must Dita return the books?",
+          "opts": [
+            "In one week",
+            "In one month",
+            "In two weeks"
+          ],
+          "a": 2
+        }
+      ]
+    }
+  ]
+}
