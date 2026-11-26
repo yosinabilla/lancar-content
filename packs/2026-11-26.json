@@ -1,0 +1,624 @@
+{
+  "date": "2026-11-26",
+  "bank": [
+    {
+      "id": "r20261126-001",
+      "level": "Dasar",
+      "topic": "grammar",
+      "q": "The baby ___ when he is sleepy.",
+      "opts": [
+        "cries",
+        "cry",
+        "crying"
+      ],
+      "a": 0,
+      "why": "Present tense, subjek tunggal: cries."
+    },
+    {
+      "id": "r20261126-002",
+      "level": "Dasar",
+      "topic": "grammar",
+      "q": "A ___ sells medicine.",
+      "opts": [
+        "bakery",
+        "pharmacy",
+        "bookstore"
+      ],
+      "a": 1,
+      "why": "Toko obat = pharmacy (apotek)."
+    },
+    {
+      "id": "r20261126-003",
+      "level": "Dasar",
+      "topic": "grammar",
+      "q": "There are twenty-four ___ in a day.",
+      "opts": [
+        "minutes",
+        "weeks",
+        "hours"
+      ],
+      "a": 2,
+      "why": "Satu hari ada dua puluh empat jam."
+    },
+    {
+      "id": "r20261126-004",
+      "level": "Dasar",
+      "topic": "grammar",
+      "q": "She ___ the dishes after dinner.",
+      "opts": [
+        "washes",
+        "wash",
+        "washing"
+      ],
+      "a": 0,
+      "why": "Present tense, she + washes (wash -> washes)."
+    },
+    {
+      "id": "r20261126-005",
+      "level": "Dasar",
+      "topic": "grammar",
+      "q": "My uncle lives ___ a small house near the river.",
+      "opts": [
+        "on",
+        "at",
+        "in"
+      ],
+      "a": 2,
+      "why": "Tinggal di dalam rumah memakai in."
+    },
+    {
+      "id": "r20261126-006",
+      "level": "Dasar",
+      "topic": "grammar",
+      "q": "___ is your name? - Sari.",
+      "opts": [
+        "What",
+        "Who",
+        "Where"
+      ],
+      "a": 0,
+      "why": "Menanyakan nama memakai What."
+    },
+    {
+      "id": "r20261126-007",
+      "level": "Dasar",
+      "topic": "grammar",
+      "q": "He ___ to school at six thirty.",
+      "opts": [
+        "go",
+        "goes",
+        "going"
+      ],
+      "a": 1,
+      "why": "Present tense, he + goes."
+    },
+    {
+      "id": "r20261126-008",
+      "level": "Dasar",
+      "topic": "grammar",
+      "q": "Four plus seven is ___.",
+      "opts": [
+        "ten",
+        "twelve",
+        "eleven"
+      ],
+      "a": 2,
+      "why": "Empat tambah tujuh sama dengan sebelas."
+    },
+    {
+      "id": "r20261126-009",
+      "level": "Dasar",
+      "topic": "grammar",
+      "q": "A ___ is a long yellow fruit.",
+      "opts": [
+        "apple",
+        "banana",
+        "grape"
+      ],
+      "a": 1,
+      "why": "Buah panjang berwarna kuning adalah pisang (banana)."
+    },
+    {
+      "id": "r20261126-010",
+      "level": "Dasar",
+      "topic": "grammar",
+      "q": "The students ___ to the teacher carefully.",
+      "opts": [
+        "listens",
+        "listening",
+        "listen"
+      ],
+      "a": 2,
+      "why": "Subjek jamak memakai kata kerja dasar: listen."
+    },
+    {
+      "id": "r20261126-011",
+      "level": "Menengah",
+      "topic": "grammar",
+      "q": "I ___ this book twice; it's my favorite.",
+      "opts": [
+        "have read",
+        "readed",
+        "am reading"
+      ],
+      "a": 0,
+      "why": "Present perfect untuk pengalaman: have read (read dibaca red)."
+    },
+    {
+      "id": "r20261126-012",
+      "level": "Menengah",
+      "topic": "grammar",
+      "q": "He drove too ___ and almost hit a dog.",
+      "opts": [
+        "fastly",
+        "fast",
+        "quick"
+      ],
+      "a": 1,
+      "why": "Fast sudah berbentuk adverbia, tidak ada bentuk fastly."
+    },
+    {
+      "id": "r20261126-013",
+      "level": "Menengah",
+      "topic": "grammar",
+      "q": "We ___ to the zoo last school holiday.",
+      "opts": [
+        "went",
+        "go",
+        "gone"
+      ],
+      "a": 0,
+      "why": "Simple past dari go adalah went."
+    },
+    {
+      "id": "r20261126-014",
+      "level": "Menengah",
+      "topic": "grammar",
+      "q": "You look pale. You'd ___ see a doctor.",
+      "opts": [
+        "rather",
+        "better",
+        "sooner"
+      ],
+      "a": 1,
+      "why": "Ungkapan had better = sebaiknya."
+    },
+    {
+      "id": "r20261126-015",
+      "level": "Menengah",
+      "topic": "grammar",
+      "q": "How ___ is it from here to the station?",
+      "opts": [
+        "long",
+        "much",
+        "far"
+      ],
+      "a": 2,
+      "why": "Menanyakan jarak: How far."
+    },
+    {
+      "id": "r20261126-016",
+      "level": "Menengah",
+      "topic": "grammar",
+      "q": "They ___ playing chess when I entered the room.",
+      "opts": [
+        "were",
+        "was",
+        "are"
+      ],
+      "a": 0,
+      "why": "Past continuous untuk they: were + V-ing."
+    },
+    {
+      "id": "r20261126-017",
+      "level": "Menengah",
+      "topic": "grammar",
+      "q": "This is the ___ movie I have ever watched!",
+      "opts": [
+        "good",
+        "better",
+        "best"
+      ],
+      "a": 2,
+      "why": "Superlatif dari good adalah best."
+    },
+    {
+      "id": "r20261126-018",
+      "level": "Menengah",
+      "topic": "grammar",
+      "q": "She usually ___ up early, but today she overslept.",
+      "opts": [
+        "wakes",
+        "wake",
+        "waking"
+      ],
+      "a": 0,
+      "why": "Present tense, she + wakes; wake up = bangun."
+    },
+    {
+      "id": "r20261126-019",
+      "level": "Menengah",
+      "topic": "grammar",
+      "q": "Excuse me, ___ you help me carry this box?",
+      "opts": [
+        "Must",
+        "Could",
+        "Should"
+      ],
+      "a": 1,
+      "why": "Permintaan sopan memakai Could you ..."
+    },
+    {
+      "id": "r20261126-020",
+      "level": "Menengah",
+      "topic": "grammar",
+      "q": "The hotel room was very ___, so we slept well.",
+      "opts": [
+        "noisy",
+        "crowded",
+        "quiet"
+      ],
+      "a": 2,
+      "why": "Tidur nyenyak berarti kamarnya tenang (quiet)."
+    },
+    {
+      "id": "r20261126-021",
+      "level": "Menengah atas",
+      "topic": "grammar",
+      "q": "The concert tickets ___ online last night.",
+      "opts": [
+        "bought",
+        "were bought",
+        "are bought"
+      ],
+      "a": 1,
+      "why": "Pasif simple past, subjek jamak: were bought."
+    },
+    {
+      "id": "r20261126-022",
+      "level": "Menengah atas",
+      "topic": "grammar",
+      "q": "If we ___ earlier, we wouldn't have missed the train.",
+      "opts": [
+        "left",
+        "would leave",
+        "had left"
+      ],
+      "a": 2,
+      "why": "Third conditional: if + past perfect, would have + V3."
+    },
+    {
+      "id": "r20261126-023",
+      "level": "Menengah atas",
+      "topic": "grammar",
+      "q": "The teacher, ___ class I enjoy, is from Bandung.",
+      "opts": [
+        "whose",
+        "who",
+        "which"
+      ],
+      "a": 0,
+      "why": "Whose menyatakan kepemilikan: kelasnya."
+    },
+    {
+      "id": "r20261126-024",
+      "level": "Menengah atas",
+      "topic": "grammar",
+      "q": "She said that she ___ the keys on the table.",
+      "opts": [
+        "has left",
+        "had left",
+        "leaves"
+      ],
+      "a": 1,
+      "why": "Reported speech mundur satu tenses: had left."
+    },
+    {
+      "id": "r20261126-025",
+      "level": "Menengah atas",
+      "topic": "grammar",
+      "q": "You ___ better hurry or you'll be late.",
+      "opts": [
+        "had",
+        "would",
+        "should"
+      ],
+      "a": 0,
+      "why": "Bentuk lengkap: had better = sebaiknya."
+    },
+    {
+      "id": "r20261126-026",
+      "level": "Menengah atas",
+      "topic": "grammar",
+      "q": "He apologized for not ___ to my message sooner.",
+      "opts": [
+        "reply",
+        "replying",
+        "to reply"
+      ],
+      "a": 1,
+      "why": "Apologize for + V-ing."
+    },
+    {
+      "id": "r20261126-027",
+      "level": "Menengah atas",
+      "topic": "grammar",
+      "q": "The soup tastes ___ salty; I can't eat it.",
+      "opts": [
+        "very",
+        "so",
+        "too"
+      ],
+      "a": 2,
+      "why": "Too = terlalu (berlebihan, negatif)."
+    },
+    {
+      "id": "r20261126-028",
+      "level": "Menengah atas",
+      "topic": "grammar",
+      "q": "I'm not used to ___ on the left side of the road.",
+      "opts": [
+        "driving",
+        "drive",
+        "drove"
+      ],
+      "a": 0,
+      "why": "Be used to + V-ing = terbiasa."
+    },
+    {
+      "id": "r20261126-029",
+      "level": "Menengah atas",
+      "topic": "grammar",
+      "q": "Hardly had he finished his speech ___ people started clapping.",
+      "opts": [
+        "than",
+        "then",
+        "when"
+      ],
+      "a": 2,
+      "why": "Pasangan tetap: Hardly ... when."
+    },
+    {
+      "id": "r20261126-030",
+      "level": "Menengah atas",
+      "topic": "grammar",
+      "q": "The match was postponed ___ of heavy rain.",
+      "opts": [
+        "because",
+        "due",
+        "owing"
+      ],
+      "a": 0,
+      "why": "Because of + noun phrase = karena."
+    },
+    {
+      "id": "r20261126-031",
+      "level": "Menuju lancar",
+      "topic": "grammar",
+      "q": "The committee called ___ an investigation into the fraud.",
+      "opts": [
+        "off",
+        "for",
+        "on"
+      ],
+      "a": 1,
+      "why": "Phrasal verb call for = menuntut/menyerukan."
+    },
+    {
+      "id": "r20261126-032",
+      "level": "Menuju lancar",
+      "topic": "grammar",
+      "q": "He's got a chip on his ___ about not going to college.",
+      "opts": [
+        "arm",
+        "back",
+        "shoulder"
+      ],
+      "a": 2,
+      "why": "Idiom a chip on your shoulder = dendam tersimpan."
+    },
+    {
+      "id": "r20261126-033",
+      "level": "Menuju lancar",
+      "topic": "grammar",
+      "q": "The rules apply to everyone, without ___.",
+      "opts": [
+        "excuse",
+        "exception",
+        "exemption"
+      ],
+      "a": 1,
+      "why": "Ungkapan without exception = tanpa kecuali."
+    },
+    {
+      "id": "r20261126-034",
+      "level": "Menuju lancar",
+      "topic": "grammar",
+      "q": "We put the accident down ___ bad luck.",
+      "opts": [
+        "for",
+        "as",
+        "to"
+      ],
+      "a": 2,
+      "why": "Phrasal verb put down to = menganggap disebabkan oleh."
+    },
+    {
+      "id": "r20261126-035",
+      "level": "Menuju lancar",
+      "topic": "grammar",
+      "q": "She came ___ a rare old coin in her attic.",
+      "opts": [
+        "across",
+        "over",
+        "into"
+      ],
+      "a": 0,
+      "why": "Phrasal verb come across = menemukan tak sengaja."
+    },
+    {
+      "id": "r20261126-036",
+      "level": "Menuju lancar",
+      "topic": "grammar",
+      "q": "The strike brought the whole city to a ___.",
+      "opts": [
+        "standpoint",
+        "standstill",
+        "standard"
+      ],
+      "a": 1,
+      "why": "Idiom bring to a standstill = melumpuhkan."
+    },
+    {
+      "id": "r20261126-037",
+      "level": "Menuju lancar",
+      "topic": "grammar",
+      "q": "___ his best efforts, the plan still failed.",
+      "opts": [
+        "For all",
+        "Despite of",
+        "Although"
+      ],
+      "a": 0,
+      "why": "For all + noun = meskipun (formal)."
+    },
+    {
+      "id": "r20261126-038",
+      "level": "Menuju lancar",
+      "topic": "grammar",
+      "q": "The two brothers fell ___ over their inheritance.",
+      "opts": [
+        "apart",
+        "out",
+        "away"
+      ],
+      "a": 1,
+      "why": "Phrasal verb fall out = berselisih."
+    },
+    {
+      "id": "r20261126-039",
+      "level": "Menuju lancar",
+      "topic": "grammar",
+      "q": "The company is ___ the verge of bankruptcy.",
+      "opts": [
+        "at",
+        "in",
+        "on"
+      ],
+      "a": 2,
+      "why": "Idiom on the verge of = di ambang."
+    },
+    {
+      "id": "r20261126-040",
+      "level": "Menuju lancar",
+      "topic": "grammar",
+      "q": "You can't judge a book by its ___.",
+      "opts": [
+        "cover",
+        "title",
+        "pages"
+      ],
+      "a": 0,
+      "why": "Peribahasa: jangan menilai dari luarnya saja."
+    }
+  ],
+  "articles": [
+    {
+      "id": "r20261126-a01",
+      "level": "Dasar",
+      "title": "Tono's New Bicycle",
+      "body": [
+        "Today is Tono's eighth birthday. In the morning, his father gives him a big box. Tono opens it and finds a red bicycle! 'Thank you, Dad!' he shouts happily.",
+        "After breakfast, Tono practices in the yard. His father holds the saddle so Tono does not fall. 'Pedal slowly and look forward,' says his father. Tono tries again and again.",
+        "In the afternoon, Tono can ride alone around the yard. His mother claps from the kitchen window. Tono feels very proud. It is his best birthday ever."
+      ],
+      "gloss": {
+        "birthday": "ulang tahun",
+        "box": "kotak",
+        "yard": "halaman",
+        "saddle": "sadel",
+        "pedal": "mengayuh",
+        "proud": "bangga",
+        "claps": "bertepuk tangan"
+      },
+      "qs": [
+        {
+          "q": "Who gives Tono the bicycle?",
+          "opts": [
+            "His mother",
+            "His teacher",
+            "His father"
+          ],
+          "a": 2
+        },
+        {
+          "q": "Where does Tono practice?",
+          "opts": [
+            "In the yard",
+            "On the street",
+            "At the park"
+          ],
+          "a": 0
+        },
+        {
+          "q": "What color is the bicycle?",
+          "opts": [
+            "Blue",
+            "Red",
+            "Green"
+          ],
+          "a": 1
+        }
+      ]
+    },
+    {
+      "id": "r20261126-a02",
+      "level": "Menengah",
+      "title": "The Fishing Trip with Uncle Joko",
+      "body": [
+        "Last Sunday, Raka went fishing with his uncle Joko. They left home at four thirty in the morning, when the sky was still dark. Uncle Joko drove them to a quiet lake behind the hills.",
+        "At the lake, they prepared their fishing rods and used worms as bait. 'Fishing needs patience,' Uncle Joko said. For two hours, nothing happened, but Raka waited quietly. Then, suddenly, his rod moved!",
+        "Raka pulled the rod with all his strength. After a few minutes, a big catfish jumped out of the water. It was the biggest fish he had ever caught. They grilled it for dinner, and Raka said it was the tastiest fish in the world."
+      ],
+      "gloss": {
+        "fishing": "memancing",
+        "rod": "joran",
+        "bait": "umpan",
+        "worms": "cacing",
+        "patience": "kesabaran",
+        "pulled": "menarik",
+        "strength": "tenaga",
+        "catfish": "ikan lele"
+      },
+      "qs": [
+        {
+          "q": "What time did Raka and Uncle Joko leave home?",
+          "opts": [
+            "At six in the morning",
+            "In the afternoon",
+            "At four thirty in the morning"
+          ],
+          "a": 2
+        },
+        {
+          "q": "What did they use as bait?",
+          "opts": [
+            "Bread",
+            "Worms",
+            "Small fish"
+          ],
+          "a": 1
+        },
+        {
+          "q": "What did Raka catch?",
+          "opts": [
+            "A small goldfish",
+            "An old boot",
+            "A big catfish"
+          ],
+          "a": 2
+        }
+      ]
+    }
+  ]
+}
