@@ -1,0 +1,625 @@
+{
+  "date": "2026-11-27",
+  "bank": [
+    {
+      "id": "r20261127-001",
+      "level": "Dasar",
+      "topic": "grammar",
+      "q": "The bird ___ beautiful songs every morning.",
+      "opts": [
+        "sings",
+        "sing",
+        "singing"
+      ],
+      "a": 0,
+      "why": "Present tense, subjek tunggal: sings."
+    },
+    {
+      "id": "r20261127-002",
+      "level": "Dasar",
+      "topic": "grammar",
+      "q": "A ___ works in a restaurant and cooks food.",
+      "opts": [
+        "farmer",
+        "chef",
+        "sailor"
+      ],
+      "a": 1,
+      "why": "Juru masak di restoran = chef."
+    },
+    {
+      "id": "r20261127-003",
+      "level": "Dasar",
+      "topic": "grammar",
+      "q": "We have breakfast ___ the morning.",
+      "opts": [
+        "on",
+        "at",
+        "in"
+      ],
+      "a": 2,
+      "why": "Ungkapan tetap: in the morning."
+    },
+    {
+      "id": "r20261127-004",
+      "level": "Dasar",
+      "topic": "grammar",
+      "q": "She ___ her bag to school every day.",
+      "opts": [
+        "carries",
+        "carry",
+        "carrying"
+      ],
+      "a": 0,
+      "why": "Present tense, she + carries (carry -> carries)."
+    },
+    {
+      "id": "r20261127-005",
+      "level": "Dasar",
+      "topic": "grammar",
+      "q": "There are thirty days in ___.",
+      "opts": [
+        "February",
+        "July",
+        "June"
+      ],
+      "a": 2,
+      "why": "Juni punya 30 hari (Februari 28/29, Juli 31)."
+    },
+    {
+      "id": "r20261127-006",
+      "level": "Dasar",
+      "topic": "grammar",
+      "q": "___ old are you? - Ten.",
+      "opts": [
+        "How",
+        "What",
+        "Who"
+      ],
+      "a": 0,
+      "why": "Menanyakan umur: How old."
+    },
+    {
+      "id": "r20261127-007",
+      "level": "Dasar",
+      "topic": "grammar",
+      "q": "He sits ___ his best friend in class.",
+      "opts": [
+        "between",
+        "beside",
+        "among"
+      ],
+      "a": 1,
+      "why": "Di samping = beside (between untuk di antara dua)."
+    },
+    {
+      "id": "r20261127-008",
+      "level": "Dasar",
+      "topic": "grammar",
+      "q": "Six plus nine is ___.",
+      "opts": [
+        "fourteen",
+        "sixteen",
+        "fifteen"
+      ],
+      "a": 2,
+      "why": "Enam tambah sembilan sama dengan lima belas."
+    },
+    {
+      "id": "r20261127-009",
+      "level": "Dasar",
+      "topic": "grammar",
+      "q": "We eat soup with a ___.",
+      "opts": [
+        "fork",
+        "spoon",
+        "knife"
+      ],
+      "a": 1,
+      "why": "Makan sup memakai sendok (spoon)."
+    },
+    {
+      "id": "r20261127-010",
+      "level": "Dasar",
+      "topic": "grammar",
+      "q": "My little sister ___ dolls very much.",
+      "opts": [
+        "like",
+        "liking",
+        "likes"
+      ],
+      "a": 2,
+      "why": "Present tense, subjek tunggal: likes."
+    },
+    {
+      "id": "r20261127-011",
+      "level": "Menengah",
+      "topic": "grammar",
+      "q": "I ___ this song many times on the radio.",
+      "opts": [
+        "have heard",
+        "hear",
+        "am hearing"
+      ],
+      "a": 0,
+      "why": "Present perfect untuk pengalaman: have heard."
+    },
+    {
+      "id": "r20261127-012",
+      "level": "Menengah",
+      "topic": "grammar",
+      "q": "We ___ hurry; the test starts in five minutes.",
+      "opts": [
+        "would",
+        "need to",
+        "might"
+      ],
+      "a": 1,
+      "why": "Need to = perlu/harus."
+    },
+    {
+      "id": "r20261127-013",
+      "level": "Menengah",
+      "topic": "grammar",
+      "q": "She ___ her homework when the phone rang.",
+      "opts": [
+        "was doing",
+        "does",
+        "is doing"
+      ],
+      "a": 0,
+      "why": "Past continuous dipotong simple past: was doing."
+    },
+    {
+      "id": "r20261127-014",
+      "level": "Menengah",
+      "topic": "grammar",
+      "q": "My brother is ___ than me; he's 185 cm.",
+      "opts": [
+        "tall",
+        "taller",
+        "tallest"
+      ],
+      "a": 1,
+      "why": "Perbandingan dari tall adalah taller."
+    },
+    {
+      "id": "r20261127-015",
+      "level": "Menengah",
+      "topic": "grammar",
+      "q": "___ did you go last night? - To the cinema.",
+      "opts": [
+        "When",
+        "Why",
+        "Where"
+      ],
+      "a": 2,
+      "why": "Jawaban berupa tempat, jadi tanyanya Where."
+    },
+    {
+      "id": "r20261127-016",
+      "level": "Menengah",
+      "topic": "grammar",
+      "q": "They moved to this town two years ___.",
+      "opts": [
+        "ago",
+        "before",
+        "since"
+      ],
+      "a": 0,
+      "why": "Dua tahun yang lalu = two years ago."
+    },
+    {
+      "id": "r20261127-017",
+      "level": "Menengah",
+      "topic": "grammar",
+      "q": "The weather today is ___ than yesterday.",
+      "opts": [
+        "warm",
+        "warmest",
+        "warmer"
+      ],
+      "a": 2,
+      "why": "Perbandingan dari warm adalah warmer."
+    },
+    {
+      "id": "r20261127-018",
+      "level": "Menengah",
+      "topic": "grammar",
+      "q": "She ___ never been abroad.",
+      "opts": [
+        "has",
+        "have",
+        "is"
+      ],
+      "a": 0,
+      "why": "Present perfect, she + has been."
+    },
+    {
+      "id": "r20261127-019",
+      "level": "Menengah",
+      "topic": "grammar",
+      "q": "If we leave now, we ___ the 5 o'clock train.",
+      "opts": [
+        "catch",
+        "will catch",
+        "would catch"
+      ],
+      "a": 1,
+      "why": "First conditional: if + present, will + verb."
+    },
+    {
+      "id": "r20261127-020",
+      "level": "Menengah",
+      "topic": "grammar",
+      "q": "You should brush your teeth ___ a day.",
+      "opts": [
+        "two",
+        "second",
+        "twice"
+      ],
+      "a": 2,
+      "why": "Dua kali sehari = twice a day."
+    },
+    {
+      "id": "r20261127-021",
+      "level": "Menengah atas",
+      "topic": "grammar",
+      "q": "The stolen car ___ by the police yesterday.",
+      "opts": [
+        "found",
+        "was found",
+        "is found"
+      ],
+      "a": 1,
+      "why": "Pasif simple past: was found."
+    },
+    {
+      "id": "r20261127-022",
+      "level": "Menengah atas",
+      "topic": "grammar",
+      "q": "If he had studied harder, he ___ the exam.",
+      "opts": [
+        "would pass",
+        "will pass",
+        "would have passed"
+      ],
+      "a": 2,
+      "why": "Third conditional: if + past perfect, would have + V3."
+    },
+    {
+      "id": "r20261127-023",
+      "level": "Menengah atas",
+      "topic": "grammar",
+      "q": "He asked me ___ I had seen his glasses.",
+      "opts": [
+        "whether",
+        "that",
+        "what"
+      ],
+      "a": 0,
+      "why": "Pertanyaan yes/no tidak langsung: whether/if."
+    },
+    {
+      "id": "r20261127-024",
+      "level": "Menengah atas",
+      "topic": "grammar",
+      "q": "You ___ not believe what happened yesterday!",
+      "opts": [
+        "would",
+        "will",
+        "can"
+      ],
+      "a": 1,
+      "why": "Ungkapan You will not believe ... = kamu tidak akan percaya."
+    },
+    {
+      "id": "r20261127-025",
+      "level": "Menengah atas",
+      "topic": "grammar",
+      "q": "She's good at ___ problems under pressure.",
+      "opts": [
+        "solving",
+        "solve",
+        "to solve"
+      ],
+      "a": 0,
+      "why": "Good at + V-ing."
+    },
+    {
+      "id": "r20261127-026",
+      "level": "Menengah atas",
+      "topic": "grammar",
+      "q": "He works ___ a driver for a delivery company.",
+      "opts": [
+        "like",
+        "as",
+        "for"
+      ],
+      "a": 1,
+      "why": "Work as = bekerja sebagai."
+    },
+    {
+      "id": "r20261127-027",
+      "level": "Menengah atas",
+      "topic": "grammar",
+      "q": "Not only the students but also the teacher ___ surprised.",
+      "opts": [
+        "were",
+        "are",
+        "was"
+      ],
+      "a": 2,
+      "why": "Not only/but also: kata kerja mengikuti subjek terdekat (teacher)."
+    },
+    {
+      "id": "r20261127-028",
+      "level": "Menengah atas",
+      "topic": "grammar",
+      "q": "She is responsible ___ training new employees.",
+      "opts": [
+        "for",
+        "of",
+        "to"
+      ],
+      "a": 0,
+      "why": "Ungkapan tetap: responsible for."
+    },
+    {
+      "id": "r20261127-029",
+      "level": "Menengah atas",
+      "topic": "grammar",
+      "q": "He ___ me to lend him some money until Friday.",
+      "opts": [
+        "said",
+        "says",
+        "asked"
+      ],
+      "a": 2,
+      "why": "Ask someone to do: asked me to lend."
+    },
+    {
+      "id": "r20261127-030",
+      "level": "Menengah atas",
+      "topic": "grammar",
+      "q": "We found the instructions ___ to follow.",
+      "opts": [
+        "difficult",
+        "difficulty",
+        "difficultly"
+      ],
+      "a": 0,
+      "why": "Butuh adjective setelah find + object: difficult."
+    },
+    {
+      "id": "r20261127-031",
+      "level": "Menuju lancar",
+      "topic": "grammar",
+      "q": "Only after the meeting ___ I understand the problem.",
+      "opts": [
+        "had",
+        "did",
+        "was"
+      ],
+      "a": 1,
+      "why": "Inversi setelah only after: Only after ... did I understand."
+    },
+    {
+      "id": "r20261127-032",
+      "level": "Menuju lancar",
+      "topic": "grammar",
+      "q": "The soldiers carried ___ the mission despite the danger.",
+      "opts": [
+        "on",
+        "off",
+        "out"
+      ],
+      "a": 2,
+      "why": "Phrasal verb carry out = melaksanakan."
+    },
+    {
+      "id": "r20261127-033",
+      "level": "Menuju lancar",
+      "topic": "grammar",
+      "q": "Don't put all your eggs in one ___.",
+      "opts": [
+        "box",
+        "basket",
+        "bag"
+      ],
+      "a": 1,
+      "why": "Peribahasa: jangan gantungkan semuanya pada satu hal."
+    },
+    {
+      "id": "r20261127-034",
+      "level": "Menuju lancar",
+      "topic": "grammar",
+      "q": "The evidence was ___ doubt the strongest they had seen.",
+      "opts": [
+        "without",
+        "over",
+        "beyond"
+      ],
+      "a": 2,
+      "why": "Idiom beyond doubt = tanpa keraguan."
+    },
+    {
+      "id": "r20261127-035",
+      "level": "Menuju lancar",
+      "topic": "grammar",
+      "q": "She burst ___ tears when she heard the news.",
+      "opts": [
+        "into",
+        "in",
+        "with"
+      ],
+      "a": 0,
+      "why": "Ungkapan burst into tears = menangis seketika."
+    },
+    {
+      "id": "r20261127-036",
+      "level": "Menuju lancar",
+      "topic": "grammar",
+      "q": "The old law was done ___ with last year.",
+      "opts": [
+        "off",
+        "away",
+        "out"
+      ],
+      "a": 1,
+      "why": "Idiom do away with = menghapuskan."
+    },
+    {
+      "id": "r20261127-037",
+      "level": "Menuju lancar",
+      "topic": "grammar",
+      "q": "He's been burning the midnight ___ to finish his thesis.",
+      "opts": [
+        "oil",
+        "candle",
+        "lamp"
+      ],
+      "a": 0,
+      "why": "Idiom burn the midnight oil = begadang untuk bekerja."
+    },
+    {
+      "id": "r20261127-038",
+      "level": "Menuju lancar",
+      "topic": "grammar",
+      "q": "The new manager soon won the team ___ with his honesty.",
+      "opts": [
+        "up",
+        "over",
+        "back"
+      ],
+      "a": 1,
+      "why": "Phrasal verb win over = memenangkan hati."
+    },
+    {
+      "id": "r20261127-039",
+      "level": "Menuju lancar",
+      "topic": "grammar",
+      "q": "___ it not been for your help, I would have failed.",
+      "opts": [
+        "Were",
+        "Did",
+        "Had"
+      ],
+      "a": 2,
+      "why": "Inversi third conditional: Had it not been for ..."
+    },
+    {
+      "id": "r20261127-040",
+      "level": "Menuju lancar",
+      "topic": "grammar",
+      "q": "The two companies entered ___ a partnership.",
+      "opts": [
+        "into",
+        "in",
+        "to"
+      ],
+      "a": 0,
+      "why": "Ungkapan tetap: enter into (agreement/partnership)."
+    }
+  ],
+  "articles": [
+    {
+      "id": "r20261127-a01",
+      "level": "Dasar",
+      "title": "Maya's First Day at a New School",
+      "body": [
+        "Maya's family moved to a new town last month. Today is her first day at the new school. In the morning, Maya feels nervous. Her stomach feels strange, and she holds her mother's hand tightly.",
+        "At school, the teacher, Mrs. Ani, introduces Maya to the class. A kind girl named Lala sits next to her. 'Don't worry,' Lala whispers. 'Our class is fun.'",
+        "At break time, Maya and Lala eat snacks together and talk about their favorite cartoons. When the bell rings at two o'clock, Maya goes home with a big smile. Her first day was not scary at all."
+      ],
+      "gloss": {
+        "moved": "pindah",
+        "nervous": "gugup",
+        "tightly": "erat",
+        "introduces": "memperkenalkan",
+        "whispers": "berbisik",
+        "snacks": "makanan ringan",
+        "bell": "bel",
+        "scary": "menakutkan"
+      },
+      "qs": [
+        {
+          "q": "How does Maya feel in the morning?",
+          "opts": [
+            "Angry",
+            "Bored",
+            "Nervous"
+          ],
+          "a": 2
+        },
+        {
+          "q": "Who sits next to Maya?",
+          "opts": [
+            "A kind girl named Lala",
+            "Mrs. Ani",
+            "Her mother"
+          ],
+          "a": 0
+        },
+        {
+          "q": "What do Maya and Lala do at break time?",
+          "opts": [
+            "They play football",
+            "They eat snacks together",
+            "They go to the library"
+          ],
+          "a": 1
+        }
+      ]
+    },
+    {
+      "id": "r20261127-a02",
+      "level": "Menengah",
+      "title": "The Old Lighthouse on the Hill",
+      "body": [
+        "When I was a boy, my grandpa worked as a lighthouse keeper. The lighthouse stood on a rocky hill by the sea, about one kilometer from our village. Every evening, Grandpa climbed one hundred and twenty steps to light the big lamp at the top.",
+        "The lamp was very important. It warned ships about the dangerous rocks under the water. Grandpa never missed a single night, not even when he was sick. 'The ships depend on my light,' he always said.",
+        "One stormy night, Grandpa saw a small fishing boat moving toward the rocks. He flashed the lamp three times, and the boat turned away just in time. The next day, the fishermen visited him with a basket of fish to say thank you. Grandpa smiled and said he had only done his job."
+      ],
+      "gloss": {
+        "lighthouse": "mercusuar",
+        "keeper": "penjaga",
+        "rocky": "berbatu",
+        "steps": "anak tangga",
+        "warned": "memperingatkan",
+        "depend": "bergantung",
+        "flashed": "menyorotkan",
+        "shore": "pantai"
+      },
+      "qs": [
+        {
+          "q": "Where was the lighthouse?",
+          "opts": [
+            "In the middle of the village",
+            "On a sandy beach",
+            "On a rocky hill by the sea"
+          ],
+          "a": 2
+        },
+        {
+          "q": "What did Grandpa do every evening?",
+          "opts": [
+            "He went fishing",
+            "He lit the big lamp",
+            "He repaired boats"
+          ],
+          "a": 1
+        },
+        {
+          "q": "Why did the fishermen visit Grandpa?",
+          "opts": [
+            "To sell him some fish",
+            "To ask for a job",
+            "To thank him for saving their boat"
+          ],
+          "a": 2
+        }
+      ]
+    }
+  ]
+}
