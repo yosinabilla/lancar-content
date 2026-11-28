@@ -1,0 +1,625 @@
+{
+  "date": "2026-11-28",
+  "bank": [
+    {
+      "id": "r20261128-001",
+      "level": "Dasar",
+      "topic": "grammar",
+      "q": "The teacher ___ on the whiteboard.",
+      "opts": [
+        "writes",
+        "write",
+        "writing"
+      ],
+      "a": 0,
+      "why": "Present tense, subjek tunggal: writes."
+    },
+    {
+      "id": "r20261128-002",
+      "level": "Dasar",
+      "topic": "grammar",
+      "q": "An ___ is a place where planes land.",
+      "opts": [
+        "harbor",
+        "airport",
+        "station"
+      ],
+      "a": 1,
+      "why": "Tempat pesawat mendarat = bandara (airport)."
+    },
+    {
+      "id": "r20261128-003",
+      "level": "Dasar",
+      "topic": "grammar",
+      "q": "She was born ___ 2015.",
+      "opts": [
+        "on",
+        "at",
+        "in"
+      ],
+      "a": 2,
+      "why": "Tahun memakai in: in 2015."
+    },
+    {
+      "id": "r20261128-004",
+      "level": "Dasar",
+      "topic": "grammar",
+      "q": "The opposite of 'dirty' is ___.",
+      "opts": [
+        "clean",
+        "dark",
+        "wet"
+      ],
+      "a": 0,
+      "why": "Lawan kata kotor (dirty) adalah bersih (clean)."
+    },
+    {
+      "id": "r20261128-005",
+      "level": "Dasar",
+      "topic": "grammar",
+      "q": "He ___ his shoes before leaving home.",
+      "opts": [
+        "put on",
+        "putting on",
+        "puts on"
+      ],
+      "a": 2,
+      "why": "Present tense, he + puts on (memakai)."
+    },
+    {
+      "id": "r20261128-006",
+      "level": "Dasar",
+      "topic": "grammar",
+      "q": "There are fifty-two ___ in a year.",
+      "opts": [
+        "weeks",
+        "days",
+        "months"
+      ],
+      "a": 0,
+      "why": "Satu tahun ada 52 minggu."
+    },
+    {
+      "id": "r20261128-007",
+      "level": "Dasar",
+      "topic": "grammar",
+      "q": "___ is that girl? - She is my cousin.",
+      "opts": [
+        "What",
+        "Who",
+        "Where"
+      ],
+      "a": 1,
+      "why": "Menanyakan orang memakai Who."
+    },
+    {
+      "id": "r20261128-008",
+      "level": "Dasar",
+      "topic": "grammar",
+      "q": "The ball rolls ___ the hill.",
+      "opts": [
+        "up",
+        "between",
+        "down"
+      ],
+      "a": 2,
+      "why": "Bola menggelinding ke bawah (down) bukit."
+    },
+    {
+      "id": "r20261128-009",
+      "level": "Dasar",
+      "topic": "grammar",
+      "q": "Ten minus seven is ___.",
+      "opts": [
+        "two",
+        "three",
+        "four"
+      ],
+      "a": 1,
+      "why": "Sepuluh kurang tujuh sama dengan tiga."
+    },
+    {
+      "id": "r20261128-010",
+      "level": "Dasar",
+      "topic": "grammar",
+      "q": "An ___ has a long trunk.",
+      "opts": [
+        "giraffe",
+        "monkey",
+        "elephant"
+      ],
+      "a": 2,
+      "why": "Gajah (elephant) punya belalai panjang (trunk)."
+    },
+    {
+      "id": "r20261128-011",
+      "level": "Menengah",
+      "topic": "grammar",
+      "q": "He ___ his leg while playing football last week.",
+      "opts": [
+        "broke",
+        "breaks",
+        "broken"
+      ],
+      "a": 0,
+      "why": "Simple past dari break adalah broke."
+    },
+    {
+      "id": "r20261128-012",
+      "level": "Menengah",
+      "topic": "grammar",
+      "q": "This bag is too heavy for me ___ carry.",
+      "opts": [
+        "for",
+        "to",
+        "that"
+      ],
+      "a": 1,
+      "why": "Pola too + adjective + to verb = terlalu ... untuk."
+    },
+    {
+      "id": "r20261128-013",
+      "level": "Menengah",
+      "topic": "grammar",
+      "q": "She ___ three books so far this month.",
+      "opts": [
+        "has read",
+        "reads",
+        "is reading"
+      ],
+      "a": 0,
+      "why": "So far menandai present perfect: has read."
+    },
+    {
+      "id": "r20261128-014",
+      "level": "Menengah",
+      "topic": "grammar",
+      "q": "___ long have you waited here?",
+      "opts": [
+        "What",
+        "How",
+        "Which"
+      ],
+      "a": 1,
+      "why": "Menanyakan durasi: How long."
+    },
+    {
+      "id": "r20261128-015",
+      "level": "Menengah",
+      "topic": "grammar",
+      "q": "I was sleeping ___ you called me last night.",
+      "opts": [
+        "while",
+        "during",
+        "when"
+      ],
+      "a": 2,
+      "why": "Past continuous + when + simple past."
+    },
+    {
+      "id": "r20261128-016",
+      "level": "Menengah",
+      "topic": "grammar",
+      "q": "My house is the ___ on this street.",
+      "opts": [
+        "biggest",
+        "bigger",
+        "big"
+      ],
+      "a": 0,
+      "why": "Superlatif dari big adalah biggest."
+    },
+    {
+      "id": "r20261128-017",
+      "level": "Menengah",
+      "topic": "grammar",
+      "q": "He ___ go to the gym every day, but now he's too busy.",
+      "opts": [
+        "use to",
+        "uses to",
+        "used to"
+      ],
+      "a": 2,
+      "why": "Used to = kebiasaan di masa lalu."
+    },
+    {
+      "id": "r20261128-018",
+      "level": "Menengah",
+      "topic": "grammar",
+      "q": "You ___ park here; there's a 'no parking' sign.",
+      "opts": [
+        "can't",
+        "couldn't",
+        "needn't"
+      ],
+      "a": 0,
+      "why": "Larangan/tidak boleh memakai can't."
+    },
+    {
+      "id": "r20261128-019",
+      "level": "Menengah",
+      "topic": "grammar",
+      "q": "There are ___ cars on the road today; it's a holiday.",
+      "opts": [
+        "less",
+        "fewer",
+        "few"
+      ],
+      "a": 1,
+      "why": "Fewer untuk kata benda terhitung (cars)."
+    },
+    {
+      "id": "r20261128-020",
+      "level": "Menengah",
+      "topic": "grammar",
+      "q": "She has just ___ lunch, so she's not hungry.",
+      "opts": [
+        "have",
+        "has",
+        "had"
+      ],
+      "a": 2,
+      "why": "Present perfect: has + V3 (had)."
+    },
+    {
+      "id": "r20261128-021",
+      "level": "Menengah atas",
+      "topic": "grammar",
+      "q": "A new hospital ___ in our town next year.",
+      "opts": [
+        "will build",
+        "will be built",
+        "builds"
+      ],
+      "a": 1,
+      "why": "Pasif future: will be + V3."
+    },
+    {
+      "id": "r20261128-022",
+      "level": "Menengah atas",
+      "topic": "grammar",
+      "q": "If she ___ the bus, she wouldn't have been late.",
+      "opts": [
+        "caught",
+        "would catch",
+        "had caught"
+      ],
+      "a": 2,
+      "why": "Third conditional: if + past perfect."
+    },
+    {
+      "id": "r20261128-023",
+      "level": "Menengah atas",
+      "topic": "grammar",
+      "q": "The day ___ we met for the first time was rainy.",
+      "opts": [
+        "when",
+        "which",
+        "where"
+      ],
+      "a": 0,
+      "why": "When untuk keterangan waktu (hari)."
+    },
+    {
+      "id": "r20261128-024",
+      "level": "Menengah atas",
+      "topic": "grammar",
+      "q": "She told me she ___ me the following week.",
+      "opts": [
+        "will visit",
+        "would visit",
+        "visits"
+      ],
+      "a": 1,
+      "why": "Reported speech: will mundur menjadi would."
+    },
+    {
+      "id": "r20261128-025",
+      "level": "Menengah atas",
+      "topic": "grammar",
+      "q": "You ___ have told me you were coming; I would have cooked.",
+      "opts": [
+        "could",
+        "must",
+        "would"
+      ],
+      "a": 0,
+      "why": "Could have + V3 = sebenarnya bisa (tidak terjadi)."
+    },
+    {
+      "id": "r20261128-026",
+      "level": "Menengah atas",
+      "topic": "grammar",
+      "q": "He admitted ___ the window by accident.",
+      "opts": [
+        "to break",
+        "breaking",
+        "break"
+      ],
+      "a": 1,
+      "why": "Admit diikuti V-ing: admitted breaking."
+    },
+    {
+      "id": "r20261128-027",
+      "level": "Menengah atas",
+      "topic": "grammar",
+      "q": "The teacher asked us ___ late again.",
+      "opts": [
+        "to not be",
+        "don't be",
+        "not to be"
+      ],
+      "a": 2,
+      "why": "Bentuk negatif: ask someone not to do."
+    },
+    {
+      "id": "r20261128-028",
+      "level": "Menengah atas",
+      "topic": "grammar",
+      "q": "I'd rather ___ out tonight; I'm exhausted.",
+      "opts": [
+        "not go",
+        "don't go",
+        "not to go"
+      ],
+      "a": 0,
+      "why": "Would rather not + verb dasar."
+    },
+    {
+      "id": "r20261128-029",
+      "level": "Menengah atas",
+      "topic": "grammar",
+      "q": "In spite ___ her hard work, she still failed.",
+      "opts": [
+        "to",
+        "from",
+        "of"
+      ],
+      "a": 2,
+      "why": "Ungkapan tetap: in spite of = meskipun."
+    },
+    {
+      "id": "r20261128-030",
+      "level": "Menengah atas",
+      "topic": "grammar",
+      "q": "The film was so ___ that many people cried.",
+      "opts": [
+        "moving",
+        "moved",
+        "move"
+      ],
+      "a": 0,
+      "why": "Moving = menyentuh (film); moved untuk perasaan orang."
+    },
+    {
+      "id": "r20261128-031",
+      "level": "Menuju lancar",
+      "topic": "grammar",
+      "q": "The plan is still up in the ___; nothing is decided.",
+      "opts": [
+        "sky",
+        "air",
+        "cloud"
+      ],
+      "a": 1,
+      "why": "Idiom up in the air = belum pasti."
+    },
+    {
+      "id": "r20261128-032",
+      "level": "Menuju lancar",
+      "topic": "grammar",
+      "q": "The old manager stepped ___ to let a younger leader in.",
+      "opts": [
+        "back",
+        "away",
+        "down"
+      ],
+      "a": 2,
+      "why": "Phrasal verb step down = mengundurkan diri."
+    },
+    {
+      "id": "r20261128-033",
+      "level": "Menuju lancar",
+      "topic": "grammar",
+      "q": "We hit it ___ immediately and became close friends.",
+      "opts": [
+        "on",
+        "off",
+        "up"
+      ],
+      "a": 1,
+      "why": "Idiom hit it off = langsung akrab."
+    },
+    {
+      "id": "r20261128-034",
+      "level": "Menuju lancar",
+      "topic": "grammar",
+      "q": "The company laid ___ fifty workers last month.",
+      "opts": [
+        "out",
+        "down",
+        "off"
+      ],
+      "a": 2,
+      "why": "Phrasal verb lay off = memberhentikan (PHK)."
+    },
+    {
+      "id": "r20261128-035",
+      "level": "Menuju lancar",
+      "topic": "grammar",
+      "q": "She was on cloud ___ after hearing the good news.",
+      "opts": [
+        "nine",
+        "seven",
+        "ten"
+      ],
+      "a": 0,
+      "why": "Idiom on cloud nine = sangat bahagia."
+    },
+    {
+      "id": "r20261128-036",
+      "level": "Menuju lancar",
+      "topic": "grammar",
+      "q": "The project ran ___ difficulties from the start.",
+      "opts": [
+        "over",
+        "into",
+        "through"
+      ],
+      "a": 1,
+      "why": "Phrasal verb run into = menemui (masalah)."
+    },
+    {
+      "id": "r20261128-037",
+      "level": "Menuju lancar",
+      "topic": "grammar",
+      "q": "He's always been the black ___ of the family.",
+      "opts": [
+        "sheep",
+        "horse",
+        "cat"
+      ],
+      "a": 0,
+      "why": "Idiom black sheep = anggota keluarga yang berbeda/dianggap buruk."
+    },
+    {
+      "id": "r20261128-038",
+      "level": "Menuju lancar",
+      "topic": "grammar",
+      "q": "___ no account should you open this door.",
+      "opts": [
+        "In",
+        "On",
+        "By"
+      ],
+      "a": 1,
+      "why": "Idiom on no account = jangan sekali-kali (inversi)."
+    },
+    {
+      "id": "r20261128-039",
+      "level": "Menuju lancar",
+      "topic": "grammar",
+      "q": "The negotiations reached a ___ point yesterday.",
+      "opts": [
+        "rolling",
+        "breaking",
+        "turning"
+      ],
+      "a": 2,
+      "why": "Idiom turning point = titik balik."
+    },
+    {
+      "id": "r20261128-040",
+      "level": "Menuju lancar",
+      "topic": "grammar",
+      "q": "He works around the ___ to finish the order.",
+      "opts": [
+        "clock",
+        "watch",
+        "calendar"
+      ],
+      "a": 0,
+      "why": "Idiom around the clock = 24 jam tanpa henti."
+    }
+  ],
+  "articles": [
+    {
+      "id": "r20261128-a01",
+      "level": "Dasar",
+      "title": "Dodi Helps His Mother at the Market",
+      "body": [
+        "Every Sunday morning, Dodi goes to the market with his mother. The market is busy and colorful. There are fruits, vegetables, fish, and many other things.",
+        "Today, Mother buys tomatoes, carrots, and spinach. The basket becomes heavy, so Dodi carries it for her. He is only nine, but he is strong and always happy to help.",
+        "Before they go home, Mother buys Dodi a bowl of bakso, his favorite food. 'Thank you for helping me,' she says. Dodi eats his bakso with a big smile."
+      ],
+      "gloss": {
+        "market": "pasar",
+        "busy": "ramai",
+        "carrots": "wortel",
+        "spinach": "bayam",
+        "basket": "keranjang",
+        "heavy": "berat",
+        "carries": "membawa",
+        "bowl": "mangkuk"
+      },
+      "qs": [
+        {
+          "q": "Where do Dodi and his mother go?",
+          "opts": [
+            "To the beach",
+            "To the mall",
+            "To the market"
+          ],
+          "a": 2
+        },
+        {
+          "q": "What does Dodi carry for his mother?",
+          "opts": [
+            "The heavy basket",
+            "A bag of rice",
+            "The fish"
+          ],
+          "a": 0
+        },
+        {
+          "q": "What does Mother buy for Dodi?",
+          "opts": [
+            "A new toy",
+            "A bowl of bakso",
+            "A glass of juice"
+          ],
+          "a": 1
+        }
+      ]
+    },
+    {
+      "id": "r20261128-a02",
+      "level": "Menengah",
+      "title": "The School Science Fair",
+      "body": [
+        "Last Friday, our school held a science fair in the gym. Every class showed one project, and three teachers became the judges. Nadia and her team made a volcano model from paper, clay, and paint.",
+        "During the show, Nadia mixed vinegar with red powder inside the volcano. When she poured the liquid in, red foam came out of the top and ran down the sides. Everyone clapped and took photos.",
+        "At the end of the day, the judges announced the winners. Nadia's team won second place and received a small trophy. 'We will win first place next year,' Nadia said. Her team agreed and started planning a new project right away."
+      ],
+      "gloss": {
+        "fair": "pameran",
+        "gym": "aula",
+        "judges": "juri",
+        "clay": "tanah liat",
+        "vinegar": "cuka",
+        "powder": "bubuk",
+        "foam": "buih",
+        "trophy": "piala"
+      },
+      "qs": [
+        {
+          "q": "What did Nadia and her team make?",
+          "opts": [
+            "A paper plane",
+            "A robot",
+            "A volcano model"
+          ],
+          "a": 2
+        },
+        {
+          "q": "What happened when Nadia poured the liquid in?",
+          "opts": [
+            "The volcano made a loud sound",
+            "Red foam came out",
+            "The lights went out"
+          ],
+          "a": 1
+        },
+        {
+          "q": "What prize did Nadia's team win?",
+          "opts": [
+            "First place",
+            "Third place",
+            "Second place"
+          ],
+          "a": 2
+        }
+      ]
+    }
+  ]
+}
